@@ -1,0 +1,163 @@
+- slug: ljubljanica-vrhnika
+  name: { sl: Ljubljanica (Vrhnika), en: Ljubljanica river (Vrhnika), de: Ljubljanica (Vrhnika), it: Ljubljanica (Vrhnika) }
+  type: river
+  region: osrednjeslovenska
+  water: Ljubljanica
+  coords: [45.9690, 14.3010]
+  description:
+    sl: Mirna kraška reka iz izvirov pri Vrhniki; ščuke, kleni, postrvi v zgornjem delu in somi niže.
+    en: A calm karst river from the springs at Vrhnika; pike, chub, trout in the upper part and catfish lower down.
+  access:
+    sl: Parkiranje na Vrhniki in ob Ljubljanskem barju, dostop po kolovozih.
+    en: Parking in Vrhnika and around the Ljubljana Marshes, access along farm tracks.
+  species: [scuka, klen, potocna-postrv, som, smuc]
+  techniques: [spin, float, fly]
+  club: { name: Ribiška družina Vrhnika }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: ljubljanica-ljubljana
+  name: { sl: Ljubljanica (Ljubljana), en: Ljubljanica river (Ljubljana city), de: Ljubljanica (Ljubljana), it: Ljubljanica (Lubiana) }
+  type: river
+  region: osrednjeslovenska
+  water: Ljubljanica
+  coords: [46.0400, 14.5230]
+  description:
+    sl: Mestni ribolov v prestolnici – ščuke, smuči, somi in kleni le nekaj minut od centra.
+    en: Urban fishing in the capital – pike, zander, catfish and chub minutes from the centre.
+  access:
+    sl: Dostop z javnim prevozom; nabrežja v Trnovem in pri Špici.
+    en: Reachable by public transport; embankments in Trnovo and at Špica.
+  species: [scuka, smuc, som, klen, krap]
+  techniques: [spin, float, feeder]
+  club: { name: Ribiška družina Barje }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  rules:
+    notes:
+      sl: V mestnem središču so lahko omejitve – preverite ribolovni red.
+      en: Restrictions may apply in the city centre – check the district rules.
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: podpesko-jezero
+  name: { sl: Podpeško jezero, en: Lake Podpeč, de: Podpeč-See, it: Lago di Podpeč }
+  type: lake
+  region: osrednjeslovenska
+  water: Podpeško jezero
+  coords: [45.9640, 14.4210]
+  description:
+    sl: Majhno, zelo globoko kraško jezero ob robu Barja s ščuko, ostrižem in krapom.
+    en: A small, very deep karst lake on the edge of the marshes with pike, perch and carp.
+  access:
+    sl: Parkirišče v Jezeru pri Podpeči; kratek sprehod do obale.
+    en: Parking in the village of Jezero near Podpeč; short walk to the shore.
+  species: [scuka, ostriz, krap, linj]
+  techniques: [spin, float]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: sava-litija
+  name: { sl: Sava (Litija), en: Sava river (Litija), de: Save (Litija), it: Sava (Litija) }
+  type: river
+  region: osrednjeslovenska
+  water: Sava
+  coords: [46.0580, 14.8250]
+  description:
+    sl: Mogočna srednja Sava – zimski sulec, mrene, kleni, smuči in somi.
+    en: The mighty middle Sava – winter huchen, barbel, chub, zander and catfish.
+  access:
+    sl: Dostop v Litiji in ob cesti proti Zagorju.
+    en: Access in Litija and along the road towards Zagorje.
+  species: [sulec, mrena, klen, smuc, som, podust]
+  techniques: [spin, feeder, fly]
+  club: { name: Ribiška družina Litija }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  season:
+    sl: Sulec le v zimski sezoni (običajno okt.–14. feb.).
+    en: Huchen only in the winter season (usually Oct–14 Feb).
+  beginnerFriendly: false
+  difficulty: 3
+  lastVerified: 2026-10-14
+
+- slug: unica
+  name: { sl: Unica (Planinsko polje), en: Unica river (Planina polje), de: Unica (Planina-Polje), it: Unica (Planinsko polje) }
+  type: river
+  region: notranjska
+  water: Unica
+  coords: [45.8370, 14.2470]
+  description:
+    sl: Vijugasta kraška reka na Planinskem polju – sloviti lipani in postrvi v počasni, čisti vodi. Zahtevna za muharje.
+    en: A meandering karst river on the Planina polje – famous grayling and trout in slow, clear water. Demanding for fly anglers.
+  access:
+    sl: Dostop iz Planine in Laz; pozimi in spomladi polje pogosto poplavi.
+    en: Access from Planina and Laze; the polje often floods in winter and spring.
+  species: [lipan, potocna-postrv, scuka]
+  techniques: [fly]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  rules:
+    flyOnly: true
+    barbless: true
+  beginnerFriendly: false
+  difficulty: 3
+  lastVerified: 2026-10-14
+
+- slug: cerknisko-jezero
+  name: { sl: Cerkniško jezero, en: Lake Cerknica, de: Zirknitzer See, it: Lago di Circonio }
+  type: lake
+  region: notranjska
+  water: Cerkniško jezero
+  coords: [45.7560, 14.3650]
+  description:
+    sl: Presihajoče kraško jezero – ko je polno, odlične ščuke, linji in krapi. Del Notranjskega regijskega parka.
+    en: An intermittent karst lake – when full, excellent pike, tench and carp. Part of Notranjska Regional Park.
+  access:
+    sl: Dostop iz Dolenjega Jezera in Otoka; vodostaj se hitro spreminja.
+    en: Access from Dolenje Jezero and Otok; water levels change fast.
+  species: [scuka, linj, krap, ostriz]
+  techniques: [spin, float]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  rules:
+    notes:
+      sl: Regijski park in Natura 2000 – spoštujte omejitve gibanja zaradi ptic.
+      en: Regional park and Natura 2000 – respect bird-protection access limits.
+  beginnerFriendly: true
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: blosko-jezero
+  name: { sl: Bloško jezero, en: Lake Bloke, de: Bloke-See, it: Lago di Bloke }
+  type: lake
+  region: notranjska
+  water: Bloško jezero
+  coords: [45.7740, 14.5000]
+  description:
+    sl: Mirno jezero na Bloški planoti s krapi, ščukami in linji; pozimi pogosto zamrzne.
+    en: A quiet lake on the Bloke plateau with carp, pike and tench; often freezes in winter.
+  access:
+    sl: Parkirišče ob jezeru pri gostišču.
+    en: Lakeside parking near the inn.
+  species: [krap, scuka, linj, rdeceperka]
+  techniques: [carp, float, spin]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14

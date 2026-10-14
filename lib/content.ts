@@ -1,0 +1,91 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { parse } from 'yaml';
+import { z } from 'zod';
+import { GuideFrontmatter, Lure, Species, Spot } from './schema';
+import type { Locale } from '@/i18n/routing';
+
+const ROOT = path.join(process.cwd(), 'content');
+
+function readYaml(file: string): unknown {
+  return parse(fs.readFileSync(file, 'utf8'));
+}
+
+function parseList<T extends z.ZodTypeAny>(schema: T, data: unknown, file: string): z.infer<T>[] {
+  const result = z.array(schema).safeParse(data);
+  if (!result.success) {
+    throw new Error(`Invalid content in ${file}:\n${z.prettifyError(result.error)}`);
+  }
+  return result.data;
+}
+
+let spotsCache: Spot[] | undefined;
+export function getSpots(): Spot[] {
+  if (!spotsCache) {
+    const dir = path.join(ROOT, 'spots');
+    spotsCache = fs
+      .readdirSync(dir)
+      .filter((f) => f.endsWith('.yaml'))
+      .sort()
+      .flatMap((f) => parseList(Spot, readYaml(path.join(dir, f)), `spots/${f}`));
+  }
+  return spotsCache;
+}
+
+export function getSpot(slug: string): Spot | undefined {
+  return getSpots().find((s) => s.slug === slug);
+}
+
+let speciesCache: Species[] | undefined;
+export function getAllSpecies(): Species[] {
+  speciesCache ??= parseList(Species, readYaml(path.join(ROOT, 'species.yaml')), 'species.yaml');
+  return speciesCache;
+}
+
+export function getSpecies(slug: string): Species | undefined {
+  return getAllSpecies().find((s) => s.slug === slug);
+}
+
+let luresCache: Lure[] | undefined;
+export function getLures(): Lure[] {
+  luresCache ??= parseList(Lure, readYaml(path.join(ROOT, 'lures.yaml')), 'lures.yaml');
+  return luresCache;
+}
+
+export type Guide = GuideFrontmatter & { slug: string; body: string; locale: Locale; fallback: boolean };
+
+const FRONTMATTER = /^---\n([\s\S]*?)\n---\n?([\s\S]*)$/;
+
+function readGuideFile(slug: string, locale: string): Omit<Guide, 'fallback' | 'locale'> | undefined {
+  const file = path.join(ROOT, 'guides', slug, `${locale}.md`);
+  if (!fs.existsSync(file)) return undefined;
+  const match = FRONTMATTER.exec(fs.readFileSync(file, 'utf8'));
+  if (!match) throw new Error(`Guide ${slug}/${locale}.md has no frontmatter`);
+  const fm = GuideFrontmatter.safeParse(parse(match[1]));
+  if (!fm.success) throw new Error(`Invalid frontmatter in ${slug}/${locale}.md:\n${z.prettifyError(fm.error)}`);
+  return { ...fm.data, slug, body: match[2] };
+}
+
+export function getGuideSlugs(): string[] {
+  return fs
+    .readdirSync(path.join(ROOT, 'guides'), { withFileTypes: true })
+    .filter((d) => d.isDirectory())
+    .map((d) => d.name)
+    .sort();
+}
+
+/** A guide in the requested language, falling back to English, then Slovenian. */
+export function getGuide(slug: string, locale: Locale): Guide | undefined {
+  for (const candidate of [locale, 'en', 'sl'] as const) {
+    const guide = readGuideFile(slug, candidate);
+    if (guide) return { ...guide, locale: candidate as Locale, fallback: candidate !== locale };
+  }
+  return undefined;
+}
+
+export function getGuides(locale: Locale): Guide[] {
+  return getGuideSlugs()
+    .map((slug) => getGuide(slug, locale))
+    .filter((g): g is Guide => Boolean(g))
+    .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title));
+}

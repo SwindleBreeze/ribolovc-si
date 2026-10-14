@@ -1,0 +1,186 @@
+# Slovenian coast. Shore fishing needs no permit; boat fishing needs the annual sport
+# sea-fishing permit. Fishing is not allowed in the Strunjan and Sečovlje reserves or in
+# the Debeli rtič natural monument. More accessible shore spots are mapped by
+# SeaFishingSlovenia (linked from each spot).
+
+- slug: ankaran
+  name: { sl: Ankaran, en: Ankaran, de: Ankaran, it: Ancarano }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.5780, 13.7370]
+  description:
+    sl: Skalnata obala in pomoli v Ankaranu – šargi, fratrci, orade in brancini, pozimi lignji.
+    en: Rocky shore and jetties at Ankaran – white and two-banded sea bream, gilthead and sea bass, squid in winter.
+  access:
+    sl: Parkirišča v Ankaranu; obalna sprehajalna pot. Ne ribarite na kopališčih v sezoni.
+    en: Parking in Ankaran; coastal footpath. Don't fish at bathing beaches in season.
+  species: [sarg, fratrc, orada, brancin, lignji, spar]
+  techniques: [sea-shore, spin, eging, float]
+  permit:
+    kind: none
+    url: https://spot.gov.si/sl/dejavnosti-in-poklici/dovoljenja/letno-dovoljenje-za-sportni-ribolov
+    note:
+      sl: Ribolov z obale brez dovolilnice; za ribolov s plovila potrebujete letno dovoljenje za športni ribolov.
+      en: Shore fishing needs no permit; fishing from a boat needs the annual sport fishing permit.
+  links:
+    - { label: SeaFishingSlovenia – skriti kotički, url: "https://seafishingslovenia.com/skriti-koticki-za-ribolov-na-slovenski-obali/" }
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: koper
+  name: { sl: Koper (obalni pomoli), en: Koper waterfront, de: Koper (Uferpromenade), it: Capodistria (lungomare) }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.5480, 13.7270]
+  description:
+    sl: Mestna obala in pomoli v Kopru – ciplji, orade, brancini ob ustju Rižane in lignji pozimi.
+    en: Koper's town shore and jetties – mullet, gilthead, sea bass near the Rižana mouth and squid in winter.
+  access:
+    sl: Mestna parkirišča; ribolov v območju tovornega pristanišča in marine ni dovoljen.
+    en: Town car parks; no fishing inside the cargo port or marina.
+  species: [cipelj, orada, brancin, lignji, fratrc, salpa]
+  techniques: [sea-shore, float, spin, eging]
+  permit:
+    kind: none
+    url: https://spot.gov.si/sl/dejavnosti-in-poklici/dovoljenja/letno-dovoljenje-za-sportni-ribolov
+  links:
+    - { label: SeaFishingSlovenia – skriti kotički, url: "https://seafishingslovenia.com/skriti-koticki-za-ribolov-na-slovenski-obali/" }
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: izola
+  name: { sl: Izola, en: Izola, de: Izola, it: Isola }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.5400, 13.6600]
+  description:
+    sl: Valolomi in pomoli okoli Izole – ena najbolj priljubljenih lokacij za lignje in brancina.
+    en: Breakwaters and piers around Izola – one of the most popular places for squid and sea bass.
+  access:
+    sl: Parkirišča ob vstopu v staro mestno jedro; ribiški pristan.
+    en: Car parks at the edge of the old town; fishing harbour.
+  species: [lignji, brancin, sarg, orada, cipelj, ugor]
+  techniques: [eging, spin, sea-shore, float]
+  permit:
+    kind: none
+    url: https://spot.gov.si/sl/dejavnosti-in-poklici/dovoljenja/letno-dovoljenje-za-sportni-ribolov
+  links:
+    - { label: SeaFishingSlovenia – skriti kotički, url: "https://seafishingslovenia.com/skriti-koticki-za-ribolov-na-slovenski-obali/" }
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: strunjan-rezervat
+  name: { sl: Krajinski park Strunjan (prepoved), en: Strunjan Landscape Park (no fishing), de: Landschaftspark Strunjan (Fischereiverbot), it: Parco di Strugnano (divieto) }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.5320, 13.6050]
+  description:
+    sl: Naravni rezervat s klifom in morskim območjem – rekreacijski ribolov ni dovoljen.
+    en: Nature reserve with cliffs and a marine area – recreational fishing is not allowed.
+  access:
+    sl: Obiščite kot sprehajalec; ribolovne opreme ne uporabljajte.
+    en: Visit as a walker; do not use fishing gear.
+  species: [brancin]
+  techniques: [sea-shore]
+  permit:
+    kind: forbidden
+  beginnerFriendly: false
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: fiesa
+  name: { sl: Fiesa, en: Fiesa, de: Fiesa, it: Fiesso }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.5270, 13.5850]
+  description:
+    sl: Skalnata obala med Fieso in Piranom – šargi, fratrci in brancini; zvečer mirno.
+    en: Rocky shore between Fiesa and Piran – sea bream and sea bass; quiet in the evening.
+  access:
+    sl: Parkirišče nad Fieso, peš poti do obale.
+    en: Parking above Fiesa, footpaths down to the shore.
+  species: [sarg, fratrc, brancin, spar, salpa]
+  techniques: [sea-shore, float, spin]
+  permit:
+    kind: none
+    url: https://spot.gov.si/sl/dejavnosti-in-poklici/dovoljenja/letno-dovoljenje-za-sportni-ribolov
+  links:
+    - { label: SeaFishingSlovenia – skriti kotički, url: "https://seafishingslovenia.com/skriti-koticki-za-ribolov-na-slovenski-obali/" }
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: piran-punta
+  name: { sl: Piran (Punta), en: Piran (Punta), de: Piran (Punta), it: Pirano (Punta) }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.5290, 13.5640]
+  description:
+    sl: Rt Punta na koncu piranskega polotoka – globlja voda blizu obale, brancini, šargi, ugori in lignji.
+    en: Punta at the tip of the Piran peninsula – deeper water close in, sea bass, sea bream, conger and squid.
+  access:
+    sl: Avtomobile pustite v garažni hiši Fornače; v mesto peš ali z avtobusom.
+    en: Leave the car at the Fornače car park; walk or take the shuttle into town.
+  species: [brancin, sarg, ugor, lignji, fratrc]
+  techniques: [sea-shore, spin, eging]
+  permit:
+    kind: none
+    url: https://spot.gov.si/sl/dejavnosti-in-poklici/dovoljenja/letno-dovoljenje-za-sportni-ribolov
+  links:
+    - { label: SeaFishingSlovenia – skriti kotički, url: "https://seafishingslovenia.com/skriti-koticki-za-ribolov-na-slovenski-obali/" }
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: portoroz
+  name: { sl: Portorož, en: Portorož, de: Portorož, it: Portorose }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.5130, 13.5920]
+  description:
+    sl: Pomoli Portoroža in Bernardina – ciplji, orade, lignji in sipe spomladi.
+    en: The piers of Portorož and Bernardin – mullet, gilthead, squid and cuttlefish in spring.
+  access:
+    sl: Plačljiva parkirišča; ribarite izven kopalnih območij in zunaj marine.
+    en: Paid parking; fish outside bathing areas and the marina.
+  species: [cipelj, orada, lignji, sipa, spar, ovcica]
+  techniques: [sea-shore, float, eging]
+  permit:
+    kind: none
+    url: https://spot.gov.si/sl/dejavnosti-in-poklici/dovoljenja/letno-dovoljenje-za-sportni-ribolov
+  links:
+    - { label: Portorož – fishing map, url: "https://www.portoroz.si/en/fishing/" }
+    - { label: SeaFishingSlovenia – skriti kotički, url: "https://seafishingslovenia.com/skriti-koticki-za-ribolov-na-slovenski-obali/" }
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: secovlje-rezervat
+  name: { sl: Sečoveljske soline (prepoved), en: Sečovlje Salina (no fishing), de: Salinen Sečovlje (Fischereiverbot), it: Saline di Sicciole (divieto) }
+  type: sea
+  region: obala
+  water: morje
+  coords: [45.4930, 13.6000]
+  description:
+    sl: Krajinski park Sečoveljske soline – rekreacijski ribolov ni dovoljen.
+    en: Sečovlje Salina Nature Park – recreational fishing is not allowed.
+  access:
+    sl: Vstop v park je plačljiv; brez ribolovne opreme.
+    en: Paid park entry; no fishing gear.
+  species: [brancin]
+  techniques: [sea-shore]
+  permit:
+    kind: forbidden
+  beginnerFriendly: false
+  difficulty: 1
+  lastVerified: 2026-10-14

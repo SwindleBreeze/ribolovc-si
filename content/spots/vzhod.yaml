@@ -1,0 +1,267 @@
+# Štajerska, Savinjska, Koroška and Pomurje.
+
+- slug: drava-maribor
+  name: { sl: Drava (Maribor), en: Drava river (Maribor), de: Drau (Maribor), it: Drava (Maribor) }
+  type: river
+  region: stajerska
+  water: Drava
+  coords: [46.5560, 15.6450]
+  description:
+    sl: Drava skozi Maribor – kleni, mrene, smuči, somi in ščuke tik ob mestu.
+    en: The Drava through Maribor – chub, barbel, zander, catfish and pike right by the city.
+  access:
+    sl: Nabrežje Lent in sprehajalne poti ob reki.
+    en: The Lent embankment and riverside footpaths.
+  species: [klen, mrena, smuc, som, scuka, lipan]
+  techniques: [spin, feeder, float]
+  club: { name: Ribiška družina Maribor }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: ptujsko-jezero
+  name: { sl: Ptujsko jezero, en: Lake Ptuj, de: Pettauer See, it: Lago di Ptuj }
+  type: reservoir
+  region: stajerska
+  water: Drava
+  coords: [46.4140, 15.8490]
+  description:
+    sl: Največje slovensko jezero – somi rekordnih velikosti, smuči, krapi, boleni in ščuke.
+    en: Slovenia's largest lake – record-size wels catfish, zander, carp, asp and pike.
+  access:
+    sl: Dostop ob nasipih z obeh strani; parkirišča pri veslaškem centru.
+    en: Access along the embankments on both sides; parking at the rowing centre.
+  species: [som, smuc, krap, bolen, scuka, ploscic]
+  techniques: [carp, bottom, spin, feeder]
+  club: { name: Ribiška družina Ptuj }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: pernisko-jezero
+  name: { sl: Perniško jezero, en: Lake Pernica, de: Pernica-See, it: Lago di Pernica }
+  type: lake
+  region: stajerska
+  water: Perniško jezero
+  coords: [46.6390, 15.7310]
+  description:
+    sl: Umetno jezero severno od Maribora s krapi, ščukami in smuči. Priljubljeno za družinski ribolov.
+    en: A man-made lake north of Maribor with carp, pike and zander. Popular for family fishing.
+  access:
+    sl: Parkirišče ob jezeru; obkrožna pot.
+    en: Lakeside parking; circular path.
+  species: [krap, scuka, smuc, ploscic, rdeceoka]
+  techniques: [carp, float, spin, feeder]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: slivnisko-jezero
+  name: { sl: Slivniško jezero, en: Lake Slivnica, de: Slivnica-See, it: Lago di Slivnica }
+  type: reservoir
+  region: savinjska
+  water: Slivniško jezero
+  coords: [46.2850, 15.4310]
+  description:
+    sl: Akumulacija pri Gorici pri Slivnici s krapi, smuči, ščukami in somi.
+    en: A reservoir near Gorica pri Slivnici with carp, zander, pike and catfish.
+  access:
+    sl: Več dostopov ob cesti okoli jezera.
+    en: Several access points along the road around the lake.
+  species: [krap, smuc, scuka, som, ploscic]
+  techniques: [carp, spin, feeder]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: savinja-ljubno
+  name: { sl: Savinja (Ljubno), en: Savinja river (Ljubno), de: Sann (Ljubno), it: Savinja (Ljubno) }
+  type: river
+  region: savinjska
+  water: Savinja
+  coords: [46.3440, 14.8330]
+  description:
+    sl: Zgornja Savinja – čista alpska reka s potočno postrvjo, šarenko in lipanom.
+    en: The upper Savinja – a clear alpine river with brown trout, rainbows and grayling.
+  access:
+    sl: Dostop ob cesti skozi Zgornjo Savinjsko dolino; dovolilnice tudi v Ribiškem domu Ljubno.
+    en: Access along the Upper Savinja valley road; permits also at the Ljubno fishing lodge.
+  species: [potocna-postrv, sarenka, lipan]
+  techniques: [fly, spin]
+  club: { name: Ribiška družina Ljubno }
+  permit:
+    kind: club
+    note:
+      sl: Dovolilnice na prodajnih mestih v Ljubnem in v Ribiškem domu RD Ljubno.
+      en: Permits at sales points in Ljubno and at the RD Ljubno fishing lodge.
+  links:
+    - { label: Camping Menina – fishing the Savinja, url: "https://campingmenina.com/en/fishing-river-savinja/" }
+  beginnerFriendly: true
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: savinja-celje
+  name: { sl: Savinja (Celje), en: Savinja river (Celje), de: Sann (Celje), it: Savinja (Celje) }
+  type: river
+  region: savinjska
+  water: Savinja
+  coords: [46.2290, 15.2620]
+  description:
+    sl: Spodnja Savinja skozi Celje – kleni, mrene, podusti, ščuke in pozimi sulec.
+    en: The lower Savinja through Celje – chub, barbel, nase, pike and winter huchen.
+  access:
+    sl: Mestno nabrežje in sprehajalne poti v Celju.
+    en: The town embankment and footpaths in Celje.
+  species: [klen, mrena, podust, scuka, sulec]
+  techniques: [spin, feeder, float]
+  club: { name: Ribiška družina Celje }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: smartinsko-jezero
+  name: { sl: Šmartinsko jezero, en: Lake Šmartno, de: Šmartno-See, it: Lago di Šmartno }
+  type: reservoir
+  region: savinjska
+  water: Šmartinsko jezero
+  coords: [46.2660, 15.2810]
+  description:
+    sl: Veliko razvejano jezero severno od Celja – krapi, smuči, ščuke, somi in ploščiči.
+    en: A large branching lake north of Celje – carp, zander, pike, catfish and bream.
+  access:
+    sl: Parkirišča pri čolnarni in ob zalivih.
+    en: Parking at the boathouse and around the bays.
+  species: [krap, smuc, scuka, som, ploscic, ostriz]
+  techniques: [carp, spin, feeder, float]
+  club: { name: Ribiška družina Celje }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: velenjsko-jezero
+  name: { sl: Velenjsko jezero, en: Lake Velenje, de: Velenje-See, it: Lago di Velenje }
+  type: lake
+  region: savinjska
+  water: Velenjsko jezero
+  coords: [46.3740, 15.0870]
+  description:
+    sl: Jezero, nastalo zaradi ugrezanja rudnika – danes priljubljena voda za krape, ščuke in smuče.
+    en: A lake formed by mining subsidence – now a popular water for carp, pike and zander.
+  access:
+    sl: Parkirišča ob plaži in sprehajalni poti.
+    en: Parking by the beach and the lakeside footpath.
+  species: [krap, scuka, smuc, ostriz, som]
+  techniques: [carp, spin, feeder]
+  club: { name: Ribiška družina Velenje }
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: drava-dravograd
+  name: { sl: Drava (Dravograd), en: Drava river (Dravograd), de: Drau (Dravograd), it: Drava (Dravograd) }
+  type: river
+  region: koroska
+  water: Drava
+  coords: [46.5890, 15.0230]
+  description:
+    sl: Koroška Drava – akumulacije in tokovi s kleni, ščukami, smuči in somi.
+    en: The Carinthian Drava – reservoirs and runs with chub, pike, zander and catfish.
+  access:
+    sl: Dostop v Dravogradu ob mostu in ob kolesarski poti.
+    en: Access in Dravograd by the bridge and along the cycle path.
+  species: [klen, scuka, smuc, som, lipan]
+  techniques: [spin, feeder, float]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: mura-radgona
+  name: { sl: Mura (Gornja Radgona), en: Mura river (Gornja Radgona), de: Mur (Bad Radkersburg), it: Mura (Gornja Radgona) }
+  type: river
+  region: pomurje
+  water: Mura
+  coords: [46.6770, 15.9930]
+  description:
+    sl: Divja nižinska reka s prodišči in rokavi – sulec, somi, ščuke, smuči, kleni in boleni.
+    en: A wild lowland river with gravel bars and side arms – huchen, catfish, pike, zander, chub and asp.
+  access:
+    sl: Dostop ob nasipih in kolovozih v Gornji Radgoni; mejna reka z Avstrijo.
+    en: Access along embankments and tracks in Gornja Radgona; border river with Austria.
+  species: [sulec, som, scuka, smuc, klen, bolen, mrena]
+  techniques: [spin, bottom, feeder]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  rules:
+    notes:
+      sl: Mejna reka – lovite le s slovenskega brega. Natura 2000.
+      en: Border river – fish only from the Slovenian bank. Natura 2000.
+  beginnerFriendly: false
+  difficulty: 3
+  lastVerified: 2026-10-14
+
+- slug: ledavsko-jezero
+  name: { sl: Ledavsko jezero, en: Lake Ledava, de: Ledava-See, it: Lago di Ledava }
+  type: reservoir
+  region: pomurje
+  water: Ledavsko jezero
+  coords: [46.7920, 16.0750]
+  description:
+    sl: Akumulacija na Goričkem s krapi, ščukami, smuči in somi; mirno okolje.
+    en: A reservoir in Goričko with carp, pike, zander and catfish; peaceful surroundings.
+  access:
+    sl: Parkirišča ob jezu in ob cesti okoli jezera.
+    en: Parking at the dam and along the lake road.
+  species: [krap, scuka, smuc, som, ploscic]
+  techniques: [carp, spin, feeder]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: gajsevsko-jezero
+  name: { sl: Gajševsko jezero, en: Lake Gajševci, de: Gajševci-See, it: Lago di Gajševci }
+  type: reservoir
+  region: pomurje
+  water: Gajševsko jezero
+  coords: [46.4980, 16.1460]
+  description:
+    sl: Akumulacijsko jezero pri Ljutomeru s krapi, somi, smuči in ščukami.
+    en: A reservoir near Ljutomer with carp, catfish, zander and pike.
+  access:
+    sl: Dostop ob nasipu in cesti Ljutomer–Ormož.
+    en: Access along the embankment and the Ljutomer–Ormož road.
+  species: [krap, som, smuc, scuka, ploscic]
+  techniques: [carp, spin, feeder]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14

@@ -1,0 +1,232 @@
+# Coordinates are approximate (approx: true) until checked on site.
+# Rules summarise typical regimes; the district's own rules always take precedence.
+
+- slug: sava-bohinjka
+  name: { sl: Sava Bohinjka, en: Sava Bohinjka river, de: Sava Bohinjka, it: Sava Bohinjka }
+  type: river
+  region: gorenjska
+  water: Sava Bohinjka
+  coords: [46.2768, 13.9553]
+  parking: [46.2760, 13.9540]
+  description:
+    sl: Kristalno čista alpska reka med Bohinjskim jezerom in Bledom, ena najbolj znanih muharskih voda v Evropi. Potočna postrv, šarenka, lipan in soška postrv.
+    en: A crystal-clear alpine river between Lake Bohinj and Bled, one of Europe's best-known fly-fishing waters. Brown and rainbow trout, grayling and marble trout.
+  access:
+    sl: Dostop ob glavni cesti Bled–Bohinj; parkirišča v Bohinjski Bistrici in ob mostovih. Pazite na zasebna zemljišča.
+    en: Access along the Bled–Bohinj road; parking in Bohinjska Bistrica and near bridges. Respect private land.
+  species: [potocna-postrv, sarenka, lipan, soska-postrv]
+  techniques: [fly]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+    note:
+      sl: Dnevne dovolilnice za muharjenje; na voljo tudi v lokalnih turističnih centrih.
+      en: Day permits for fly fishing; also sold at local tourist offices.
+  rules:
+    flyOnly: true
+    barbless: true
+    notes:
+      sl: Na delih revirja velja ujemi in spusti. Preverite ribolovni red revirja.
+      en: Parts of the river are catch-and-release. Check the district rules.
+  season:
+    sl: Postrvi običajno april–oktober; lipan od junija.
+    en: Trout usually April–October; grayling from June.
+  beginnerFriendly: false
+  difficulty: 2
+  links:
+    - { label: First Nature – Sava Bohinjka, url: "https://first-nature.com/flyfish/venu-slovenia.php" }
+  lastVerified: 2026-10-14
+
+- slug: bohinjsko-jezero
+  name: { sl: Bohinjsko jezero, en: Lake Bohinj, de: Wocheiner See, it: Lago di Bohinj }
+  type: lake
+  region: gorenjska
+  water: Bohinjsko jezero
+  coords: [46.2820, 13.8780]
+  parking: [46.2785, 13.8855]
+  description:
+    sl: Največje stalno naravno jezero v Sloveniji v Triglavskem narodnem parku. Hladna globoka voda z jezersko zlatovčico in postrvmi.
+    en: Slovenia's largest permanent natural lake, inside Triglav National Park. Cold deep water with Arctic char and trout.
+  access:
+    sl: Parkirišča v Ribčevem Lazu in Ukancu (plačljiva v sezoni). Ribolov le na označenih delih obale.
+    en: Parking at Ribčev Laz and Ukanc (paid in season). Fishing only on designated parts of the shore.
+  species: [zlatovcica, potocna-postrv]
+  techniques: [fly, spin]
+  permit:
+    kind: club
+    note:
+      sl: Dovolilnice prodajajo lokalni turistični centri in ribiška družina; posebni pogoji narodnega parka.
+      en: Permits sold by local tourist offices and the fishing club; national park rules apply.
+  rules:
+    notes:
+      sl: Narodni park – strogo spoštujte omejitve dostopa in čolnarjenja.
+      en: National park – strictly respect access and boating restrictions.
+  beginnerFriendly: false
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: blejsko-jezero
+  name: { sl: Blejsko jezero, en: Lake Bled, de: Bleder See, it: Lago di Bled }
+  type: lake
+  region: gorenjska
+  water: Blejsko jezero
+  coords: [46.3630, 14.0900]
+  parking: [46.3655, 14.1050]
+  description:
+    sl: Svetovno znano jezero z rekordnimi krapi in ščukami. Ribolov ob obali z lepim razgledom na otok in grad.
+    en: The world-famous lake, known for record carp and pike. Shore fishing with views of the island and castle.
+  access:
+    sl: Javna parkirišča v Bledu (plačljiva). Peš poti okoli jezera; poleti veliko kopalcev – ribarite zjutraj.
+    en: Public paid parking in Bled. Footpath around the lake; many swimmers in summer – fish early morning.
+  species: [krap, scuka, smuc, linj, ostriz, som]
+  techniques: [carp, spin, float]
+  permit:
+    kind: club
+    note:
+      sl: Dnevne dovolilnice pri lokalni ribiški družini in v turističnih centrih.
+      en: Day permits from the local fishing club and tourist offices.
+  rules:
+    notes:
+      sl: Omejitve na kopališčih in v času prireditev.
+      en: Restrictions near bathing areas and during events.
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: radovna
+  name: { sl: Radovna, en: Radovna river, de: Radovna, it: Radovna }
+  type: river
+  region: gorenjska
+  water: Radovna
+  coords: [46.4130, 14.0420]
+  parking: [46.3920, 14.0870]
+  description:
+    sl: Majhna, izjemno čista gorska reka v Triglavskem narodnem parku z divjo potočno postrvjo in lipanom.
+    en: A small, exceptionally clear mountain river in Triglav National Park with wild brown trout and grayling.
+  access:
+    sl: Cesta skozi dolino Radovne; parkirišče pri soteski Vintgar ali ob cesti v dolini.
+    en: Road through the Radovna valley; parking at Vintgar gorge or along the valley road.
+  species: [potocna-postrv, lipan]
+  techniques: [fly]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  rules:
+    flyOnly: true
+    barbless: true
+    catchAndRelease: true
+    notes:
+      sl: Muharjenje, ujemi in spusti (preverite trenutni režim).
+      en: Fly fishing, catch-and-release (check the current regime).
+  beginnerFriendly: false
+  difficulty: 3
+  lastVerified: 2026-10-14
+
+- slug: sava-dolinka-mojstrana
+  name: { sl: Sava Dolinka (Mojstrana), en: Sava Dolinka (Mojstrana), de: Sava Dolinka (Mojstrana), it: Sava Dolinka (Mojstrana) }
+  type: river
+  region: gorenjska
+  water: Sava Dolinka
+  coords: [46.4610, 13.9420]
+  description:
+    sl: Gorski del Save pod Julijskimi Alpami s potočno postrvjo, šarenko in lipanom.
+    en: The mountain stretch of the Sava below the Julian Alps with brown and rainbow trout and grayling.
+  access:
+    sl: Ob kolesarski poti Kranjska Gora–Jesenice; parkiranje v Mojstrani.
+    en: Along the Kranjska Gora–Jesenice cycle path; parking in Mojstrana.
+  species: [potocna-postrv, sarenka, lipan]
+  techniques: [fly, spin]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: sava-radovljica
+  name: { sl: Sava (Radovljica–Kranj), en: Sava river (Radovljica–Kranj), de: Save (Radovljica–Kranj), it: Sava (Radovljica–Kranj) }
+  type: river
+  region: gorenjska
+  water: Sava
+  coords: [46.3330, 14.1900]
+  description:
+    sl: Širša Sava pod sotočjem Dolinke in Bohinjke z lipanom, postrvmi in – pozimi – sulcem.
+    en: The wider Sava below the confluence of the Dolinka and Bohinjka, with grayling, trout and – in winter – huchen.
+  access:
+    sl: Dostop s ceste Radovljica–Kropa ali ob mostu v Podnartu.
+    en: Access from the Radovljica–Kropa road or at the bridge in Podnart.
+  species: [lipan, potocna-postrv, sarenka, sulec, klen]
+  techniques: [fly, spin]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  season:
+    sl: Postrvi in lipan po pravilih revirja; sulec le v zimski sezoni.
+    en: Trout and grayling per district rules; huchen only in the winter season.
+  beginnerFriendly: false
+  difficulty: 2
+  lastVerified: 2026-10-14
+
+- slug: sora-skofja-loka
+  name: { sl: Sora (Škofja Loka), en: Sora river (Škofja Loka), de: Sora (Škofja Loka), it: Sora (Škofja Loka) }
+  type: river
+  region: gorenjska
+  water: Sora
+  coords: [46.1650, 14.3060]
+  description:
+    sl: Selška in Poljanska Sora se združita v Škofji Loki. Postrvi, lipan, klen in mrena.
+    en: The Selška and Poljanska Sora join in Škofja Loka. Trout, grayling, chub and barbel.
+  access:
+    sl: Mestna parkirišča v Škofji Loki, dostop ob nabrežju.
+    en: Town parking in Škofja Loka, access along the embankments.
+  species: [potocna-postrv, sarenka, lipan, klen, mrena]
+  techniques: [fly, spin, float]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: zbiljsko-jezero
+  name: { sl: Zbiljsko jezero, en: Lake Zbilje, de: Zbilje-Stausee, it: Lago di Zbilje }
+  type: reservoir
+  region: gorenjska
+  water: Zbiljsko jezero
+  coords: [46.1550, 14.4030]
+  parking: [46.1535, 14.4085]
+  description:
+    sl: Akumulacijsko jezero na Savi pri Medvodah, priljubljeno za krapolov, ščuko in smuča. Ob obali gostilne in sprehajalne poti.
+    en: A reservoir on the Sava near Medvode, popular for carp, pike and zander. Restaurants and footpaths along the shore.
+  access:
+    sl: Parkirišče v Zbiljah ob jezeru; lahek dostop do obale – primerno za družine.
+    en: Lakeside parking in Zbilje; easy shore access – family-friendly.
+  species: [krap, scuka, smuc, som, ploscic, rdeceoka]
+  techniques: [carp, spin, feeder, float]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 1
+  lastVerified: 2026-10-14
+
+- slug: trbojsko-jezero
+  name: { sl: Trbojsko jezero, en: Lake Trboje, de: Trboje-Stausee, it: Lago di Trboje }
+  type: reservoir
+  region: gorenjska
+  water: Trbojsko jezero
+  coords: [46.2280, 14.3320]
+  description:
+    sl: Akumulacija na Savi med Kranjem in Medvodami s krapi, somi, smuči in ščukami.
+    en: A Sava reservoir between Kranj and Medvode with carp, wels catfish, zander and pike.
+  access:
+    sl: Dostop s ceste Kranj–Medvode; več makadamskih dostopov do obale.
+    en: Access from the Kranj–Medvode road; several gravel tracks to the shore.
+  species: [krap, som, smuc, scuka, ploscic]
+  techniques: [carp, spin, feeder]
+  permit:
+    kind: ribiskekarte
+    url: https://www.ribiskekarte.si
+  beginnerFriendly: true
+  difficulty: 2
+  lastVerified: 2026-10-14

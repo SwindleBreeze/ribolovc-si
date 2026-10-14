@@ -1,0 +1,887 @@
+# Species encyclopedia. `rigs` refer to guide slugs in content/guides/.
+# Freshwater closed seasons and minimum sizes are set per fishing district (revir) in Slovenia,
+# so they are not listed here as numbers; the UI always points to the revir rules.
+# Sea minimum sizes are the EU Mediterranean minimums (Reg. (EC) No 1967/2006, Annex III).
+
+# --- Salmonids -------------------------------------------------------------------------
+- slug: soska-postrv
+  name: { sl: Soška postrv, en: Marble trout, de: Marmorierte Forelle, it: Trota marmorata }
+  latin: Salmo marmoratus
+  water: fresh
+  group: salmonid
+  description:
+    sl: Endemit porečja Soče in simbol slovenskega muharjenja. Zraste lahko čez meter in je vrhunski plenilec hitrih, hladnih rek.
+    en: Endemic to the Soča basin and the icon of Slovenian fly fishing. It can grow beyond a metre and is the top predator of fast, cold rivers.
+  habitat:
+    sl: Globoki tolmuni, tokovi za skalami in podmoli v Soči, Idrijci, Tolminki in Bači.
+    en: Deep pools, current seams behind boulders and undercut banks in the Soča, Idrijca, Tolminka and Bača.
+  baits:
+    sl: Večji streamerji in težke nimfe; na nekaterih odsekih tudi suhe muhe ob večernem izletu žuželk.
+    en: Large streamers and heavy nymphs; dry flies during evening hatches on some stretches.
+  bestMonths: [4, 5, 6, 9, 10]
+  bestTime:
+    sl: Zgodnje jutro, mrak in oblačni dnevi; po rahlem dvigu in zbistritvi vode.
+    en: Early morning, dusk and overcast days; after a small rise in water once it clears again.
+  techniques: [fly]
+  rigs: [euro-nymphing, dry-fly]
+  tempRange: [6, 14]
+  rules:
+    note:
+      sl: Zaščitena avtohtona vrsta. Večina revirjev dovoljuje le muharjenje, pogosto brez zalustnika in z obveznim izpustom.
+      en: Protected native species. Most districts allow fly fishing only, often barbless and catch-and-release.
+  protected: true
+
+- slug: potocna-postrv
+  name: { sl: Potočna postrv, en: Brown trout, de: Bachforelle, it: Trota fario }
+  latin: Salmo trutta
+  water: fresh
+  group: salmonid
+  description:
+    sl: Najbolj razširjena postrv v slovenskih potokih in rekah. Previdna, a odlično reagira na pravilno predstavljeno muho ali majhno vabo.
+    en: The most widespread trout in Slovenian streams and rivers. Wary, but responds well to a well-presented fly or small lure.
+  habitat:
+    sl: Hladni, s kisikom bogati potoki in reke; zadržuje se za kamni, pod koreninami in v tolmunih.
+    en: Cold, oxygen-rich streams and rivers; holds behind stones, under roots and in pools.
+  baits:
+    sl: Nimfe, suhe muhe, majhni streamerji; kjer je dovoljeno vrtenje, majhne vrtilke in voblerji.
+    en: Nymphs, dry flies, small streamers; where spinning is allowed, small spinners and minnow lures.
+  bestMonths: [4, 5, 6, 9]
+  bestTime:
+    sl: Jutro in večer, oblačno vreme, rahlo motna voda po dežju.
+    en: Morning and evening, cloudy weather, slightly coloured water after rain.
+  techniques: [fly, spin]
+  rigs: [euro-nymphing, dry-fly, spinning]
+  tempRange: [7, 16]
+
+- slug: sarenka
+  name: { sl: Šarenka, en: Rainbow trout, de: Regenbogenforelle, it: Trota iridea }
+  latin: Oncorhynchus mykiss
+  water: fresh
+  group: salmonid
+  description:
+    sl: Tujerodna postrv, ki jo vlagajo v mnoge revirje. Borbena in manj plašna od potočne – odlična za začetnike.
+    en: Non-native trout stocked in many districts. Hard-fighting and less shy than brown trout – great for beginners.
+  habitat:
+    sl: Reke s srednjim tokom, jezera in ribniki za športni ribolov.
+    en: Rivers with moderate current, lakes and put-and-take ponds.
+  baits:
+    sl: Nimfe, streamerji, vrtilke, žličke; v ribnikih tudi umetne paste (kjer dovoljeno).
+    en: Nymphs, streamers, spinners, small spoons; trout dough in ponds where allowed.
+  bestMonths: [3, 4, 5, 6, 9, 10]
+  bestTime:
+    sl: Ves dan ob oblačnem vremenu, sicer jutro in večer.
+    en: All day in cloudy weather, otherwise morning and evening.
+  techniques: [fly, spin, float]
+  rigs: [euro-nymphing, spinning, float-rig]
+  tempRange: [8, 18]
+
+- slug: lipan
+  name: { sl: Lipan, en: Grayling, de: Äsche, it: Temolo }
+  latin: Thymallus thymallus
+  water: fresh
+  group: salmonid
+  description:
+    sl: "\"Gospa reke\" z veliko hrbtno plavutjo. Hrani se pretežno z drobnimi žuželkami, zato je idealna riba za nimfanje in suho muho."
+    en: The "lady of the stream" with its sail-like dorsal fin. Feeds mostly on small insects, ideal for nymphing and dry flies.
+  habitat:
+    sl: Daljši enakomerni tokovi s prodnatim dnom v večjih rekah (Sava, Soča, Krka, Unica, Savinja).
+    en: Long even runs over gravel in larger rivers (Sava, Soča, Krka, Unica, Savinja).
+  baits:
+    sl: Majhne nimfe (vel. 14–18), suhe muhe in emergerji.
+    en: Small nymphs (size 14–18), dry flies and emergers.
+  bestMonths: [6, 7, 8, 9, 10, 11]
+  bestTime:
+    sl: Jesen je vrhunec sezone; čez dan, ko je aktivnost žuželk največja.
+    en: Autumn is peak season; midday when insect activity peaks.
+  techniques: [fly]
+  rigs: [euro-nymphing, dry-fly]
+  tempRange: [6, 16]
+  rules:
+    note:
+      sl: Lipan ima spomladi dolgo varstveno dobo (drstenje); v mnogih revirjih velja ujemi in spusti.
+      en: Grayling has a long spring closed season (spawning); many districts are catch-and-release.
+
+- slug: sulec
+  name: { sl: Sulec, en: Huchen (Danube salmon), de: Huchen, it: Salmone del Danubio }
+  latin: Hucho hucho
+  water: fresh
+  group: salmonid
+  description:
+    sl: Največja postrv na svetu in trofeja življenja. V Sloveniji živi v Savi, Savinji, Krki, Kolpi in Muri.
+    en: The largest trout in the world and a fish of a lifetime. In Slovenia it lives in the Sava, Savinja, Krka, Kolpa and Mura.
+  habitat:
+    sl: Globoki tolmuni in počasnejši tokovi velikih rek, pogosto ob skalah ali podrtih drevesih.
+    en: Deep pools and slower runs of large rivers, often near rocks or sunken trees.
+  baits:
+    sl: Veliki voblerji, gumijaste vabe, "zopf" (pletenica), veliki streamerji (večinoma nad 10 cm).
+    en: Large plugs, soft swimbaits, braided "zopf" lures, big streamers (usually over 10 cm).
+  bestMonths: [10, 11, 12, 1, 2]
+  bestTime:
+    sl: Mrzli zimski dnevi, sneženje, padajoč zračni tlak, zgodnje jutro in pozno popoldne.
+    en: Cold winter days, snowfall, falling pressure, early morning and late afternoon.
+  techniques: [spin, fly]
+  rigs: [huchen]
+  tempRange: [2, 9]
+  rules:
+    note:
+      sl: Lov le v zimski sezoni (običajno 1. oktober – 14. februar) in samo v revirjih, ki ga dovolijo. Močno priporočamo izpust.
+      en: Only during the winter season (usually 1 October – 14 February) and only in districts that allow it. Release is strongly encouraged.
+  protected: true
+
+- slug: zlatovcica
+  name: { sl: Jezerska zlatovčica, en: Arctic char, de: Seesaibling, it: Salmerino alpino }
+  latin: Salvelinus umbla
+  water: fresh
+  group: salmonid
+  description:
+    sl: Hladnoljubna postrvi podobna riba globokih alpskih jezer, kot je Bohinjsko jezero.
+    en: A cold-loving salmonid of deep alpine lakes such as Lake Bohinj.
+  habitat:
+    sl: Globoka, hladna jezerska voda; poleti v globini, spomladi in jeseni bliže obali.
+    en: Deep, cold lake water; deep in summer, closer to shore in spring and autumn.
+  baits:
+    sl: Majhne žličke, voblerji, nimfe in streamerji.
+    en: Small spoons, minnow lures, nymphs and streamers.
+  bestMonths: [5, 6, 9, 10]
+  bestTime:
+    sl: Jutro in večer, mirni oblačni dnevi.
+    en: Morning and evening, calm overcast days.
+  techniques: [spin, fly]
+  rigs: [spinning]
+  tempRange: [4, 12]
+
+- slug: potocna-zlatovcica
+  name: { sl: Potočna zlatovčica, en: Brook trout, de: Bachsaibling, it: Salmerino di fonte }
+  latin: Salvelinus fontinalis
+  water: fresh
+  group: salmonid
+  description:
+    sl: Pisana tujerodna vrsta iz Severne Amerike, ki jo najdemo v hladnih gorskih potokih in nekaterih ribnikih.
+    en: A colourful non-native species from North America found in cold mountain brooks and some ponds.
+  habitat:
+    sl: Zelo hladni potoki in izviri.
+    en: Very cold brooks and spring-fed waters.
+  baits:
+    sl: Nimfe, majhne suhe muhe, mini vrtilke.
+    en: Nymphs, small dry flies, mini spinners.
+  bestMonths: [5, 6, 9]
+  bestTime:
+    sl: Jutro in večer.
+    en: Morning and evening.
+  techniques: [fly, spin]
+  rigs: [euro-nymphing, spinning]
+  tempRange: [5, 14]
+
+# --- Predators -------------------------------------------------------------------------
+- slug: scuka
+  name: { sl: Ščuka, en: Pike, de: Hecht, it: Luccio }
+  latin: Esox lucius
+  water: fresh
+  group: predator
+  description:
+    sl: Napadalna plenilka iz zasede z ostrimi zobmi. Za njen lov potrebujete jekleni ali fluorokarbonski predvrvični del.
+    en: An ambush predator with razor-sharp teeth. Always use a wire or heavy fluorocarbon leader.
+  habitat:
+    sl: Rob trstičja, lokvanji, potopljena drevesa in mirnejši deli rek ter jezer.
+    en: Reed edges, lily pads, sunken trees and the calmer parts of rivers and lakes.
+  baits:
+    sl: Žlice, vrtilke, voblerji, gumijaste vabe (shad), živa ali mrtva riba (kjer dovoljeno).
+    en: Spoons, spinners, plugs, soft shads; live or dead fish bait where allowed.
+  bestMonths: [5, 9, 10, 11]
+  bestTime:
+    sl: Jesen je najboljša; oblačni vetrovni dnevi, jutro in pozno popoldne.
+    en: Autumn is best; cloudy, windy days, morning and late afternoon.
+  techniques: [spin, float]
+  rigs: [spinning, float-rig]
+  tempRange: [8, 20]
+
+- slug: smuc
+  name: { sl: Smuč, en: Zander, de: Zander, it: Lucioperca }
+  latin: Sander lucioperca
+  water: fresh
+  group: predator
+  description:
+    sl: Plenilec motnejših voda z odličnim vidom v temi. Previdno prijemlje – udarec z vabo mora biti hiter.
+    en: A predator of coloured water with excellent low-light vision. Bites carefully, so strike fast.
+  habitat:
+    sl: Trdo dno, kamnometi, robovi globin v akumulacijah in počasnih rekah (Drava, Sava, Mura, jezera).
+    en: Hard bottoms, rip-rap, drop-offs in reservoirs and slow rivers (Drava, Sava, Mura, lakes).
+  baits:
+    sl: Gumijaste vabe na jig glavi, drop-shot, ozki voblerji, ribica na dnu.
+    en: Soft baits on jig heads, drop-shot, slim plugs, dead fish on the bottom.
+  bestMonths: [6, 9, 10, 11]
+  bestTime:
+    sl: Mrak in noč, oblačni dnevi, rahlo motna voda.
+    en: Dusk and night, overcast days, slightly coloured water.
+  techniques: [spin, bottom]
+  rigs: [drop-shot, spinning]
+  tempRange: [10, 22]
+
+- slug: ostriz
+  name: { sl: Ostriž, en: Perch, de: Flussbarsch, it: Persico reale }
+  latin: Perca fluviatilis
+  water: fresh
+  group: predator
+  description:
+    sl: Črtasti jatni plenilec – idealen za začetnike, saj pogosto in rad prijemlje.
+    en: A striped schooling predator – perfect for beginners because it bites often.
+  habitat:
+    sl: Pomoli, potopljene ovire, rob trstičja, jezera in počasne reke.
+    en: Jetties, sunken structure, reed edges, lakes and slow rivers.
+  baits:
+    sl: Črvi, majhne vrtilke, mikro gumice, drop-shot.
+    en: Worms, small spinners, micro soft baits, drop-shot.
+  bestMonths: [5, 6, 7, 8, 9, 10]
+  bestTime:
+    sl: Čez dan; jate se pogosto zberejo ob pomolih.
+    en: During the day; schools often gather around jetties.
+  techniques: [spin, float]
+  rigs: [drop-shot, float-rig, spinning]
+  tempRange: [12, 24]
+
+- slug: som
+  name: { sl: Som, en: Wels catfish, de: Wels, it: Siluro }
+  latin: Silurus glanis
+  water: fresh
+  group: catfish
+  description:
+    sl: Največja sladkovodna riba v Sloveniji, ki lahko preseže 2 metra. Potrebuje močno opremo.
+    en: The largest freshwater fish in Slovenia, which can exceed 2 metres. Requires heavy tackle.
+  habitat:
+    sl: Globoke luknje, podrta drevesa in mirni deli velikih rek ter akumulacij (Drava, Sava, Mura, Ptujsko jezero).
+    en: Deep holes, fallen trees and calm stretches of large rivers and reservoirs (Drava, Sava, Mura, Lake Ptuj).
+  baits:
+    sl: Snopi rosnic, pelete za soma, kosi ribe, velike gumijaste vabe; klonk tehnika s čolna.
+    en: Bunches of dew worms, catfish pellets, fish pieces, large soft baits; clonking from a boat.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Topla noč, pred nevihto, ob rahlem dvigu vode.
+    en: Warm nights, before a thunderstorm, on a small rise in water.
+  techniques: [bottom, spin]
+  rigs: [feeder-rig]
+  tempRange: [18, 28]
+
+- slug: bolen
+  name: { sl: Bolen, en: Asp, de: Rapfen, it: Aspio }
+  latin: Leuciscus aspius
+  water: fresh
+  group: predator
+  description:
+    sl: Hiter plenilec, ki lovi ribice na površini – njegovi napadi so vidni kot pljuski.
+    en: A fast predator that hunts small fish at the surface – you can see its splashes.
+  habitat:
+    sl: Hitri tokovi pod jezovi, sotočja in odprta voda v Dravi, Muri in Savi.
+    en: Fast currents below weirs, confluences and open water in the Drava, Mura and Sava.
+  baits:
+    sl: Daljnometne žlice, ozki voblerji, površinske vabe; hitro vodenje.
+    en: Long-casting spoons, slim plugs, surface lures; fast retrieve.
+  bestMonths: [6, 7, 8, 9]
+  bestTime:
+    sl: Jutro in večer, ko lovi na površini.
+    en: Morning and evening when it hunts at the surface.
+  techniques: [spin]
+  rigs: [spinning]
+  tempRange: [14, 24]
+
+- slug: soncni-ostriz
+  name: { sl: Sončni ostriž, en: Pumpkinseed, de: Sonnenbarsch, it: Persico sole }
+  latin: Lepomis gibbosus
+  water: fresh
+  group: predator
+  description:
+    sl: Majhna invazivna tujerodna riba. Pogosto prvi ulov otrok – rada prijemlje na črva.
+    en: A small invasive non-native fish. Often a child's first catch – loves a worm.
+  habitat:
+    sl: Plitvine, pomoli in obrežje toplih jezer in mrtvic.
+    en: Shallows, jetties and margins of warm lakes and backwaters.
+  baits:
+    sl: Črvi, ličinke, koščki kruha.
+    en: Worms, maggots, bits of bread.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Čez dan v toplem vremenu.
+    en: During the day in warm weather.
+  techniques: [float]
+  rigs: [float-rig]
+  tempRange: [16, 28]
+
+# --- Cyprinids and other coarse fish ----------------------------------------------------
+- slug: krap
+  name: { sl: Krap, en: Carp, de: Karpfen, it: Carpa }
+  latin: Cyprinus carpio
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Najbolj priljubljena riba za šaranarski ribolov. Močan, previden in lahko presega 20 kg.
+    en: The favourite target of carp anglers. Powerful, cautious and can exceed 20 kg.
+  habitat:
+    sl: Jezera, ribniki, akumulacije in počasne reke; ob trstičju, lokvanjih in robovih.
+    en: Lakes, ponds, reservoirs and slow rivers; near reeds, lily pads and drop-offs.
+  baits:
+    sl: Boiliji, koruza, pelete, tigrov orešček (pripravljen), kruh.
+    en: Boilies, sweetcorn, pellets, prepared tiger nuts, bread.
+  bestMonths: [4, 5, 6, 9, 10]
+  bestTime:
+    sl: Jutro in noč; topli jugozahodni veter na plitvinah.
+    en: Morning and night; warm south-westerly wind blowing into the shallows.
+  techniques: [carp, feeder, float]
+  rigs: [hair-rig, feeder-rig, float-rig]
+  tempRange: [14, 26]
+
+- slug: amur
+  name: { sl: Amur, en: Grass carp, de: Graskarpfen, it: Carpa erbivora }
+  latin: Ctenopharyngodon idella
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Rastlinojeda riba, vložena v mnoga jezera. Izjemno močna in hitra v boju.
+    en: A herbivorous fish stocked in many lakes. Extremely strong and fast when hooked.
+  habitat:
+    sl: Plitvine z vodnim rastlinjem v toplih jezerih.
+    en: Weedy shallows in warm lakes.
+  baits:
+    sl: Koruza, kruh, trava/detelja, boiliji.
+    en: Sweetcorn, bread, grass/clover, boilies.
+  bestMonths: [6, 7, 8, 9]
+  bestTime:
+    sl: Vroči poletni dnevi, popoldne.
+    en: Hot summer days, afternoon.
+  techniques: [carp, float]
+  rigs: [hair-rig, float-rig]
+  tempRange: [18, 28]
+
+- slug: linj
+  name: { sl: Linj, en: Tench, de: Schleie, it: Tinca }
+  latin: Tinca tinca
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Zelenkasta riba z rdečimi očmi, ki ljubi mirne, zaraščene vode.
+    en: An olive-green fish with red eyes that loves still, weedy water.
+  habitat:
+    sl: Mirne, blatne in zaraščene vode, ob lokvanjih.
+    en: Still, muddy, weedy water next to lily pads.
+  baits:
+    sl: Črvi, ličinke, koruza.
+    en: Worms, maggots, sweetcorn.
+  bestMonths: [5, 6, 7]
+  bestTime:
+    sl: Zgodnje jutro.
+    en: Early morning.
+  techniques: [float, feeder]
+  rigs: [float-rig, feeder-rig]
+  tempRange: [15, 25]
+
+- slug: ploscic
+  name: { sl: Ploščič, en: Common bream, de: Brachse, it: Abramide }
+  latin: Abramis brama
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Visokohrbta jatna riba – ko najdete jato, sledi ulov za ulovom.
+    en: A deep-bodied schooling fish – find the shoal and the bites keep coming.
+  habitat:
+    sl: Globlji mirni deli jezer, akumulacij in počasnih rek.
+    en: Deeper calm water in lakes, reservoirs and slow rivers.
+  baits:
+    sl: Ličinke, črvi, koruza na feederju z vabilno mešanico.
+    en: Maggots, worms, corn on a feeder with groundbait.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Večer in noč.
+    en: Evening and night.
+  techniques: [feeder, float]
+  rigs: [feeder-rig, float-rig]
+  tempRange: [14, 24]
+
+- slug: klen
+  name: { sl: Klen, en: Chub, de: Döbel, it: Cavedano }
+  latin: Squalius cephalus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Vsejed, ki ga najdemo skoraj povsod. Prijemlje na vse – od kruha do vrtilk in muh.
+    en: An omnivore found almost everywhere. Takes everything from bread to spinners and flies.
+  habitat:
+    sl: Reke vseh velikosti, pod drevesi, ob mostovih in v tokovih.
+    en: Rivers of every size, under trees, by bridges and in runs.
+  baits:
+    sl: Kruh, sir, češnje, ličinke; majhni voblerji, vrtilke, suhe muhe (kobilice).
+    en: Bread, cheese, cherries, maggots; small plugs, spinners, dry flies (hoppers).
+  bestMonths: [5, 6, 7, 8, 9, 10]
+  bestTime:
+    sl: Ves dan poleti; ob padanju žuželk ali sadja v vodo.
+    en: All day in summer; when insects or fruit fall into the water.
+  techniques: [float, spin, fly, feeder]
+  rigs: [float-rig, spinning, dry-fly]
+  tempRange: [10, 24]
+
+- slug: mrena
+  name: { sl: Mrena, en: Barbel, de: Barbe, it: Barbo }
+  latin: Barbus barbus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Močna pridnena riba hitrejših rek. Boj z mreno v toku je nepozaben.
+    en: A powerful bottom-feeder of faster rivers. A barbel fight in current is unforgettable.
+  habitat:
+    sl: Prodnato dno in hitri tokovi Kolpe, Krke, Save, Savinje in Drave.
+    en: Gravel beds and fast runs of the Kolpa, Krka, Sava, Savinja and Drava.
+  baits:
+    sl: Ličinke, črvi, sir, pelete na feederju.
+    en: Maggots, worms, cheese, pellets on a feeder.
+  bestMonths: [6, 7, 8, 9]
+  bestTime:
+    sl: Večer in noč, ob rahlo povišani vodi.
+    en: Evening and night, on slightly raised water.
+  techniques: [feeder, bottom]
+  rigs: [feeder-rig]
+  tempRange: [12, 22]
+
+- slug: podust
+  name: { sl: Podust, en: Nase, de: Nase, it: Savetta }
+  latin: Chondrostoma nasus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Jatna rečna riba, ki strga alge s kamnov. Pogosta v Kolpi in Savinji.
+    en: A schooling river fish that grazes algae off stones. Common in the Kolpa and Savinja.
+  habitat:
+    sl: Prodnati tokovi srednjih in večjih rek.
+    en: Gravel runs of medium and large rivers.
+  baits:
+    sl: Ličinke, drobne nimfe.
+    en: Maggots, small nymphs.
+  bestMonths: [6, 7, 8, 9]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float, fly]
+  rigs: [float-rig, euro-nymphing]
+  tempRange: [12, 22]
+
+- slug: rdeceoka
+  name: { sl: Rdečeoka, en: Roach, de: Rotauge, it: Rutilo }
+  latin: Rutilus rutilus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Majhna srebrna riba z rdečimi očmi, idealna za učenje ribolova s plovcem.
+    en: A small silver fish with red eyes, ideal for learning float fishing.
+  habitat:
+    sl: Jezera, mrtvice in počasne reke.
+    en: Lakes, backwaters and slow rivers.
+  baits:
+    sl: Ličinke, kruh, pinkiji.
+    en: Maggots, bread, pinkies.
+  bestMonths: [4, 5, 6, 9, 10]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float, feeder]
+  rigs: [float-rig, feeder-rig]
+  tempRange: [10, 22]
+
+- slug: rdeceperka
+  name: { sl: Rdečeperka, en: Rudd, de: Rotfeder, it: Scardola }
+  latin: Scardinius erythrophthalmus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Zlatkasta riba z rdečimi plavutmi, ki se hrani blizu površine.
+    en: A golden fish with red fins that feeds near the surface.
+  habitat:
+    sl: Zaraščene plitvine jezer in ribnikov.
+    en: Weedy shallows of lakes and ponds.
+  baits:
+    sl: Kruh, ličinke, koruza.
+    en: Bread, maggots, sweetcorn.
+  bestMonths: [5, 6, 7, 8]
+  bestTime:
+    sl: Topli sončni dnevi.
+    en: Warm sunny days.
+  techniques: [float]
+  rigs: [float-rig]
+  tempRange: [15, 26]
+
+- slug: koreselj
+  name: { sl: Srebrni koreselj, en: Prussian carp, de: Giebel, it: Carassio }
+  latin: Carassius gibelio
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Invazivna, zelo prilagodljiva riba. Pogosto prijemlje, kar je dobro za začetnike.
+    en: An invasive, very adaptable fish. Bites readily, which makes it good for beginners.
+  habitat:
+    sl: Jezera, ribniki, kanali.
+    en: Lakes, ponds, canals.
+  baits:
+    sl: Ličinke, črvi, koruza, kruh.
+    en: Maggots, worms, sweetcorn, bread.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float, feeder]
+  rigs: [float-rig, feeder-rig]
+  tempRange: [14, 26]
+
+- slug: zelenika
+  name: { sl: Zelenika, en: Bleak, de: Ukelei, it: Alborella }
+  latin: Alburnus alburnus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Drobna površinska jatna ribica – odlična za prve ulove otrok z lahkim plovcem.
+    en: A tiny surface-schooling fish – great for children's first catches on a light float.
+  habitat:
+    sl: Površinski sloj jezer in počasnih rek.
+    en: The surface layer of lakes and slow rivers.
+  baits:
+    sl: Ličinke, drobtine kruha.
+    en: Maggots, breadcrumbs.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float]
+  rigs: [float-rig]
+  tempRange: [14, 26]
+
+- slug: jegulja
+  name: { sl: Jegulja, en: European eel, de: Aal, it: Anguilla }
+  latin: Anguilla anguilla
+  water: fresh
+  group: other
+  description:
+    sl: Skrivnostna selivka, ki se drsti v Sargaškem morju. Populacija je kritično ogrožena.
+    en: A mysterious migrant that spawns in the Sargasso Sea. The population is critically endangered.
+  habitat:
+    sl: Mirne, blatne vode in reke Jadranskega povodja.
+    en: Calm, muddy waters and rivers of the Adriatic basin.
+  baits:
+    sl: Črvi, kosi ribe – ponoči.
+    en: Worms, fish pieces – at night.
+  bestMonths: [6, 7, 8]
+  bestTime:
+    sl: Topla temna noč.
+    en: Warm dark nights.
+  techniques: [bottom]
+  rigs: [feeder-rig]
+  tempRange: [16, 26]
+  rules:
+    note:
+      sl: Kritično ogrožena vrsta (EU uredba o jegulji). Preverite, ali jo revir sploh dovoli – priporočamo izpust.
+      en: Critically endangered (EU eel regulation). Check whether the district allows it at all – release is recommended.
+  protected: true
+
+# --- Sea -------------------------------------------------------------------------------
+- slug: brancin
+  name: { sl: Brancin, en: European sea bass, de: Wolfsbarsch, it: Spigola }
+  latin: Dicentrarchus labrax
+  water: sea
+  group: sea
+  description:
+    sl: Najbolj cenjena riba slovenske obale. Lovi ob kamnitih obalah, valolomih in ustjih rek, najbolje pozimi in ob razburkanem morju.
+    en: The most prized fish of the Slovenian coast. Hunts along rocky shores, breakwaters and river mouths, best in winter and in choppy seas.
+  habitat:
+    sl: Valolomi, skale, pristanišča, ustja Rižane in Dragonje.
+    en: Breakwaters, rocks, harbours, the Rižana and Dragonja river mouths.
+  baits:
+    sl: Površinske vabe, voblerji, gumijaste vabe; živa kozica ali črv (morski črv) na plovcu.
+    en: Surface lures, minnow plugs, soft baits; live shrimp or sea worm on a float.
+  bestMonths: [10, 11, 12, 1, 2, 3]
+  bestTime:
+    sl: Mrak, noč in svit; ob južnem vetru in rahlo razburkanem morju.
+    en: Dusk, night and dawn; with southerly wind and slightly rough sea.
+  techniques: [spin, sea-shore]
+  rigs: [sea-bass-spinning, sea-bottom-rig]
+  tempRange: [10, 20]
+  rules:
+    minSizeCm: 25
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: orada
+  name: { sl: Orada, en: Gilthead sea bream, de: Goldbrasse, it: Orata }
+  latin: Sparus aurata
+  water: sea
+  group: sea
+  description:
+    sl: Močna riba z zlato progo na čelu, ki s čeljustmi drobi školjke. Jeseni pogosta ob pomolih.
+    en: A strong fish with a golden band on its forehead that crushes shellfish. Common near piers in autumn.
+  habitat:
+    sl: Peščeno-kamnito dno, školjčišča, pristanišča.
+    en: Sand and rock bottoms, mussel farms, harbours.
+  baits:
+    sl: Klapavice, rakci, morski črvi; talni sistem.
+    en: Mussels, crabs, sea worms; bottom rig.
+  bestMonths: [9, 10, 11]
+  bestTime:
+    sl: Jutro in večer, ob plimi.
+    en: Morning and evening, on the rising tide.
+  techniques: [sea-shore, bottom]
+  rigs: [sea-bottom-rig]
+  tempRange: [15, 24]
+  rules:
+    minSizeCm: 23
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: sarg
+  name: { sl: Šarg, en: White sea bream, de: Großer Geißbrassen, it: Sarago maggiore }
+  latin: Diplodus sargus
+  water: sea
+  group: sea
+  description:
+    sl: Previdna in borbena riba skalnatih obal, ki se rada zadržuje v peni ob valovih.
+    en: A wary, hard-fighting fish of rocky shores that likes the foam of breaking waves.
+  habitat:
+    sl: Skale, valolomi.
+    en: Rocks, breakwaters.
+  baits:
+    sl: Morski črvi, kozice, klapavice; lahek plovec ali talni sistem.
+    en: Sea worms, shrimp, mussels; light float or bottom rig.
+  bestMonths: [10, 11, 12, 3, 4]
+  bestTime:
+    sl: Ob razburkanem morju, mrak.
+    en: In choppy sea, dusk.
+  techniques: [sea-shore, float]
+  rigs: [sea-bottom-rig]
+  tempRange: [12, 22]
+  rules:
+    minSizeCm: 23
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: fratrc
+  name: { sl: Fratrc, en: Two-banded sea bream, de: Zweibindenbrasse, it: Sarago testa nera }
+  latin: Diplodus vulgaris
+  water: sea
+  group: sea
+  description:
+    sl: Pogost ulov ob pomolih z dvema temnima progama na telesu.
+    en: A common catch from piers, with two dark bands on its body.
+  habitat:
+    sl: Skale, pristanišča, pomoli.
+    en: Rocks, harbours, piers.
+  baits:
+    sl: Morski črvi, kozice, kruh.
+    en: Sea worms, shrimp, bread.
+  bestMonths: [5, 6, 7, 8, 9, 10]
+  bestTime:
+    sl: Čez dan in v mraku.
+    en: During the day and at dusk.
+  techniques: [sea-shore, float]
+  rigs: [sea-bottom-rig]
+  tempRange: [14, 24]
+  rules:
+    minSizeCm: 18
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: spar
+  name: { sl: Špar, en: Annular sea bream, de: Ringelbrasse, it: Sparaglione }
+  latin: Diplodus annularis
+  water: sea
+  group: sea
+  description:
+    sl: Majhna, zelo pogosta riba – najpogostejši prvi ulov na morju.
+    en: A small, very common fish – the most common first catch at sea.
+  habitat:
+    sl: Morska trava, pomoli, plitvine.
+    en: Seagrass, piers, shallows.
+  baits:
+    sl: Koščki kozice, črvi, kruh na majhnem trnku.
+    en: Bits of shrimp, worms, bread on a small hook.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [sea-shore, float]
+  rigs: [sea-bottom-rig]
+  tempRange: [15, 26]
+  rules:
+    minSizeCm: 12
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: ovcica
+  name: { sl: Ovčica, en: Sand steenbras, de: Marmorbrasse, it: Mormora }
+  latin: Lithognathus mormyrus
+  water: sea
+  group: sea
+  description:
+    sl: Riba peščenih plaž, ki rije po dnu za črvi in školjkami.
+    en: A fish of sandy beaches that digs in the sand for worms and shellfish.
+  habitat:
+    sl: Peščeno dno, plaže.
+    en: Sandy bottoms, beaches.
+  baits:
+    sl: Morski črvi na talnem sistemu (surfcasting).
+    en: Sea worms on a bottom rig (surfcasting).
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Mrak in noč.
+    en: Dusk and night.
+  techniques: [sea-shore, bottom]
+  rigs: [sea-bottom-rig]
+  tempRange: [16, 26]
+  rules:
+    minSizeCm: 20
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: ribon
+  name: { sl: Ribon, en: Common pandora, de: Rotbrasse, it: Pagello fragolino }
+  latin: Pagellus erythrinus
+  water: sea
+  group: sea
+  description:
+    sl: Rožnata riba globljih peščenih tal, pogosto ulovljena s čolna.
+    en: A pink fish of deeper sandy ground, often caught from a boat.
+  habitat:
+    sl: Peščeno-blatno dno na globini 10–50 m.
+    en: Sandy-muddy bottoms at 10–50 m depth.
+  baits:
+    sl: Morski črvi, koščki lignja.
+    en: Sea worms, squid strips.
+  bestMonths: [5, 6, 9, 10]
+  bestTime:
+    sl: Jutro.
+    en: Morning.
+  techniques: [bottom]
+  rigs: [sea-bottom-rig]
+  tempRange: [14, 22]
+  rules:
+    minSizeCm: 15
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: morski-list
+  name: { sl: Morski list, en: Common sole, de: Seezunge, it: Sogliola }
+  latin: Solea solea
+  water: sea
+  group: sea
+  description:
+    sl: Ploščata riba peščenega dna, aktivna ponoči.
+    en: A flatfish of sandy bottoms, active at night.
+  habitat:
+    sl: Peščeno in blatno dno v plitvinah.
+    en: Sandy and muddy bottoms in the shallows.
+  baits:
+    sl: Morski črvi na talnem sistemu.
+    en: Sea worms on a bottom rig.
+  bestMonths: [4, 5, 10, 11]
+  bestTime:
+    sl: Noč.
+    en: Night.
+  techniques: [bottom, sea-shore]
+  rigs: [sea-bottom-rig]
+  tempRange: [10, 20]
+  rules:
+    minSizeCm: 20
+    sourceUrl: https://eur-lex.europa.eu/eli/reg/2006/1967/oj
+
+- slug: cipelj
+  name: { sl: Cipelj, en: Grey mullet, de: Meeräsche, it: Cefalo }
+  latin: Chelon labrosus / Mugil cephalus
+  water: sea
+  group: sea
+  description:
+    sl: Pogosta, a izbirčna riba pristanišč in ustij rek. Na lahkem plovcu je boj zelo zabaven.
+    en: Common but fussy fish of harbours and river mouths. Great fun on a light float.
+  habitat:
+    sl: Pristanišča, kanali, ustja rek (Koper, Izola, Portorož).
+    en: Harbours, canals, river mouths (Koper, Izola, Portorož).
+  baits:
+    sl: Kruh, sir s kruhom, testo; z vabljenjem s kruhom.
+    en: Bread, bread-and-cheese paste, dough; with bread groundbait.
+  bestMonths: [4, 5, 6, 7, 8, 9, 10]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float, sea-shore]
+  rigs: [float-rig]
+  tempRange: [14, 28]
+
+- slug: salpa
+  name: { sl: Salpa, en: Salema, de: Goldstrieme, it: Salpa }
+  latin: Sarpa salpa
+  water: sea
+  group: sea
+  description:
+    sl: Rastlinojeda jatna riba z zlatimi progami. Previdna – potreben tanek predvrvični del.
+    en: A herbivorous schooling fish with golden stripes. Wary – use a fine leader.
+  habitat:
+    sl: Skale z algami, pomoli.
+    en: Algae-covered rocks, piers.
+  baits:
+    sl: Alge (zelena morska solata), kruh.
+    en: Algae (sea lettuce), bread.
+  bestMonths: [5, 6, 7, 8, 9, 10]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float, sea-shore]
+  rigs: [float-rig]
+  tempRange: [15, 26]
+
+- slug: ugor
+  name: { sl: Ugor, en: Conger eel, de: Meeraal, it: Grongo }
+  latin: Conger conger
+  water: sea
+  group: sea
+  description:
+    sl: Močna nočna riba valolomov in podvodnih razpok.
+    en: A powerful night-time fish of breakwaters and crevices.
+  habitat:
+    sl: Kamniti valolomi, razpoke.
+    en: Rocky breakwaters, crevices.
+  baits:
+    sl: Kosi sardele ali lignja na močnem talnem sistemu.
+    en: Sardine or squid chunks on a strong bottom rig.
+  bestMonths: [6, 7, 8, 9, 10]
+  bestTime:
+    sl: Noč.
+    en: Night.
+  techniques: [bottom, sea-shore]
+  rigs: [sea-bottom-rig]
+  tempRange: [12, 24]
+
+- slug: lignji
+  name: { sl: Lignji, en: European squid, de: Kalmar, it: Calamaro }
+  latin: Loligo vulgaris
+  water: sea
+  group: cephalopod
+  description:
+    sl: Zimski klasik slovenske obale. Lovijo se ponoči z luči osvetljenih pomolov na vabe kalamarjere (eging).
+    en: A winter classic on the Slovenian coast. Caught at night from lit piers with squid jigs (eging).
+  habitat:
+    sl: Osvetljeni pomoli in obale ob mraku in ponoči.
+    en: Lit piers and shorelines at dusk and night.
+  baits:
+    sl: Kalamarjere (EGI) vel. 2.0–3.0 v naravnih ali fluorescentnih barvah.
+    en: Squid jigs (EGI) size 2.0–3.0 in natural or glow colours.
+  bestMonths: [10, 11, 12, 1, 2]
+  bestTime:
+    sl: Mrak in noč; mirno morje, mesečina.
+    en: Dusk and night; calm sea, moonlight.
+  techniques: [eging]
+  rigs: [eging]
+  tempRange: [10, 18]
+
+- slug: sipa
+  name: { sl: Sipa, en: Common cuttlefish, de: Sepia, it: Seppia }
+  latin: Sepia officinalis
+  water: sea
+  group: cephalopod
+  description:
+    sl: Spomladi prihaja v plitvine na drst; lovi se z istimi vabami kot lignji, počasi ob dnu.
+    en: Comes into the shallows in spring to spawn; caught with the same jigs as squid, slowly near the bottom.
+  habitat:
+    sl: Plitvine z morsko travo.
+    en: Seagrass shallows.
+  baits:
+    sl: Kalamarjere, vodene počasi ob dnu.
+    en: Squid jigs worked slowly near the bottom.
+  bestMonths: [3, 4, 5]
+  bestTime:
+    sl: Čez dan in v mraku.
+    en: During the day and at dusk.
+  techniques: [eging]
+  rigs: [eging]
+  tempRange: [12, 20]
