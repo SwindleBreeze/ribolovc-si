@@ -2,6 +2,7 @@
 title: Drop-shot
 summary: A finesse technique for perch and zander – the bait hovers above the bottom.
 category: rig
+techniques: [spin]
 order: 13
 species: [ostriz, smuc, scuka]
 ---

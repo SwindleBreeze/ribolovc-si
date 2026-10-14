@@ -2,6 +2,7 @@
 title: Brancin z obale (spinning)
 summary: Lov brancina z umetnimi vabami ob valolomih, skalah in ustjih rek.
 category: sea
+techniques: [spin, sea-shore]
 order: 32
 species: [brancin]
 ---

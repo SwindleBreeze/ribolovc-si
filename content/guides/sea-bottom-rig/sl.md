@@ -2,6 +2,7 @@
 title: Talni sistem na morju
 summary: Ribolov z dnom s pomola ali plaže – za orade, šarge, ovčice, ugore in morske liste.
 category: sea
+techniques: [sea-shore, bottom]
 order: 30
 species: [orada, sarg, ovcica, ugor, morski-list, fratrc, spar]
 ---

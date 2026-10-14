@@ -2,6 +2,7 @@
 title: Vrtenje (spinning) z umetnimi vabami
 summary: Aktivni lov plenilcev z vrtilkami, žlicami, voblerji in gumijastimi vabami.
 category: technique
+techniques: [spin]
 order: 20
 species: [scuka, smuc, ostriz, potocna-postrv, sarenka, klen, bolen]
 ---

@@ -2,6 +2,7 @@
 title: Nimfanje (evropsko nimfanje)
 summary: Najučinkovitejša muharska tehnika za postrvi in lipane v slovenskih rekah.
 category: technique
+techniques: [fly]
 order: 21
 species: [potocna-postrv, sarenka, lipan, soska-postrv]
 ---

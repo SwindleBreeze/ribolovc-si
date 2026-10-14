@@ -2,6 +2,7 @@
 title: Carp fishing – the hair rig with boilies
 summary: The classic carp rig with the bait on a hair for self-hooking.
 category: rig
+techniques: [carp]
 order: 12
 species: [krap, amur]
 ---

@@ -2,6 +2,7 @@
 title: Euro nymphing
 summary: The most effective fly technique for trout and grayling in Slovenian rivers.
 category: technique
+techniques: [fly]
 order: 21
 species: [potocna-postrv, sarenka, lipan, soska-postrv]
 ---

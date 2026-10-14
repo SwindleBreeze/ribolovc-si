@@ -2,6 +2,7 @@
 title: Lov lignjev (eging)
 summary: Zimski klasik slovenske obale – kalamarjere, osvetljeni pomoli in tehnika sunkov.
 category: sea
+techniques: [eging]
 order: 31
 species: [lignji, sipa]
 ---

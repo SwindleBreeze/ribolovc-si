@@ -2,6 +2,7 @@
 title: Feeder (krmilni koš)
 summary: Talni sistem s košarico za hrano – za ploščiče, mrene, krape in some.
 category: rig
+techniques: [feeder, bottom, carp]
 order: 11
 species: [ploscic, mrena, krap, linj, som]
 ---

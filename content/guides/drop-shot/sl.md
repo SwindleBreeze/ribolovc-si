@@ -2,6 +2,7 @@
 title: Drop-shot
 summary: Fina tehnika za ostriže in smuče – vaba lebdi nad dnom.
 category: rig
+techniques: [spin]
 order: 13
 species: [ostriz, smuc, scuka]
 ---

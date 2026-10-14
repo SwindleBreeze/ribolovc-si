@@ -2,6 +2,7 @@
 title: Ribolov s plovcem
 summary: Najpreprostejši in najbolj vsestranski sistem – za rdečeoke, ploščiče, linje, krape in ciplje.
 category: rig
+techniques: [float, sea-shore]
 order: 10
 species: [rdeceoka, krap, linj, ploscic, klen, cipelj, ostriz]
 ---

@@ -2,6 +2,7 @@
 title: Suha muha
 summary: Muharjenje na površini – ko ribe dvigujejo na izleteče žuželke.
 category: technique
+techniques: [fly]
 order: 22
 species: [potocna-postrv, sarenka, lipan, klen]
 ---

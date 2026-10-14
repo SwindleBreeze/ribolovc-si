@@ -2,6 +2,7 @@
 title: Float fishing
 summary: The simplest and most versatile rig – for roach, bream, tench, carp and mullet.
 category: rig
+techniques: [float, sea-shore]
 order: 10
 species: [rdeceoka, krap, linj, ploscic, klen, cipelj, ostriz]
 ---

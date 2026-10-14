@@ -131,5 +131,7 @@ export const GuideFrontmatter = z.object({
   category: z.enum(guideCategories),
   order: z.number().default(100),
   species: z.array(z.string()).default([]),
+  /** Techniques a rig/technique guide is for; used to only suggest rigs a spot allows. */
+  techniques: z.array(z.enum(techniques)).default([]),
 });
 export type GuideFrontmatter = z.infer<typeof GuideFrontmatter>;

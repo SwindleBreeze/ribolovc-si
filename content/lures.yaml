@@ -82,7 +82,7 @@
   clarity: [clear]
   seasons: [summer, autumn]
   techniques: [spin]
-  guide: sea-bass-spinning
+  guide: spinning
 
 - slug: nimfa
   name: { sl: Nimfa, en: Nymph, de: Nymphe, it: Ninfa }

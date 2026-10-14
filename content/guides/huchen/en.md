@@ -2,6 +2,7 @@
 title: Winter huchen fishing
 summary: Preparing for the fish of a lifetime – gear, lures, rules and ethics.
 category: technique
+techniques: [spin, fly]
 order: 23
 species: [sulec]
 ---

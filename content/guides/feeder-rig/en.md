@@ -2,6 +2,7 @@
 title: Feeder fishing
 summary: A bottom rig with a bait cage – for bream, barbel, carp and catfish.
 category: rig
+techniques: [feeder, bottom, carp]
 order: 11
 species: [ploscic, mrena, krap, linj, som]
 ---

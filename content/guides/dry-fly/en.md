@@ -2,6 +2,7 @@
 title: Dry fly
 summary: Surface fly fishing – when fish rise to hatching insects.
 category: technique
+techniques: [fly]
 order: 22
 species: [potocna-postrv, sarenka, lipan, klen]
 ---

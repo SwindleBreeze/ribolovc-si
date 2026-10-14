@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arsopodatki verzija="1.4">
+<postaja sifra="8060" ge_dolzina="13.7351" ge_sirina="46.1712" kota_0="150.12">
+  <reka>Soča</reka><merilno_mesto>Kobarid</merilno_mesto><ime_kratko>Soča - Kobarid</ime_kratko>
+  <datum>2026-06-10 06:00</datum><vodostaj>118</vodostaj><pretok>32.4</pretok><pretok_znacilni>srednji pretok</pretok_znacilni><temp_vode>9.8</temp_vode>
+</postaja>
+<postaja sifra="3420" ge_dolzina="14.5303" ge_sirina="46.0402" kota_0="285.00">
+  <reka>Ljubljanica</reka><merilno_mesto>Moste</merilno_mesto>
+  <datum>2026-06-10 06:00</datum><vodostaj>142</vodostaj><pretok>61.0</pretok><pretok_znacilni>visok pretok</pretok_znacilni><temp_vode>11.2</temp_vode>
+</postaja>
+<postaja sifra="9999" ge_dolzina="13.70" ge_sirina="46.20">
+  <reka>Tolminka</reka><merilno_mesto>Tolmin</merilno_mesto>
+  <datum>2026-06-10 06:00</datum><vodostaj>40</vodostaj><pretok></pretok><temp_vode></temp_vode>
+</postaja>
+</arsopodatki>

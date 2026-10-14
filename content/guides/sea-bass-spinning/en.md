@@ -2,6 +2,7 @@
 title: Sea bass from the shore (spinning)
 summary: Catching sea bass on lures along breakwaters, rocks and river mouths.
 category: sea
+techniques: [spin, sea-shore]
 order: 32
 species: [brancin]
 ---

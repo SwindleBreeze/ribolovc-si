@@ -2,6 +2,7 @@
 title: Squid fishing (eging)
 summary: A winter classic on the Slovenian coast – squid jigs, lit piers and the jerk technique.
 category: sea
+techniques: [eging]
 order: 31
 species: [lignji, sipa]
 ---

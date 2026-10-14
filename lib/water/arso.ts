@@ -5,6 +5,8 @@
  * when the station measures them. Data © ARSO, used with attribution.
  */
 
+import { distanceKm } from '../geo';
+
 export const ARSO_HYDRO_URL = 'https://www.arso.gov.si/xml/vode/hidro_podatki_zadnji.xml';
 
 export type WaterStation = {
@@ -69,15 +71,6 @@ export function normalizeName(s: string): string {
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
     .replace(/[^a-z]/g, '');
-}
-
-export function distanceKm(a: [number, number], b: [number, number]): number {
-  const R = 6371;
-  const toRad = (d: number) => (d * Math.PI) / 180;
-  const dLat = toRad(b[0] - a[0]);
-  const dLon = toRad(b[1] - a[1]);
-  const h = Math.sin(dLat / 2) ** 2 + Math.cos(toRad(a[0])) * Math.cos(toRad(b[0])) * Math.sin(dLon / 2) ** 2;
-  return 2 * R * Math.asin(Math.sqrt(h));
 }
 
 const MAX_DISTANCE_KM = 35;

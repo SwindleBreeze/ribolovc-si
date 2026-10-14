@@ -2,6 +2,7 @@
 title: Zimski lov na sulca
 summary: Kako se pripraviti na ribo življenja – oprema, vabe, pravila in etika.
 category: technique
+techniques: [spin, fly]
 order: 23
 species: [sulec]
 ---

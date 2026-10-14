@@ -2,6 +2,7 @@
 title: Krapolov – "hair rig" z boilijem
 summary: Klasični šaranarski sistem z vabo na lasku za samozasekovanje krapov.
 category: rig
+techniques: [carp]
 order: 12
 species: [krap, amur]
 ---

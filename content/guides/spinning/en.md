@@ -2,6 +2,7 @@
 title: Spinning with artificial lures
 summary: Actively hunting predators with spinners, spoons, plugs and soft baits.
 category: technique
+techniques: [spin]
 order: 20
 species: [scuka, smuc, ostriz, potocna-postrv, sarenka, klen, bolen]
 ---

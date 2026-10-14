@@ -2,6 +2,7 @@
 title: Sea bottom rig
 summary: Bottom fishing from a pier or beach – for gilthead, white bream, sand steenbras, conger and sole.
 category: sea
+techniques: [sea-shore, bottom]
 order: 30
 species: [orada, sarg, ovcica, ugor, morski-list, fratrc, spar]
 ---
