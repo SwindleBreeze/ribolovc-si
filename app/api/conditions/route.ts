@@ -1,7 +1,8 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { NextResponse, type NextRequest } from 'next/server';
-import { getSpecies, getSpot } from '@/lib/content';
+import { getRevir, getSpecies, getSpot } from '@/lib/content';
+import type { WaterType } from '@/lib/schema';
 import { buildConditions, todayInSlovenia } from '@/lib/conditions';
 import { forecastUrl, marineUrl, parseForecast, parseMarine } from '@/lib/weather/openmeteo';
 import { ARSO_HYDRO_URL, parseArsoHydro, pickStation } from '@/lib/water/arso';
@@ -26,9 +27,28 @@ async function fetchText(url: string, fixture: string): Promise<string> {
   return res.text();
 }
 
+type Target = {
+  slug: string;
+  type: WaterType;
+  coords: [number, number];
+  water?: string;
+  arsoStation?: string;
+  species: string[];
+};
+
+/** A curated spot (?spot=slug) or a generated fishing section (?revir=club/slug). */
+function resolveTarget(spotSlug: string | null, revirId: string | null): Target | null {
+  if (revirId) {
+    const r = getRevir(revirId);
+    if (!r?.center) return null;
+    return { slug: r.id, type: r.waterType, coords: r.center, water: r.water ?? undefined, species: r.species };
+  }
+  const s = spotSlug ? getSpot(spotSlug) : undefined;
+  return s ? { slug: s.slug, type: s.type, coords: s.coords, water: s.water, arsoStation: s.arsoStation, species: s.species } : null;
+}
+
 export async function GET(request: NextRequest) {
-  const slug = request.nextUrl.searchParams.get('spot') ?? '';
-  const spot = getSpot(slug);
+  const spot = resolveTarget(request.nextUrl.searchParams.get('spot'), request.nextUrl.searchParams.get('revir'));
   if (!spot) return NextResponse.json({ error: 'Unknown spot' }, { status: 404 });
 
   const [lat, lon] = spot.coords;

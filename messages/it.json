@@ -36,7 +36,13 @@
     "search": "Cerca spot…",
     "depthLayer": "Profondità del mare (EMODnet)"
   },
-  "waterType": { "river": "Fiume", "lake": "Lago", "reservoir": "Bacino", "pond": "Laghetto", "sea": "Mare" },
+  "waterType": {
+    "river": "Fiume",
+    "lake": "Lago",
+    "reservoir": "Bacino",
+    "pond": "Laghetto",
+    "sea": "Mare"
+  },
   "technique": {
     "fly": "Pesca a mosca",
     "spin": "Spinning",
@@ -58,9 +64,14 @@
     "koroska": "Carinzia (Koroška)",
     "stajerska": "Stiria (Štajerska)",
     "pomurje": "Oltremura (Pomurje)",
+    "zasavje": "Zasavje",
     "obala": "Costa"
   },
-  "difficulty": { "1": "Facile", "2": "Media", "3": "Impegnativa" },
+  "difficulty": {
+    "1": "Facile",
+    "2": "Media",
+    "3": "Impegnativa"
+  },
   "spot": {
     "species": "Cosa si pesca",
     "techniques": "Tecniche",
@@ -99,7 +110,12 @@
     "error": "Al momento non è possibile caricare le previsioni. Riprova più tardi.",
     "today": "Oggi",
     "score": "Indice di pesca",
-    "label": { "poor": "Scarso", "fair": "Discreto", "good": "Buono", "great": "Ottimo" },
+    "label": {
+      "poor": "Scarso",
+      "fair": "Discreto",
+      "good": "Buono",
+      "great": "Ottimo"
+    },
     "why": "Perché?",
     "scoreNote": "L'indice è un orientamento basato su meteo, pressione, luna e acqua – non una previsione di cattura.",
     "temp": "Temperatura",
@@ -122,8 +138,17 @@
     "measured": "Misurato {time}",
     "noWater": "Non c'è una stazione ARSO vicina per questo spot.",
     "waterError": "I dati ARSO non sono disponibili al momento.",
-    "flowLevel": { "low": "Portata bassa", "normal": "Portata media", "high": "Portata alta", "flood": "Piena!" },
-    "trend": { "falling": "in calo", "rising": "in aumento", "stable": "stabile" },
+    "flowLevel": {
+      "low": "Portata bassa",
+      "normal": "Portata media",
+      "high": "Portata alta",
+      "flood": "Piena!"
+    },
+    "trend": {
+      "falling": "in calo",
+      "rising": "in aumento",
+      "stable": "stabile"
+    },
     "sources": "Fonti: Open-Meteo, ARSO, calcolo di sole e luna.",
     "factor": {
       "pressure-stable": "Pressione stabile",
@@ -179,7 +204,12 @@
   "guides": {
     "title": "Guide",
     "intro": "Dai primi passi alle tecniche avanzate – montature, nodi, esche e regole.",
-    "category": { "beginner": "Principianti", "rig": "Montature", "technique": "Tecniche", "sea": "Mare" },
+    "category": {
+      "beginner": "Principianti",
+      "rig": "Montature",
+      "technique": "Tecniche",
+      "sea": "Mare"
+    },
     "fallback": "Questa guida non è ancora tradotta – mostriamo la versione {lang}.",
     "related": "Pesci"
   },
@@ -191,7 +221,12 @@
     "clear": "Limpida",
     "murky": "Torbida",
     "season": "Stagione",
-    "seasons": { "spring": "Primavera", "summer": "Estate", "autumn": "Autunno", "winter": "Inverno" },
+    "seasons": {
+      "spring": "Primavera",
+      "summer": "Estate",
+      "autumn": "Autunno",
+      "winter": "Inverno"
+    },
     "results": "Esche consigliate",
     "none": "Nessuna esca artificiale per questa combinazione – prova esche naturali:",
     "naturalBaits": "Esche naturali",

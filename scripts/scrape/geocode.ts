@@ -1,0 +1,433 @@
+/**
+ * Places a fishing section on the map from its name and boundary description using
+ * OpenStreetMap layers: picks the right river (by name, near the club or gauge), resolves the
+ * "od X do Y" ends to points on it and cuts the stretch between them.
+ */
+import { closestOnLine, distKm, lineLengthKm, midpointAlong, simplify, type LonLat } from './geo';
+import type { OsmPoint, OsmRiver, OsmWater } from './osm-extract';
+import { classifyBound, norm, phraseVariants, splitBounds, toponymCandidates, waterName } from './toponyms';
+
+export type Quality = 'segment' | 'partial' | 'water' | 'gauge' | 'place' | 'none';
+
+export type Placement = {
+  quality: Quality;
+  geometry:
+    | { type: 'LineString'; coordinates: LonLat[] }
+    | { type: 'Polygon'; coordinates: LonLat[][] }
+    | { type: 'Point'; coordinates: LonLat }
+    | null;
+  /** [lon, lat] label/forecast point. */
+  center: LonLat | null;
+  lengthKm: number | null;
+  /** OSM river or lake name actually matched (used for ARSO station matching). */
+  matchedWater: string | null;
+  notes: string[];
+};
+
+export type OsmLayers = {
+  rivers: OsmRiver[];
+  waters: OsmWater[];
+  places: OsmPoint[];
+  structures: OsmPoint[];
+};
+
+type Cluster = { name: string; parts: OsmRiver[]; vertices: LonLat[] };
+
+const key = (p: LonLat) => `${p[0].toFixed(5)},${p[1].toFixed(5)}`;
+
+export class Geocoder {
+  private riversByName = new Map<string, OsmRiver[]>();
+  private placesByName = new Map<string, OsmPoint[]>();
+  private clusterCache = new Map<string, Cluster[]>();
+
+  constructor(private osm: OsmLayers) {
+    for (const r of osm.rivers) {
+      for (const n of riverNameKeys(r.name)) push(this.riversByName, n, r);
+    }
+    for (const p of osm.places) push(this.placesByName, norm(p.name), p);
+  }
+
+  /** Town of a club ("Ribiška družina Slovenska Bistrica" → Slovenska Bistrica). */
+  clubSeat(clubName: string): LonLat | null {
+    const rest = clubName.replace(/^(ribiška družina|ribiško društvo|rd)\s+/i, '').trim();
+    if (!rest || /zavod/i.test(clubName)) return null;
+    const words = rest.split(/\s+/);
+    // Try the full name, then the last word(s): "Bistrica Domžale" → "Domžale".
+    const tries = [rest, words.slice(-1).join(' '), words.slice(0, 1).join(' '), words.slice(-2).join(' ')];
+    for (const t of tries) {
+      const hits = (this.placesByName.get(norm(t)) ?? []).sort((a, b) => placeRank(a.kind) - placeRank(b.kind));
+      if (hits.length) return hits[0].at;
+    }
+    return null;
+  }
+
+  private clusters(name: string): Cluster[] {
+    const variants = [...new Set(phraseVariants(name).map(norm))];
+    const cacheKey = variants.join('|');
+    const cached = this.clusterCache.get(cacheKey);
+    if (cached) return cached;
+    const parts = [...new Set(variants.flatMap((v) => this.riversByName.get(v) ?? []))];
+    // Union parts that share an endpoint (OSM ways of one river are chained end to end).
+    const parent = parts.map((_, i) => i);
+    const find = (i: number): number => (parent[i] === i ? i : (parent[i] = find(parent[i])));
+    const ends = new Map<string, number>();
+    parts.forEach((p, i) => {
+      for (const v of [p.line[0], p.line[p.line.length - 1]]) {
+        const k = key(v);
+        if (ends.has(k)) parent[find(i)] = find(ends.get(k)!);
+        else ends.set(k, i);
+      }
+    });
+    // Also join parts whose ends are within 60 m (simplification can nudge shared nodes).
+    for (let i = 0; i < parts.length; i++) {
+      for (let j = i + 1; j < parts.length; j++) {
+        if (find(i) === find(j)) continue;
+        const a = parts[i].line;
+        const b = parts[j].line;
+        const pairs: [LonLat, LonLat][] = [
+          [a[0], b[0]],
+          [a[0], b[b.length - 1]],
+          [a[a.length - 1], b[0]],
+          [a[a.length - 1], b[b.length - 1]],
+        ];
+        if (pairs.some(([x, y]) => distKm(x, y) < 0.06)) parent[find(i)] = find(j);
+      }
+    }
+    const groups = new Map<number, OsmRiver[]>();
+    parts.forEach((p, i) => push(groups, find(i), p));
+    const result = [...groups.values()].map((ps) => ({ name: ps[0].name, parts: ps, vertices: ps.flatMap((p) => p.line) }));
+    this.clusterCache.set(cacheKey, result);
+    return result;
+  }
+
+  private distToCluster(p: LonLat, c: Cluster): { km: number; point: LonLat } {
+    let best = { km: Infinity, point: p };
+    for (const part of c.parts) {
+      const r = closestOnLine(p, part.line);
+      if (r.km < best.km) best = { km: r.km, point: r.point };
+    }
+    return best;
+  }
+
+  /** Source (no inflow) and mouth (no outflow) of a cluster, using OSM's downstream way direction. */
+  private terminals(c: Cluster): { sources: LonLat[]; mouths: LonLat[] } {
+    const starts = new Map<string, LonLat>();
+    const endsAt = new Map<string, LonLat>();
+    for (const p of c.parts) {
+      starts.set(key(p.line[0]), p.line[0]);
+      endsAt.set(key(p.line[p.line.length - 1]), p.line[p.line.length - 1]);
+    }
+    const sources = [...starts].filter(([k]) => !endsAt.has(k)).map(([, v]) => v);
+    const mouths = [...endsAt].filter(([k]) => !starts.has(k)).map(([, v]) => v);
+    return { sources, mouths };
+  }
+
+  /** Shortest path along the river network between two points snapped onto it. */
+  private pathBetween(c: Cluster, a: LonLat, b: LonLat): LonLat[] | null {
+    const adj = new Map<string, { to: string; km: number }[]>();
+    const coord = new Map<string, LonLat>();
+    for (const part of c.parts) {
+      for (let i = 0; i < part.line.length; i++) {
+        const k = key(part.line[i]);
+        coord.set(k, part.line[i]);
+        if (i > 0) {
+          const kp = key(part.line[i - 1]);
+          const km = distKm(part.line[i - 1], part.line[i]);
+          push(adj, k, { to: kp, km });
+          push(adj, kp, { to: k, km });
+        }
+      }
+    }
+    // Bridge near-touching part ends so the graph is connected.
+    const ends = c.parts.flatMap((p) => [p.line[0], p.line[p.line.length - 1]]);
+    for (let i = 0; i < ends.length; i++) {
+      for (let j = i + 1; j < ends.length; j++) {
+        const d = distKm(ends[i], ends[j]);
+        if (d > 0 && d < 0.06) {
+          push(adj, key(ends[i]), { to: key(ends[j]), km: d });
+          push(adj, key(ends[j]), { to: key(ends[i]), km: d });
+        }
+      }
+    }
+    const nearest = (p: LonLat) => {
+      let best = '';
+      let bd = Infinity;
+      for (const [k, v] of coord) {
+        const d = distKm(p, v);
+        if (d < bd) {
+          bd = d;
+          best = k;
+        }
+      }
+      return best;
+    };
+    const s = nearest(a);
+    const t = nearest(b);
+    if (!s || !t) return null;
+    if (s === t) return [coord.get(s)!];
+    // Dijkstra with a simple binary heap.
+    const dist = new Map<string, number>([[s, 0]]);
+    const prev = new Map<string, string>();
+    const heap: [number, string][] = [[0, s]];
+    const pop = () => {
+      const top = heap[0];
+      const last = heap.pop()!;
+      if (heap.length) {
+        heap[0] = last;
+        let i = 0;
+        for (;;) {
+          const l = 2 * i + 1;
+          const r = l + 1;
+          let m = i;
+          if (l < heap.length && heap[l][0] < heap[m][0]) m = l;
+          if (r < heap.length && heap[r][0] < heap[m][0]) m = r;
+          if (m === i) break;
+          [heap[i], heap[m]] = [heap[m], heap[i]];
+          i = m;
+        }
+      }
+      return top;
+    };
+    const pushHeap = (item: [number, string]) => {
+      heap.push(item);
+      let i = heap.length - 1;
+      while (i > 0) {
+        const p = (i - 1) >> 1;
+        if (heap[p][0] <= heap[i][0]) break;
+        [heap[i], heap[p]] = [heap[p], heap[i]];
+        i = p;
+      }
+    };
+    while (heap.length) {
+      const [d, u] = pop();
+      if (u === t) break;
+      if (d > (dist.get(u) ?? Infinity)) continue;
+      for (const e of adj.get(u) ?? []) {
+        const nd = d + e.km;
+        if (nd < (dist.get(e.to) ?? Infinity)) {
+          dist.set(e.to, nd);
+          prev.set(e.to, u);
+          pushHeap([nd, e.to]);
+        }
+      }
+    }
+    if (!dist.has(t)) return null;
+    const path: LonLat[] = [];
+    for (let k: string | undefined = t; k; k = prev.get(k)) path.push(coord.get(k)!);
+    return path.reverse();
+  }
+
+  /** Resolve one boundary phrase to a point on the river cluster. */
+  private resolveBound(phrase: string, c: Cluster, other: LonLat | null): { point: LonLat; how: string } | null {
+    const b = classifyBound(phrase);
+    const { sources, mouths } = this.terminals(c);
+    if (b.kind === 'source' && sources.length) {
+      return { point: farthestFrom(sources, other ?? mouths[0] ?? sources[0]), how: 'izvir' };
+    }
+    if (b.kind === 'mouth' && mouths.length) return { point: farthestFrom(mouths, other ?? sources[0] ?? mouths[0]), how: 'izliv' };
+    if (b.kind === 'border') {
+      const terms = [...sources, ...mouths];
+      if (terms.length && other) return { point: farthestFrom(terms, other), how: 'meja' };
+      return null;
+    }
+    if (b.kind === 'confluence' && b.other) {
+      const others = this.clusters(b.other).filter((o) => o.name !== c.name);
+      let best: { km: number; point: LonLat } | null = null;
+      for (const o of others) {
+        for (const v of o.vertices) {
+          const d = this.distToCluster(v, c);
+          if (d.km < 0.3 && (!best || d.km < best.km)) best = { km: d.km, point: d.point };
+        }
+      }
+      if (best) return { point: best.point, how: `sotočje ${b.other}` };
+      if (mouths.length && /izliv/.test(phrase.toLowerCase())) return { point: farthestFrom(mouths, other ?? sources[0] ?? mouths[0]), how: 'izliv' };
+    }
+    // A named place (village, dam, bridge) near the river.
+    let best: { score: number; point: LonLat; how: string } | null = null;
+    for (const cand of toponymCandidates(phrase)) {
+      for (const variant of phraseVariants(cand)) {
+        for (const pl of this.placesByName.get(norm(variant)) ?? []) {
+          const d = this.distToCluster(pl.at, c);
+          if (d.km > 6) continue;
+          let point = d.point;
+          let how = `kraj ${pl.name}`;
+          if (b.structure) {
+            const s = this.nearestStructure(pl.at, c, b.structure);
+            if (s) {
+              point = s;
+              how += ` (${b.structure === 'dam' ? 'jez' : 'most'})`;
+            }
+          }
+          const score = d.km + placeRank(pl.kind) * 0.2;
+          if (!best || score < best.score) best = { score, point, how };
+        }
+      }
+    }
+    return best ? { point: best.point, how: best.how } : null;
+  }
+
+  private nearestStructure(near: LonLat, c: Cluster, kind: 'dam' | 'bridge'): LonLat | null {
+    let best: { km: number; point: LonLat } | null = null;
+    for (const s of this.osm.structures) {
+      const isDam = s.kind === 'dam' || s.kind === 'weir';
+      if ((kind === 'dam') !== isDam) continue;
+      if (distKm(s.at, near) > 3) continue;
+      const d = this.distToCluster(s.at, c);
+      if (d.km < 0.25 && (!best || distKm(s.at, near) < best.km)) best = { km: distKm(s.at, near), point: d.point };
+    }
+    return best?.point ?? null;
+  }
+
+  placeRiver(input: { name: string; subtitle: string; anchor: LonLat | null; gauge: LonLat | null }): Placement {
+    const notes: string[] = [];
+    const wname = waterName(input.name);
+    let clusters = this.clusters(wname);
+    if (!clusters.length) {
+      // Some sections are named after the place ("Revir Javorniški Rovt"); try the first word too.
+      clusters = this.clusters(wname.split(' ')[0]);
+    }
+    if (!clusters.length) return this.placeFallback(input, [`reka »${wname}« ni v OSM`]);
+
+    const anchor = input.gauge ?? input.anchor;
+    const { from, to } = splitBounds(input.subtitle);
+    // Choose the river of that name closest to the anchor, or to a resolvable boundary.
+    const scored = clusters
+      .map((c) => ({ c, d: anchor ? this.distToCluster(anchor, c).km : 0, len: lineLengthKm(c.vertices) }))
+      .sort((a, b) => a.d - b.d || b.len - a.len);
+    const c = scored[0].c;
+    if (anchor && scored[0].d > 40) notes.push(`reka ${scored[0].d.toFixed(0)} km od sedeža družine`);
+
+    let a = from ? this.resolveBound(from, c, null) : null;
+    let b = to ? this.resolveBound(to, c, a?.point ?? null) : null;
+    if (!a && from && b) a = this.resolveBound(from, c, b.point);
+
+    if (a && b) {
+      const path = this.pathBetween(c, a.point, b.point);
+      if (path && path.length > 1) {
+        const line = simplify(path, 0.00008);
+        notes.push(`od: ${a.how}`, `do: ${b.how}`);
+        return {
+          quality: 'segment',
+          geometry: { type: 'LineString', coordinates: line },
+          center: midpointAlong(line),
+          lengthKm: round1(lineLengthKm(path)),
+          matchedWater: c.name,
+          notes,
+        };
+      }
+    }
+    const one = a ?? b;
+    if (one) {
+      notes.push(`samo ena meja: ${one.how}`);
+      return { quality: 'partial', geometry: { type: 'Point', coordinates: one.point }, center: one.point, lengthKm: null, matchedWater: c.name, notes };
+    }
+    if (input.gauge) {
+      const g = this.distToCluster(input.gauge, c);
+      if (g.km < 3) {
+        notes.push('mesto vodomerne postaje');
+        return { quality: 'gauge', geometry: { type: 'Point', coordinates: g.point }, center: g.point, lengthKm: null, matchedWater: c.name, notes };
+      }
+    }
+    const len = lineLengthKm(c.vertices);
+    if (!from && !to && len < 40) {
+      const line = simplify(this.pathBetween(c, ...longestSpan(c)) ?? c.parts[0].line, 0.00008);
+      notes.push('cel vodotok');
+      return { quality: 'water', geometry: { type: 'LineString', coordinates: line }, center: midpointAlong(line), lengthKm: round1(lineLengthKm(line)), matchedWater: c.name, notes };
+    }
+    if (input.anchor) {
+      const p = this.distToCluster(input.anchor, c);
+      if (p.km < 15) {
+        notes.push('meje niso razrešene; točka ob reki pri sedežu družine');
+        return { quality: 'place', geometry: { type: 'Point', coordinates: p.point }, center: p.point, lengthKm: null, matchedWater: c.name, notes };
+      }
+    }
+    return { quality: 'none', geometry: null, center: null, lengthKm: null, matchedWater: c.name, notes: [...notes, 'meje niso razrešene'] };
+  }
+
+  placeStill(input: { name: string; subtitle: string; anchor: LonLat | null }): Placement {
+    const names = [input.name, waterName(input.name), input.subtitle, waterName(input.subtitle)].filter(Boolean);
+    const keys = new Set(names.flatMap((n) => phraseVariants(n)).map(norm).filter((k) => k.length > 2));
+    const matches = this.osm.waters.filter((w) => {
+      const n = norm(w.name);
+      return keys.has(n) || [...keys].some((k) => k.length > 5 && (n.includes(k) || k.includes(n)) && n.length > 4);
+    });
+    const near = matches
+      .map((w) => ({ w, d: input.anchor ? distKm(input.anchor, w.centroid) : 0 }))
+      .filter((x) => !input.anchor || x.d < 35)
+      .sort((x, y) => x.d - y.d || y.w.areaKm2 - x.w.areaKm2);
+    if (near.length) {
+      const w = near[0].w;
+      return {
+        quality: 'water',
+        geometry: { type: 'Polygon', coordinates: [w.ring] },
+        center: w.centroid,
+        lengthKm: null,
+        matchedWater: w.name,
+        notes: [`jezero ${w.name}`],
+      };
+    }
+    return this.placeFallback({ ...input, gauge: null }, ['jezero ni v OSM']);
+  }
+
+  /** Last resort: a village named in the title ("Ribnik Rogoznica 1" → Rogoznica). */
+  private placeFallback(input: { name: string; subtitle: string; anchor: LonLat | null; gauge: LonLat | null }, notes: string[]): Placement {
+    const text = `${input.name} ${input.subtitle}`;
+    let best: { d: number; p: OsmPoint } | null = null;
+    for (const cand of toponymCandidates(text)) {
+      for (const v of phraseVariants(cand)) {
+        for (const pl of this.placesByName.get(norm(v)) ?? []) {
+          const d = input.anchor ? distKm(input.anchor, pl.at) : 0;
+          if (input.anchor && d > 35) continue;
+          if (!best || d < best.d) best = { d, p: pl };
+        }
+      }
+    }
+    if (best) {
+      return { quality: 'place', geometry: { type: 'Point', coordinates: best.p.at }, center: best.p.at, lengthKm: null, matchedWater: null, notes: [...notes, `kraj ${best.p.name}`] };
+    }
+    if (input.gauge) {
+      return { quality: 'gauge', geometry: { type: 'Point', coordinates: input.gauge }, center: input.gauge, lengthKm: null, matchedWater: null, notes: [...notes, 'vodomerna postaja'] };
+    }
+    return { quality: 'none', geometry: null, center: null, lengthKm: null, matchedWater: null, notes };
+  }
+}
+
+function push<K, V>(m: Map<K, V[]>, k: K, v: V) {
+  const arr = m.get(k);
+  if (arr) arr.push(v);
+  else m.set(k, [v]);
+}
+
+/** OSM river names can be bilingual ("Mura - Mur") or carry a prefix ("Potok X"). */
+function riverNameKeys(name: string): string[] {
+  const keys = new Set<string>([norm(name)]);
+  for (const part of name.split(/\s*[/;-]\s*/)) keys.add(norm(part));
+  keys.add(norm(waterName(name)));
+  return [...keys].filter(Boolean);
+}
+
+function placeRank(kind: string): number {
+  return ['city', 'town', 'village', 'suburb', 'hamlet', 'neighbourhood', 'locality', 'isolated_dwelling', 'quarter'].indexOf(kind) + 1 || 10;
+}
+
+function farthestFrom(points: LonLat[], from: LonLat): LonLat {
+  return points.reduce((best, p) => (distKm(p, from) > distKm(best, from) ? p : best), points[0]);
+}
+
+function longestSpan(c: Cluster): [LonLat, LonLat] {
+  const ends = c.parts.flatMap((p) => [p.line[0], p.line[p.line.length - 1]]);
+  let best: [LonLat, LonLat] = [ends[0], ends[ends.length - 1]];
+  let bd = -1;
+  for (let i = 0; i < ends.length; i++) {
+    for (let j = i + 1; j < ends.length; j++) {
+      const d = distKm(ends[i], ends[j]);
+      if (d > bd) {
+        bd = d;
+        best = [ends[i], ends[j]];
+      }
+    }
+  }
+  return best;
+}
+
+const round1 = (n: number) => Math.round(n * 10) / 10;

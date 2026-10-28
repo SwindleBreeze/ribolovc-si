@@ -32,6 +32,7 @@ export const regions = [
   'koroska',
   'stajerska',
   'pomurje',
+  'zasavje',
   'obala',
 ] as const;
 export const lureClarity = ['clear', 'murky'] as const;
@@ -135,3 +136,51 @@ export const GuideFrontmatter = z.object({
   techniques: z.array(z.enum(techniques)).default([]),
 });
 export type GuideFrontmatter = z.infer<typeof GuideFrontmatter>;
+
+const Pos = z.tuple([z.number(), z.number()]);
+
+/** A fishing section (revir) generated from ribiskekarte.si + OpenStreetMap by scripts/scrape. */
+export const Revir = z.object({
+  id: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+$/),
+  clubSlug: z.string(),
+  slug: z.string(),
+  code: z.string(),
+  name: z.string(),
+  subtitle: z.string(),
+  en: z.object({ name: z.string(), subtitle: z.string(), description: z.string() }).nullable(),
+  club: z.object({ name: z.string(), url: z.string() }),
+  description: z.string(),
+  waterType: z.enum(['river', 'lake', 'reservoir', 'pond']),
+  water: z.string().nullable(),
+  species: z.array(z.string()),
+  speciesRaw: z.array(z.string()),
+  methods: z.array(z.string()),
+  techniques: z.array(z.enum(techniques)),
+  baits: z.array(z.string()),
+  flyOnly: z.boolean(),
+  catchAndReleaseOnly: z.boolean(),
+  passes: z.array(
+    z.object({ name: z.string(), priceEur: z.number().nullable(), saleWindow: z.string().nullable(), buyUrl: z.string().nullable() }),
+  ),
+  online: z.boolean(),
+  sourceUrl: z.url(),
+  mapPdfUrl: z.string().nullable(),
+  gauge: z.object({ lat: z.number(), lon: z.number() }).nullable(),
+  quality: z.enum(['segment', 'partial', 'water', 'gauge', 'place', 'none']),
+  qualityNotes: z.array(z.string()),
+  geometry: z
+    .union([
+      z.object({ type: z.literal('Point'), coordinates: Pos }),
+      z.object({ type: z.literal('LineString'), coordinates: z.array(Pos) }),
+      z.object({ type: z.literal('Polygon'), coordinates: z.array(z.array(Pos)) }),
+    ])
+    .nullable(),
+  /** [lat, lon] */
+  center: Pos.nullable(),
+  lengthKm: z.number().nullable(),
+  region: z.enum(regions).nullable(),
+  parking: z.array(z.object({ lat: z.number(), lon: z.number(), name: z.string().nullable(), distKm: z.number() })),
+  fishingSpots: z.array(z.object({ lat: z.number(), lon: z.number(), name: z.string().nullable(), distKm: z.number() })),
+  scrapedAt: z.string(),
+});
+export type Revir = z.infer<typeof Revir>;

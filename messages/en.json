@@ -36,7 +36,13 @@
     "search": "Search spots…",
     "depthLayer": "Sea depth (EMODnet)"
   },
-  "waterType": { "river": "River", "lake": "Lake", "reservoir": "Reservoir", "pond": "Pond", "sea": "Sea" },
+  "waterType": {
+    "river": "River",
+    "lake": "Lake",
+    "reservoir": "Reservoir",
+    "pond": "Pond",
+    "sea": "Sea"
+  },
   "technique": {
     "fly": "Fly fishing",
     "spin": "Spinning",
@@ -58,9 +64,14 @@
     "koroska": "Koroška",
     "stajerska": "Štajerska",
     "pomurje": "Pomurje",
+    "zasavje": "Zasavje",
     "obala": "Coast"
   },
-  "difficulty": { "1": "Easy", "2": "Moderate", "3": "Demanding" },
+  "difficulty": {
+    "1": "Easy",
+    "2": "Moderate",
+    "3": "Demanding"
+  },
   "spot": {
     "species": "What you can catch",
     "techniques": "Techniques",
@@ -99,7 +110,12 @@
     "error": "The forecast can't be loaded right now. Please try again later.",
     "today": "Today",
     "score": "Fishing score",
-    "label": { "poor": "Poor", "fair": "Fair", "good": "Good", "great": "Great" },
+    "label": {
+      "poor": "Poor",
+      "fair": "Fair",
+      "good": "Good",
+      "great": "Great"
+    },
     "why": "Why?",
     "scoreNote": "The score is a rough guide based on weather, pressure, moon and water – not a catch prediction.",
     "temp": "Temperature",
@@ -122,8 +138,17 @@
     "measured": "Measured {time}",
     "noWater": "There is no nearby ARSO gauging station for this spot.",
     "waterError": "ARSO data is unavailable right now.",
-    "flowLevel": { "low": "Low flow", "normal": "Normal flow", "high": "High flow", "flood": "Flood water!" },
-    "trend": { "falling": "falling", "rising": "rising", "stable": "stable" },
+    "flowLevel": {
+      "low": "Low flow",
+      "normal": "Normal flow",
+      "high": "High flow",
+      "flood": "Flood water!"
+    },
+    "trend": {
+      "falling": "falling",
+      "rising": "rising",
+      "stable": "stable"
+    },
     "sources": "Sources: Open-Meteo, ARSO, sun and moon calculation.",
     "factor": {
       "pressure-stable": "Stable air pressure",
@@ -179,7 +204,12 @@
   "guides": {
     "title": "Guides",
     "intro": "From first steps to advanced techniques – rigs, knots, lures and rules.",
-    "category": { "beginner": "Beginners", "rig": "Rigs", "technique": "Techniques", "sea": "Sea" },
+    "category": {
+      "beginner": "Beginners",
+      "rig": "Rigs",
+      "technique": "Techniques",
+      "sea": "Sea"
+    },
     "fallback": "This guide isn't translated into your language yet – showing the {lang} version.",
     "related": "Fish"
   },
@@ -191,7 +221,12 @@
     "clear": "Clear",
     "murky": "Coloured",
     "season": "Season",
-    "seasons": { "spring": "Spring", "summer": "Summer", "autumn": "Autumn", "winter": "Winter" },
+    "seasons": {
+      "spring": "Spring",
+      "summer": "Summer",
+      "autumn": "Autumn",
+      "winter": "Winter"
+    },
     "results": "Suggested lures",
     "none": "No lure for this combination – try natural baits:",
     "naturalBaits": "Natural baits",

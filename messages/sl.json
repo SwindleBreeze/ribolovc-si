@@ -64,9 +64,14 @@
     "koroska": "Koroška",
     "stajerska": "Štajerska",
     "pomurje": "Pomurje",
+    "zasavje": "Zasavje",
     "obala": "Obala"
   },
-  "difficulty": { "1": "Lahko", "2": "Srednje", "3": "Zahtevno" },
+  "difficulty": {
+    "1": "Lahko",
+    "2": "Srednje",
+    "3": "Zahtevno"
+  },
   "spot": {
     "species": "Kaj se lovi",
     "techniques": "Tehnike",
@@ -105,7 +110,12 @@
     "error": "Napovedi trenutno ni mogoče naložiti. Poskusite pozneje.",
     "today": "Danes",
     "score": "Ocena ribolova",
-    "label": { "poor": "Slabo", "fair": "Povprečno", "good": "Dobro", "great": "Odlično" },
+    "label": {
+      "poor": "Slabo",
+      "fair": "Povprečno",
+      "good": "Dobro",
+      "great": "Odlično"
+    },
     "why": "Zakaj?",
     "scoreNote": "Ocena je groba orientacija na podlagi vremena, tlaka, lune in vode – ne napoved ulova.",
     "temp": "Temperatura",
@@ -128,8 +138,17 @@
     "measured": "Izmerjeno {time}",
     "noWater": "Za to lokacijo ni bližnje merilne postaje ARSO.",
     "waterError": "Podatki ARSO trenutno niso dosegljivi.",
-    "flowLevel": { "low": "Nizek pretok", "normal": "Srednji pretok", "high": "Visok pretok", "flood": "Visoka voda!" },
-    "trend": { "falling": "pada", "rising": "narašča", "stable": "stabilen" },
+    "flowLevel": {
+      "low": "Nizek pretok",
+      "normal": "Srednji pretok",
+      "high": "Visok pretok",
+      "flood": "Visoka voda!"
+    },
+    "trend": {
+      "falling": "pada",
+      "rising": "narašča",
+      "stable": "stabilen"
+    },
     "sources": "Viri: Open-Meteo, ARSO, izračun Sonca in Lune.",
     "factor": {
       "pressure-stable": "Stabilen zračni tlak",
@@ -185,7 +204,12 @@
   "guides": {
     "title": "Vodiči",
     "intro": "Od prvih korakov do naprednih tehnik – sistemi, vozli, vabe in pravila.",
-    "category": { "beginner": "Za začetnike", "rig": "Sistemi", "technique": "Tehnike", "sea": "Morje" },
+    "category": {
+      "beginner": "Za začetnike",
+      "rig": "Sistemi",
+      "technique": "Tehnike",
+      "sea": "Morje"
+    },
     "fallback": "Ta vodič še ni preveden v vaš jezik – prikazujemo {lang} različico.",
     "related": "Ribe"
   },
@@ -197,7 +221,12 @@
     "clear": "Bistra",
     "murky": "Motna",
     "season": "Letni čas",
-    "seasons": { "spring": "Pomlad", "summer": "Poletje", "autumn": "Jesen", "winter": "Zima" },
+    "seasons": {
+      "spring": "Pomlad",
+      "summer": "Poletje",
+      "autumn": "Jesen",
+      "winter": "Zima"
+    },
     "results": "Predlagane vabe",
     "none": "Za to kombinacijo nimamo umetne vabe – poskusi naravne vabe:",
     "naturalBaits": "Naravne vabe",

@@ -36,7 +36,13 @@
     "search": "Angelplatz suchen…",
     "depthLayer": "Meerestiefe (EMODnet)"
   },
-  "waterType": { "river": "Fluss", "lake": "See", "reservoir": "Stausee", "pond": "Teich", "sea": "Meer" },
+  "waterType": {
+    "river": "Fluss",
+    "lake": "See",
+    "reservoir": "Stausee",
+    "pond": "Teich",
+    "sea": "Meer"
+  },
   "technique": {
     "fly": "Fliegenfischen",
     "spin": "Spinnfischen",
@@ -58,9 +64,14 @@
     "koroska": "Kärnten (Koroška)",
     "stajerska": "Steiermark (Štajerska)",
     "pomurje": "Übermurgebiet (Pomurje)",
+    "zasavje": "Zasavje",
     "obala": "Küste"
   },
-  "difficulty": { "1": "Leicht", "2": "Mittel", "3": "Anspruchsvoll" },
+  "difficulty": {
+    "1": "Leicht",
+    "2": "Mittel",
+    "3": "Anspruchsvoll"
+  },
   "spot": {
     "species": "Was man fängt",
     "techniques": "Techniken",
@@ -99,7 +110,12 @@
     "error": "Die Prognose kann derzeit nicht geladen werden. Bitte später erneut versuchen.",
     "today": "Heute",
     "score": "Fangprognose",
-    "label": { "poor": "Schlecht", "fair": "Mittel", "good": "Gut", "great": "Sehr gut" },
+    "label": {
+      "poor": "Schlecht",
+      "fair": "Mittel",
+      "good": "Gut",
+      "great": "Sehr gut"
+    },
     "why": "Warum?",
     "scoreNote": "Die Bewertung ist eine grobe Orientierung aus Wetter, Luftdruck, Mond und Wasser – keine Fangvorhersage.",
     "temp": "Temperatur",
@@ -122,8 +138,17 @@
     "measured": "Gemessen {time}",
     "noWater": "Für diesen Platz gibt es keinen nahen ARSO-Pegel.",
     "waterError": "ARSO-Daten sind derzeit nicht verfügbar.",
-    "flowLevel": { "low": "Niedriger Abfluss", "normal": "Mittlerer Abfluss", "high": "Hoher Abfluss", "flood": "Hochwasser!" },
-    "trend": { "falling": "fallend", "rising": "steigend", "stable": "stabil" },
+    "flowLevel": {
+      "low": "Niedriger Abfluss",
+      "normal": "Mittlerer Abfluss",
+      "high": "Hoher Abfluss",
+      "flood": "Hochwasser!"
+    },
+    "trend": {
+      "falling": "fallend",
+      "rising": "steigend",
+      "stable": "stabil"
+    },
     "sources": "Quellen: Open-Meteo, ARSO, Sonnen- und Mondberechnung.",
     "factor": {
       "pressure-stable": "Stabiler Luftdruck",
@@ -179,7 +204,12 @@
   "guides": {
     "title": "Ratgeber",
     "intro": "Von den ersten Schritten bis zu fortgeschrittenen Techniken – Montagen, Knoten, Köder und Regeln.",
-    "category": { "beginner": "Einsteiger", "rig": "Montagen", "technique": "Techniken", "sea": "Meer" },
+    "category": {
+      "beginner": "Einsteiger",
+      "rig": "Montagen",
+      "technique": "Techniken",
+      "sea": "Meer"
+    },
     "fallback": "Dieser Ratgeber ist noch nicht übersetzt – angezeigt wird die {lang} Version.",
     "related": "Fische"
   },
@@ -191,7 +221,12 @@
     "clear": "Klar",
     "murky": "Trüb",
     "season": "Jahreszeit",
-    "seasons": { "spring": "Frühling", "summer": "Sommer", "autumn": "Herbst", "winter": "Winter" },
+    "seasons": {
+      "spring": "Frühling",
+      "summer": "Sommer",
+      "autumn": "Herbst",
+      "winter": "Winter"
+    },
     "results": "Empfohlene Köder",
     "none": "Kein Kunstköder für diese Kombination – versuchen Sie Naturköder:",
     "naturalBaits": "Naturköder",
