@@ -1,0 +1,2600 @@
+[
+ {
+  "id": "rd-sempeter/bolska-r-26",
+  "clubSlug": "rd-sempeter",
+  "slug": "bolska-r-26",
+  "code": "Bolska R26",
+  "name": "Potok Bolska",
+  "subtitle": "od starega mostu v Ločici pri Vranskem do izliva v Savinjo",
+  "en": {
+   "name": "The creek Bolska",
+   "subtitle": "from the old bridge in Ločica near Vransko to its outflow into the Savinja",
+   "description": "The Bolska is the tributary of the Savinja where you can fly fish and spin fish for salmonids like rainbow and brown trouts. You can also float fish for cyprinids like chubs, common nases, Danube roaches and extremely feisty barbels. The creek is also home to protected souffia."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Bolska - pritok Savinje, kjer je dovoljeno muhariti in vijačiti na salmonide, kakor sta šarenka in potočna postrv. Poleg salmonidov v potoku lahko beličarimo še na ciprinide kot so: klen, podust, platnica in izredno borbene mrene. Potok naseljuje tudi zavarovani blistavec.",
+  "waterType": "river",
+  "water": "Bolska",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "platnica",
+   "podust",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "platnica",
+   "podust",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (beličarjenje) - C&R",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 06. do 29. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/303"
+   },
+   {
+    "name": "Salmonidi (vijačenje, muharjenje) - C&R",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/304"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/bolska-r-26",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.239534,
+   "lon": 15.09769
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Ločica pri Vranskem",
+   "do: sotočje Savinjo"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.94464,
+     46.22786
+    ],
+    [
+     14.94476,
+     46.22824
+    ],
+    [
+     14.94553,
+     46.22862
+    ],
+    [
+     14.94663,
+     46.22847
+    ],
+    [
+     14.94694,
+     46.22826
+    ],
+    [
+     14.94739,
+     46.22819
+    ],
+    [
+     14.94774,
+     46.22823
+    ],
+    [
+     14.94798,
+     46.22843
+    ],
+    [
+     14.94685,
+     46.23003
+    ],
+    [
+     14.94743,
+     46.23072
+    ],
+    [
+     14.9475,
+     46.23131
+    ],
+    [
+     14.94735,
+     46.2317
+    ],
+    [
+     14.94704,
+     46.23218
+    ],
+    [
+     14.94622,
+     46.23261
+    ],
+    [
+     14.94605,
+     46.23295
+    ],
+    [
+     14.94678,
+     46.23383
+    ],
+    [
+     14.94796,
+     46.23395
+    ],
+    [
+     14.94861,
+     46.23456
+    ],
+    [
+     14.94879,
+     46.23546
+    ],
+    [
+     14.94998,
+     46.23674
+    ],
+    [
+     14.94998,
+     46.23745
+    ],
+    [
+     14.95037,
+     46.23817
+    ],
+    [
+     14.95081,
+     46.23858
+    ],
+    [
+     14.95195,
+     46.23914
+    ],
+    [
+     14.95424,
+     46.23927
+    ],
+    [
+     14.9548,
+     46.23993
+    ],
+    [
+     14.9589,
+     46.24093
+    ],
+    [
+     14.96031,
+     46.2415
+    ],
+    [
+     14.96047,
+     46.2418
+    ],
+    [
+     14.95978,
+     46.24252
+    ],
+    [
+     14.95979,
+     46.2428
+    ],
+    [
+     14.96092,
+     46.24346
+    ],
+    [
+     14.96193,
+     46.24356
+    ],
+    [
+     14.96242,
+     46.24382
+    ],
+    [
+     14.9629,
+     46.24469
+    ],
+    [
+     14.96271,
+     46.24538
+    ],
+    [
+     14.96358,
+     46.24569
+    ],
+    [
+     14.96386,
+     46.24604
+    ],
+    [
+     14.9636,
+     46.24649
+    ],
+    [
+     14.96378,
+     46.24724
+    ],
+    [
+     14.96347,
+     46.24753
+    ],
+    [
+     14.96351,
+     46.24769
+    ],
+    [
+     14.96405,
+     46.24842
+    ],
+    [
+     14.96474,
+     46.24895
+    ],
+    [
+     14.96546,
+     46.24912
+    ],
+    [
+     14.96697,
+     46.24888
+    ],
+    [
+     14.9682,
+     46.24865
+    ],
+    [
+     14.9692,
+     46.24815
+    ],
+    [
+     14.96958,
+     46.24833
+    ],
+    [
+     14.97017,
+     46.24901
+    ],
+    [
+     14.97074,
+     46.24944
+    ],
+    [
+     14.97178,
+     46.24963
+    ],
+    [
+     14.97274,
+     46.24932
+    ],
+    [
+     14.97287,
+     46.24915
+    ],
+    [
+     14.97222,
+     46.24816
+    ],
+    [
+     14.97235,
+     46.24785
+    ],
+    [
+     14.97434,
+     46.24737
+    ],
+    [
+     14.97541,
+     46.24685
+    ],
+    [
+     14.97606,
+     46.24629
+    ],
+    [
+     14.9764,
+     46.24633
+    ],
+    [
+     14.97669,
+     46.2466
+    ],
+    [
+     14.97686,
+     46.24745
+    ],
+    [
+     14.97763,
+     46.2476
+    ],
+    [
+     14.97876,
+     46.24728
+    ],
+    [
+     14.98006,
+     46.24672
+    ],
+    [
+     14.98092,
+     46.24657
+    ],
+    [
+     14.98211,
+     46.24663
+    ],
+    [
+     14.98332,
+     46.24609
+    ],
+    [
+     14.98413,
+     46.24534
+    ],
+    [
+     14.98463,
+     46.24509
+    ],
+    [
+     14.98527,
+     46.24531
+    ],
+    [
+     14.98853,
+     46.24508
+    ],
+    [
+     14.98975,
+     46.24483
+    ],
+    [
+     14.99028,
+     46.24422
+    ],
+    [
+     14.99136,
+     46.2439
+    ],
+    [
+     14.99217,
+     46.2441
+    ],
+    [
+     14.99258,
+     46.24404
+    ],
+    [
+     14.99288,
+     46.24374
+    ],
+    [
+     14.99329,
+     46.24224
+    ],
+    [
+     14.99423,
+     46.24182
+    ],
+    [
+     14.99852,
+     46.24212
+    ],
+    [
+     15.00021,
+     46.24252
+    ],
+    [
+     15.00126,
+     46.24238
+    ],
+    [
+     15.00232,
+     46.24181
+    ],
+    [
+     15.00251,
+     46.24184
+    ],
+    [
+     15.00347,
+     46.24291
+    ],
+    [
+     15.0045,
+     46.24336
+    ],
+    [
+     15.00585,
+     46.24334
+    ],
+    [
+     15.00676,
+     46.24305
+    ],
+    [
+     15.00749,
+     46.243
+    ],
+    [
+     15.00826,
+     46.24314
+    ],
+    [
+     15.00955,
+     46.24362
+    ],
+    [
+     15.01112,
+     46.24373
+    ],
+    [
+     15.01141,
+     46.24396
+    ],
+    [
+     15.01174,
+     46.24494
+    ],
+    [
+     15.01207,
+     46.24531
+    ],
+    [
+     15.01274,
+     46.24573
+    ],
+    [
+     15.01343,
+     46.24596
+    ],
+    [
+     15.0163,
+     46.24646
+    ],
+    [
+     15.01682,
+     46.24693
+    ],
+    [
+     15.01687,
+     46.24723
+    ],
+    [
+     15.01669,
+     46.2483
+    ],
+    [
+     15.01606,
+     46.24896
+    ],
+    [
+     15.01599,
+     46.24927
+    ],
+    [
+     15.0164,
+     46.25011
+    ],
+    [
+     15.01679,
+     46.25056
+    ],
+    [
+     15.01764,
+     46.25109
+    ],
+    [
+     15.01832,
+     46.2509
+    ],
+    [
+     15.01903,
+     46.25097
+    ],
+    [
+     15.01931,
+     46.25133
+    ],
+    [
+     15.01957,
+     46.25204
+    ],
+    [
+     15.02005,
+     46.25232
+    ],
+    [
+     15.02092,
+     46.2535
+    ],
+    [
+     15.02159,
+     46.25397
+    ],
+    [
+     15.02192,
+     46.25489
+    ],
+    [
+     15.02432,
+     46.25541
+    ],
+    [
+     15.02642,
+     46.25571
+    ],
+    [
+     15.02727,
+     46.25569
+    ],
+    [
+     15.02795,
+     46.25542
+    ],
+    [
+     15.02867,
+     46.25541
+    ],
+    [
+     15.03066,
+     46.25593
+    ],
+    [
+     15.03099,
+     46.25592
+    ],
+    [
+     15.0317,
+     46.25571
+    ],
+    [
+     15.03289,
+     46.25467
+    ],
+    [
+     15.03343,
+     46.25466
+    ],
+    [
+     15.03609,
+     46.25401
+    ],
+    [
+     15.03704,
+     46.25402
+    ],
+    [
+     15.03871,
+     46.25453
+    ],
+    [
+     15.04,
+     46.25468
+    ],
+    [
+     15.04275,
+     46.25411
+    ],
+    [
+     15.046,
+     46.25378
+    ],
+    [
+     15.0489,
+     46.25314
+    ],
+    [
+     15.051,
+     46.25238
+    ],
+    [
+     15.05329,
+     46.25133
+    ],
+    [
+     15.05482,
+     46.25033
+    ],
+    [
+     15.05642,
+     46.24899
+    ],
+    [
+     15.05812,
+     46.24715
+    ],
+    [
+     15.06344,
+     46.24212
+    ],
+    [
+     15.06411,
+     46.24178
+    ],
+    [
+     15.06583,
+     46.24153
+    ],
+    [
+     15.0663,
+     46.24133
+    ],
+    [
+     15.06667,
+     46.24094
+    ],
+    [
+     15.06685,
+     46.24042
+    ],
+    [
+     15.06759,
+     46.23986
+    ],
+    [
+     15.06843,
+     46.23978
+    ],
+    [
+     15.07187,
+     46.24031
+    ],
+    [
+     15.07308,
+     46.24023
+    ],
+    [
+     15.07456,
+     46.23967
+    ],
+    [
+     15.07794,
+     46.23809
+    ],
+    [
+     15.08029,
+     46.23751
+    ],
+    [
+     15.08248,
+     46.23745
+    ],
+    [
+     15.08378,
+     46.23763
+    ],
+    [
+     15.08698,
+     46.2386
+    ],
+    [
+     15.08911,
+     46.23908
+    ],
+    [
+     15.09241,
+     46.23941
+    ],
+    [
+     15.09622,
+     46.23862
+    ],
+    [
+     15.0969,
+     46.23828
+    ],
+    [
+     15.09849,
+     46.23685
+    ],
+    [
+     15.10019,
+     46.23641
+    ],
+    [
+     15.1022,
+     46.2371
+    ],
+    [
+     15.10336,
+     46.23814
+    ],
+    [
+     15.10408,
+     46.23952
+    ],
+    [
+     15.10409,
+     46.24036
+    ],
+    [
+     15.1043,
+     46.24145
+    ],
+    [
+     15.10478,
+     46.24187
+    ],
+    [
+     15.10513,
+     46.24197
+    ],
+    [
+     15.10653,
+     46.24187
+    ],
+    [
+     15.10779,
+     46.24287
+    ],
+    [
+     15.1084,
+     46.24311
+    ],
+    [
+     15.10916,
+     46.24281
+    ],
+    [
+     15.11181,
+     46.24217
+    ],
+    [
+     15.1139,
+     46.24208
+    ],
+    [
+     15.11484,
+     46.24222
+    ]
+   ]
+  },
+  "center": [
+   46.25095,
+   15.01814
+  ],
+  "lengthKm": 18.6,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.23882,
+    "lon": 15.09161,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.24518,
+    "lon": 14.97497,
+    "name": null,
+    "distKm": 0.15
+   },
+   {
+    "lat": 46.23606,
+    "lon": 15.08559,
+    "name": null,
+    "distKm": 0.22
+   },
+   {
+    "lat": 46.24022,
+    "lon": 15.08506,
+    "name": null,
+    "distKm": 0.22
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:05.729Z"
+ },
+ {
+  "id": "rd-sempeter/braslovsko-jezero",
+  "clubSlug": "rd-sempeter",
+  "slug": "braslovsko-jezero",
+  "code": "Braslovško jezero",
+  "name": "Braslovško jezero",
+  "subtitle": "Jezero Braslovče",
+  "en": {
+   "name": "The lake Braslovče",
+   "subtitle": "",
+   "description": "The lake Braslovče is managed by the RD Šempeter. It spreads on 4ha of the water surface and is home to many carps, grass carps, gibel carps, common roaches, bleaks and common breams. Predatory fish are represented by pikes and zanders. It is allowed to fish for cyprinids and for predatory fish."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Vas zanima kje loviti? Katere vabe so najbolj uspešne? Kako pristopiti do jezera? Kliknite tukaj in preberite brezplačen vodič po Braslovškem jezeru.Braslovško jezero upravlja RD Šempeter. Zajema 4 ha vodne površine v kateri so naseljeni številnimi krapi, amurji, babuške, rdečeoke, zelenike in ploščiči. Roparice pa predstavljajo ščuke in smuči.",
+  "waterType": "lake",
+  "water": "Braslovško jezero",
+  "species": [
+   "amur",
+   "krap",
+   "ostriz",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "ostriž",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "bojli",
+   "koruza",
+   "potezanka",
+   "silikonska vaba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi - ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/988"
+   },
+   {
+    "name": "Ciprinidi - ujemi in vzemi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/296"
+   },
+   {
+    "name": "Roparice (vijačenje)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 06. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/297"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/braslovsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Braslovško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.02388,
+      46.29851
+     ],
+     [
+      15.02495,
+      46.29818
+     ],
+     [
+      15.0257,
+      46.29771
+     ],
+     [
+      15.02792,
+      46.29585
+     ],
+     [
+      15.02745,
+      46.2952
+     ],
+     [
+      15.02859,
+      46.29533
+     ],
+     [
+      15.02895,
+      46.29519
+     ],
+     [
+      15.02936,
+      46.29477
+     ],
+     [
+      15.03016,
+      46.29503
+     ],
+     [
+      15.02968,
+      46.29583
+     ],
+     [
+      15.02785,
+      46.29656
+     ],
+     [
+      15.02663,
+      46.29772
+     ],
+     [
+      15.02537,
+      46.29822
+     ],
+     [
+      15.02516,
+      46.29815
+     ],
+     [
+      15.02388,
+      46.29851
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.29677,
+   15.02697
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.29472,
+    "lon": 15.0305,
+    "name": null,
+    "distKm": 0.04
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:10.510Z"
+ },
+ {
+  "id": "rd-sempeter/loznica",
+  "clubSlug": "rd-sempeter",
+  "slug": "loznica",
+  "code": "Ložnica R32",
+  "name": "Potok Ložnica",
+  "subtitle": "od Izliva Hotinščice do mostu v Arji vasi",
+  "en": {
+   "name": "The creek Ložnica",
+   "subtitle": "from the outflow of the Hotinjščica to the bridge in Arja vas",
+   "description": "The creek Ložnica is a tributary of the Savinja and is managed by the RD Šempeter-from the outflow of the Hotinjščica to the bridge in Arja vas-11km long district with 4,4ha of water surface. You can fly fish or float fish on this part of the river. You can fly fish for salmonids: brown trouts, rainbow trouts and graylings or cyprinids: barbels, common nases, chubs and Danube roaches."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Ložnica - pritok Savinje, upravitelja RD Šempeter, lovna - od sotočja z Motišnico do mostu v Arji vasi, dolžine 11 km. Na tem delu potoka lahko muharimo ali beličarimo. Poleg muharjenja na salmonide: potočno postrv, šarenko in lipana nam potok omogoča muharjenje tudi na ciprinide mreno, podust, klena in platnico. Možnost je tudi beličarjenja na ciprinide.",
+  "waterType": "river",
+  "water": "Ložnica",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "platnica",
+   "podust",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "platnica",
+   "podust",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (beličarjenje)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 06. do 29. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/294"
+   },
+   {
+    "name": "Salmonidi (vijačenje, muharjenje)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/295"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/loznica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: izliv",
+   "do: kraj Arja vas"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.24695,
+     46.23349
+    ],
+    [
+     15.24648,
+     46.23389
+    ],
+    [
+     15.24419,
+     46.23519
+    ],
+    [
+     15.2418,
+     46.23694
+    ],
+    [
+     15.24148,
+     46.23763
+    ],
+    [
+     15.23998,
+     46.23859
+    ],
+    [
+     15.23937,
+     46.23923
+    ],
+    [
+     15.23887,
+     46.24001
+    ],
+    [
+     15.23857,
+     46.24109
+    ],
+    [
+     15.23776,
+     46.2418
+    ],
+    [
+     15.23642,
+     46.24224
+    ],
+    [
+     15.23481,
+     46.24232
+    ],
+    [
+     15.22996,
+     46.24155
+    ],
+    [
+     15.22875,
+     46.24156
+    ],
+    [
+     15.22789,
+     46.24188
+    ],
+    [
+     15.22699,
+     46.24251
+    ],
+    [
+     15.22643,
+     46.24268
+    ],
+    [
+     15.22298,
+     46.24289
+    ],
+    [
+     15.22068,
+     46.24351
+    ],
+    [
+     15.21663,
+     46.24559
+    ],
+    [
+     15.21578,
+     46.24631
+    ],
+    [
+     15.21484,
+     46.24769
+    ],
+    [
+     15.21439,
+     46.24809
+    ],
+    [
+     15.21188,
+     46.24941
+    ],
+    [
+     15.21047,
+     46.25053
+    ],
+    [
+     15.20964,
+     46.25082
+    ],
+    [
+     15.20862,
+     46.25088
+    ],
+    [
+     15.20649,
+     46.25152
+    ],
+    [
+     15.20587,
+     46.25197
+    ],
+    [
+     15.20519,
+     46.25305
+    ],
+    [
+     15.2047,
+     46.25338
+    ],
+    [
+     15.20318,
+     46.25398
+    ],
+    [
+     15.20207,
+     46.25541
+    ],
+    [
+     15.20152,
+     46.25582
+    ],
+    [
+     15.2008,
+     46.2561
+    ],
+    [
+     15.1998,
+     46.25621
+    ],
+    [
+     15.19806,
+     46.25615
+    ],
+    [
+     15.19658,
+     46.25642
+    ],
+    [
+     15.1946,
+     46.2571
+    ]
+   ]
+  },
+  "center": [
+   46.24368,
+   15.22036
+  ],
+  "lengthKm": 5.2,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.24111,
+    "lon": 15.23143,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.23494,
+    "lon": 15.24671,
+    "name": null,
+    "distKm": 0.1
+   },
+   {
+    "lat": 46.24073,
+    "lon": 15.22125,
+    "name": null,
+    "distKm": 0.27
+   },
+   {
+    "lat": 46.26136,
+    "lon": 15.19183,
+    "name": null,
+    "distKm": 0.52
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:05.746Z"
+ },
+ {
+  "id": "rd-sempeter/motnisnica-27",
+  "clubSlug": "rd-sempeter",
+  "slug": "motnisnica-27",
+  "code": "Motnišnica R27",
+  "name": "Potok Motnišnica",
+  "subtitle": "Od zgornjega mostu v Motniku",
+  "en": {
+   "name": "The river Motnišnica",
+   "subtitle": "from the upper bridge in Motnik",
+   "description": "The Motnišnica, a 5km long tributary of the Bolska, offers you extremely beautiful brown and rainbow trouts. The creek is situated in very quiet surroundings and is a little heaven for recreational fishermen."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Motnišnica je 5km dolg potok, ki se izliva Bolsko. Gre za muharski revir, kjer se boste naužili neokrnjene narave in lovili šarenke ter potočne postrvi.",
+  "waterType": "river",
+  "water": "Motnišnica",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi (vijačenje, muharjenje)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/292"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/motnisnica-27",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.88345,
+     46.21457
+    ],
+    [
+     14.88394,
+     46.21461
+    ],
+    [
+     14.88505,
+     46.21515
+    ],
+    [
+     14.8862,
+     46.21476
+    ],
+    [
+     14.88696,
+     46.21495
+    ],
+    [
+     14.88732,
+     46.21481
+    ],
+    [
+     14.88914,
+     46.21521
+    ],
+    [
+     14.88963,
+     46.21554
+    ],
+    [
+     14.88947,
+     46.2162
+    ],
+    [
+     14.88957,
+     46.2164
+    ],
+    [
+     14.8898,
+     46.2165
+    ],
+    [
+     14.89105,
+     46.21627
+    ],
+    [
+     14.89426,
+     46.21615
+    ],
+    [
+     14.89543,
+     46.21628
+    ],
+    [
+     14.89654,
+     46.2161
+    ],
+    [
+     14.89782,
+     46.21613
+    ],
+    [
+     14.89926,
+     46.21579
+    ],
+    [
+     14.90055,
+     46.21604
+    ],
+    [
+     14.90163,
+     46.21603
+    ],
+    [
+     14.90408,
+     46.21662
+    ],
+    [
+     14.90624,
+     46.21684
+    ],
+    [
+     14.90721,
+     46.21682
+    ],
+    [
+     14.91064,
+     46.21784
+    ],
+    [
+     14.91118,
+     46.21825
+    ],
+    [
+     14.91137,
+     46.2189
+    ],
+    [
+     14.91181,
+     46.21929
+    ],
+    [
+     14.91188,
+     46.21974
+    ],
+    [
+     14.91237,
+     46.22025
+    ],
+    [
+     14.9122,
+     46.22072
+    ],
+    [
+     14.91235,
+     46.22103
+    ],
+    [
+     14.91348,
+     46.22135
+    ],
+    [
+     14.91428,
+     46.22188
+    ],
+    [
+     14.91558,
+     46.22248
+    ],
+    [
+     14.91669,
+     46.22336
+    ],
+    [
+     14.9176,
+     46.22374
+    ],
+    [
+     14.91881,
+     46.22386
+    ],
+    [
+     14.92104,
+     46.22374
+    ],
+    [
+     14.92136,
+     46.22349
+    ],
+    [
+     14.92145,
+     46.22297
+    ],
+    [
+     14.92162,
+     46.2228
+    ],
+    [
+     14.92488,
+     46.22268
+    ],
+    [
+     14.92556,
+     46.22294
+    ],
+    [
+     14.9255,
+     46.22356
+    ],
+    [
+     14.92561,
+     46.22381
+    ],
+    [
+     14.92633,
+     46.22428
+    ],
+    [
+     14.92664,
+     46.22428
+    ],
+    [
+     14.9274,
+     46.22392
+    ],
+    [
+     14.92772,
+     46.22392
+    ],
+    [
+     14.92833,
+     46.22422
+    ],
+    [
+     14.92863,
+     46.22466
+    ],
+    [
+     14.92951,
+     46.22485
+    ],
+    [
+     14.92998,
+     46.22463
+    ],
+    [
+     14.93027,
+     46.22464
+    ],
+    [
+     14.93136,
+     46.22528
+    ],
+    [
+     14.93143,
+     46.2256
+    ],
+    [
+     14.93168,
+     46.22592
+    ],
+    [
+     14.93326,
+     46.2264
+    ],
+    [
+     14.93457,
+     46.22723
+    ],
+    [
+     14.93481,
+     46.2272
+    ],
+    [
+     14.93529,
+     46.22687
+    ],
+    [
+     14.93679,
+     46.22701
+    ],
+    [
+     14.93763,
+     46.22678
+    ],
+    [
+     14.93896,
+     46.22716
+    ],
+    [
+     14.9418,
+     46.22712
+    ],
+    [
+     14.94396,
+     46.22634
+    ],
+    [
+     14.94421,
+     46.22639
+    ],
+    [
+     14.94456,
+     46.22675
+    ]
+   ]
+  },
+  "center": [
+   46.22181,
+   14.91418
+  ],
+  "lengthKm": 5.8,
+  "region": "zasavje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:53.759Z"
+ },
+ {
+  "id": "rd-sempeter/ribnik-preserje-1",
+  "clubSlug": "rd-sempeter",
+  "slug": "ribnik-preserje-1",
+  "code": "Ribnik Preserje 1",
+  "name": "Ribnik Preserje 1",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Preserje 1",
+   "subtitle": "",
+   "description": "The smaller pond in Preserje is named Preserje 1 and is managed by the RD Šempeter.It spreads on 0,5ha of water surface."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšne vabe so uspešne? Kliknite tukaj in preberite brezplačen vodič po ribnikih Preserje.Manjši ribnik v Preserju je Preserje 1 pod oskrbo RD Šempeter. Ribnik obsega 0,5 ha vodne površine.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi (muharjenje)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 02. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/992"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-preserje-1",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:22.594Z"
+ },
+ {
+  "id": "rd-sempeter/ribnik-preserje-2",
+  "clubSlug": "rd-sempeter",
+  "slug": "ribnik-preserje-2",
+  "code": "Ribnik Preserje 2",
+  "name": "Ribnik Preserje 2",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Preserje 2",
+   "subtitle": "",
+   "description": "The biggest pond in Preserje managed by the RD Šempeter. It spreads on 3ha of water surface. It is home to pikes, zanders and catfish; the big fish you can spin fish for. You can also float fish or ground fish for carps, common nases, chubs, barbels, common breams, grass carps, bleaks and common roaches-every taste will be met."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Katere vabe so uspešne? Kliknite tukaj in preberite brezplačen vodič po ribnikih Preserje.Največji ribnik v Preserju pod okriljem RD Šempeter. Obsega 3 ha vodne površine. Naseljujejo ga ščuka, smuč to so vse ribje vrste na katere lahko vijačimo.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "mrena",
+   "podust",
+   "smuc",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "mrena",
+   "podust",
+   "smuč",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/298"
+   },
+   {
+    "name": "Roparice (vijačenje)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/991"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-preserje-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:24.989Z"
+ },
+ {
+  "id": "rd-sempeter/ribnik-preserje-4",
+  "clubSlug": "rd-sempeter",
+  "slug": "ribnik-preserje-4",
+  "code": "Ribnik Preserje 4",
+  "name": "Ribnik Preserje 4",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Preserje 4",
+   "subtitle": "",
+   "description": "The pond Preserje 4 is situated right across the channel's bridge towards the fishing lodge of the RD Šempeter, on the left. You can fish for cyprinids here-only Catch and Release style- and the price is very good."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kliknite tukaj in preberite brezplačen vodič po ribnikih Preserje.Ribnik Preserje 4 se nahaja takoj čez most preko struge proti ribiškemu domu, na levi strani. Poleg ribnika stoji ribiški dom RD Šempeter. Možen je ribolov ciprinidov po načelu ''ujemi in spusti''.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "klen",
+   "krap",
+   "mrena",
+   "podust"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "mrena",
+   "podust"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/305"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-preserje-4",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:27.387Z"
+ },
+ {
+  "id": "rd-sempeter/ribnik-zalec",
+  "clubSlug": "rd-sempeter",
+  "slug": "ribnik-zalec",
+  "code": "Ribnik Žalec",
+  "name": "Ribnik Žalec",
+  "subtitle": "",
+  "en": {
+   "name": "Pond Žalec",
+   "subtitle": "",
+   "description": "The pond covers 1 ha of water and is managed by members of the Žalec fishing club under the auspices of the Šempeter fishing family. It is inhabited by pike, zander and catfish - these are all fish species that you may fish there with a method of spinfishing. You can do float or ground fishing as well for carp, nase, chub, barbel, bream, grass carp, perch and roach."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "mrena",
+   "ploscic",
+   "podust",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "mrena",
+   "ploščič",
+   "podust",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "koruza",
+   "kruh",
+   "polenta",
+   "sadje",
+   "sir",
+   "umetne vabe",
+   "žganci"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ciprinidi - ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 03. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/1118"
+   },
+   {
+    "name": "Roparice (vijačenje) - ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 06. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/1119"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-zalec",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:32.188Z"
+ },
+ {
+  "id": "rd-sempeter/savinja-6",
+  "clubSlug": "rd-sempeter",
+  "slug": "savinja-6",
+  "code": "Savinja R6",
+  "name": "Reka Savinja",
+  "subtitle": "od Letuškega mostu do Izliva Bolske v Savinjo",
+  "en": {
+   "name": "The river Savinja",
+   "subtitle": "from the bridge in Letuš to the outflow of the Bolska into the Savinja",
+   "description": "The district Savinja 6 is managed by the RD Šempeter and it extends from the bridge in Letuš to the outflow of the Bolska into the Savinja; it is 11,5km long.In this part of the Savinja various fish species can be found: big huchens, beautiful brown trouts, feisty rainbow trouts, graylings, Danube roaches, chubs, barbels and common nases. It is allowed to fly fish or to float fish."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšno muho potrebujete? Kliknite tukaj in preberite brezplačen vodič po reki Savinji - RD Šempeter. Revir Savinja 6, ki je pod upravljanjem RD Šempeter, se razteza od Letuškega mostu do izliva Bolske v Savinjo v dolžini 11,5 km.",
+  "waterType": "river",
+  "water": "Savinja",
+  "species": [
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "platnica",
+   "podust",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "platnica",
+   "podust",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "koruza",
+   "kruh",
+   "potezanka",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (beličarjenje)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 06. do 29. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/289"
+   },
+   {
+    "name": "Salmonidi (muharjenje) - Ujemi & spusti",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/904"
+   },
+   {
+    "name": "Sulec - ujemi in spusti",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/1059"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/savinja-6",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.326283,
+   "lon": 15.0045
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izliv"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.17167,
+    46.08358
+   ]
+  },
+  "center": [
+   46.08358,
+   15.17167
+  ],
+  "lengthKm": null,
+  "region": "zasavje",
+  "parking": [
+   {
+    "lat": 46.08506,
+    "lon": 15.1712,
+    "name": null,
+    "distKm": 0.17
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:10.625Z"
+ },
+ {
+  "id": "rd-sempeter/savinja-7",
+  "clubSlug": "rd-sempeter",
+  "slug": "savinja-7",
+  "code": "Savinja R7",
+  "name": "Reka Savinja",
+  "subtitle": "od izliva Bolske do mostu v Kasazah), kanal Podvinska struga",
+  "en": {
+   "name": "The river Savinja",
+   "subtitle": "from the outflow of the Bolska to the bridge in Kasaze), the channel Podvinska struga",
+   "description": "The district Savinja 7 consists of the Savinja from the outflow of the Bolska to the bridge in Kasaze and ncludes the part of the channel Podvinska struga from the pumping station in Vrbje to its outflow into the Savinja. The RD Šempeter manages this part of the river and takes care of the aquatic life for a very long time."
+  },
+  "club": {
+   "name": "Ribiška družina Šempeter",
+   "url": "https://www.ribiskekarte.si/rd-sempeter"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšno muho potrebujete? Kliknite tukaj in preberite brezplačen vodič po reki Savinji - RD Šempeter. V revir Savinja 7 spada poleg Savinje od sotočja z Bolsko do mostu v Kasazah tudi del Podvinske struge od črpališča v Vrbju do izliva v Savinjo. V tem delu z reko upravlja RD Šempeter, ki z dolgoletno tradicijo skrbi za ribji živelj v reki.",
+  "waterType": "river",
+  "water": "Savinja",
+  "species": [
+   "klen",
+   "krap",
+   "mrena",
+   "platnica",
+   "podust",
+   "sulec"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "mrena",
+   "platnica",
+   "podust",
+   "sulec"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "koruza",
+   "kruh",
+   "potezanka",
+   "sadje",
+   "sir",
+   "umetne vabe",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (beličarjenje)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 06. do 29. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/291"
+   },
+   {
+    "name": "Sulec - ujemi in spusti",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sempeter/nakup/1059"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/savinja-7",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: sotočje Bolske",
+   "do: kraj Kasaze"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.11484,
+     46.24222
+    ],
+    [
+     15.1177,
+     46.24124
+    ],
+    [
+     15.11894,
+     46.24102
+    ],
+    [
+     15.12151,
+     46.24083
+    ],
+    [
+     15.12518,
+     46.2403
+    ],
+    [
+     15.12981,
+     46.23983
+    ],
+    [
+     15.13976,
+     46.23932
+    ],
+    [
+     15.14124,
+     46.23891
+    ],
+    [
+     15.14328,
+     46.23734
+    ],
+    [
+     15.1443,
+     46.23632
+    ],
+    [
+     15.14565,
+     46.23573
+    ],
+    [
+     15.14862,
+     46.23554
+    ],
+    [
+     15.1506,
+     46.2359
+    ],
+    [
+     15.15473,
+     46.23761
+    ],
+    [
+     15.1565,
+     46.23804
+    ],
+    [
+     15.15901,
+     46.23832
+    ],
+    [
+     15.16124,
+     46.23815
+    ],
+    [
+     15.16315,
+     46.23776
+    ],
+    [
+     15.1662,
+     46.23735
+    ],
+    [
+     15.17844,
+     46.23473
+    ],
+    [
+     15.18139,
+     46.2347
+    ]
+   ]
+  },
+  "center": [
+   46.23561,
+   15.14758
+  ],
+  "lengthKm": 5.5,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.24057,
+    "lon": 15.15398,
+    "name": null,
+    "distKm": 0.33
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:13.001Z"
+ }
+]

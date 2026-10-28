@@ -1,0 +1,790 @@
+[
+ {
+  "id": "rd-cerknica/blosko-jezero",
+  "clubSlug": "rd-cerknica",
+  "slug": "blosko-jezero",
+  "code": "Bloško jezero",
+  "name": "Bloško",
+  "subtitle": "Volčje) jezero",
+  "en": {
+   "name": "The lake Bloško",
+   "subtitle": "Volčje) jezero",
+   "description": "The surface of this reservoir is 0,8 ha. The lake Bloško jezero is cyprinid in character and is home mostly to carps. In the summertime it is also very attractive spot for swimmers."
+  },
+  "club": {
+   "name": "Ribiška družina Cerknica",
+   "url": "https://www.ribiskekarte.si/rd-cerknica"
+  },
+  "description": "Površina umetnega jezera znaša 0,8 ha. Bloško jezero je ciprinidnega značaja, ki ga naseljujejo predvsem krapi in je v poletnih mesecih zanimiva točka za kopalce.",
+  "waterType": "lake",
+  "water": "Bloško jezero",
+  "species": [
+   "krap",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "krap",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "bojli",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi - krap",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/810"
+   },
+   {
+    "name": "Roparice - ščuka",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/811"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-cerknica/blosko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Bloško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.51509,
+      45.78589
+     ],
+     [
+      14.5152,
+      45.78546
+     ],
+     [
+      14.51549,
+      45.78526
+     ],
+     [
+      14.51712,
+      45.78603
+     ],
+     [
+      14.51545,
+      45.7867
+     ],
+     [
+      14.51526,
+      45.78647
+     ],
+     [
+      14.51539,
+      45.7861
+     ],
+     [
+      14.51509,
+      45.78589
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.78591,
+   14.51563
+  ],
+  "lengthKm": null,
+  "region": "notranjska",
+  "parking": [
+   {
+    "lat": 45.78682,
+    "lon": 14.51524,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:00.911Z"
+ },
+ {
+  "id": "rd-cerknica/cerkniscica-2",
+  "clubSlug": "rd-cerknica",
+  "slug": "cerkniscica-2",
+  "code": "Cerkniščica 2",
+  "name": "Potok Cerkniščica",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Cerkniščica",
+   "subtitle": "",
+   "description": "The creek is mostly in its upper part intact and very close to the primordial condition and inhabited mainly by brown trout. Due to the grass overgrowth fly fishing is extremely challenging, but genuine brown trouts with their beauty and fighting spirit can undoubtedly satisfy those fishermen looking for untouched peace of hidden, shady pools in unspoilt nature- mainly in middle and upper part of the Cerkniščica."
+  },
+  "club": {
+   "name": "Ribiška družina Cerknica",
+   "url": "https://www.ribiskekarte.si/rd-cerknica"
+  },
+  "description": "Potok je predvsem v svojem zgornjem toku neokrnjen in zelo blizu prvobitnemu stanju in ga naseljujejo predvsem potočne postrvi. Zaradi zaraščenosti je muharjenje sicer izredno zahtevno, vendar pa pristne potočnice s svojo lepoto in borbenostjo nedvomno zadovoljijo vse, ki iščejo neokrnjen mir skritih senčnih tolmunov v neokrnjeni naravi predvsem srednjega in zgornjega toka Cerkniščice.",
+  "waterType": "river",
+  "water": "Cerkniščica",
+  "species": [
+   "klen",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi - klen",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1067"
+   },
+   {
+    "name": "Ujemi in odnesi - šarenka",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/809"
+   },
+   {
+    "name": "Ujemi in spusti - klen",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1069"
+   },
+   {
+    "name": "Ujemi in spusti - potočna postrv",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/815"
+   },
+   {
+    "name": "Ujemi in spusti - šarenka",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1068"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-cerknica/cerkniscica-2",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.794177,
+   "lon": 14.369442
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.43721,
+     45.82362
+    ],
+    [
+     14.43671,
+     45.82381
+    ],
+    [
+     14.43319,
+     45.82166
+    ],
+    [
+     14.41787,
+     45.81566
+    ],
+    [
+     14.40995,
+     45.81329
+    ],
+    [
+     14.40993,
+     45.81279
+    ]
+   ]
+  },
+  "center": [
+   45.79448,
+   14.36524
+  ],
+  "lengthKm": 2.5,
+  "region": "notranjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:15.337Z"
+ },
+ {
+  "id": "rd-cerknica/cerknisko-jezero-zahodni-del",
+  "clubSlug": "rd-cerknica",
+  "slug": "cerknisko-jezero-zahodni-del",
+  "code": "Cerkniško jezero-zahodni del",
+  "name": "Cerkniško jezero - zahodni del",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Cerkniško jezero-western part",
+   "subtitle": "",
+   "description": "The sports-fishing district of the drying up lake Cerkniško jezero consists of the western part of the lake and is cyprinid in character. Fishing area is 837 ha but it varies due to drying up and filling up of the lake. When the water levels are low, you can only fish on the pond behind Rešeto-an area of 9 ha. The lake Cerkniško jezero is home mostly to some first class pikes, chubs, tenches and carps."
+  },
+  "club": {
+   "name": "Ribiška družina Cerknica",
+   "url": "https://www.ribiskekarte.si/rd-cerknica"
+  },
+  "description": "Športno - ribolovni revir presihajoče Cerkniško jezero obsega zahodni predel jezera in je ciprinidnega značaja. Površina revirja znaša 837 ha, ki se seveda z vodostajem zaradi polnjenja in presihanja jezera spreminja. V obdobju nizkega vodostaja obsega revir le ribnik za Rešetom površine 9 ha. Cerkniško jezero naseljujejo predvsem kapitalne ščuke, kleni, linji in krapi.",
+  "waterType": "lake",
+  "water": "Cerkniško Jezero",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceperka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeperka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "koruza",
+   "kruh",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi - klen",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1076"
+   },
+   {
+    "name": "Ciprinidi - krap",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 06. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1074"
+   },
+   {
+    "name": "Ciprinidi - linj",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 31. 03.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/801"
+   },
+   {
+    "name": "Ciprinidi - ostriž",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1073"
+   },
+   {
+    "name": "Ciprinidi - rdečeperka",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1075"
+   },
+   {
+    "name": "Roparice - ščuka",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/802"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-cerknica/cerknisko-jezero-zahodni-del",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Cerkniško Jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.3494,
+      45.76663
+     ],
+     [
+      14.34963,
+      45.76644
+     ],
+     [
+      14.35074,
+      45.76633
+     ],
+     [
+      14.35112,
+      45.76611
+     ],
+     [
+      14.35125,
+      45.7656
+     ],
+     [
+      14.35155,
+      45.76582
+     ],
+     [
+      14.35212,
+      45.76581
+     ],
+     [
+      14.35207,
+      45.76532
+     ],
+     [
+      14.35276,
+      45.76537
+     ],
+     [
+      14.35269,
+      45.76508
+     ],
+     [
+      14.35314,
+      45.76513
+     ],
+     [
+      14.35322,
+      45.76543
+     ],
+     [
+      14.35347,
+      45.76549
+     ],
+     [
+      14.35411,
+      45.76448
+     ],
+     [
+      14.35401,
+      45.76426
+     ],
+     [
+      14.35437,
+      45.76432
+     ],
+     [
+      14.35501,
+      45.76381
+     ],
+     [
+      14.35621,
+      45.76447
+     ],
+     [
+      14.35635,
+      45.76491
+     ],
+     [
+      14.35615,
+      45.76557
+     ],
+     [
+      14.35684,
+      45.76558
+     ],
+     [
+      14.35793,
+      45.76597
+     ],
+     [
+      14.359,
+      45.76578
+     ],
+     [
+      14.35801,
+      45.76602
+     ],
+     [
+      14.35681,
+      45.76565
+     ],
+     [
+      14.35601,
+      45.76564
+     ],
+     [
+      14.35593,
+      45.76551
+     ],
+     [
+      14.35621,
+      45.76476
+     ],
+     [
+      14.35529,
+      45.76403
+     ],
+     [
+      14.35501,
+      45.76402
+     ],
+     [
+      14.35431,
+      45.76453
+     ],
+     [
+      14.35374,
+      45.76562
+     ],
+     [
+      14.3547,
+      45.76574
+     ],
+     [
+      14.35476,
+      45.76596
+     ],
+     [
+      14.3543,
+      45.76625
+     ],
+     [
+      14.35426,
+      45.76651
+     ],
+     [
+      14.35457,
+      45.76682
+     ],
+     [
+      14.35531,
+      45.76677
+     ],
+     [
+      14.35551,
+      45.76802
+     ],
+     [
+      14.35598,
+      45.76823
+     ],
+     [
+      14.35591,
+      45.76865
+     ],
+     [
+      14.35525,
+      45.76897
+     ],
+     [
+      14.35485,
+      45.76873
+     ],
+     [
+      14.35477,
+      45.76841
+     ],
+     [
+      14.35435,
+      45.76807
+     ],
+     [
+      14.35457,
+      45.76772
+     ],
+     [
+      14.3541,
+      45.7673
+     ],
+     [
+      14.35404,
+      45.76674
+     ],
+     [
+      14.35358,
+      45.76654
+     ],
+     [
+      14.35394,
+      45.76594
+     ],
+     [
+      14.35318,
+      45.76644
+     ],
+     [
+      14.35286,
+      45.76721
+     ],
+     [
+      14.35259,
+      45.76743
+     ],
+     [
+      14.35218,
+      45.76738
+     ],
+     [
+      14.35195,
+      45.76711
+     ],
+     [
+      14.35194,
+      45.76658
+     ],
+     [
+      14.35214,
+      45.76622
+     ],
+     [
+      14.35203,
+      45.76612
+     ],
+     [
+      14.35145,
+      45.76612
+     ],
+     [
+      14.35058,
+      45.76651
+     ],
+     [
+      14.3494,
+      45.76663
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.76596,
+   14.35445
+  ],
+  "lengthKm": null,
+  "region": "notranjska",
+  "parking": [
+   {
+    "lat": 45.76776,
+    "lon": 14.36004,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 45.76189,
+    "lon": 14.36105,
+    "name": null,
+    "distKm": 0.46
+   },
+   {
+    "lat": 45.77296,
+    "lon": 14.35714,
+    "name": null,
+    "distKm": 0.47
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:20.113Z"
+ },
+ {
+  "id": "rd-cerknica/rak",
+  "clubSlug": "rd-cerknica",
+  "slug": "rak",
+  "code": "Rak",
+  "name": "Potok Rak",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Rak",
+   "subtitle": "",
+   "description": "The creek's surface is 4,8 ha and is both salmonid and cyprinid in character. It is home to following fish species: pikes, chubs, tenches, brown trouts, barbels, European bullheads,gudgeons, minnows and stone loaches. Allochthonous fish species as greylings, common rudds and perches are harder to find in this creek."
+  },
+  "club": {
+   "name": "Ribiška družina Cerknica",
+   "url": "https://www.ribiskekarte.si/rd-cerknica"
+  },
+  "description": "Površina potoka je 4,8 ha. Potok Rak je mešanega značaja med salmonidno in ciprinidno vodo.Naseljujejo ga naslednje vrste rib: ščuke, kleni, linji, potočne postrvi, mrene, kapeljni, globočki, pisanci in babice. V potoku so redkejše alohtone ribe, kot so lipani, rdečeperke in ostriži. V Raku je predvsem ob nekoliko višjem vodostaju zelo zanimiv ribolov na klena, ki išče hrano na poplavljenih travnikih ob potoku.",
+  "waterType": "river",
+  "water": "Rak",
+  "species": [
+   "klen",
+   "linj",
+   "rdeceperka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "linj",
+   "rdečeperka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "bojli",
+   "koruza",
+   "kruh",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi - klen",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1071"
+   },
+   {
+    "name": "Ciprinidi - linj",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 31. 03.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/812"
+   },
+   {
+    "name": "Ciprinidi - rdečeperka",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1072"
+   },
+   {
+    "name": "Roparice - ščuka",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-cerknica/nakup/1070"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-cerknica/rak",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.3061,
+     45.79071
+    ],
+    [
+     14.3036,
+     45.79052
+    ],
+    [
+     14.28687,
+     45.79408
+    ],
+    [
+     14.28694,
+     45.79366
+    ],
+    [
+     14.2448,
+     45.81947
+    ]
+   ]
+  },
+  "center": [
+   45.80182,
+   14.27361
+  ],
+  "lengthKm": 5.9,
+  "region": "notranjska",
+  "parking": [
+   {
+    "lat": 45.79084,
+    "lon": 14.30432,
+    "name": "Mali naravni most",
+    "distKm": 0.03
+   },
+   {
+    "lat": 45.79468,
+    "lon": 14.28896,
+    "name": null,
+    "distKm": 0.11
+   },
+   {
+    "lat": 45.79051,
+    "lon": 14.29335,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 45.78867,
+    "lon": 14.29784,
+    "name": null,
+    "distKm": 0.33
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:20.168Z"
+ }
+]

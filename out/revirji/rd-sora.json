@@ -1,0 +1,518 @@
+[
+ {
+  "id": "rd-sora/poljanska-sora-4",
+  "clubSlug": "rd-sora",
+  "slug": "poljanska-sora-4",
+  "code": "Poljanska Sora 4",
+  "name": "Reka Poljanska Sora",
+  "subtitle": "od pritoka Petruzovega grabna v Logu do sotočja obeh Sor",
+  "en": {
+   "name": "The river Poljanska Sora",
+   "subtitle": "from the tributary Petruzov graben in Log to the confluence of both Sora rivers",
+   "description": "Poljanska Sora is a river of torrential character, with a spring on the border of the Alpine and Karst world. The river belongs to the group of salmonid waters as it has clean water and well preserved aquatic habitats. On a large part of the stream, the naturally preserved riverbed is intertwined with numerous pools, rapids and overpasses. In it, there are several species of fish that make it a Natura 2000."
+  },
+  "club": {
+   "name": "Ribiška družina Sora",
+   "url": "https://www.ribiskekarte.si/rd-sora"
+  },
+  "description": "Poljanska Sora je reka izrazito hudourniškega značaja, z izvirom na meji alpskega in kraškega sveta. Reka spada v skupino salmonidnih voda, saj ima čisto vodo in dobro ohranjene vodne habitate. Na večjem delu toka ima naravno ohranjeno strugo prepleteno s številnimi tolmuni, brzicami in prelivi. V njej živi več ribjih vrst, zaradi katerih je tudi uvrščena v Naturo 2000.",
+  "waterType": "river",
+  "water": "Poljanska Sora",
+  "species": [
+   "klen",
+   "podust",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "podust",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly"
+  ],
+  "baits": [
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Beličarjenje",
+    "priceEur": 35,
+    "saleWindow": "Nakup od 01. 06. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sora/nakup/838"
+   },
+   {
+    "name": "Muharjenje",
+    "priceEur": 35,
+    "saleWindow": "Nakup od 16. 05. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sora/nakup/709"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sora/poljanska-sora-4",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.153414,
+   "lon": 14.290512
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.21688,
+     46.12772
+    ],
+    [
+     14.23041,
+     46.13193
+    ],
+    [
+     14.23802,
+     46.1339
+    ],
+    [
+     14.24094,
+     46.1339
+    ],
+    [
+     14.24558,
+     46.13341
+    ],
+    [
+     14.24632,
+     46.13353
+    ]
+   ]
+  },
+  "center": [
+   46.15336,
+   14.29066
+  ],
+  "lengthKm": 2.4,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.13017,
+    "lon": 14.22756,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.12644,
+    "lon": 14.21215,
+    "name": null,
+    "distKm": 0.39
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:29.790Z"
+ },
+ {
+  "id": "rd-sora/ribnik-retece",
+  "clubSlug": "rd-sora",
+  "slug": "ribnik-retece",
+  "code": "Ribnik Reteče",
+  "name": "Ribnik Reteče",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Reteče",
+   "subtitle": "",
+   "description": "The pond is probably one of those water bodies for which only fishermen and locals. It is known as a gravel pit lake. The pond has a sandy bottom, as it lies in a pit where the sand was sometimes excavated. The pond has a maximum depth of 3 m. A very unusual characteristic of the lake is the high content of dissolved oxygen in the water, which is why it was once inhabited by a brown trout."
+  },
+  "club": {
+   "name": "Ribiška družina Sora",
+   "url": "https://www.ribiskekarte.si/rd-sora"
+  },
+  "description": "Ribnik je verjetno eno tistih vodnih bogastev za katere vedo le ribiči in domačini, ki mu pravijo tudi Gramozno jezero. Ribnik ima peščeno dno, saj leži v jami, kjer so včasih izkopavali pesek. Ribnik ima največjo globino 3 m. Zelo nenavadna značilnost jezera je visoka vsebnost raztopljenega kisika v vodi, zaradi česar je v njem nekoč prebivala potočna postrv.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "krap",
+   "rdeceoka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "krap",
+   "rdečeoka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + roparice",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sora/nakup/710"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sora/ribnik-retece",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:48.986Z"
+ },
+ {
+  "id": "rd-sora/selska-sora-4",
+  "clubSlug": "rd-sora",
+  "slug": "selska-sora-4",
+  "code": "Selška Sora 4",
+  "name": "Reka Selška Sora",
+  "subtitle": "od soteske Konjski brod do Okornevega jezu nad sotočjem obeh Sor",
+  "en": {
+   "name": "The river Selška Sora",
+   "subtitle": "from the canyon Konjski brod to the dam Okornov jez above the confluence of both Sora rivers",
+   "description": "Selška Sora is a beautiful torrential river of a salmonid character. The valley of the river is tight and the slopes are steep and high. The water flows across the rocks, wanders through the valley and stops in clear pools. The riverbed, which is still in considerable part in its natural state, consists of sandstone, conglomerate, limestone and triassic dolomite."
+  },
+  "club": {
+   "name": "Ribiška družina Sora",
+   "url": "https://www.ribiskekarte.si/rd-sora"
+  },
+  "description": "Selška Sora je prelepa hudourniška reka, salmonidnega značaja. Dolina reke je tesna, pobočja pa so strma in visoka. Voda šumi čez skale, vijuga skozi dolino in se zaustavlja v bistrih tolmunih. Rečno strugo, ki je še na precejšnem delu v naravnem stanju, sestavljajo peščenjak, konglomerat, apnenec in triasni dolomit.",
+  "waterType": "river",
+  "water": "Selška Sora",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Muharjenje",
+    "priceEur": 35,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sora/nakup/708"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sora/selska-sora-4",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.172276,
+   "lon": 14.284961
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.2231,
+     46.21146
+    ],
+    [
+     14.22634,
+     46.21046
+    ],
+    [
+     14.22665,
+     46.20938
+    ],
+    [
+     14.22707,
+     46.20877
+    ],
+    [
+     14.22815,
+     46.20819
+    ],
+    [
+     14.22947,
+     46.20716
+    ],
+    [
+     14.23021,
+     46.20703
+    ],
+    [
+     14.23174,
+     46.20732
+    ],
+    [
+     14.23285,
+     46.20732
+    ],
+    [
+     14.23369,
+     46.20706
+    ],
+    [
+     14.23525,
+     46.20598
+    ],
+    [
+     14.23585,
+     46.20574
+    ],
+    [
+     14.23847,
+     46.20541
+    ],
+    [
+     14.24136,
+     46.20466
+    ],
+    [
+     14.24197,
+     46.20444
+    ],
+    [
+     14.24262,
+     46.204
+    ],
+    [
+     14.24418,
+     46.20181
+    ],
+    [
+     14.24474,
+     46.20143
+    ],
+    [
+     14.24597,
+     46.20084
+    ],
+    [
+     14.24944,
+     46.19997
+    ]
+   ]
+  },
+  "center": [
+   46.17211,
+   14.28488
+  ],
+  "lengthKm": 2.6,
+  "region": "gorenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:22.630Z"
+ },
+ {
+  "id": "rd-sora/sora-1",
+  "clubSlug": "rd-sora",
+  "slug": "sora-1",
+  "code": "Sora 1",
+  "name": "Reka Sora",
+  "subtitle": "od Okornovega jezu nad sotočjem obeh Sor do jezu v Goričanah",
+  "en": {
+   "name": "The river Sora",
+   "subtitle": "from the dam Okornov jez above the confluence of both Sora rivers to the dam in Goričane",
+   "description": "The Sora River is formed by the merger of Selška and Poljanska Sora in Škofja Loka. It belongs to the group of salmonid waters because it is relatively pure and rapidly flowing. The river bed is intertwined with deep pools, rapids and overpasses. In the past, people did not encroach much on it, because of the distance from the settlements and the extremely torrential character."
+  },
+  "club": {
+   "name": "Ribiška družina Sora",
+   "url": "https://www.ribiskekarte.si/rd-sora"
+  },
+  "description": "Reka Sora nastane z združitvijo Selške in Poljanske Sore v Škofji Loki. Spada v skupino salmonidnih voda, saj je razmeroma čista in hitro tekoča. Strugo prepletajo globoki tolmuni, brzice in prelivi. Ljudje v preteklosti niso veliko posegali vanjo, zaradi odmaknjenosti od naselij in izrazito hudourniškega značaja. Reka Sora ponuja raznovrsten ribolov, poln izzivov, ki očara marsikaterega ribiča.",
+  "waterType": "river",
+  "water": "Sora",
+  "species": [
+   "klen",
+   "lipan",
+   "podust",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "podust",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly"
+  ],
+  "baits": [
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Beličarjenje",
+    "priceEur": 35,
+    "saleWindow": "Nakup od 01. 06. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sora/nakup/776"
+   },
+   {
+    "name": "Muharjenje",
+    "priceEur": 35,
+    "saleWindow": "Nakup od 16. 05. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sora/nakup/707"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sora/sora-1",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.162355,
+   "lon": 14.330737
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Goričane (jez)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.39298,
+    46.14334
+   ]
+  },
+  "center": [
+   46.14334,
+   14.39298
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.14278,
+    "lon": 14.39313,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.14451,
+    "lon": 14.398,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:49.018Z"
+ }
+]

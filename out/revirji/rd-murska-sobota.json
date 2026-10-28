@@ -1,0 +1,5299 @@
+[
+ {
+  "id": "rd-murska-sobota/gramoznica-avtosola",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-avtosola",
+  "code": "Gramoznica Avtošola",
+  "name": "Gramoznica Avtošola",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Krog Avtošola",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/683"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1166"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-avtosola",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:46.567Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-bakovci-stara",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-bakovci-stara",
+  "code": "Gramoznica Bakovci stara",
+  "name": "Gramoznica Bakovci stara",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Bakovci old",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Stara",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/983"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1167"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-bakovci-stara",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Stara"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.14407,
+      46.61009
+     ],
+     [
+      16.14415,
+      46.60956
+     ],
+     [
+      16.14521,
+      46.60935
+     ],
+     [
+      16.14538,
+      46.60915
+     ],
+     [
+      16.14555,
+      46.60916
+     ],
+     [
+      16.1459,
+      46.60993
+     ],
+     [
+      16.14488,
+      46.6102
+     ],
+     [
+      16.14488,
+      46.61048
+     ],
+     [
+      16.14422,
+      46.61063
+     ],
+     [
+      16.14424,
+      46.61018
+     ],
+     [
+      16.14407,
+      46.61009
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.60988,
+   16.14484
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.61097,
+    "lon": 16.14709,
+    "name": null,
+    "distKm": 0.15
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:51.325Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-bakovci-igrisce",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-bakovci-igrisce",
+  "code": "Gramoznica Bakovci-igrišče",
+  "name": "Gramoznica Bakovci ob igrišču",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Bakovci-near the playground",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 15. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/676"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1168"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-bakovci-igrisce",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:53.727Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-beltinci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-beltinci",
+  "code": "Gramoznica Beltinci",
+  "name": "Gramoznica Beltinci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Beltinci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/653"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-beltinci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:58.521Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-cp-msobota",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-cp-msobota",
+  "code": "Gramoznica CP M.Sobota",
+  "name": "Gramoznica Dokležovje CP",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Dokležovje CP",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov iz čolna - som",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/979"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 11. 12. do 10. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/679"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1170"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-cp-msobota",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:10.529Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-doklezovje-katika",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-doklezovje-katika",
+  "code": "Gramoznica Dokležovje Katika",
+  "name": "Gramoznica Dokležovje Katika",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Dokležovje Katika",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/981"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1171"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-doklezovje-katika",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:17.728Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-doklezovje-taskan",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-doklezovje-taskan",
+  "code": "Gramoznica Dokležovje Taškan",
+  "name": "Gramoznica Dokležovje Taškan",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Dokležovje Taškan",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/980"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1172"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-doklezovje-taskan",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:20.127Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-filovci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-filovci",
+  "code": "Gramoznica Filovci",
+  "name": "Gramoznica Filovci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Filovci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/678"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1173"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-filovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:24.927Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-gancani",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-gancani",
+  "code": "Gramoznica Gančani",
+  "name": "Gramoznica Gančani",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Gančani",
+   "subtitle": "",
+   "description": "-"
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica Gančani",
+  "species": [
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/651"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1174"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-gancani",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Gančani"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.25185,
+      46.64334
+     ],
+     [
+      16.25266,
+      46.64292
+     ],
+     [
+      16.25343,
+      46.64367
+     ],
+     [
+      16.25203,
+      46.64377
+     ],
+     [
+      16.25201,
+      46.64342
+     ],
+     [
+      16.25185,
+      46.64334
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.64351,
+   16.25251
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:29.726Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-ivanci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-ivanci",
+  "code": "Gramoznica Ivanci",
+  "name": "Gramoznica Ivanci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Ivanci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica Ivanci",
+  "species": [
+   "americki-somic",
+   "amur",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kos ribe",
+   "kostni črv",
+   "mrtva riba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Nočni ribolov",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/662"
+   },
+   {
+    "name": "Ribolov iz čolna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/668"
+   },
+   {
+    "name": "Ribolov soma - dnevna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1361"
+   },
+   {
+    "name": "Ribolov soma - nočna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1360"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1000"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 50,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1001"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 60,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/666"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1135"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1164"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-ivanci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Ivanci"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.26244,
+      46.6591
+     ],
+     [
+      16.26371,
+      46.65865
+     ],
+     [
+      16.26385,
+      46.65855
+     ],
+     [
+      16.26372,
+      46.65821
+     ],
+     [
+      16.26426,
+      46.65792
+     ],
+     [
+      16.26836,
+      46.65678
+     ],
+     [
+      16.26921,
+      46.65698
+     ],
+     [
+      16.26982,
+      46.65754
+     ],
+     [
+      16.27041,
+      46.65737
+     ],
+     [
+      16.27015,
+      46.65686
+     ],
+     [
+      16.2702,
+      46.6565
+     ],
+     [
+      16.27092,
+      46.65623
+     ],
+     [
+      16.27144,
+      46.65632
+     ],
+     [
+      16.27183,
+      46.65572
+     ],
+     [
+      16.27237,
+      46.6556
+     ],
+     [
+      16.27319,
+      46.65799
+     ],
+     [
+      16.26596,
+      46.66075
+     ],
+     [
+      16.26381,
+      46.66134
+     ],
+     [
+      16.26244,
+      46.6591
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.65762,
+   16.26934
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.66177,
+    "lon": 16.26216,
+    "name": null,
+    "distKm": 0.13
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:39.349Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-krog",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-krog",
+  "code": "Gramoznica Krog",
+  "name": "Gramoznica Krog - velika",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Krog - the large one",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov soma - nočna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1359"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1157"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 40,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/993"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 65,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/994"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 80,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/674"
+   },
+   {
+    "name": "Ujemi in spusti - nočni ribolov",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/670"
+   },
+   {
+    "name": "Ujemi in spusti - roparice",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1130"
+   },
+   {
+    "name": "Ujemi in spusti - roparice (čoln)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 11. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1078"
+   },
+   {
+    "name": "Z REZERVACIJO: Ujemi in spusti - 3-dnevna",
+    "priceEur": 40,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1506"
+   },
+   {
+    "name": "Z REZERVACIJO: Ujemi in spusti - 5-dnevna",
+    "priceEur": 65,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1509"
+   },
+   {
+    "name": "Z REZERVACIJO: Ujemi in spusti - 7-dnevna",
+    "priceEur": 80,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1510"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-krog",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:46.547Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-kupsinci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-kupsinci",
+  "code": "Gramoznica Kupšinci",
+  "name": "Gramoznica Kupšinci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Kupšinci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 11. 12. do 09. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/654"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1175"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-kupsinci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:48.929Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-lipa",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-lipa",
+  "code": "Gramoznica Lipa",
+  "name": "Gramoznica Lipa",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Lipa",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/982"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1176"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-lipa",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:53.730Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-lipovci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-lipovci",
+  "code": "Gramoznica Lipovci",
+  "name": "Gramoznica Lipovci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Lipovci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kos ribe",
+   "kostni črv",
+   "mrtva riba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov iz čolna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1195"
+   },
+   {
+    "name": "Ribolov soma - dnevna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 02. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1415"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1193"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1194"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-lipovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:56.130Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-melinci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-melinci",
+  "code": "Gramoznica Melinci",
+  "name": "Gramoznica Melinci",
+  "subtitle": "",
+  "en": {
+   "name": "Gramoznica Melinci",
+   "subtitle": "",
+   "description": "od Melinci do -"
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "Ribolov je dovoljen po celotni površini zgornje in srednje gramoznice",
+  "waterType": "pond",
+  "water": "Gramoznica Melinci",
+  "species": [
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1207"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1208"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-melinci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Melinci"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.22112,
+      46.57671
+     ],
+     [
+      16.22122,
+      46.57623
+     ],
+     [
+      16.22251,
+      46.5755
+     ],
+     [
+      16.22407,
+      46.57692
+     ],
+     [
+      16.22342,
+      46.5771
+     ],
+     [
+      16.22277,
+      46.5777
+     ],
+     [
+      16.22236,
+      46.5777
+     ],
+     [
+      16.22164,
+      46.57735
+     ],
+     [
+      16.22112,
+      46.57671
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.57669,
+   16.22255
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:03.329Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-renkovci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-renkovci",
+  "code": "Gramoznica Renkovci",
+  "name": "Gramoznica Renkovci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Renkovci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/677"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1177"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-renkovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:24.932Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-satahovci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-satahovci",
+  "code": "Gramoznica Satahovci",
+  "name": "Gramoznica Satahovci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Satahovci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 09. do 09. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/650"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 09. do 09. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1178"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-satahovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:27.337Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-sobosko-jezero",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-sobosko-jezero",
+  "code": "Gramoznica Soboško jezero",
+  "name": "Soboško jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Soboško jezero",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Soboška Kamenščica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kos ribe",
+   "kostni črv",
+   "mrtva riba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Nočni ribolov",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/656"
+   },
+   {
+    "name": "Ribolov iz čolna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/667"
+   },
+   {
+    "name": "Ribolov soma - dnevna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 02. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1362"
+   },
+   {
+    "name": "Ribolov soma - nočna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1363"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/997"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 50,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/996"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 60,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/660"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1158"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1165"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-sobosko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Soboška Kamenščica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.16579,
+      46.64051
+     ],
+     [
+      16.16586,
+      46.63986
+     ],
+     [
+      16.16614,
+      46.63949
+     ],
+     [
+      16.1664,
+      46.63943
+     ],
+     [
+      16.16631,
+      46.63931
+     ],
+     [
+      16.16651,
+      46.6387
+     ],
+     [
+      16.16738,
+      46.63811
+     ],
+     [
+      16.16708,
+      46.6375
+     ],
+     [
+      16.16718,
+      46.63724
+     ],
+     [
+      16.16793,
+      46.63687
+     ],
+     [
+      16.16959,
+      46.63665
+     ],
+     [
+      16.16968,
+      46.63674
+     ],
+     [
+      16.16916,
+      46.63702
+     ],
+     [
+      16.16918,
+      46.63731
+     ],
+     [
+      16.16962,
+      46.63733
+     ],
+     [
+      16.17137,
+      46.63671
+     ],
+     [
+      16.17197,
+      46.63666
+     ],
+     [
+      16.17291,
+      46.63693
+     ],
+     [
+      16.17467,
+      46.63712
+     ],
+     [
+      16.17727,
+      46.63691
+     ],
+     [
+      16.17808,
+      46.63726
+     ],
+     [
+      16.17893,
+      46.63717
+     ],
+     [
+      16.17959,
+      46.63789
+     ],
+     [
+      16.1807,
+      46.63809
+     ],
+     [
+      16.18146,
+      46.63893
+     ],
+     [
+      16.18108,
+      46.63951
+     ],
+     [
+      16.18109,
+      46.6402
+     ],
+     [
+      16.18089,
+      46.64041
+     ],
+     [
+      16.17347,
+      46.64388
+     ],
+     [
+      16.16897,
+      46.64536
+     ],
+     [
+      16.16864,
+      46.64533
+     ],
+     [
+      16.16775,
+      46.64382
+     ],
+     [
+      16.17076,
+      46.64302
+     ],
+     [
+      16.17138,
+      46.64271
+     ],
+     [
+      16.17141,
+      46.64245
+     ],
+     [
+      16.172,
+      46.64207
+     ],
+     [
+      16.17314,
+      46.64182
+     ],
+     [
+      16.17356,
+      46.64194
+     ],
+     [
+      16.1734,
+      46.64123
+     ],
+     [
+      16.1731,
+      46.64092
+     ],
+     [
+      16.17174,
+      46.64104
+     ],
+     [
+      16.17142,
+      46.6412
+     ],
+     [
+      16.17058,
+      46.6403
+     ],
+     [
+      16.16955,
+      46.63979
+     ],
+     [
+      16.16817,
+      46.64029
+     ],
+     [
+      16.1661,
+      46.64066
+     ],
+     [
+      16.16579,
+      46.64051
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.63992,
+   16.17224
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.63615,
+    "lon": 16.17196,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.64329,
+    "lon": 16.16724,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.63843,
+    "lon": 16.16543,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.63175,
+    "lon": 16.17922,
+    "name": null,
+    "distKm": 0.59
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:29.740Z"
+ },
+ {
+  "id": "rd-murska-sobota/gramoznica-tesanovci",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "gramoznica-tesanovci",
+  "code": "Gramoznica Tešanovci",
+  "name": "Gramoznica Tešanovci",
+  "subtitle": "",
+  "en": {
+   "name": "Gramoznica Tešanovci",
+   "subtitle": "",
+   "description": "od Tešanovci do -"
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica Tešanovci",
+  "species": [
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/685"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1206"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/gramoznica-tesanovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Tešanovci"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.22143,
+      46.67551
+     ],
+     [
+      16.22163,
+      46.675
+     ],
+     [
+      16.22253,
+      46.675
+     ],
+     [
+      16.22293,
+      46.67608
+     ],
+     [
+      16.2223,
+      46.6757
+     ],
+     [
+      16.22214,
+      46.67582
+     ],
+     [
+      16.22243,
+      46.676
+     ],
+     [
+      16.22207,
+      46.67593
+     ],
+     [
+      16.22145,
+      46.67565
+     ],
+     [
+      16.22143,
+      46.67551
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.67568,
+   16.22225
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.68087,
+    "lon": 16.22319,
+    "name": null,
+    "distKm": 0.53
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:32.134Z"
+ },
+ {
+  "id": "rd-murska-sobota/hodos",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "hodos",
+  "code": "Hodoš",
+  "name": "Zajetje Hodoš",
+  "subtitle": "",
+  "en": {
+   "name": "Hodoš",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Zajetje Hodoš",
+  "species": [
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1196"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1197"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/hodos",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Zajetje Hodoš"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.30636,
+      46.83702
+     ],
+     [
+      16.30664,
+      46.83694
+     ],
+     [
+      16.30669,
+      46.83667
+     ],
+     [
+      16.30647,
+      46.83666
+     ],
+     [
+      16.3069,
+      46.83614
+     ],
+     [
+      16.30765,
+      46.83594
+     ],
+     [
+      16.30944,
+      46.83592
+     ],
+     [
+      16.31078,
+      46.83785
+     ],
+     [
+      16.31037,
+      46.83803
+     ],
+     [
+      16.30731,
+      46.83801
+     ],
+     [
+      16.30691,
+      46.83789
+     ],
+     [
+      16.30647,
+      46.83816
+     ],
+     [
+      16.30732,
+      46.83747
+     ],
+     [
+      16.30722,
+      46.8372
+     ],
+     [
+      16.30649,
+      46.83725
+     ],
+     [
+      16.30655,
+      46.83712
+     ],
+     [
+      16.30636,
+      46.83702
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.83719,
+   16.3079
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:48.956Z"
+ },
+ {
+  "id": "rd-murska-sobota/ledava-2",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "ledava-2",
+  "code": "Ledava 2",
+  "name": "Reka Ledava",
+  "subtitle": "od državne meje z Avstrijo do mostu Bogojina - Gančani",
+  "en": {
+   "name": "The river Ledava",
+   "subtitle": "from the state border with Austria to the bridge Bogojina-Gančani",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Ledava / Lendva",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/686"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1180"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/ledava-2",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.678364,
+   "lon": 16.142077
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: meja",
+   "do: kraj Gančani"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.61235,
+     46.46791
+    ],
+    [
+     16.61199,
+     46.46905
+    ],
+    [
+     16.61197,
+     46.46973
+    ],
+    [
+     16.61166,
+     46.47082
+    ],
+    [
+     16.6106,
+     46.4715
+    ],
+    [
+     16.60912,
+     46.47171
+    ],
+    [
+     16.60817,
+     46.47204
+    ],
+    [
+     16.60681,
+     46.47292
+    ],
+    [
+     16.60658,
+     46.47315
+    ],
+    [
+     16.60626,
+     46.47399
+    ],
+    [
+     16.60618,
+     46.47542
+    ],
+    [
+     16.60605,
+     46.47582
+    ],
+    [
+     16.60575,
+     46.47616
+    ],
+    [
+     16.6052,
+     46.47641
+    ],
+    [
+     16.60455,
+     46.47634
+    ],
+    [
+     16.60325,
+     46.47588
+    ],
+    [
+     16.60214,
+     46.47582
+    ],
+    [
+     16.60089,
+     46.476
+    ],
+    [
+     16.60021,
+     46.47631
+    ],
+    [
+     16.59886,
+     46.47661
+    ],
+    [
+     16.59659,
+     46.47659
+    ],
+    [
+     16.59481,
+     46.47692
+    ],
+    [
+     16.5933,
+     46.47671
+    ],
+    [
+     16.59116,
+     46.47682
+    ],
+    [
+     16.58802,
+     46.47719
+    ],
+    [
+     16.58441,
+     46.47728
+    ],
+    [
+     16.5809,
+     46.47821
+    ],
+    [
+     16.58037,
+     46.47848
+    ],
+    [
+     16.57999,
+     46.47885
+    ],
+    [
+     16.57984,
+     46.47921
+    ],
+    [
+     16.57992,
+     46.48025
+    ],
+    [
+     16.57929,
+     46.48105
+    ],
+    [
+     16.57529,
+     46.48279
+    ],
+    [
+     16.5707,
+     46.4844
+    ],
+    [
+     16.57014,
+     46.48477
+    ],
+    [
+     16.56983,
+     46.48525
+    ],
+    [
+     16.56977,
+     46.48564
+    ],
+    [
+     16.57015,
+     46.48716
+    ],
+    [
+     16.56988,
+     46.48762
+    ],
+    [
+     16.56935,
+     46.48798
+    ],
+    [
+     16.56637,
+     46.4892
+    ],
+    [
+     16.56435,
+     46.48974
+    ],
+    [
+     16.56341,
+     46.4897
+    ],
+    [
+     16.56227,
+     46.48932
+    ],
+    [
+     16.56135,
+     46.4894
+    ],
+    [
+     16.55594,
+     46.49178
+    ],
+    [
+     16.55509,
+     46.49178
+    ],
+    [
+     16.55296,
+     46.49221
+    ],
+    [
+     16.5507,
+     46.49337
+    ],
+    [
+     16.5465,
+     46.4947
+    ],
+    [
+     16.53741,
+     46.49989
+    ],
+    [
+     16.53639,
+     46.50012
+    ],
+    [
+     16.53273,
+     46.50042
+    ],
+    [
+     16.53205,
+     46.50053
+    ],
+    [
+     16.53122,
+     46.50087
+    ],
+    [
+     16.51908,
+     46.50805
+    ],
+    [
+     16.51669,
+     46.50882
+    ],
+    [
+     16.51492,
+     46.50911
+    ],
+    [
+     16.51198,
+     46.51016
+    ],
+    [
+     16.49628,
+     46.51683
+    ],
+    [
+     16.48383,
+     46.52707
+    ],
+    [
+     16.48019,
+     46.53135
+    ],
+    [
+     16.47882,
+     46.53432
+    ],
+    [
+     16.47605,
+     46.53743
+    ],
+    [
+     16.47435,
+     46.53843
+    ],
+    [
+     16.47389,
+     46.53888
+    ],
+    [
+     16.47111,
+     46.5427
+    ],
+    [
+     16.46864,
+     46.54394
+    ],
+    [
+     16.46699,
+     46.54553
+    ],
+    [
+     16.46133,
+     46.5527
+    ],
+    [
+     16.4574,
+     46.55677
+    ],
+    [
+     16.45655,
+     46.55742
+    ],
+    [
+     16.45327,
+     46.55873
+    ],
+    [
+     16.45257,
+     46.55912
+    ],
+    [
+     16.44557,
+     46.56485
+    ],
+    [
+     16.43862,
+     46.57023
+    ],
+    [
+     16.43143,
+     46.57332
+    ],
+    [
+     16.42993,
+     46.57373
+    ],
+    [
+     16.40888,
+     46.57443
+    ],
+    [
+     16.40397,
+     46.57533
+    ],
+    [
+     16.40179,
+     46.57634
+    ],
+    [
+     16.40098,
+     46.57758
+    ],
+    [
+     16.40046,
+     46.57812
+    ],
+    [
+     16.39728,
+     46.58018
+    ],
+    [
+     16.39305,
+     46.58185
+    ],
+    [
+     16.38883,
+     46.58423
+    ],
+    [
+     16.38614,
+     46.58644
+    ],
+    [
+     16.3824,
+     46.58877
+    ],
+    [
+     16.38133,
+     46.58978
+    ],
+    [
+     16.378,
+     46.59192
+    ],
+    [
+     16.37694,
+     46.59269
+    ],
+    [
+     16.37266,
+     46.59635
+    ],
+    [
+     16.36967,
+     46.60086
+    ],
+    [
+     16.35282,
+     46.6124
+    ],
+    [
+     16.35133,
+     46.61359
+    ],
+    [
+     16.33716,
+     46.6232
+    ],
+    [
+     16.31078,
+     46.64171
+    ],
+    [
+     16.30884,
+     46.6432
+    ],
+    [
+     16.29369,
+     46.64725
+    ],
+    [
+     16.28658,
+     46.64734
+    ],
+    [
+     16.27998,
+     46.64717
+    ],
+    [
+     16.27626,
+     46.64614
+    ],
+    [
+     16.27568,
+     46.6459
+    ],
+    [
+     16.2752,
+     46.64551
+    ],
+    [
+     16.27323,
+     46.64483
+    ],
+    [
+     16.27241,
+     46.64467
+    ],
+    [
+     16.27095,
+     46.6447
+    ],
+    [
+     16.26861,
+     46.64401
+    ],
+    [
+     16.26423,
+     46.64455
+    ],
+    [
+     16.26331,
+     46.64494
+    ],
+    [
+     16.26198,
+     46.64591
+    ],
+    [
+     16.26127,
+     46.64627
+    ],
+    [
+     16.25786,
+     46.64691
+    ]
+   ]
+  },
+  "center": [
+   46.56585,
+   16.44428
+  ],
+  "lengthKm": 36.3,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.55511,
+    "lon": 16.45982,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.56083,
+    "lon": 16.45151,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.56387,
+    "lon": 16.44797,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.55851,
+    "lon": 16.45685,
+    "name": null,
+    "distKm": 0.12
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:32.191Z"
+ },
+ {
+  "id": "rd-murska-sobota/ledavsko-jezero-15",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "ledavsko-jezero-15",
+  "code": "Ledavsko jezero 1/5",
+  "name": "Akumulacija Krašči",
+  "subtitle": "Ledavsko jezero",
+  "en": {
+   "name": "The reservoir Krašči",
+   "subtitle": "the lake Ledavsko jezero",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "reservoir",
+  "water": "Ledavsko jezero",
+  "species": [
+   "americki-somic",
+   "amur",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kos ribe",
+   "kostni črv",
+   "mrtva riba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Nočni ribolov",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 02. 10. do 01. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/900"
+   },
+   {
+    "name": "Nočni ribolov - som",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 02. 10. do 01. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1358"
+   },
+   {
+    "name": "Ribolov iz čolna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 02. 10. do 01. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/978"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 02. 10. do 01. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1233"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 80,
+    "saleWindow": "Nakup od 02. 12. do 01. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/910"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 02. 10. do 01. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/998"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 02. 10. do 01. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1139"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/ledavsko-jezero-15",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ledavsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.03459,
+      46.74935
+     ],
+     [
+      16.03482,
+      46.74808
+     ],
+     [
+      16.03507,
+      46.7479
+     ],
+     [
+      16.04264,
+      46.7463
+     ],
+     [
+      16.04309,
+      46.74638
+     ],
+     [
+      16.04356,
+      46.74697
+     ],
+     [
+      16.04405,
+      46.74802
+     ],
+     [
+      16.04428,
+      46.74914
+     ],
+     [
+      16.04475,
+      46.74969
+     ],
+     [
+      16.04503,
+      46.75075
+     ],
+     [
+      16.04509,
+      46.75259
+     ],
+     [
+      16.04654,
+      46.75386
+     ],
+     [
+      16.04638,
+      46.75386
+     ],
+     [
+      16.04618,
+      46.75444
+     ],
+     [
+      16.04608,
+      46.75516
+     ],
+     [
+      16.04625,
+      46.75577
+     ],
+     [
+      16.04578,
+      46.75625
+     ],
+     [
+      16.04556,
+      46.75725
+     ],
+     [
+      16.04586,
+      46.75769
+     ],
+     [
+      16.04649,
+      46.7581
+     ],
+     [
+      16.0464,
+      46.75859
+     ],
+     [
+      16.04605,
+      46.75888
+     ],
+     [
+      16.04493,
+      46.75913
+     ],
+     [
+      16.04537,
+      46.75913
+     ],
+     [
+      16.04565,
+      46.75928
+     ],
+     [
+      16.04555,
+      46.75941
+     ],
+     [
+      16.04529,
+      46.75951
+     ],
+     [
+      16.04495,
+      46.75937
+     ],
+     [
+      16.04492,
+      46.75952
+     ],
+     [
+      16.04443,
+      46.75967
+     ],
+     [
+      16.04419,
+      46.75962
+     ],
+     [
+      16.04419,
+      46.75948
+     ],
+     [
+      16.04383,
+      46.75951
+     ],
+     [
+      16.04453,
+      46.75938
+     ],
+     [
+      16.04484,
+      46.75912
+     ],
+     [
+      16.04364,
+      46.7594
+     ],
+     [
+      16.04303,
+      46.75937
+     ],
+     [
+      16.04245,
+      46.75894
+     ],
+     [
+      16.04232,
+      46.75906
+     ],
+     [
+      16.04223,
+      46.75894
+     ],
+     [
+      16.04238,
+      46.75882
+     ],
+     [
+      16.04168,
+      46.75822
+     ],
+     [
+      16.04159,
+      46.75792
+     ],
+     [
+      16.04191,
+      46.75718
+     ],
+     [
+      16.04184,
+      46.75592
+     ],
+     [
+      16.04257,
+      46.75513
+     ],
+     [
+      16.04231,
+      46.75434
+     ],
+     [
+      16.04251,
+      46.75374
+     ],
+     [
+      16.04174,
+      46.75273
+     ],
+     [
+      16.04152,
+      46.7527
+     ],
+     [
+      16.04098,
+      46.75291
+     ],
+     [
+      16.04041,
+      46.75368
+     ],
+     [
+      16.04003,
+      46.75379
+     ],
+     [
+      16.04009,
+      46.75471
+     ],
+     [
+      16.03986,
+      46.75523
+     ],
+     [
+      16.04006,
+      46.75525
+     ],
+     [
+      16.03982,
+      46.75572
+     ],
+     [
+      16.03962,
+      46.75572
+     ],
+     [
+      16.03959,
+      46.75618
+     ],
+     [
+      16.03935,
+      46.75631
+     ],
+     [
+      16.03862,
+      46.75732
+     ],
+     [
+      16.03852,
+      46.75866
+     ],
+     [
+      16.03831,
+      46.75845
+     ],
+     [
+      16.0381,
+      46.75852
+     ],
+     [
+      16.03833,
+      46.75874
+     ],
+     [
+      16.03886,
+      46.75874
+     ],
+     [
+      16.03906,
+      46.75902
+     ],
+     [
+      16.03789,
+      46.75937
+     ],
+     [
+      16.03858,
+      46.75893
+     ],
+     [
+      16.03842,
+      46.75881
+     ],
+     [
+      16.03786,
+      46.75889
+     ],
+     [
+      16.03778,
+      46.75863
+     ],
+     [
+      16.037,
+      46.75787
+     ],
+     [
+      16.03703,
+      46.7574
+     ],
+     [
+      16.03724,
+      46.75728
+     ],
+     [
+      16.0371,
+      46.75706
+     ],
+     [
+      16.03733,
+      46.75628
+     ],
+     [
+      16.03764,
+      46.75583
+     ],
+     [
+      16.03754,
+      46.75567
+     ],
+     [
+      16.03767,
+      46.75539
+     ],
+     [
+      16.038,
+      46.75503
+     ],
+     [
+      16.03886,
+      46.75467
+     ],
+     [
+      16.03913,
+      46.75427
+     ],
+     [
+      16.03948,
+      46.75425
+     ],
+     [
+      16.03952,
+      46.75414
+     ],
+     [
+      16.03928,
+      46.75411
+     ],
+     [
+      16.03957,
+      46.75361
+     ],
+     [
+      16.03926,
+      46.75329
+     ],
+     [
+      16.03823,
+      46.75337
+     ],
+     [
+      16.03832,
+      46.75358
+     ],
+     [
+      16.03788,
+      46.75367
+     ],
+     [
+      16.03749,
+      46.75351
+     ],
+     [
+      16.03786,
+      46.75326
+     ],
+     [
+      16.03746,
+      46.7532
+     ],
+     [
+      16.03718,
+      46.75337
+     ],
+     [
+      16.03627,
+      46.75316
+     ],
+     [
+      16.03642,
+      46.75265
+     ],
+     [
+      16.03595,
+      46.75195
+     ],
+     [
+      16.03597,
+      46.75149
+     ],
+     [
+      16.03539,
+      46.75137
+     ],
+     [
+      16.03531,
+      46.75123
+     ],
+     [
+      16.03553,
+      46.7508
+     ],
+     [
+      16.03494,
+      46.74984
+     ],
+     [
+      16.03465,
+      46.74968
+     ],
+     [
+      16.03459,
+      46.74935
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.75565,
+   16.0411
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.74606,
+    "lon": 16.04365,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.7518,
+    "lon": 16.04525,
+    "name": "Ribičija",
+    "distKm": 0.09
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:32:34.573Z"
+ },
+ {
+  "id": "rd-murska-sobota/mura-levi-breg",
+  "clubSlug": "rd-murska-sobota",
+  "slug": "mura-levi-breg",
+  "code": "Mura-levi breg",
+  "name": "Reka Mura",
+  "subtitle": "od broda Krog do Gibine",
+  "en": {
+   "name": "The river Mura",
+   "subtitle": "left bank, from the cable ferry Krog to Gibina",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Murska Sobota",
+   "url": "https://www.ribiskekarte.si/rd-murska-sobota"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Mura",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "podust",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "podust",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/687"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1179"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-murska-sobota/mura-levi-breg",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.648821,
+   "lon": 16.059244
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Krog",
+   "do: kraj Gibina"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.11627,
+     46.61085
+    ],
+    [
+     16.11977,
+     46.60901
+    ],
+    [
+     16.12287,
+     46.60817
+    ],
+    [
+     16.1269,
+     46.6079
+    ],
+    [
+     16.12962,
+     46.60677
+    ],
+    [
+     16.13267,
+     46.60487
+    ],
+    [
+     16.13487,
+     46.60399
+    ],
+    [
+     16.13694,
+     46.60364
+    ],
+    [
+     16.13932,
+     46.60346
+    ],
+    [
+     16.14257,
+     46.60269
+    ],
+    [
+     16.14442,
+     46.6016
+    ],
+    [
+     16.14712,
+     46.59923
+    ],
+    [
+     16.14883,
+     46.59824
+    ],
+    [
+     16.15103,
+     46.59793
+    ],
+    [
+     16.15568,
+     46.59773
+    ],
+    [
+     16.15707,
+     46.5975
+    ],
+    [
+     16.15867,
+     46.59702
+    ],
+    [
+     16.16118,
+     46.59569
+    ],
+    [
+     16.16354,
+     46.59379
+    ],
+    [
+     16.16549,
+     46.59286
+    ],
+    [
+     16.16842,
+     46.59216
+    ],
+    [
+     16.17099,
+     46.59216
+    ],
+    [
+     16.17389,
+     46.59159
+    ],
+    [
+     16.17652,
+     46.58985
+    ],
+    [
+     16.17943,
+     46.58851
+    ],
+    [
+     16.18382,
+     46.58799
+    ],
+    [
+     16.18657,
+     46.58822
+    ],
+    [
+     16.18875,
+     46.58796
+    ],
+    [
+     16.19047,
+     46.58752
+    ],
+    [
+     16.19195,
+     46.5869
+    ],
+    [
+     16.19591,
+     46.58428
+    ],
+    [
+     16.19874,
+     46.58264
+    ],
+    [
+     16.2003,
+     46.58154
+    ],
+    [
+     16.20187,
+     46.58084
+    ],
+    [
+     16.21173,
+     46.57749
+    ],
+    [
+     16.21733,
+     46.57528
+    ],
+    [
+     16.21894,
+     46.57444
+    ],
+    [
+     16.22954,
+     46.5651
+    ],
+    [
+     16.233,
+     46.55718
+    ],
+    [
+     16.23377,
+     46.55606
+    ],
+    [
+     16.23448,
+     46.55573
+    ],
+    [
+     16.23669,
+     46.5551
+    ],
+    [
+     16.23837,
+     46.5533
+    ],
+    [
+     16.24016,
+     46.55175
+    ],
+    [
+     16.24113,
+     46.55114
+    ],
+    [
+     16.24319,
+     46.55024
+    ],
+    [
+     16.24969,
+     46.54702
+    ],
+    [
+     16.25266,
+     46.5459
+    ],
+    [
+     16.25374,
+     46.54559
+    ],
+    [
+     16.25539,
+     46.54534
+    ],
+    [
+     16.26103,
+     46.54472
+    ],
+    [
+     16.26373,
+     46.54372
+    ],
+    [
+     16.26983,
+     46.54003
+    ],
+    [
+     16.27331,
+     46.5388
+    ],
+    [
+     16.27661,
+     46.53813
+    ],
+    [
+     16.27877,
+     46.53733
+    ],
+    [
+     16.28074,
+     46.53611
+    ],
+    [
+     16.28251,
+     46.53466
+    ],
+    [
+     16.28323,
+     46.53387
+    ],
+    [
+     16.28359,
+     46.53298
+    ],
+    [
+     16.28689,
+     46.52881
+    ],
+    [
+     16.28865,
+     46.52787
+    ],
+    [
+     16.29161,
+     46.52709
+    ],
+    [
+     16.29355,
+     46.527
+    ],
+    [
+     16.29552,
+     46.52734
+    ],
+    [
+     16.29981,
+     46.52743
+    ],
+    [
+     16.30103,
+     46.52692
+    ],
+    [
+     16.3016,
+     46.52652
+    ],
+    [
+     16.30247,
+     46.52516
+    ],
+    [
+     16.30384,
+     46.52378
+    ]
+   ]
+  },
+  "center": [
+   46.57415,
+   16.21927
+  ],
+  "lengthKm": 18.4,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.58026,
+    "lon": 16.20855,
+    "name": "Otok Ljubezni",
+    "distKm": 0.17
+   },
+   {
+    "lat": 46.52121,
+    "lon": 16.30413,
+    "name": null,
+    "distKm": 0.29
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:29.799Z"
+ }
+]

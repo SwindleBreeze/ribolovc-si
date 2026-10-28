@@ -1,0 +1,1038 @@
+[
+ {
+  "id": "rd-radovljica/potok-lipnica",
+  "clubSlug": "rd-radovljica",
+  "slug": "potok-lipnica",
+  "code": "Lipnica",
+  "name": "Potok Lipnica",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Lipnica",
+   "subtitle": "",
+   "description": "The creek Lipnica is the Sava's first tributary on the right side after the confluence of the Sava Bohinjka and the Sava Dolinka. It flows into the Sava in the vicinity of the village Ovsiše. The creek accummulates its waters on the northeast slopes of the plateau Jelovica, from which three major creeks flow into the Lipnica."
+  },
+  "club": {
+   "name": "Ribiška družina Radovljica",
+   "url": "https://www.ribiskekarte.si/rd-radovljica"
+  },
+  "description": "Potok Lipnica je prvi desni pritok reke Save po sotočju Save Bohinjke in Save Dolinke. V Savo se izlije v bližini vasi Ovsiše. Potok svoje vode nabira na severovzhodnih pobočjih planote Jelovica, s katere se vanj stekajo trije večji potoki.",
+  "waterType": "river",
+  "water": "Lipnica",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti (Lipnica, Sava)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 29. 02. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/87"
+   },
+   {
+    "name": "Ujemi in spusti (Sava, Lipnica) - 3 dnevna",
+    "priceEur": 130,
+    "saleWindow": "Nakup od 01. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/1257"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radovljica/potok-lipnica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.2886,
+   "lon": 14.2582
+  },
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.15951,
+     46.32086
+    ],
+    [
+     14.16002,
+     46.32104
+    ],
+    [
+     14.16136,
+     46.32066
+    ],
+    [
+     14.16231,
+     46.32064
+    ],
+    [
+     14.16305,
+     46.32099
+    ],
+    [
+     14.16452,
+     46.321
+    ],
+    [
+     14.16558,
+     46.32147
+    ],
+    [
+     14.16607,
+     46.32101
+    ],
+    [
+     14.1667,
+     46.31998
+    ],
+    [
+     14.16765,
+     46.31969
+    ],
+    [
+     14.16831,
+     46.31974
+    ],
+    [
+     14.16922,
+     46.32005
+    ],
+    [
+     14.17147,
+     46.32024
+    ],
+    [
+     14.17265,
+     46.3202
+    ],
+    [
+     14.17329,
+     46.32045
+    ],
+    [
+     14.17357,
+     46.32044
+    ],
+    [
+     14.17399,
+     46.3203
+    ],
+    [
+     14.17443,
+     46.31953
+    ],
+    [
+     14.17573,
+     46.31862
+    ],
+    [
+     14.17638,
+     46.31865
+    ],
+    [
+     14.17721,
+     46.31904
+    ],
+    [
+     14.17812,
+     46.31897
+    ],
+    [
+     14.17875,
+     46.31871
+    ],
+    [
+     14.179,
+     46.31824
+    ],
+    [
+     14.17917,
+     46.31815
+    ],
+    [
+     14.17992,
+     46.31809
+    ],
+    [
+     14.18034,
+     46.3183
+    ],
+    [
+     14.18079,
+     46.31881
+    ],
+    [
+     14.18172,
+     46.31871
+    ],
+    [
+     14.18261,
+     46.31821
+    ],
+    [
+     14.18405,
+     46.31786
+    ],
+    [
+     14.18551,
+     46.31684
+    ],
+    [
+     14.18651,
+     46.31653
+    ],
+    [
+     14.18734,
+     46.31651
+    ],
+    [
+     14.18779,
+     46.31663
+    ],
+    [
+     14.18881,
+     46.31722
+    ],
+    [
+     14.18982,
+     46.3169
+    ],
+    [
+     14.19181,
+     46.31694
+    ],
+    [
+     14.19255,
+     46.31612
+    ],
+    [
+     14.19364,
+     46.31598
+    ],
+    [
+     14.19578,
+     46.31674
+    ],
+    [
+     14.19617,
+     46.3167
+    ],
+    [
+     14.1968,
+     46.31637
+    ],
+    [
+     14.19716,
+     46.31601
+    ],
+    [
+     14.19677,
+     46.31512
+    ],
+    [
+     14.19672,
+     46.31491
+    ],
+    [
+     14.19683,
+     46.31481
+    ],
+    [
+     14.19882,
+     46.31395
+    ],
+    [
+     14.20038,
+     46.31306
+    ],
+    [
+     14.20142,
+     46.31277
+    ],
+    [
+     14.2022,
+     46.31208
+    ],
+    [
+     14.20334,
+     46.31148
+    ],
+    [
+     14.20366,
+     46.31118
+    ],
+    [
+     14.20377,
+     46.31103
+    ],
+    [
+     14.20386,
+     46.31006
+    ],
+    [
+     14.20401,
+     46.3098
+    ],
+    [
+     14.2053,
+     46.30872
+    ],
+    [
+     14.20665,
+     46.30573
+    ],
+    [
+     14.20688,
+     46.30545
+    ],
+    [
+     14.2075,
+     46.30533
+    ],
+    [
+     14.21073,
+     46.30563
+    ],
+    [
+     14.2112,
+     46.30554
+    ],
+    [
+     14.21219,
+     46.30504
+    ],
+    [
+     14.21273,
+     46.30452
+    ],
+    [
+     14.21316,
+     46.30386
+    ],
+    [
+     14.21355,
+     46.30362
+    ],
+    [
+     14.21549,
+     46.30318
+    ],
+    [
+     14.21646,
+     46.3022
+    ],
+    [
+     14.21787,
+     46.30147
+    ],
+    [
+     14.22189,
+     46.30081
+    ],
+    [
+     14.22507,
+     46.29936
+    ],
+    [
+     14.22588,
+     46.29869
+    ],
+    [
+     14.22636,
+     46.29845
+    ],
+    [
+     14.2276,
+     46.29816
+    ],
+    [
+     14.22909,
+     46.29753
+    ],
+    [
+     14.23139,
+     46.29724
+    ],
+    [
+     14.2318,
+     46.297
+    ],
+    [
+     14.23238,
+     46.29615
+    ],
+    [
+     14.2338,
+     46.29546
+    ],
+    [
+     14.23478,
+     46.29518
+    ],
+    [
+     14.23575,
+     46.29461
+    ],
+    [
+     14.23718,
+     46.2944
+    ],
+    [
+     14.23808,
+     46.29387
+    ],
+    [
+     14.23913,
+     46.29308
+    ],
+    [
+     14.2395,
+     46.29232
+    ],
+    [
+     14.23977,
+     46.2921
+    ],
+    [
+     14.24126,
+     46.29189
+    ],
+    [
+     14.24366,
+     46.29117
+    ],
+    [
+     14.24388,
+     46.29133
+    ],
+    [
+     14.24388,
+     46.29168
+    ],
+    [
+     14.244,
+     46.29184
+    ],
+    [
+     14.24443,
+     46.29199
+    ],
+    [
+     14.24495,
+     46.29194
+    ],
+    [
+     14.2458,
+     46.29154
+    ],
+    [
+     14.24597,
+     46.29085
+    ],
+    [
+     14.2469,
+     46.29069
+    ],
+    [
+     14.24869,
+     46.28996
+    ],
+    [
+     14.24928,
+     46.28998
+    ],
+    [
+     14.25002,
+     46.29033
+    ],
+    [
+     14.25047,
+     46.29011
+    ],
+    [
+     14.25081,
+     46.28973
+    ],
+    [
+     14.25197,
+     46.28941
+    ],
+    [
+     14.25257,
+     46.28933
+    ],
+    [
+     14.25371,
+     46.28956
+    ],
+    [
+     14.25478,
+     46.28927
+    ],
+    [
+     14.25553,
+     46.28875
+    ],
+    [
+     14.25585,
+     46.28867
+    ],
+    [
+     14.25755,
+     46.2884
+    ],
+    [
+     14.25862,
+     46.28852
+    ],
+    [
+     14.25949,
+     46.28825
+    ],
+    [
+     14.26079,
+     46.2884
+    ],
+    [
+     14.26322,
+     46.28781
+    ]
+   ]
+  },
+  "center": [
+   46.3054,
+   14.20826
+  ],
+  "lengthKm": 10.2,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.30579,
+    "lon": 14.20686,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.30681,
+    "lon": 14.21653,
+    "name": null,
+    "distKm": 0.39
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:44.176Z"
+ },
+ {
+  "id": "rd-radovljica/ribnik-vosce",
+  "clubSlug": "rd-radovljica",
+  "slug": "ribnik-vosce",
+  "code": "Ribnik Vošče",
+  "name": "Ribnik Vošče",
+  "subtitle": "",
+  "en": {
+   "name": "Pond Vošče",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radovljica",
+   "url": "https://www.ribiskekarte.si/rd-radovljica"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "krap",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "krap",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi",
+    "priceEur": 1,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/57"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radovljica/ribnik-vosce",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.4221,
+      46.28622
+     ],
+     [
+      14.42231,
+      46.28622
+     ],
+     [
+      14.4221,
+      46.28622
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.28621,
+   14.4222
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.28991,
+    "lon": 14.42156,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:27.383Z"
+ },
+ {
+  "id": "rd-radovljica/sava-4",
+  "clubSlug": "rd-radovljica",
+  "slug": "sava-4",
+  "code": "Sava 4",
+  "name": "Reka Sava",
+  "subtitle": "od Rakovnika do potočka pred izlivom Tržiške Bistrice v Savo",
+  "en": {
+   "name": "The river Sava",
+   "subtitle": "from Rakovnik to the little stream just before the outflow of the Tržiška Bistrica",
+   "description": "Do you want to know where to fish? Where to leave your car? What kind of of a fly do you need? Just click here and read for free the guide for the district Sava 4 The district, which extends from Rakovník to the outflow of the Tržiška Bistrica River into the Sava. The district 4 already unites the rivers Sava Dolinka and Sava Bohinjka-and the united district is 23 km long."
+  },
+  "club": {
+   "name": "Ribiška družina Radovljica",
+   "url": "https://www.ribiskekarte.si/rd-radovljica"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšno muho potrebujete? Kliknite tukaj in preberite brezplačen vodič po revirju Sava 4. Revir, ki sega od Rakovnika do izliva Tržiške Bistrice v reko Savo. V Revirju 4 sta že združeni Sava Dolinka in Sava Bohinjka. Skupni revir je dolg 23 km. Vsako leto v te revirje vložimo cca 20.000 dvoletni potočnih postrvi, vzgojenih v gojitvenih potokih, in cca 3000 kg šarenke.",
+  "waterType": "river",
+  "water": "Sava",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov sulca - ujemi in spusti",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/548"
+   },
+   {
+    "name": "Ribolov sulca - ujemi in vzemi",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/549"
+   },
+   {
+    "name": "Ujemi in odnesi",
+    "priceEur": 44,
+    "saleWindow": "Nakup od 01. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/3"
+   },
+   {
+    "name": "Ujemi in odnesi - 3 dnevna",
+    "priceEur": 130,
+    "saleWindow": "Nakup od 01. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/832"
+   },
+   {
+    "name": "Ujemi in odnesi (1.11. - 30.11.)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 11. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/82"
+   },
+   {
+    "name": "Ujemi in spusti (1.11. - 30.11.)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 11. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/522"
+   },
+   {
+    "name": "Ujemi in spusti (Lipnica, Sava)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 29. 02. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/87"
+   },
+   {
+    "name": "Ujemi in spusti (Sava, Lipnica) - 3 dnevna",
+    "priceEur": 130,
+    "saleWindow": "Nakup od 01. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/1257"
+   },
+   {
+    "name": "Ujemi in spusti (Sava)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/1"
+   },
+   {
+    "name": "Ujemi in spusti (Sava) - 3 dnevna",
+    "priceEur": 100,
+    "saleWindow": "Nakup od 01. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/833"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radovljica/sava-4",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.340098,
+   "lon": 14.165342
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Rakovnik",
+   "do: sotočje Tržiške Bistrice"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.23494,
+     46.30879
+    ],
+    [
+     14.2409,
+     46.3076
+    ],
+    [
+     14.24582,
+     46.30754
+    ],
+    [
+     14.25026,
+     46.3069
+    ],
+    [
+     14.25089,
+     46.30678
+    ],
+    [
+     14.25245,
+     46.30616
+    ],
+    [
+     14.25383,
+     46.30531
+    ],
+    [
+     14.25441,
+     46.30455
+    ],
+    [
+     14.25462,
+     46.30387
+    ],
+    [
+     14.25428,
+     46.30056
+    ],
+    [
+     14.25448,
+     46.29944
+    ],
+    [
+     14.25548,
+     46.29871
+    ],
+    [
+     14.25961,
+     46.29681
+    ],
+    [
+     14.26011,
+     46.29638
+    ],
+    [
+     14.26048,
+     46.29582
+    ],
+    [
+     14.26058,
+     46.29468
+    ],
+    [
+     14.2604,
+     46.29412
+    ],
+    [
+     14.2601,
+     46.29368
+    ],
+    [
+     14.26011,
+     46.29286
+    ],
+    [
+     14.26171,
+     46.29054
+    ],
+    [
+     14.2627,
+     46.28861
+    ],
+    [
+     14.26366,
+     46.28713
+    ],
+    [
+     14.26464,
+     46.28267
+    ],
+    [
+     14.26622,
+     46.2794
+    ]
+   ]
+  },
+  "center": [
+   46.29843,
+   14.25609
+  ],
+  "lengthKm": 4.7,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.3057,
+    "lon": 14.24189,
+    "name": null,
+    "distKm": 0.21
+   },
+   {
+    "lat": 46.31025,
+    "lon": 14.2328,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 46.3126,
+    "lon": 14.23921,
+    "name": null,
+    "distKm": 0.5
+   },
+   {
+    "lat": 46.27943,
+    "lon": 14.27314,
+    "name": null,
+    "distKm": 0.53
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:32.236Z"
+ },
+ {
+  "id": "rd-radovljica/sava-a",
+  "clubSlug": "rd-radovljica",
+  "slug": "sava-a",
+  "code": "Sava A",
+  "name": "Reka Sava",
+  "subtitle": "Cajhnov jez do Rakovnik",
+  "en": {
+   "name": "The river Sava",
+   "subtitle": "from Cajhnov's dam to Rakovnik",
+   "description": "Do you want to know where to fish? Where to leave your car? What kind of a fly do you need? Just click here and read for free the fishing guide for the district Sava A This district expands from Cajhnov's dam to Rakovnik. Every year approximately 20,000 of two year old brown trouts are being put back into the waters ; the trouts that were grown in the breeding streams- along with approximately 3,000 kg of graylings."
+  },
+  "club": {
+   "name": "Ribiška družina Radovljica",
+   "url": "https://www.ribiskekarte.si/rd-radovljica"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšno muho potrebujete? Kliknite tukaj in preberite brezplačen vodič po revirju Sava A. Revir sega od Cajhnovega jezu do Rakovnika Vsako leto v te revirje vložimo cca 20.000 dvoletni potočnih postrvi, vzgojenih v gojitvenih potokih, in cca 3000 kg šarenke.",
+  "waterType": "river",
+  "water": "Sava",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov sulca - ujemi in spusti",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/548"
+   },
+   {
+    "name": "Ribolov sulca - ujemi in vzemi",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/549"
+   },
+   {
+    "name": "Ujemi in spusti (Lipnica, Sava)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 29. 02. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/87"
+   },
+   {
+    "name": "Ujemi in spusti (Sava, Lipnica) - 3 dnevna",
+    "priceEur": 130,
+    "saleWindow": "Nakup od 01. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/1257"
+   },
+   {
+    "name": "Ujemi in spusti (Sava)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/1"
+   },
+   {
+    "name": "Ujemi in spusti (Sava) - 3 dnevna",
+    "priceEur": 100,
+    "saleWindow": "Nakup od 01. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radovljica/nakup/833"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radovljica/sava-a",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.340098,
+   "lon": 14.165342
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Rakovnik"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.23494,
+    46.30879
+   ]
+  },
+  "center": [
+   46.30879,
+   14.23494
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.31025,
+    "lon": 14.2328,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 46.3126,
+    "lon": 14.23921,
+    "name": null,
+    "distKm": 0.54
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:44.239Z"
+ }
+]

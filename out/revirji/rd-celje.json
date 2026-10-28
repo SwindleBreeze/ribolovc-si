@@ -1,0 +1,2657 @@
+[
+ {
+  "id": "rd-celje/hudinja-2",
+  "clubSlug": "rd-celje",
+  "slug": "hudinja-2",
+  "code": "Hudinja 2 (38)",
+  "name": "Reka Hudinja",
+  "subtitle": "od Krekove žage nad Vitanjem do naravne stopnje v Fužinah",
+  "en": {
+   "name": "The river Hudinja",
+   "subtitle": "from the road bridge to Polže to the mill above Vitanje",
+   "description": "The river Hudinja is 32km long and its current is very fast at the beginning but it slows down when it reaches the middle of Celje. In the upper course of the river we can find american (rainbow) and brown trout. Let's mention an interesting fact, too: in the part of the river above Vitanje you can only find wild brown trouts because other fish cannot croos high barriers due to lower part of the channel."
+  },
+  "club": {
+   "name": "Ribiška družina Celje",
+   "url": "https://www.ribiskekarte.si/rd-celje"
+  },
+  "description": "Reka Hudinja je dolga 32 kilometrov in ima na začetku zelo hiter tok, ki se kasneje v osrčju mesta Celje umiri. V zgornjem delu reke najdemo ameriško in potočno postrv in naj kot zanimivost omenimo, da v delu reke nad Vitanjem najdemo samo divje potočne postrvi, kajti iz nižjega dela struge, zaradi visokih pregrad druga riba ne more.",
+  "waterType": "river",
+  "water": "Hudinja",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/209"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-celje/hudinja-2",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.314484,
+   "lon": 15.284094
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.28463,
+     46.25625
+    ],
+    [
+     15.28453,
+     46.25683
+    ],
+    [
+     15.28495,
+     46.25756
+    ],
+    [
+     15.28503,
+     46.25799
+    ],
+    [
+     15.28438,
+     46.26057
+    ],
+    [
+     15.28438,
+     46.26151
+    ],
+    [
+     15.2847,
+     46.26224
+    ],
+    [
+     15.28607,
+     46.26386
+    ],
+    [
+     15.28692,
+     46.26534
+    ],
+    [
+     15.28733,
+     46.26583
+    ],
+    [
+     15.29,
+     46.26803
+    ],
+    [
+     15.29013,
+     46.2685
+    ],
+    [
+     15.28989,
+     46.26917
+    ],
+    [
+     15.28991,
+     46.26972
+    ],
+    [
+     15.29037,
+     46.27044
+    ],
+    [
+     15.29146,
+     46.27293
+    ],
+    [
+     15.29294,
+     46.27376
+    ],
+    [
+     15.293,
+     46.27406
+    ],
+    [
+     15.29276,
+     46.2744
+    ],
+    [
+     15.29271,
+     46.27476
+    ],
+    [
+     15.29294,
+     46.27512
+    ],
+    [
+     15.29401,
+     46.27536
+    ],
+    [
+     15.29422,
+     46.27556
+    ],
+    [
+     15.29451,
+     46.27642
+    ],
+    [
+     15.29453,
+     46.27712
+    ],
+    [
+     15.29375,
+     46.27811
+    ],
+    [
+     15.29378,
+     46.27831
+    ],
+    [
+     15.29431,
+     46.27842
+    ],
+    [
+     15.29668,
+     46.27805
+    ],
+    [
+     15.29793,
+     46.27854
+    ],
+    [
+     15.29837,
+     46.27908
+    ],
+    [
+     15.29837,
+     46.27965
+    ],
+    [
+     15.29768,
+     46.28023
+    ],
+    [
+     15.29695,
+     46.28189
+    ],
+    [
+     15.29637,
+     46.28257
+    ],
+    [
+     15.29628,
+     46.28288
+    ],
+    [
+     15.29647,
+     46.2844
+    ],
+    [
+     15.29667,
+     46.28458
+    ],
+    [
+     15.29693,
+     46.28461
+    ],
+    [
+     15.29869,
+     46.28447
+    ],
+    [
+     15.29909,
+     46.28458
+    ],
+    [
+     15.29988,
+     46.28518
+    ],
+    [
+     15.30069,
+     46.28513
+    ],
+    [
+     15.30109,
+     46.28532
+    ],
+    [
+     15.30108,
+     46.28606
+    ],
+    [
+     15.3,
+     46.28689
+    ],
+    [
+     15.29982,
+     46.28718
+    ],
+    [
+     15.29986,
+     46.28763
+    ],
+    [
+     15.29992,
+     46.28776
+    ],
+    [
+     15.30078,
+     46.28817
+    ],
+    [
+     15.3012,
+     46.28887
+    ],
+    [
+     15.30188,
+     46.28926
+    ],
+    [
+     15.30194,
+     46.28973
+    ],
+    [
+     15.30151,
+     46.29007
+    ],
+    [
+     15.30016,
+     46.29057
+    ],
+    [
+     15.29945,
+     46.29118
+    ],
+    [
+     15.29933,
+     46.29181
+    ],
+    [
+     15.29962,
+     46.29219
+    ],
+    [
+     15.30144,
+     46.293
+    ],
+    [
+     15.30169,
+     46.29339
+    ],
+    [
+     15.30233,
+     46.29392
+    ],
+    [
+     15.30251,
+     46.29422
+    ],
+    [
+     15.30251,
+     46.29471
+    ],
+    [
+     15.30228,
+     46.29516
+    ],
+    [
+     15.30184,
+     46.29559
+    ],
+    [
+     15.3009,
+     46.29616
+    ],
+    [
+     15.3006,
+     46.29657
+    ],
+    [
+     15.30067,
+     46.29722
+    ],
+    [
+     15.30133,
+     46.2976
+    ],
+    [
+     15.29227,
+     46.30087
+    ],
+    [
+     15.29167,
+     46.30131
+    ],
+    [
+     15.29025,
+     46.30142
+    ],
+    [
+     15.29011,
+     46.30161
+    ],
+    [
+     15.29016,
+     46.30179
+    ],
+    [
+     15.29086,
+     46.30225
+    ],
+    [
+     15.28995,
+     46.30375
+    ],
+    [
+     15.28954,
+     46.304
+    ],
+    [
+     15.28883,
+     46.30418
+    ],
+    [
+     15.28768,
+     46.30483
+    ],
+    [
+     15.28662,
+     46.30518
+    ],
+    [
+     15.28661,
+     46.30576
+    ],
+    [
+     15.28605,
+     46.30583
+    ],
+    [
+     15.28451,
+     46.30559
+    ],
+    [
+     15.28331,
+     46.3059
+    ],
+    [
+     15.28169,
+     46.30679
+    ],
+    [
+     15.27761,
+     46.30866
+    ],
+    [
+     15.27748,
+     46.30884
+    ],
+    [
+     15.27858,
+     46.30916
+    ],
+    [
+     15.2789,
+     46.30952
+    ],
+    [
+     15.27886,
+     46.31012
+    ],
+    [
+     15.27813,
+     46.31066
+    ],
+    [
+     15.27809,
+     46.31081
+    ],
+    [
+     15.27815,
+     46.31101
+    ],
+    [
+     15.27883,
+     46.31145
+    ],
+    [
+     15.27851,
+     46.31229
+    ],
+    [
+     15.27851,
+     46.31299
+    ],
+    [
+     15.27916,
+     46.31419
+    ],
+    [
+     15.27916,
+     46.3145
+    ],
+    [
+     15.27866,
+     46.31603
+    ],
+    [
+     15.27868,
+     46.31643
+    ],
+    [
+     15.27911,
+     46.31702
+    ],
+    [
+     15.28108,
+     46.31742
+    ],
+    [
+     15.28118,
+     46.31765
+    ],
+    [
+     15.28089,
+     46.31815
+    ],
+    [
+     15.28107,
+     46.31867
+    ],
+    [
+     15.28078,
+     46.31918
+    ],
+    [
+     15.28033,
+     46.31955
+    ],
+    [
+     15.28043,
+     46.32048
+    ],
+    [
+     15.2803,
+     46.32068
+    ],
+    [
+     15.27889,
+     46.32145
+    ],
+    [
+     15.27866,
+     46.32208
+    ],
+    [
+     15.2778,
+     46.3228
+    ],
+    [
+     15.27782,
+     46.32312
+    ],
+    [
+     15.27818,
+     46.32375
+    ],
+    [
+     15.27756,
+     46.32492
+    ],
+    [
+     15.27715,
+     46.32536
+    ],
+    [
+     15.27711,
+     46.32576
+    ],
+    [
+     15.27634,
+     46.32659
+    ],
+    [
+     15.27582,
+     46.32738
+    ],
+    [
+     15.2758,
+     46.32756
+    ],
+    [
+     15.27611,
+     46.32777
+    ],
+    [
+     15.27626,
+     46.32814
+    ],
+    [
+     15.27581,
+     46.3289
+    ],
+    [
+     15.2757,
+     46.32979
+    ],
+    [
+     15.27542,
+     46.33025
+    ],
+    [
+     15.2755,
+     46.33083
+    ],
+    [
+     15.27616,
+     46.33162
+    ],
+    [
+     15.27586,
+     46.3326
+    ],
+    [
+     15.27602,
+     46.33384
+    ],
+    [
+     15.27592,
+     46.3343
+    ],
+    [
+     15.27542,
+     46.33492
+    ],
+    [
+     15.27531,
+     46.33531
+    ],
+    [
+     15.2745,
+     46.33598
+    ],
+    [
+     15.27323,
+     46.33789
+    ],
+    [
+     15.27252,
+     46.33847
+    ],
+    [
+     15.27256,
+     46.3395
+    ],
+    [
+     15.27308,
+     46.34027
+    ],
+    [
+     15.27314,
+     46.34113
+    ],
+    [
+     15.27466,
+     46.34199
+    ],
+    [
+     15.27565,
+     46.34357
+    ],
+    [
+     15.27577,
+     46.34446
+    ],
+    [
+     15.27573,
+     46.34556
+    ],
+    [
+     15.27536,
+     46.34654
+    ],
+    [
+     15.27453,
+     46.34741
+    ],
+    [
+     15.27447,
+     46.34779
+    ],
+    [
+     15.27474,
+     46.34811
+    ],
+    [
+     15.27591,
+     46.34886
+    ],
+    [
+     15.27669,
+     46.34881
+    ],
+    [
+     15.27747,
+     46.349
+    ],
+    [
+     15.27787,
+     46.34936
+    ],
+    [
+     15.27799,
+     46.34966
+    ],
+    [
+     15.27795,
+     46.35
+    ],
+    [
+     15.27668,
+     46.35025
+    ],
+    [
+     15.27624,
+     46.3508
+    ],
+    [
+     15.27564,
+     46.35124
+    ],
+    [
+     15.27448,
+     46.35184
+    ],
+    [
+     15.27441,
+     46.35215
+    ],
+    [
+     15.27542,
+     46.35407
+    ],
+    [
+     15.27539,
+     46.35433
+    ],
+    [
+     15.27449,
+     46.35467
+    ]
+   ]
+  },
+  "center": [
+   46.31448,
+   15.27916
+  ],
+  "lengthKm": 14.5,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.34173,
+    "lon": 15.27387,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.34904,
+    "lon": 15.27664,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.2878,
+    "lon": 15.30106,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.29301,
+    "lon": 15.30286,
+    "name": null,
+    "distKm": 0.1
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:58.549Z"
+ },
+ {
+  "id": "rd-celje/hudinja-3",
+  "clubSlug": "rd-celje",
+  "slug": "hudinja-3",
+  "code": "Hudinja 3 (39)",
+  "name": "Reka Hudinja",
+  "subtitle": "Od naravne stopnje v Fužinah do jezu v Višnji vasi",
+  "en": {
+   "name": "The river Hudinja",
+   "subtitle": "from the natural treshold in Fužine to the dam in Višnja vas",
+   "description": "The river Hudinja is 32km long and its current is very fast at the beginning but it slows down when it reaches the middle of Celje. In the upper course of the river we can find american (rainbow) and brown trout. Let's mention an interesting fact, too: in the part of the river above Vitanje you can only find wild brown trouts because other fish cannot croos high barriers due to lower part of the channel."
+  },
+  "club": {
+   "name": "Ribiška družina Celje",
+   "url": "https://www.ribiskekarte.si/rd-celje"
+  },
+  "description": "Reka Hudinja je dolga 32 kilometrov in ima na začetku zelo hiter tok, ki se kasneje v osrčju mesta Celje umiri. V zgornjem delu reke najdemo ameriško in potočno postrv in naj kot zanimivost omenimo, da v delu reke nad Vitanjem najdemo samo divje potočne postrvi, kajti iz nižjega dela struge, zaradi visokih pregrad druga riba ne more.",
+  "waterType": "river",
+  "water": "Hudinja",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/208"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/831"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-celje/hudinja-3",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.314484,
+   "lon": 15.284094
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Višnja vas"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.28984,
+    46.30382
+   ]
+  },
+  "center": [
+   46.30382,
+   15.28984
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:00.952Z"
+ },
+ {
+  "id": "rd-celje/hudinja-4",
+  "clubSlug": "rd-celje",
+  "slug": "hudinja-4",
+  "code": "Hudinja 4 (40)",
+  "name": "Reka Hudinja",
+  "subtitle": "od jezu v Višnji vasi do izliva v Voglajno",
+  "en": {
+   "name": "The river Hudinja",
+   "subtitle": "from the dam in Višnja vas to the outflow into the Voglajna",
+   "description": "The river Hudinja is 32km long and its current is very fast at the beginning but it slows down when it reaches the middle of Celje. In the upper course of the river we can find american (rainbow) and brown trout. Let's mention an interesting fact, too: in the part of the river above Vitanje you can only find wild brown trouts because other fish cannot croos high barriers due to lower part of the channel."
+  },
+  "club": {
+   "name": "Ribiška družina Celje",
+   "url": "https://www.ribiskekarte.si/rd-celje"
+  },
+  "description": "Reka Hudinja je dolga 32 kilometrov in ima na začetku zelo hiter tok, ki se kasneje v osrčju mesta Celje umiri. V zgornjem delu reke najdemo ameriško in potočno postrv in naj kot zanimivost omenimo, da v delu reke nad Vitanjem najdemo samo divje potočne postrvi, kajti iz nižjega dela struge, zaradi visokih pregrad druga riba ne more.",
+  "waterType": "river",
+  "water": "Hudinja",
+  "species": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "podust",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "podust",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly"
+  ],
+  "baits": [
+   "kruh",
+   "sir",
+   "umetna muha",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi (ciprinidi)",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/211"
+   },
+   {
+    "name": "Ujemi in vzemi (salmonidi)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/210"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-celje/hudinja-4",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.265002,
+   "lon": 15.291532
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Višnja vas",
+   "do: sotočje Voglajno"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.28995,
+     46.30375
+    ],
+    [
+     15.29086,
+     46.30225
+    ],
+    [
+     15.29016,
+     46.30179
+    ],
+    [
+     15.29011,
+     46.30161
+    ],
+    [
+     15.29025,
+     46.30142
+    ],
+    [
+     15.29167,
+     46.30131
+    ],
+    [
+     15.29227,
+     46.30087
+    ],
+    [
+     15.30133,
+     46.2976
+    ],
+    [
+     15.30067,
+     46.29722
+    ],
+    [
+     15.3006,
+     46.29657
+    ],
+    [
+     15.3009,
+     46.29616
+    ],
+    [
+     15.30184,
+     46.29559
+    ],
+    [
+     15.30228,
+     46.29516
+    ],
+    [
+     15.30251,
+     46.29471
+    ],
+    [
+     15.30251,
+     46.29422
+    ],
+    [
+     15.30144,
+     46.293
+    ],
+    [
+     15.29962,
+     46.29219
+    ],
+    [
+     15.2993,
+     46.29161
+    ],
+    [
+     15.29945,
+     46.29118
+    ],
+    [
+     15.30016,
+     46.29057
+    ],
+    [
+     15.30179,
+     46.28993
+    ],
+    [
+     15.30197,
+     46.28948
+    ],
+    [
+     15.30188,
+     46.28926
+    ],
+    [
+     15.3012,
+     46.28887
+    ],
+    [
+     15.30078,
+     46.28817
+    ],
+    [
+     15.29992,
+     46.28776
+    ],
+    [
+     15.29986,
+     46.28763
+    ],
+    [
+     15.29982,
+     46.28718
+    ],
+    [
+     15.3,
+     46.28689
+    ],
+    [
+     15.30108,
+     46.28606
+    ],
+    [
+     15.30109,
+     46.28532
+    ],
+    [
+     15.30069,
+     46.28513
+    ],
+    [
+     15.29988,
+     46.28518
+    ],
+    [
+     15.29909,
+     46.28458
+    ],
+    [
+     15.29869,
+     46.28447
+    ],
+    [
+     15.29693,
+     46.28461
+    ],
+    [
+     15.29667,
+     46.28458
+    ],
+    [
+     15.29647,
+     46.2844
+    ],
+    [
+     15.29628,
+     46.28288
+    ],
+    [
+     15.29637,
+     46.28257
+    ],
+    [
+     15.29695,
+     46.28189
+    ],
+    [
+     15.29768,
+     46.28023
+    ],
+    [
+     15.29837,
+     46.27965
+    ],
+    [
+     15.29837,
+     46.27908
+    ],
+    [
+     15.29793,
+     46.27854
+    ],
+    [
+     15.29668,
+     46.27805
+    ],
+    [
+     15.29431,
+     46.27842
+    ],
+    [
+     15.29378,
+     46.27831
+    ],
+    [
+     15.29375,
+     46.27811
+    ],
+    [
+     15.29453,
+     46.27712
+    ],
+    [
+     15.29451,
+     46.27642
+    ],
+    [
+     15.29422,
+     46.27556
+    ],
+    [
+     15.29401,
+     46.27536
+    ],
+    [
+     15.29294,
+     46.27512
+    ],
+    [
+     15.29271,
+     46.27476
+    ],
+    [
+     15.29276,
+     46.2744
+    ],
+    [
+     15.293,
+     46.27406
+    ],
+    [
+     15.29294,
+     46.27376
+    ],
+    [
+     15.29146,
+     46.27293
+    ],
+    [
+     15.29037,
+     46.27044
+    ],
+    [
+     15.28991,
+     46.26972
+    ],
+    [
+     15.28989,
+     46.26917
+    ],
+    [
+     15.29013,
+     46.2685
+    ],
+    [
+     15.29,
+     46.26803
+    ],
+    [
+     15.28733,
+     46.26583
+    ],
+    [
+     15.28692,
+     46.26534
+    ],
+    [
+     15.28607,
+     46.26386
+    ],
+    [
+     15.2847,
+     46.26224
+    ],
+    [
+     15.28438,
+     46.26151
+    ],
+    [
+     15.28438,
+     46.26057
+    ],
+    [
+     15.28503,
+     46.25799
+    ],
+    [
+     15.28495,
+     46.25756
+    ],
+    [
+     15.28453,
+     46.25683
+    ],
+    [
+     15.28452,
+     46.25652
+    ],
+    [
+     15.28522,
+     46.25554
+    ],
+    [
+     15.28533,
+     46.25511
+    ],
+    [
+     15.28465,
+     46.25342
+    ],
+    [
+     15.28458,
+     46.25145
+    ],
+    [
+     15.28316,
+     46.24848
+    ],
+    [
+     15.28336,
+     46.24778
+    ],
+    [
+     15.28484,
+     46.24629
+    ],
+    [
+     15.285,
+     46.2459
+    ],
+    [
+     15.28442,
+     46.24332
+    ],
+    [
+     15.28444,
+     46.24271
+    ],
+    [
+     15.28491,
+     46.24054
+    ],
+    [
+     15.28492,
+     46.23985
+    ],
+    [
+     15.28481,
+     46.23954
+    ],
+    [
+     15.28446,
+     46.23916
+    ],
+    [
+     15.28234,
+     46.23801
+    ],
+    [
+     15.28071,
+     46.23742
+    ],
+    [
+     15.27982,
+     46.23675
+    ],
+    [
+     15.27932,
+     46.23615
+    ],
+    [
+     15.27893,
+     46.23539
+    ],
+    [
+     15.27888,
+     46.23385
+    ],
+    [
+     15.27754,
+     46.23229
+    ]
+   ]
+  },
+  "center": [
+   46.27348,
+   15.29245
+  ],
+  "lengthKm": 10.2,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.23444,
+    "lon": 15.27836,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.2878,
+    "lon": 15.30106,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.29301,
+    "lon": 15.30286,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.24797,
+    "lon": 15.28134,
+    "name": null,
+    "distKm": 0.15
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:03.371Z"
+ },
+ {
+  "id": "rd-celje/savinja-8",
+  "clubSlug": "rd-celje",
+  "slug": "savinja-8",
+  "code": "Savinja 8 (01)",
+  "name": "Reka Savinja",
+  "subtitle": "od mostu v Petrovčah do približno 600 m dolvodno od kolesarskega mostu v Tremerjih",
+  "en": {
+   "name": "The river Savinja",
+   "subtitle": "from the bridge in Petrovče to about 600 m downstream from the bicycle bridge in Tremerje",
+   "description": "The river Savinja runs mostly through the valley Upper and Lower Savinjska dolina and passes the city of Celje. It is the longest river that runs exclusively on the slovenian teritory. We manage the Savinja from the bridge in Petrovče to the concrete channel on the right bank of the Savinja, about 600 m downstream from the bicycle bridge in Tremerje - where we border with the RD Laško."
+  },
+  "club": {
+   "name": "Ribiška družina Celje",
+   "url": "https://www.ribiskekarte.si/rd-celje"
+  },
+  "description": "Savinja je reka, katere porečje poteka večinoma po Zgornji in Spodnji Savinjski dolini ter ima svoj tok tudi mimo mesta Celje. Je najdaljša reka, ki teče izključno po ozemlju Slovenije. Reka Savinja je v našem opravljanju od mostu v Petrovčah do betonskega kanala na desnem bregu Savinje približno 600 m dolvodno od kolesarskega mostu v Tremerjih, kjer je tudi meja z ribiško družino Laško.",
+  "waterType": "river",
+  "water": "Savinja",
+  "species": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "podust",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "podust",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "kruh",
+   "potezanka",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Sulec",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/1077"
+   },
+   {
+    "name": "Ujemi in vzemi (ciprinidi)",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/206"
+   },
+   {
+    "name": "Ujemi in vzemi (salmonidi)",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/205"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-celje/savinja-8",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Petrovče",
+   "do: kraj Tremerje (most)"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.18694,
+     46.23561
+    ],
+    [
+     15.18977,
+     46.23544
+    ],
+    [
+     15.19333,
+     46.23449
+    ],
+    [
+     15.19593,
+     46.23397
+    ],
+    [
+     15.19906,
+     46.23363
+    ],
+    [
+     15.21348,
+     46.23264
+    ],
+    [
+     15.22663,
+     46.23318
+    ],
+    [
+     15.23428,
+     46.2317
+    ],
+    [
+     15.23635,
+     46.23157
+    ],
+    [
+     15.24547,
+     46.23352
+    ],
+    [
+     15.24695,
+     46.23349
+    ],
+    [
+     15.2481,
+     46.23331
+    ],
+    [
+     15.25016,
+     46.23266
+    ],
+    [
+     15.25234,
+     46.23158
+    ],
+    [
+     15.25421,
+     46.23022
+    ],
+    [
+     15.25594,
+     46.22922
+    ],
+    [
+     15.26403,
+     46.22595
+    ],
+    [
+     15.26537,
+     46.22553
+    ],
+    [
+     15.26619,
+     46.22515
+    ],
+    [
+     15.26695,
+     46.22443
+    ],
+    [
+     15.26595,
+     46.22104
+    ],
+    [
+     15.26498,
+     46.22006
+    ],
+    [
+     15.26395,
+     46.21839
+    ],
+    [
+     15.26347,
+     46.21609
+    ],
+    [
+     15.26311,
+     46.21537
+    ],
+    [
+     15.26223,
+     46.21403
+    ],
+    [
+     15.2587,
+     46.20941
+    ],
+    [
+     15.25723,
+     46.2083
+    ],
+    [
+     15.25589,
+     46.20756
+    ],
+    [
+     15.25489,
+     46.20719
+    ],
+    [
+     15.25384,
+     46.20698
+    ],
+    [
+     15.2498,
+     46.20689
+    ],
+    [
+     15.24304,
+     46.2071
+    ],
+    [
+     15.24063,
+     46.20672
+    ],
+    [
+     15.23904,
+     46.20597
+    ],
+    [
+     15.23853,
+     46.20523
+    ],
+    [
+     15.23813,
+     46.2044
+    ],
+    [
+     15.23752,
+     46.20205
+    ]
+   ]
+  },
+  "center": [
+   46.23122,
+   15.25284
+  ],
+  "lengthKm": 10.5,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.22503,
+    "lon": 15.26706,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.21262,
+    "lon": 15.26197,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.22078,
+    "lon": 15.26707,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.22549,
+    "lon": 15.2619,
+    "name": "Mestni park",
+    "distKm": 0.13
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:05.820Z"
+ },
+ {
+  "id": "rd-celje/smartinsko-jezero",
+  "clubSlug": "rd-celje",
+  "slug": "smartinsko-jezero",
+  "code": "Šmartinsko jezero",
+  "name": "Šmartinsko jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Šmartinsko jezero",
+   "subtitle": "",
+   "description": "The lake Šmartinsko jezero was created in 1970. It can be reached from various directions and spreads on 113 ha of water surfaces - that makes it one of the largest artificial lakes in Slovenia. The average depth is somewhere between 4 and 6m and it was measured in the vicinity of the peninsula Brezova. The water near the dam and the barrier is between 8 and 9m deep."
+  },
+  "club": {
+   "name": "Ribiška družina Celje",
+   "url": "https://www.ribiskekarte.si/rd-celje"
+  },
+  "description": "V jezeru so ujeli krapa, težkega 34.6 kg. Ujet in spuščen je bil novembra 2013. Šmartinsko jezero so ustvarili leta 1970. Dostopno je z več strani in se razprostira na 113 ha površine s čimer si lasti mesto med največjimi umetnimi jezeri v Sloveniji.",
+  "waterType": "lake",
+  "water": "Šmartinsko jezero",
+  "species": [
+   "amur",
+   "androga",
+   "bolen",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "bolen",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov na vlek iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "spin",
+   "bottom"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 65,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/201"
+   },
+   {
+    "name": "Ujemi in spusti - dnevna",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/202"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 8,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/200"
+   },
+   {
+    "name": "Ujemi in spusti (roparice)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 01. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/1376"
+   },
+   {
+    "name": "Ujemi in vzemi (ciprinidi - bela riba)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 02. 03. do 14. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/204"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 03. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/203"
+   },
+   {
+    "name": "Z REZERVACIJO: Ujemi in spusti - 3-dnevna",
+    "priceEur": 16,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/884"
+   },
+   {
+    "name": "Z REZERVACIJO: Ujemi in spusti - 4-dnevna",
+    "priceEur": 24,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/885"
+   },
+   {
+    "name": "Z REZERVACIJO: Ujemi in spusti - 5-dnevna",
+    "priceEur": 32,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/894"
+   },
+   {
+    "name": "Z REZERVACIJO: Ujemi in spusti - 7-dnevna",
+    "priceEur": 48,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/886"
+   },
+   {
+    "name": "Za otroke do 12 leta",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/701"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-celje/smartinsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Šmartinsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.25524,
+      46.28252
+     ],
+     [
+      15.25687,
+      46.28128
+     ],
+     [
+      15.25718,
+      46.28069
+     ],
+     [
+      15.2578,
+      46.28045
+     ],
+     [
+      15.25902,
+      46.27907
+     ],
+     [
+      15.25956,
+      46.27769
+     ],
+     [
+      15.25882,
+      46.2774
+     ],
+     [
+      15.25925,
+      46.27653
+     ],
+     [
+      15.25879,
+      46.27548
+     ],
+     [
+      15.26086,
+      46.27433
+     ],
+     [
+      15.26268,
+      46.27532
+     ],
+     [
+      15.2658,
+      46.27558
+     ],
+     [
+      15.26641,
+      46.27575
+     ],
+     [
+      15.26735,
+      46.27648
+     ],
+     [
+      15.26922,
+      46.27621
+     ],
+     [
+      15.26929,
+      46.27609
+     ],
+     [
+      15.27016,
+      46.27613
+     ],
+     [
+      15.27055,
+      46.27631
+     ],
+     [
+      15.2707,
+      46.27672
+     ],
+     [
+      15.27046,
+      46.277
+     ],
+     [
+      15.26943,
+      46.27729
+     ],
+     [
+      15.26877,
+      46.27765
+     ],
+     [
+      15.26885,
+      46.27793
+     ],
+     [
+      15.26966,
+      46.2781
+     ],
+     [
+      15.27009,
+      46.27845
+     ],
+     [
+      15.26998,
+      46.27869
+     ],
+     [
+      15.26873,
+      46.27926
+     ],
+     [
+      15.26874,
+      46.2796
+     ],
+     [
+      15.26943,
+      46.28019
+     ],
+     [
+      15.27019,
+      46.28044
+     ],
+     [
+      15.27177,
+      46.28158
+     ],
+     [
+      15.27332,
+      46.28181
+     ],
+     [
+      15.27376,
+      46.28261
+     ],
+     [
+      15.27403,
+      46.28279
+     ],
+     [
+      15.27463,
+      46.28277
+     ],
+     [
+      15.27493,
+      46.28336
+     ],
+     [
+      15.2765,
+      46.28376
+     ],
+     [
+      15.27793,
+      46.28392
+     ],
+     [
+      15.27866,
+      46.28479
+     ],
+     [
+      15.27967,
+      46.28527
+     ],
+     [
+      15.28014,
+      46.28621
+     ],
+     [
+      15.2799,
+      46.28618
+     ],
+     [
+      15.27983,
+      46.28633
+     ],
+     [
+      15.27912,
+      46.28626
+     ],
+     [
+      15.2782,
+      46.28533
+     ],
+     [
+      15.27776,
+      46.28566
+     ],
+     [
+      15.27605,
+      46.28566
+     ],
+     [
+      15.27521,
+      46.28604
+     ],
+     [
+      15.27487,
+      46.28601
+     ],
+     [
+      15.27461,
+      46.28577
+     ],
+     [
+      15.27478,
+      46.28534
+     ],
+     [
+      15.27462,
+      46.28478
+     ],
+     [
+      15.27255,
+      46.28425
+     ],
+     [
+      15.27191,
+      46.28327
+     ],
+     [
+      15.27015,
+      46.2824
+     ],
+     [
+      15.26976,
+      46.28285
+     ],
+     [
+      15.27077,
+      46.28329
+     ],
+     [
+      15.27118,
+      46.28378
+     ],
+     [
+      15.27115,
+      46.28397
+     ],
+     [
+      15.2709,
+      46.28418
+     ],
+     [
+      15.27036,
+      46.28423
+     ],
+     [
+      15.26915,
+      46.28468
+     ],
+     [
+      15.26888,
+      46.28516
+     ],
+     [
+      15.26891,
+      46.28572
+     ],
+     [
+      15.2694,
+      46.28634
+     ],
+     [
+      15.27046,
+      46.28678
+     ],
+     [
+      15.27032,
+      46.28717
+     ],
+     [
+      15.26937,
+      46.28761
+     ],
+     [
+      15.2678,
+      46.28796
+     ],
+     [
+      15.26757,
+      46.2876
+     ],
+     [
+      15.26689,
+      46.28714
+     ],
+     [
+      15.26419,
+      46.2879
+     ],
+     [
+      15.26369,
+      46.28789
+     ],
+     [
+      15.26337,
+      46.28749
+     ],
+     [
+      15.26328,
+      46.28709
+     ],
+     [
+      15.26268,
+      46.28665
+     ],
+     [
+      15.26184,
+      46.28648
+     ],
+     [
+      15.26186,
+      46.28637
+     ],
+     [
+      15.26109,
+      46.2861
+     ],
+     [
+      15.26096,
+      46.28581
+     ],
+     [
+      15.26118,
+      46.28539
+     ],
+     [
+      15.26206,
+      46.28483
+     ],
+     [
+      15.26235,
+      46.28491
+     ],
+     [
+      15.26259,
+      46.28524
+     ],
+     [
+      15.26331,
+      46.285
+     ],
+     [
+      15.2644,
+      46.28501
+     ],
+     [
+      15.2647,
+      46.28512
+     ],
+     [
+      15.26466,
+      46.2856
+     ],
+     [
+      15.26395,
+      46.28614
+     ],
+     [
+      15.26444,
+      46.28627
+     ],
+     [
+      15.26532,
+      46.2861
+     ],
+     [
+      15.26623,
+      46.28573
+     ],
+     [
+      15.26667,
+      46.28493
+     ],
+     [
+      15.2676,
+      46.28424
+     ],
+     [
+      15.26781,
+      46.28305
+     ],
+     [
+      15.26753,
+      46.28245
+     ],
+     [
+      15.26753,
+      46.28169
+     ],
+     [
+      15.26677,
+      46.28062
+     ],
+     [
+      15.26573,
+      46.28042
+     ],
+     [
+      15.26433,
+      46.2807
+     ],
+     [
+      15.26368,
+      46.28059
+     ],
+     [
+      15.26369,
+      46.28037
+     ],
+     [
+      15.26406,
+      46.28013
+     ],
+     [
+      15.26528,
+      46.27954
+     ],
+     [
+      15.26602,
+      46.27939
+     ],
+     [
+      15.26623,
+      46.27915
+     ],
+     [
+      15.26577,
+      46.27816
+     ],
+     [
+      15.26427,
+      46.27742
+     ],
+     [
+      15.26202,
+      46.2779
+     ],
+     [
+      15.26147,
+      46.27904
+     ],
+     [
+      15.26111,
+      46.27935
+     ],
+     [
+      15.26117,
+      46.27961
+     ],
+     [
+      15.26077,
+      46.28001
+     ],
+     [
+      15.26083,
+      46.28023
+     ],
+     [
+      15.26045,
+      46.28087
+     ],
+     [
+      15.25957,
+      46.28125
+     ],
+     [
+      15.25887,
+      46.28228
+     ],
+     [
+      15.25591,
+      46.28329
+     ],
+     [
+      15.25589,
+      46.28305
+     ],
+     [
+      15.25631,
+      46.2828
+     ],
+     [
+      15.25543,
+      46.28289
+     ],
+     [
+      15.25566,
+      46.28275
+     ],
+     [
+      15.25524,
+      46.28252
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.28234,
+   15.26684
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.28616,
+    "lon": 15.26447,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.27589,
+    "lon": 15.2695,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.27498,
+    "lon": 15.25723,
+    "name": null,
+    "distKm": 0.13
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.28274,
+    "lon": 15.27042,
+    "name": "Ribiško Društvo Celje",
+    "distKm": 0.04
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:42:20.211Z"
+ },
+ {
+  "id": "rd-celje/tesnica-2",
+  "clubSlug": "rd-celje",
+  "slug": "tesnica-2",
+  "code": "Tesnica 2",
+  "name": "Potok Tesnica",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Tesnica",
+   "subtitle": "",
+   "description": "The creek Tesnica runs by Frankolovo and flows into the Hudinja in Vojnik. This creek is a special challange to all the fans of fly fishing due to its smallness and its brown trouts that are extremely timid. Fly fishing from distance is mainly impossible due to the environment and that fact represents yet another challenge. Smaller brown trouts get hooked a lot but even some bigger ones can pleasently surprise you..."
+  },
+  "club": {
+   "name": "Ribiška družina Celje",
+   "url": "https://www.ribiskekarte.si/rd-celje"
+  },
+  "description": "Potok Tesnica teče mimo Frankolovega in se pri Vojniku zlije v Hudinjo. Vsem navdušencem muharjenja potok predstavlja poseben izziv, ravno zaradi svoje majhnosti in v njem plavajočih potočnih postrvi, ki so izredno plašne. Zaradi okolja je muharjenje na daljavo po večini nemogoče in je to še dodaten izziv za prijem.",
+  "waterType": "river",
+  "water": "Tesnica",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-celje/nakup/207"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-celje/tesnica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.30133,
+     46.2976
+    ],
+    [
+     15.30165,
+     46.29804
+    ],
+    [
+     15.30157,
+     46.2988
+    ],
+    [
+     15.30025,
+     46.29921
+    ],
+    [
+     15.29996,
+     46.29964
+    ],
+    [
+     15.30023,
+     46.30003
+    ],
+    [
+     15.302,
+     46.30036
+    ],
+    [
+     15.30449,
+     46.29945
+    ],
+    [
+     15.30757,
+     46.29954
+    ],
+    [
+     15.30836,
+     46.29934
+    ],
+    [
+     15.30863,
+     46.29942
+    ],
+    [
+     15.30923,
+     46.30022
+    ],
+    [
+     15.31123,
+     46.30062
+    ],
+    [
+     15.31173,
+     46.30118
+    ],
+    [
+     15.31206,
+     46.30134
+    ],
+    [
+     15.31232,
+     46.30173
+    ],
+    [
+     15.31268,
+     46.30195
+    ],
+    [
+     15.3132,
+     46.30295
+    ],
+    [
+     15.31394,
+     46.30336
+    ],
+    [
+     15.31447,
+     46.30462
+    ],
+    [
+     15.31506,
+     46.30553
+    ],
+    [
+     15.31538,
+     46.30702
+    ],
+    [
+     15.31497,
+     46.30911
+    ],
+    [
+     15.3152,
+     46.30964
+    ],
+    [
+     15.31587,
+     46.31004
+    ],
+    [
+     15.31594,
+     46.31021
+    ],
+    [
+     15.31662,
+     46.3105
+    ],
+    [
+     15.31662,
+     46.31063
+    ],
+    [
+     15.31609,
+     46.31113
+    ],
+    [
+     15.31609,
+     46.31182
+    ],
+    [
+     15.31659,
+     46.31224
+    ],
+    [
+     15.31623,
+     46.31347
+    ],
+    [
+     15.317,
+     46.3138
+    ],
+    [
+     15.31703,
+     46.31394
+    ],
+    [
+     15.31696,
+     46.31433
+    ],
+    [
+     15.31639,
+     46.31475
+    ],
+    [
+     15.31637,
+     46.31489
+    ],
+    [
+     15.31733,
+     46.31582
+    ],
+    [
+     15.3177,
+     46.31598
+    ],
+    [
+     15.31738,
+     46.31631
+    ],
+    [
+     15.31711,
+     46.31639
+    ],
+    [
+     15.31697,
+     46.31665
+    ],
+    [
+     15.31713,
+     46.31721
+    ],
+    [
+     15.3174,
+     46.31744
+    ],
+    [
+     15.31764,
+     46.31864
+    ],
+    [
+     15.3175,
+     46.31928
+    ],
+    [
+     15.31754,
+     46.32075
+    ],
+    [
+     15.31715,
+     46.32146
+    ],
+    [
+     15.31761,
+     46.3219
+    ],
+    [
+     15.31767,
+     46.32222
+    ],
+    [
+     15.31753,
+     46.32255
+    ],
+    [
+     15.31789,
+     46.32338
+    ],
+    [
+     15.31831,
+     46.32391
+    ],
+    [
+     15.31844,
+     46.3248
+    ],
+    [
+     15.31819,
+     46.32513
+    ],
+    [
+     15.31794,
+     46.32523
+    ],
+    [
+     15.31771,
+     46.32561
+    ],
+    [
+     15.3178,
+     46.3261
+    ],
+    [
+     15.31742,
+     46.32646
+    ],
+    [
+     15.31684,
+     46.32654
+    ],
+    [
+     15.31675,
+     46.32665
+    ],
+    [
+     15.31683,
+     46.32746
+    ],
+    [
+     15.31669,
+     46.32834
+    ],
+    [
+     15.31654,
+     46.32856
+    ],
+    [
+     15.31605,
+     46.32876
+    ],
+    [
+     15.31657,
+     46.32956
+    ],
+    [
+     15.31659,
+     46.33012
+    ],
+    [
+     15.31706,
+     46.33057
+    ],
+    [
+     15.3179,
+     46.33092
+    ],
+    [
+     15.32747,
+     46.34188
+    ],
+    [
+     15.33221,
+     46.3432
+    ]
+   ]
+  },
+  "center": [
+   46.31758,
+   15.31743
+  ],
+  "lengthKm": 7,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.32964,
+    "lon": 15.31619,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.3009,
+    "lon": 15.31,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.29301,
+    "lon": 15.30286,
+    "name": null,
+    "distKm": 0.52
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:34.597Z"
+ }
+]

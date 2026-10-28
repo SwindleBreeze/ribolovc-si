@@ -1,0 +1,2610 @@
+[
+ {
+  "id": "rd-barje/reka-izica-barje",
+  "clubSlug": "rd-barje",
+  "slug": "reka-izica-barje",
+  "code": "Iščica (Ižica)",
+  "name": "Reka Iščica",
+  "subtitle": "Ižica",
+  "en": {
+   "name": "The river Iščica",
+   "subtitle": "Ižica",
+   "description": "The Iščica is an enchanting valley carst river . You can peacefully fish for big carps and pikes, beautiful Danube roaches and small fish. The fish from the Iščica are extremely big, wild and feisty so the district is recommended to the most advanced fishermen."
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima kje loviti? Katere vabe so najbolj uspešne? Kje pustiti avto? Kliknite tukaj in preberite brezplačen vodič po reki Iščici- RD Barje. Iščica je očarljiva kraška rečica. Ribiči lahko tam v miru ujamejo velike krape, ščuke, lepe platnice in ribji drobiž. Ribe iz Iščice so divje in borbene, zato revir priporočamo najzahtevnejšim ribičem.",
+  "waterType": "river",
+  "water": "Iščica",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "bojli",
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 06. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/221"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/219"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 29. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/871"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/reka-izica-barje",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.957732,
+   "lon": 14.539321
+  },
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.50805,
+     46.02345
+    ],
+    [
+     14.51067,
+     46.02047
+    ],
+    [
+     14.51138,
+     46.01938
+    ],
+    [
+     14.51281,
+     46.01852
+    ],
+    [
+     14.51306,
+     46.01764
+    ],
+    [
+     14.5134,
+     46.01747
+    ],
+    [
+     14.51443,
+     46.01729
+    ],
+    [
+     14.51481,
+     46.017
+    ],
+    [
+     14.5153,
+     46.01545
+    ],
+    [
+     14.51575,
+     46.01498
+    ],
+    [
+     14.51671,
+     46.01458
+    ],
+    [
+     14.51862,
+     46.01478
+    ],
+    [
+     14.51979,
+     46.01439
+    ],
+    [
+     14.52142,
+     46.0133
+    ],
+    [
+     14.52184,
+     46.01236
+    ],
+    [
+     14.52241,
+     46.01173
+    ],
+    [
+     14.52249,
+     46.01099
+    ],
+    [
+     14.52226,
+     46.00986
+    ],
+    [
+     14.52245,
+     46.00904
+    ],
+    [
+     14.52311,
+     46.00812
+    ],
+    [
+     14.52319,
+     46.00782
+    ],
+    [
+     14.52307,
+     46.00638
+    ],
+    [
+     14.52264,
+     46.00583
+    ],
+    [
+     14.52142,
+     46.00526
+    ],
+    [
+     14.52078,
+     46.00425
+    ],
+    [
+     14.51955,
+     46.00363
+    ],
+    [
+     14.51953,
+     46.00328
+    ],
+    [
+     14.51987,
+     46.00273
+    ],
+    [
+     14.51977,
+     46.00234
+    ],
+    [
+     14.51903,
+     46.00126
+    ],
+    [
+     14.51824,
+     46.00085
+    ],
+    [
+     14.51801,
+     46.0005
+    ],
+    [
+     14.51833,
+     45.9992
+    ],
+    [
+     14.51935,
+     45.99845
+    ],
+    [
+     14.51988,
+     45.9973
+    ],
+    [
+     14.52068,
+     45.99623
+    ],
+    [
+     14.52091,
+     45.99566
+    ],
+    [
+     14.52258,
+     45.99489
+    ],
+    [
+     14.52307,
+     45.99368
+    ],
+    [
+     14.52411,
+     45.99315
+    ],
+    [
+     14.52462,
+     45.99233
+    ],
+    [
+     14.5251,
+     45.99216
+    ],
+    [
+     14.52629,
+     45.99222
+    ],
+    [
+     14.52696,
+     45.99205
+    ],
+    [
+     14.52805,
+     45.99083
+    ],
+    [
+     14.52931,
+     45.9904
+    ],
+    [
+     14.5303,
+     45.98874
+    ],
+    [
+     14.53075,
+     45.9885
+    ],
+    [
+     14.53206,
+     45.98829
+    ],
+    [
+     14.53265,
+     45.98757
+    ],
+    [
+     14.53394,
+     45.98644
+    ],
+    [
+     14.53409,
+     45.98613
+    ],
+    [
+     14.53408,
+     45.98527
+    ],
+    [
+     14.5347,
+     45.98391
+    ],
+    [
+     14.5342,
+     45.98262
+    ],
+    [
+     14.5342,
+     45.98218
+    ],
+    [
+     14.53534,
+     45.98061
+    ],
+    [
+     14.53541,
+     45.98036
+    ],
+    [
+     14.53365,
+     45.97909
+    ],
+    [
+     14.5339,
+     45.9784
+    ],
+    [
+     14.53368,
+     45.9773
+    ],
+    [
+     14.53376,
+     45.97674
+    ],
+    [
+     14.53424,
+     45.97597
+    ],
+    [
+     14.53439,
+     45.97537
+    ],
+    [
+     14.53312,
+     45.97443
+    ],
+    [
+     14.53276,
+     45.97391
+    ],
+    [
+     14.53259,
+     45.97339
+    ],
+    [
+     14.53264,
+     45.97311
+    ],
+    [
+     14.53417,
+     45.97178
+    ],
+    [
+     14.5348,
+     45.97167
+    ],
+    [
+     14.53711,
+     45.97206
+    ],
+    [
+     14.53771,
+     45.97191
+    ],
+    [
+     14.53882,
+     45.97131
+    ],
+    [
+     14.53944,
+     45.97081
+    ],
+    [
+     14.5397,
+     45.96974
+    ],
+    [
+     14.53997,
+     45.96917
+    ],
+    [
+     14.54077,
+     45.96866
+    ],
+    [
+     14.54146,
+     45.96845
+    ],
+    [
+     14.54179,
+     45.96792
+    ],
+    [
+     14.54201,
+     45.96695
+    ],
+    [
+     14.54217,
+     45.96677
+    ],
+    [
+     14.54208,
+     45.96657
+    ],
+    [
+     14.54251,
+     45.96495
+    ],
+    [
+     14.54238,
+     45.96451
+    ],
+    [
+     14.54203,
+     45.96416
+    ],
+    [
+     14.54104,
+     45.96384
+    ],
+    [
+     14.54065,
+     45.96315
+    ],
+    [
+     14.53917,
+     45.96228
+    ],
+    [
+     14.53841,
+     45.96125
+    ],
+    [
+     14.53725,
+     45.96101
+    ],
+    [
+     14.53672,
+     45.96074
+    ],
+    [
+     14.53658,
+     45.95951
+    ],
+    [
+     14.53538,
+     45.95877
+    ],
+    [
+     14.5352,
+     45.95844
+    ],
+    [
+     14.53512,
+     45.95787
+    ],
+    [
+     14.53478,
+     45.95754
+    ],
+    [
+     14.53182,
+     45.95704
+    ],
+    [
+     14.53063,
+     45.95725
+    ],
+    [
+     14.53287,
+     45.95721
+    ]
+   ]
+  },
+  "center": [
+   45.98886,
+   14.53023
+  ],
+  "lengthKm": 10.1,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.95663,
+    "lon": 14.53336,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 45.95953,
+    "lon": 14.52889,
+    "name": null,
+    "distKm": 0.29
+   },
+   {
+    "lat": 46.01374,
+    "lon": 14.51223,
+    "name": null,
+    "distKm": 0.3
+   },
+   {
+    "lat": 45.9634,
+    "lon": 14.53152,
+    "name": null,
+    "distKm": 0.5
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:10.572Z"
+ },
+ {
+  "id": "rd-barje/krimsko-podpesko-jezero",
+  "clubSlug": "rd-barje",
+  "slug": "krimsko-podpesko-jezero",
+  "code": "Krimsko (Podpeško) jezero",
+  "name": "Krimsko jezero",
+  "subtitle": "Podpeško jezero, Podpeč",
+  "en": {
+   "name": "The lake Krimsko",
+   "subtitle": "Podpeško) jezero",
+   "description": "In the lake Krimsko (Podpeško) jezero (up to 51m deep) you can fish for big and healthy carps, pikes, beautiful chubs, tenches, perches as well as huge silver carps. The lake is part of the landscape park Ljubljansko barje and is a true jewel of nature! You can even fish in the winter time because the lake's surface rarely freezes. There is a cozy inn near the lake serving slovenian food."
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima kje loviti? Katere vabe so najbolj uspešne? Kako pristopiti do jezera? Kliknite tukaj in preberite brezplačen vodič po Krimskem jezeru. V Krimskem (Podpeškem) jezeru lahko ujamete lepe in zdrave krape, ščuke, klene, redkejše linje, ostriže in velike tolstolobike. Jezero je del Krajinskega parka Ljubljansko barje in pravi naravni biser. Ribolov je mogoč tudi pozimi, saj površina jezera le redko zamrzne.",
+  "waterType": "lake",
+  "water": "Podpeško jezero",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "blestivka",
+   "bojli",
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "potezanka",
+   "sadje",
+   "silikonska vaba",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vobler",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/227"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/krimsko-podpesko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Podpeško jezero",
+   "sidro: središče družine"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.43133,
+      45.96847
+     ],
+     [
+      14.43151,
+      45.96808
+     ],
+     [
+      14.432,
+      45.96785
+     ],
+     [
+      14.43268,
+      45.96806
+     ],
+     [
+      14.43289,
+      45.96843
+     ],
+     [
+      14.43262,
+      45.96891
+     ],
+     [
+      14.43204,
+      45.9691
+     ],
+     [
+      14.43171,
+      45.96902
+     ],
+     [
+      14.43133,
+      45.96847
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.96846,
+   14.43209
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.97127,
+    "lon": 14.4341,
+    "name": null,
+    "distKm": 0.29
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 45.96885,
+    "lon": 14.43186,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:32:12.946Z"
+ },
+ {
+  "id": "rd-barje/reka-Ljubljanica-barje",
+  "clubSlug": "rd-barje",
+  "slug": "reka-Ljubljanica-barje",
+  "code": "Ljubljanica",
+  "name": "Reka Ljubljanica",
+  "subtitle": "od cestnega mostu v Podpeči do Plečnikovih zapornic na Ambroževem trgu",
+  "en": {
+   "name": "The river Ljubljanica",
+   "subtitle": "from the road bridge in Podpeč to the Plečnik's barriers on the square of Ambrož",
+   "description": "The river Ljubljanica is heaven for fishermen! Mostly for the ones who float fish or fish for pikes but also for the ones who fly fish for cyprinids. There is plenty of fish, the most common to get caught are Danube roaches, roaches, carps, pikes and big huchens."
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima kje loviti? Kakšne vabe so uspešne? Kje pustiti avto? Kliknite tukaj in preberite brezplačen vodič po reki Ljubljanici - RD Barje. Reka Ljubljanica je raj za ribiče! Ob njej uživajo predvsem beličarji in ščukarji, pa tudi ribiči, ki muharijo ciprinide. Rib je veliko, najpogosteje pa ujamemo platnice, rdečeoke, krape, ščuke in velike sulce.",
+  "waterType": "river",
+  "water": "Ljubljanica",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "sulec",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "sulec",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "bojli",
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 06. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/221"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/219"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 29. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/871"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 06. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/406"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/reka-Ljubljanica-barje",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.055444,
+   "lon": 14.544447
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Podpeč (most)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.39816,
+    45.97177
+   ]
+  },
+  "center": [
+   45.97177,
+   14.39816
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:51.366Z"
+ },
+ {
+  "id": "rd-barje/kanal-mali-graben-barje",
+  "clubSlug": "rd-barje",
+  "slug": "kanal-mali-graben-barje",
+  "code": "Mali graben",
+  "name": "Mali graben",
+  "subtitle": "od jezu na Bokalcih",
+  "en": {
+   "name": "Mali graben",
+   "subtitle": "from the dam in Bokalci",
+   "description": "The Mali graben is a small river which flows into the Ljubljanica in the centre of Ljubljana. The fishermen fish for chubs, barbels, trouts and graylings here all year long but the winter time is ideal to fish for huchens and the pools of the Mali graben hide many of them."
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima kje loviti? Katere muhe so najbolj uspešne? Kje pustiti avto? Kliknite tukaj in preberite brezplačen vodič po potoku Mali graben. Mali graben je manjša reka, ki se blizu središča Ljubljane izliva v Ljubljanico. Ribiči v njem čez leto lovijo lepe klene, mrene, podusti in redkejše lipane, pozimi pa sulce, ki jih je v tolmunih Malega grabna še kar veliko.",
+  "waterType": "river",
+  "water": "Mali Graben",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "sulec",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "sulec",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "bojli",
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "potezanka",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + salmonidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/225"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/kanal-mali-graben-barje",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.045512,
+   "lon": 14.451169
+  },
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.51051,
+     46.0376
+    ],
+    [
+     14.5082,
+     46.03731
+    ],
+    [
+     14.50467,
+     46.03567
+    ],
+    [
+     14.50298,
+     46.03517
+    ],
+    [
+     14.50225,
+     46.03472
+    ],
+    [
+     14.50058,
+     46.03306
+    ],
+    [
+     14.49793,
+     46.03213
+    ],
+    [
+     14.49594,
+     46.03189
+    ],
+    [
+     14.49396,
+     46.03119
+    ],
+    [
+     14.48962,
+     46.03056
+    ],
+    [
+     14.48852,
+     46.03064
+    ],
+    [
+     14.48677,
+     46.03116
+    ],
+    [
+     14.48599,
+     46.03126
+    ],
+    [
+     14.48428,
+     46.03091
+    ],
+    [
+     14.48364,
+     46.0309
+    ],
+    [
+     14.48272,
+     46.03117
+    ],
+    [
+     14.48072,
+     46.03247
+    ],
+    [
+     14.48019,
+     46.03253
+    ],
+    [
+     14.47869,
+     46.03228
+    ],
+    [
+     14.4783,
+     46.03232
+    ],
+    [
+     14.47537,
+     46.03399
+    ],
+    [
+     14.47377,
+     46.03431
+    ],
+    [
+     14.47198,
+     46.035
+    ],
+    [
+     14.47089,
+     46.03497
+    ],
+    [
+     14.46826,
+     46.0344
+    ],
+    [
+     14.46622,
+     46.03358
+    ],
+    [
+     14.46526,
+     46.03337
+    ],
+    [
+     14.4641,
+     46.0335
+    ],
+    [
+     14.46176,
+     46.03436
+    ],
+    [
+     14.46055,
+     46.03458
+    ],
+    [
+     14.4601,
+     46.03487
+    ],
+    [
+     14.45987,
+     46.03519
+    ],
+    [
+     14.45916,
+     46.03698
+    ],
+    [
+     14.45813,
+     46.03839
+    ],
+    [
+     14.45589,
+     46.03996
+    ],
+    [
+     14.45479,
+     46.04022
+    ],
+    [
+     14.45386,
+     46.04088
+    ],
+    [
+     14.4528,
+     46.04122
+    ],
+    [
+     14.45038,
+     46.04239
+    ],
+    [
+     14.45004,
+     46.04287
+    ],
+    [
+     14.44979,
+     46.04457
+    ],
+    [
+     14.44909,
+     46.04497
+    ],
+    [
+     14.44819,
+     46.04501
+    ]
+   ]
+  },
+  "center": [
+   46.03326,
+   14.47664
+  ],
+  "lengthKm": 6,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.03743,
+    "lon": 14.45814,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.03466,
+    "lon": 14.50315,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.03143,
+    "lon": 14.48387,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.03283,
+    "lon": 14.46406,
+    "name": null,
+    "distKm": 0.07
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.03609,
+    "lon": 14.50886,
+    "name": "RD Barje",
+    "distKm": 0.14
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:33:15.371Z"
+ },
+ {
+  "id": "rd-barje/reka-iska-barje",
+  "clubSlug": "rd-barje",
+  "slug": "reka-iska-barje",
+  "code": "Reka Iška",
+  "name": "Reka Iška",
+  "subtitle": "od sotočja z Zalo do cestnega mostu v Lipah",
+  "en": {
+   "name": "The river Iška",
+   "subtitle": "",
+   "description": "The river Iška is cute destination for fly fishing where you can even meet some famous local and foreign entrepreneurs and statesmen. In the unblemished nature - in crystal clear water which is just waiting for you to drink it- live indigenous brown trouts and rainbow trouts. Warning: active bear area!"
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima, kje loviti? Katere muhe so najuspešnejše? Kje pustiti avto? Kliknite tukaj in preberite brezplačen vodič po reki Iški. Iška je simpatična muharska destinacija. Sredi neokrnjene narave, v kristalno čisti in pitni vodi, so doma majhne domorodne potočne postrvi z do 96 %! gensko čistostjo in šarenke. Pozor: območje medveda!",
+  "waterType": "river",
+  "water": "Iška",
+  "species": [
+   "klen",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/223"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/reka-iska-barje",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.93618,
+   "lon": 14.51459
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: sotočje Zalo",
+   "do: kraj Lipe"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.49079,
+     45.88227
+    ],
+    [
+     14.49118,
+     45.88388
+    ],
+    [
+     14.49168,
+     45.88482
+    ],
+    [
+     14.49168,
+     45.88535
+    ],
+    [
+     14.4921,
+     45.88601
+    ],
+    [
+     14.49223,
+     45.88697
+    ],
+    [
+     14.49273,
+     45.88749
+    ],
+    [
+     14.49287,
+     45.88782
+    ],
+    [
+     14.4925,
+     45.88908
+    ],
+    [
+     14.49292,
+     45.89007
+    ],
+    [
+     14.49275,
+     45.89027
+    ],
+    [
+     14.49218,
+     45.89053
+    ],
+    [
+     14.49162,
+     45.89257
+    ],
+    [
+     14.49167,
+     45.89294
+    ],
+    [
+     14.49205,
+     45.89326
+    ],
+    [
+     14.49282,
+     45.89475
+    ],
+    [
+     14.4937,
+     45.8957
+    ],
+    [
+     14.49396,
+     45.8964
+    ],
+    [
+     14.49384,
+     45.89705
+    ],
+    [
+     14.49429,
+     45.89796
+    ],
+    [
+     14.4937,
+     45.89926
+    ],
+    [
+     14.49371,
+     45.9
+    ],
+    [
+     14.49321,
+     45.90073
+    ],
+    [
+     14.49295,
+     45.90156
+    ],
+    [
+     14.49232,
+     45.90202
+    ],
+    [
+     14.49224,
+     45.90221
+    ],
+    [
+     14.49229,
+     45.90253
+    ],
+    [
+     14.49199,
+     45.90454
+    ],
+    [
+     14.49209,
+     45.90539
+    ],
+    [
+     14.49362,
+     45.90617
+    ],
+    [
+     14.49476,
+     45.90642
+    ],
+    [
+     14.49486,
+     45.90655
+    ],
+    [
+     14.49479,
+     45.90766
+    ],
+    [
+     14.4949,
+     45.90811
+    ],
+    [
+     14.49532,
+     45.90865
+    ],
+    [
+     14.49662,
+     45.90973
+    ],
+    [
+     14.49749,
+     45.91021
+    ],
+    [
+     14.4991,
+     45.91078
+    ],
+    [
+     14.50069,
+     45.91186
+    ],
+    [
+     14.50136,
+     45.91286
+    ],
+    [
+     14.50377,
+     45.91384
+    ],
+    [
+     14.5043,
+     45.91414
+    ],
+    [
+     14.50492,
+     45.91471
+    ],
+    [
+     14.50559,
+     45.91609
+    ],
+    [
+     14.50558,
+     45.91658
+    ],
+    [
+     14.50532,
+     45.91722
+    ],
+    [
+     14.50562,
+     45.9187
+    ],
+    [
+     14.50678,
+     45.91983
+    ],
+    [
+     14.5078,
+     45.92028
+    ],
+    [
+     14.50852,
+     45.92085
+    ],
+    [
+     14.50862,
+     45.92108
+    ],
+    [
+     14.50842,
+     45.92202
+    ],
+    [
+     14.50882,
+     45.92259
+    ],
+    [
+     14.50904,
+     45.9234
+    ],
+    [
+     14.50993,
+     45.92367
+    ],
+    [
+     14.51114,
+     45.92351
+    ],
+    [
+     14.5117,
+     45.9238
+    ],
+    [
+     14.5123,
+     45.92436
+    ],
+    [
+     14.51373,
+     45.92621
+    ],
+    [
+     14.5161,
+     45.92716
+    ],
+    [
+     14.51695,
+     45.92813
+    ],
+    [
+     14.51754,
+     45.9286
+    ],
+    [
+     14.51873,
+     45.93011
+    ],
+    [
+     14.51944,
+     45.9321
+    ],
+    [
+     14.51931,
+     45.93393
+    ],
+    [
+     14.51946,
+     45.93455
+    ],
+    [
+     14.51901,
+     45.93514
+    ],
+    [
+     14.5183,
+     45.93572
+    ],
+    [
+     14.51723,
+     45.93617
+    ],
+    [
+     14.51641,
+     45.93642
+    ],
+    [
+     14.51412,
+     45.93612
+    ],
+    [
+     14.5136,
+     45.93619
+    ],
+    [
+     14.51249,
+     45.93692
+    ],
+    [
+     14.51155,
+     45.93733
+    ],
+    [
+     14.50994,
+     45.9377
+    ],
+    [
+     14.50897,
+     45.93901
+    ],
+    [
+     14.50693,
+     45.93978
+    ],
+    [
+     14.50089,
+     45.94112
+    ],
+    [
+     14.49825,
+     45.941
+    ],
+    [
+     14.49689,
+     45.94048
+    ],
+    [
+     14.49596,
+     45.94028
+    ],
+    [
+     14.49397,
+     45.94024
+    ],
+    [
+     14.49239,
+     45.94055
+    ],
+    [
+     14.49064,
+     45.94034
+    ],
+    [
+     14.48994,
+     45.94039
+    ],
+    [
+     14.4895,
+     45.94055
+    ],
+    [
+     14.48881,
+     45.9416
+    ],
+    [
+     14.48794,
+     45.94219
+    ],
+    [
+     14.48748,
+     45.94272
+    ],
+    [
+     14.48703,
+     45.94341
+    ],
+    [
+     14.48694,
+     45.94391
+    ],
+    [
+     14.48702,
+     45.94493
+    ],
+    [
+     14.48739,
+     45.94595
+    ],
+    [
+     14.4875,
+     45.9467
+    ],
+    [
+     14.48751,
+     45.94798
+    ],
+    [
+     14.4872,
+     45.95008
+    ],
+    [
+     14.4868,
+     45.95094
+    ],
+    [
+     14.48635,
+     45.95289
+    ],
+    [
+     14.48516,
+     45.9565
+    ],
+    [
+     14.48563,
+     45.959
+    ],
+    [
+     14.48683,
+     45.95964
+    ],
+    [
+     14.4871,
+     45.96
+    ],
+    [
+     14.48711,
+     45.96032
+    ],
+    [
+     14.48659,
+     45.96109
+    ],
+    [
+     14.48436,
+     45.96306
+    ],
+    [
+     14.48442,
+     45.9641
+    ],
+    [
+     14.48343,
+     45.965
+    ],
+    [
+     14.48063,
+     45.96814
+    ],
+    [
+     14.47898,
+     45.97108
+    ],
+    [
+     14.47843,
+     45.97265
+    ],
+    [
+     14.47863,
+     45.97821
+    ],
+    [
+     14.47854,
+     45.97858
+    ],
+    [
+     14.47833,
+     45.97895
+    ],
+    [
+     14.47641,
+     45.98552
+    ],
+    [
+     14.47405,
+     45.9908
+    ],
+    [
+     14.4713,
+     45.99652
+    ]
+   ]
+  },
+  "center": [
+   45.93941,
+   14.50791
+  ],
+  "lengthKm": 16.3,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.96866,
+    "lon": 14.48023,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 45.94248,
+    "lon": 14.48786,
+    "name": "Strahomer",
+    "distKm": 0.01
+   },
+   {
+    "lat": 45.97994,
+    "lon": 14.47834,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 45.91168,
+    "lon": 14.49979,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:34.602Z"
+ },
+ {
+  "id": "rd-barje/ribnik-rakitna",
+  "clubSlug": "rd-barje",
+  "slug": "ribnik-rakitna",
+  "code": "Ribnik Rakitna",
+  "name": "Jezero Rakitna",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Rakitna",
+   "subtitle": "",
+   "description": "An idyllic plateau Rakitna (800m altitude) is a nice tourist point and is only about 20 km far from the capital Ljubljana. In the lake of the same name you can fish for some healthy carps, grass carps, perches and trouts. There is a modern hotel by the lake which offers comfort even for the most demanding guests."
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima kje loviti? Katere vabe so najbolj uspešne? Kako pristopiti do jezera? Kliknite tukaj in preberite brezplačen vodič po ribniku Rakitna. Idilična planota Rakitna (800 m. nadm. v.) je prijetna izletniška točka, ki je od glavnega mesta Ljubljana oddaljena le dobrih 20 km. V istoimenskem jezeru so krapi, amurji, ostriži ter redkejše postrvi.",
+  "waterType": "lake",
+  "water": "Jezero Rakitna",
+  "species": [
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "blestivka",
+   "bojli",
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "potezanka",
+   "sadje",
+   "silikonska vaba",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vobler",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + salmonidi",
+    "priceEur": 18,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/229"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/ribnik-rakitna",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Jezero Rakitna",
+   "sidro: središče družine"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.43153,
+      45.88603
+     ],
+     [
+      14.43233,
+      45.8855
+     ],
+     [
+      14.43227,
+      45.88598
+     ],
+     [
+      14.4329,
+      45.88637
+     ],
+     [
+      14.43284,
+      45.8867
+     ],
+     [
+      14.43254,
+      45.88701
+     ],
+     [
+      14.43262,
+      45.88717
+     ],
+     [
+      14.43244,
+      45.8872
+     ],
+     [
+      14.43182,
+      45.8868
+     ],
+     [
+      14.43153,
+      45.88603
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.8862,
+   14.43223
+  ],
+  "lengthKm": null,
+  "region": "notranjska",
+  "parking": [
+   {
+    "lat": 45.88724,
+    "lon": 14.43212,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:41.783Z"
+ },
+ {
+  "id": "rd-barje/ribnik-strahomer",
+  "clubSlug": "rd-barje",
+  "slug": "ribnik-strahomer",
+  "code": "Ribnik Strahomer",
+  "name": "Ribnik Strahomer",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Strahomer",
+   "subtitle": "",
+   "description": "The lake Strahomer is well known for its beautiful nature, peace and healthy fish and the famous statesmen and diplomats also love to fish here. The district is surrounded by dark forests where the brown bear still lives. The lake itself is also rich, especially in huge grass carps up to 120 cm, aggressive pikes, cautious zanders and, of course, beautiful carps. Warning: active bear area!"
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima, kje loviti? Katere vabe so najbolj uspešne? Kako pristopiti do ribnika? Kliknite tukaj in preberite brezplačen vodič po jezeru Strahomer. Ribnik Strahomer je znano po lepi naravi, miru in zdravih ribah, zato na njem radi lovijo tudi znani državniki in tuji diplomati. Revir je obdan s temnimi gozdovi, v katerih živi rjavi medved. Prav tako kot njegova okolica je bogat tudi ribnik.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "kompostni črv",
+   "kostni črv",
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Roparice (ujemi in spusti)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/880"
+   },
+   {
+    "name": "Ujemi in spusti - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/228"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/882"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/ribnik-strahomer",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      13.85957,
+      45.8854
+     ],
+     [
+      13.86008,
+      45.88553
+     ],
+     [
+      13.86005,
+      45.88567
+     ],
+     [
+      13.85983,
+      45.88568
+     ],
+     [
+      13.85957,
+      45.8854
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.88554,
+   13.85981
+  ],
+  "lengthKm": null,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 45.88679,
+    "lon": 13.86349,
+    "name": null,
+    "distKm": 0.29
+   },
+   {
+    "lat": 45.88281,
+    "lon": 13.86437,
+    "name": null,
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:05.794Z"
+ },
+ {
+  "id": "rd-barje/kanal-skofeljski-graben-barje",
+  "clubSlug": "rd-barje",
+  "slug": "kanal-skofeljski-graben-barje",
+  "code": "Škofeljski graben",
+  "name": "Škofeljski graben",
+  "subtitle": "od jarka v Novih talih do izliva v Iščico",
+  "en": {
+   "name": "The district Škofeljski graben",
+   "subtitle": "",
+   "description": "The Škofeljski graben is a small watercourse on the east side of the bog Ljubljansko barje , it runs from Škofljica and then flows into the Iščica. Despite its small size, a careful angler will be able to catch chub, carp, pike and smaller representatives of cyprinids in it."
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Škofeljski graben je manjši vodotok na vzhodnem delu Ljubljanskega barja; teče od Škofljice in se izliva v Iščico. Kljub majhnosti bo previdni ribič v njem lahko ujel klene, krape, ščuke in manjše predstavnike krapovcev.",
+  "waterType": "river",
+  "water": "Mali Graben",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "blestivka",
+   "bojli",
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "potezanka",
+   "sadje",
+   "silikonska vaba",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vobler",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + salmonidi",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/230"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/kanal-skofeljski-graben-barje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Mali Graben",
+   "sidro: središče družine"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.44804,
+      46.04484
+     ],
+     [
+      14.44895,
+      46.04491
+     ],
+     [
+      14.44935,
+      46.04483
+     ],
+     [
+      14.44968,
+      46.04457
+     ],
+     [
+      14.44998,
+      46.04278
+     ],
+     [
+      14.45065,
+      46.04215
+     ],
+     [
+      14.45373,
+      46.04087
+     ],
+     [
+      14.45472,
+      46.04017
+     ],
+     [
+      14.45585,
+      46.03989
+     ],
+     [
+      14.45746,
+      46.03883
+     ],
+     [
+      14.45879,
+      46.03734
+     ],
+     [
+      14.45952,
+      46.03558
+     ],
+     [
+      14.45997,
+      46.0349
+     ],
+     [
+      14.4606,
+      46.03452
+     ],
+     [
+      14.46218,
+      46.03416
+     ],
+     [
+      14.4641,
+      46.03345
+     ],
+     [
+      14.46522,
+      46.03331
+     ],
+     [
+      14.46695,
+      46.03378
+     ],
+     [
+      14.46714,
+      46.03371
+     ],
+     [
+      14.46724,
+      46.03397
+     ],
+     [
+      14.46819,
+      46.03434
+     ],
+     [
+      14.47088,
+      46.03493
+     ],
+     [
+      14.47196,
+      46.03496
+     ],
+     [
+      14.47382,
+      46.03422
+     ],
+     [
+      14.47512,
+      46.03404
+     ],
+     [
+      14.47832,
+      46.03228
+     ],
+     [
+      14.48058,
+      46.03247
+     ],
+     [
+      14.48268,
+      46.03114
+     ],
+     [
+      14.48353,
+      46.03087
+     ],
+     [
+      14.4843,
+      46.03086
+     ],
+     [
+      14.4855,
+      46.03118
+     ],
+     [
+      14.48634,
+      46.0312
+     ],
+     [
+      14.48839,
+      46.03062
+     ],
+     [
+      14.48975,
+      46.03053
+     ],
+     [
+      14.49388,
+      46.03111
+     ],
+     [
+      14.49595,
+      46.03184
+     ],
+     [
+      14.49789,
+      46.03207
+     ],
+     [
+      14.49975,
+      46.03263
+     ],
+     [
+      14.50077,
+      46.0331
+     ],
+     [
+      14.50275,
+      46.03501
+     ],
+     [
+      14.50472,
+      46.03564
+     ],
+     [
+      14.50806,
+      46.03721
+     ],
+     [
+      14.50983,
+      46.03755
+     ],
+     [
+      14.51013,
+      46.03749
+     ],
+     [
+      14.51029,
+      46.03773
+     ],
+     [
+      14.50824,
+      46.03739
+     ],
+     [
+      14.50455,
+      46.03568
+     ],
+     [
+      14.50289,
+      46.03518
+     ],
+     [
+      14.50203,
+      46.03465
+     ],
+     [
+      14.50056,
+      46.0331
+     ],
+     [
+      14.49784,
+      46.03215
+     ],
+     [
+      14.49652,
+      46.03206
+     ],
+     [
+      14.49396,
+      46.03127
+     ],
+     [
+      14.48976,
+      46.03062
+     ],
+     [
+      14.48846,
+      46.03072
+     ],
+     [
+      14.48609,
+      46.03131
+     ],
+     [
+      14.48371,
+      46.03094
+     ],
+     [
+      14.48261,
+      46.03129
+     ],
+     [
+      14.48069,
+      46.03254
+     ],
+     [
+      14.47829,
+      46.03238
+     ],
+     [
+      14.47534,
+      46.03407
+     ],
+     [
+      14.47425,
+      46.03421
+     ],
+     [
+      14.47198,
+      46.03506
+     ],
+     [
+      14.471,
+      46.03505
+     ],
+     [
+      14.46891,
+      46.03461
+     ],
+     [
+      14.46525,
+      46.03344
+     ],
+     [
+      14.4639,
+      46.03364
+     ],
+     [
+      14.46177,
+      46.03442
+     ],
+     [
+      14.46065,
+      46.03464
+     ],
+     [
+      14.46009,
+      46.03502
+     ],
+     [
+      14.45914,
+      46.03722
+     ],
+     [
+      14.4581,
+      46.0385
+     ],
+     [
+      14.45599,
+      46.03996
+     ],
+     [
+      14.45478,
+      46.04027
+     ],
+     [
+      14.45404,
+      46.04087
+     ],
+     [
+      14.45294,
+      46.04121
+     ],
+     [
+      14.45048,
+      46.04238
+     ],
+     [
+      14.45012,
+      46.04287
+     ],
+     [
+      14.44997,
+      46.0443
+     ],
+     [
+      14.44976,
+      46.04471
+     ],
+     [
+      14.44839,
+      46.04533
+     ],
+     [
+      14.44804,
+      46.04484
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.03649,
+   14.47517
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.03466,
+    "lon": 14.50315,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.03743,
+    "lon": 14.45814,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.03143,
+    "lon": 14.48387,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.03283,
+    "lon": 14.46406,
+    "name": null,
+    "distKm": 0.07
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.03609,
+    "lon": 14.50886,
+    "name": "RD Barje",
+    "distKm": 0.14
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:42:17.788Z"
+ },
+ {
+  "id": "rd-barje/potok-zelimeljscica-barje",
+  "clubSlug": "rd-barje",
+  "slug": "potok-zelimeljscica-barje",
+  "code": "Želimeljščica",
+  "name": "Potok Želimeljščica",
+  "subtitle": "od domačije Žumer pod Turjaškim gradom do izliva v Iščico",
+  "en": {
+   "name": "The creek Želimeljščica",
+   "subtitle": "from the homestead Žumer under the castle Turjaški grad to the outflow into the Iščica",
+   "description": "The Želimeljščica is a wonderful creek that springs under the castle Turjak, where the noble family Auersperg once lived and then flows into the Iščica in the bog. Early spring is the most beautiful time to fish on the Želimeljščica when the waters are stil snowy and the hills are not yet grown in by the river vegetation. You can catch some indigenous brown trouts, big rainbow trouts and feisty chubs."
+  },
+  "club": {
+   "name": "Ribiška družina Barje",
+   "url": "https://www.ribiskekarte.si/rd-barje"
+  },
+  "description": "Vas zanima kje loviti? Katere muhe so najbolj uspešne? Kje pustiti avto? Kliknite tukaj in preberite brezplačen vodič po potoku Želimeljščica. Želimeljščica je čudovit potok, ki izvira pod Turjakom, nekdanjim sedežem plemiške rodbine Auersperg, ter se na barju izliva v Iščico. Na Želimeljščici najlepše lovimo zgodaj spomladi, ko je voda malce napeta in obrežje še ni preveč zaraščeno.",
+  "waterType": "river",
+  "water": "Želimeljščica",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "kompostni črv",
+   "kruh",
+   "potezanka",
+   "sadje",
+   "umetna muha",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi + ciprinidi",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-barje/nakup/226"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-barje/potok-zelimeljscica-barje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "reka 68 km od sedeža družine",
+   "samo ena meja: sotočje Iščico"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.54217,
+    45.96677
+   ]
+  },
+  "center": [
+   45.96677,
+   14.54217
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:32.215Z"
+ }
+]

@@ -1,0 +1,1120 @@
+[
+ {
+  "id": "rd-ljubno/ljubnica-2",
+  "clubSlug": "rd-ljubno",
+  "slug": "ljubnica-2",
+  "code": "Ljubnica 2",
+  "name": "Reka Ljubnica",
+  "subtitle": "od Pažetovega mostu do izliva v Savinjo",
+  "en": {
+   "name": "The river Ljubnica",
+   "subtitle": " from the bridge Pažetov most to the outflow into the Savinja",
+   "description": "od Pažetov most do Izliv v Savinjo"
+  },
+  "club": {
+   "name": "Ribiška družina Ljubno",
+   "url": "https://www.ribiskekarte.si/rd-ljubno"
+  },
+  "description": "od Pažetov most do Izliv v Savinjo",
+  "waterType": "river",
+  "water": "Ljubnica",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljubno/ljubnica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "reka 45 km od sedeža družine",
+   "samo ena meja: sotočje Savinjo"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.83499,
+    46.33968
+   ]
+  },
+  "center": [
+   46.33968,
+   14.83499
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.34019,
+    "lon": 14.83454,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.34388,
+    "lon": 14.83318,
+    "name": null,
+    "distKm": 0.49
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:15.435Z"
+ },
+ {
+  "id": "rd-ljubno/ribnik-pri-domu-rd",
+  "clubSlug": "rd-ljubno",
+  "slug": "ribnik-pri-domu-rd",
+  "code": "Ribnik pri domu RD",
+  "name": "Ribnik RD Ljubno",
+  "subtitle": "",
+  "en": {
+   "name": "The pond of the RD Ljubno",
+   "subtitle": "",
+   "description": "od Dom RD do -"
+  },
+  "club": {
+   "name": "Ribiška družina Ljubno",
+   "url": "https://www.ribiskekarte.si/rd-ljubno"
+  },
+  "description": "od Dom RD do -",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljubno/ribnik-pri-domu-rd",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.4221,
+      46.28622
+     ],
+     [
+      14.42231,
+      46.28622
+     ],
+     [
+      14.4221,
+      46.28622
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.28621,
+   14.4222
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.28991,
+    "lon": 14.42156,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:49.019Z"
+ },
+ {
+  "id": "rd-ljubno/savinja-1",
+  "clubSlug": "rd-ljubno",
+  "slug": "savinja-1",
+  "code": "Savinja 1",
+  "name": "Reka Savinja",
+  "subtitle": "od izvira do sotočja z Lučnico",
+  "en": {
+   "name": "The river Savinja",
+   "subtitle": "from the spring to the confluence with the Lučnica",
+   "description": "od Izvir Savinje do Sotočje z Lučnico"
+  },
+  "club": {
+   "name": "Ribiška družina Ljubno",
+   "url": "https://www.ribiskekarte.si/rd-ljubno"
+  },
+  "description": "od Izvir Savinje do Sotočje z Lučnico",
+  "waterType": "river",
+  "water": "Savinja",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljubno/savinja-1",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: izvir",
+   "do: sotočje Lučnico"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.59022,
+     46.37152
+    ],
+    [
+     14.5909,
+     46.37159
+    ],
+    [
+     14.59147,
+     46.37147
+    ],
+    [
+     14.59428,
+     46.37009
+    ],
+    [
+     14.59471,
+     46.37009
+    ],
+    [
+     14.59538,
+     46.36977
+    ],
+    [
+     14.59738,
+     46.36948
+    ],
+    [
+     14.59872,
+     46.36912
+    ],
+    [
+     14.59965,
+     46.36909
+    ],
+    [
+     14.60092,
+     46.36939
+    ],
+    [
+     14.60542,
+     46.36966
+    ],
+    [
+     14.60675,
+     46.37048
+    ],
+    [
+     14.6074,
+     46.37104
+    ],
+    [
+     14.60904,
+     46.37328
+    ],
+    [
+     14.6093,
+     46.37382
+    ],
+    [
+     14.60966,
+     46.37405
+    ],
+    [
+     14.6106,
+     46.3743
+    ],
+    [
+     14.61114,
+     46.37519
+    ],
+    [
+     14.61196,
+     46.37545
+    ],
+    [
+     14.61214,
+     46.37575
+    ],
+    [
+     14.61354,
+     46.37644
+    ],
+    [
+     14.61388,
+     46.37684
+    ],
+    [
+     14.61477,
+     46.37718
+    ],
+    [
+     14.61564,
+     46.37779
+    ],
+    [
+     14.61697,
+     46.37903
+    ],
+    [
+     14.61726,
+     46.38017
+    ],
+    [
+     14.61787,
+     46.38063
+    ],
+    [
+     14.61941,
+     46.38119
+    ],
+    [
+     14.62062,
+     46.38199
+    ],
+    [
+     14.62072,
+     46.3822
+    ],
+    [
+     14.62056,
+     46.38239
+    ],
+    [
+     14.62057,
+     46.3826
+    ],
+    [
+     14.62095,
+     46.38317
+    ],
+    [
+     14.6255,
+     46.38491
+    ],
+    [
+     14.62634,
+     46.38535
+    ],
+    [
+     14.62699,
+     46.38588
+    ],
+    [
+     14.62747,
+     46.38647
+    ],
+    [
+     14.62793,
+     46.38725
+    ],
+    [
+     14.62817,
+     46.38807
+    ],
+    [
+     14.62818,
+     46.38886
+    ],
+    [
+     14.62791,
+     46.38972
+    ],
+    [
+     14.6272,
+     46.39116
+    ],
+    [
+     14.62703,
+     46.39235
+    ],
+    [
+     14.62761,
+     46.39593
+    ],
+    [
+     14.62729,
+     46.39717
+    ],
+    [
+     14.62796,
+     46.39877
+    ],
+    [
+     14.62876,
+     46.39995
+    ],
+    [
+     14.62937,
+     46.40136
+    ],
+    [
+     14.63056,
+     46.4024
+    ],
+    [
+     14.63236,
+     46.40284
+    ],
+    [
+     14.63326,
+     46.40337
+    ],
+    [
+     14.6349,
+     46.40546
+    ],
+    [
+     14.63544,
+     46.40664
+    ],
+    [
+     14.63591,
+     46.4084
+    ],
+    [
+     14.63645,
+     46.40923
+    ],
+    [
+     14.63709,
+     46.40989
+    ],
+    [
+     14.63886,
+     46.41095
+    ],
+    [
+     14.63943,
+     46.41145
+    ],
+    [
+     14.63984,
+     46.412
+    ],
+    [
+     14.64041,
+     46.41329
+    ],
+    [
+     14.64184,
+     46.41496
+    ],
+    [
+     14.64233,
+     46.41635
+    ],
+    [
+     14.64288,
+     46.41683
+    ],
+    [
+     14.64391,
+     46.41735
+    ],
+    [
+     14.6445,
+     46.41834
+    ],
+    [
+     14.64515,
+     46.41892
+    ],
+    [
+     14.64575,
+     46.4192
+    ],
+    [
+     14.64723,
+     46.41937
+    ],
+    [
+     14.64753,
+     46.41953
+    ],
+    [
+     14.64852,
+     46.42047
+    ],
+    [
+     14.64901,
+     46.42136
+    ],
+    [
+     14.6503,
+     46.42143
+    ],
+    [
+     14.65109,
+     46.42177
+    ],
+    [
+     14.65186,
+     46.42241
+    ],
+    [
+     14.6527,
+     46.4237
+    ],
+    [
+     14.65597,
+     46.42504
+    ],
+    [
+     14.65845,
+     46.4251
+    ],
+    [
+     14.65918,
+     46.42472
+    ],
+    [
+     14.66001,
+     46.42452
+    ],
+    [
+     14.66156,
+     46.42459
+    ],
+    [
+     14.66204,
+     46.42442
+    ],
+    [
+     14.66241,
+     46.42419
+    ],
+    [
+     14.66287,
+     46.42329
+    ],
+    [
+     14.66399,
+     46.42233
+    ],
+    [
+     14.66482,
+     46.42228
+    ],
+    [
+     14.66553,
+     46.42256
+    ],
+    [
+     14.6659,
+     46.42254
+    ],
+    [
+     14.6681,
+     46.42138
+    ],
+    [
+     14.67228,
+     46.41987
+    ],
+    [
+     14.67417,
+     46.41992
+    ],
+    [
+     14.67571,
+     46.42026
+    ],
+    [
+     14.67803,
+     46.41953
+    ],
+    [
+     14.68223,
+     46.41942
+    ],
+    [
+     14.68446,
+     46.41985
+    ],
+    [
+     14.68531,
+     46.42015
+    ],
+    [
+     14.68678,
+     46.41963
+    ],
+    [
+     14.68856,
+     46.41942
+    ],
+    [
+     14.68918,
+     46.41952
+    ],
+    [
+     14.69136,
+     46.42048
+    ],
+    [
+     14.69199,
+     46.42057
+    ],
+    [
+     14.69225,
+     46.42055
+    ],
+    [
+     14.69288,
+     46.41999
+    ],
+    [
+     14.69326,
+     46.41892
+    ],
+    [
+     14.69376,
+     46.41865
+    ],
+    [
+     14.69432,
+     46.4185
+    ],
+    [
+     14.69483,
+     46.41862
+    ],
+    [
+     14.69554,
+     46.41902
+    ],
+    [
+     14.69694,
+     46.41822
+    ],
+    [
+     14.69833,
+     46.41643
+    ],
+    [
+     14.69945,
+     46.41615
+    ],
+    [
+     14.70048,
+     46.41533
+    ],
+    [
+     14.70054,
+     46.41499
+    ],
+    [
+     14.70014,
+     46.41379
+    ],
+    [
+     14.70019,
+     46.41328
+    ],
+    [
+     14.70042,
+     46.41272
+    ],
+    [
+     14.70114,
+     46.41171
+    ],
+    [
+     14.70125,
+     46.41123
+    ],
+    [
+     14.70111,
+     46.41046
+    ],
+    [
+     14.70146,
+     46.41005
+    ],
+    [
+     14.70157,
+     46.4097
+    ],
+    [
+     14.70158,
+     46.40936
+    ],
+    [
+     14.70096,
+     46.40717
+    ],
+    [
+     14.70105,
+     46.40671
+    ],
+    [
+     14.70162,
+     46.40582
+    ],
+    [
+     14.70256,
+     46.40537
+    ],
+    [
+     14.70345,
+     46.40422
+    ],
+    [
+     14.70462,
+     46.40342
+    ],
+    [
+     14.70465,
+     46.40295
+    ],
+    [
+     14.70421,
+     46.4021
+    ],
+    [
+     14.70498,
+     46.40135
+    ],
+    [
+     14.70588,
+     46.40085
+    ],
+    [
+     14.70636,
+     46.40031
+    ],
+    [
+     14.70682,
+     46.399
+    ],
+    [
+     14.70683,
+     46.39805
+    ],
+    [
+     14.70712,
+     46.39776
+    ],
+    [
+     14.70783,
+     46.39746
+    ],
+    [
+     14.7091,
+     46.3977
+    ],
+    [
+     14.70968,
+     46.39765
+    ],
+    [
+     14.71147,
+     46.39673
+    ],
+    [
+     14.71188,
+     46.39633
+    ],
+    [
+     14.71321,
+     46.39407
+    ],
+    [
+     14.71337,
+     46.39363
+    ],
+    [
+     14.71311,
+     46.39243
+    ],
+    [
+     14.71326,
+     46.39174
+    ],
+    [
+     14.71356,
+     46.39132
+    ],
+    [
+     14.71491,
+     46.39046
+    ],
+    [
+     14.71605,
+     46.39007
+    ],
+    [
+     14.71646,
+     46.38981
+    ],
+    [
+     14.71733,
+     46.38862
+    ],
+    [
+     14.71877,
+     46.3877
+    ],
+    [
+     14.71927,
+     46.38671
+    ],
+    [
+     14.71975,
+     46.38617
+    ],
+    [
+     14.72139,
+     46.3848
+    ],
+    [
+     14.72218,
+     46.38453
+    ],
+    [
+     14.72397,
+     46.38424
+    ],
+    [
+     14.72508,
+     46.38357
+    ],
+    [
+     14.72532,
+     46.38305
+    ],
+    [
+     14.72523,
+     46.38283
+    ],
+    [
+     14.72545,
+     46.38254
+    ],
+    [
+     14.72701,
+     46.3815
+    ],
+    [
+     14.72709,
+     46.38131
+    ],
+    [
+     14.72688,
+     46.38082
+    ],
+    [
+     14.7274,
+     46.37958
+    ],
+    [
+     14.72804,
+     46.37917
+    ],
+    [
+     14.72918,
+     46.37899
+    ],
+    [
+     14.73019,
+     46.3778
+    ],
+    [
+     14.7313,
+     46.37707
+    ],
+    [
+     14.73263,
+     46.3757
+    ],
+    [
+     14.73395,
+     46.3753
+    ],
+    [
+     14.73444,
+     46.37488
+    ],
+    [
+     14.73474,
+     46.37443
+    ],
+    [
+     14.73465,
+     46.37384
+    ],
+    [
+     14.73442,
+     46.37348
+    ],
+    [
+     14.73317,
+     46.37302
+    ],
+    [
+     14.73295,
+     46.37223
+    ],
+    [
+     14.73182,
+     46.37054
+    ],
+    [
+     14.73031,
+     46.36886
+    ],
+    [
+     14.73015,
+     46.36853
+    ],
+    [
+     14.73023,
+     46.3677
+    ],
+    [
+     14.73047,
+     46.36712
+    ],
+    [
+     14.73101,
+     46.36642
+    ],
+    [
+     14.73271,
+     46.36569
+    ],
+    [
+     14.73335,
+     46.36496
+    ],
+    [
+     14.73404,
+     46.36371
+    ],
+    [
+     14.73474,
+     46.36302
+    ],
+    [
+     14.73612,
+     46.36178
+    ],
+    [
+     14.73819,
+     46.36043
+    ],
+    [
+     14.73892,
+     46.35961
+    ],
+    [
+     14.73939,
+     46.35929
+    ],
+    [
+     14.74024,
+     46.35899
+    ],
+    [
+     14.74265,
+     46.35847
+    ],
+    [
+     14.74437,
+     46.35762
+    ],
+    [
+     14.74648,
+     46.35693
+    ],
+    [
+     14.74695,
+     46.35658
+    ],
+    [
+     14.7476,
+     46.35491
+    ],
+    [
+     14.74788,
+     46.35443
+    ],
+    [
+     14.74831,
+     46.35405
+    ]
+   ]
+  },
+  "center": [
+   46.41973,
+   14.67738
+  ],
+  "lengthKm": 22.1,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.39196,
+    "lon": 14.62726,
+    "name": "Na razpotju",
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.37099,
+    "lon": 14.60756,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.38357,
+    "lon": 14.62157,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.35485,
+    "lon": 14.74726,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:10.635Z"
+ },
+ {
+  "id": "rd-ljubno/savinja-2",
+  "clubSlug": "rd-ljubno",
+  "slug": "savinja-2",
+  "code": "Savinja 2",
+  "name": "Reka Savinja",
+  "subtitle": "od sotočja z Lučnico do Ljubenskega mostu",
+  "en": {
+   "name": "The river Savinja",
+   "subtitle": "from the confluence with the Lučnica to the bridge in Ljubno",
+   "description": "od Sotočje z Lučnico do Ljubno-Savinjski most"
+  },
+  "club": {
+   "name": "Ribiška družina Ljubno",
+   "url": "https://www.ribiskekarte.si/rd-ljubno"
+  },
+  "description": "od Sotočje z Lučnico do Ljubno-Savinjski most",
+  "waterType": "river",
+  "water": "Savinja",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljubno/savinja-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Lučnico"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.74831,
+    46.35405
+   ]
+  },
+  "center": [
+   46.35405,
+   14.74831
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.35481,
+    "lon": 14.74853,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.35654,
+    "lon": 14.74365,
+    "name": null,
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:13.029Z"
+ },
+ {
+  "id": "rd-ljubno/savinja-3",
+  "clubSlug": "rd-ljubno",
+  "slug": "savinja-3",
+  "code": "Savinja 3",
+  "name": "Reka Savinja",
+  "subtitle": "od Ljubenskega mostu do jezu v Grušovljah",
+  "en": {
+   "name": "The river Savinja",
+   "subtitle": "from the bridge in Ljubno to the dam in Grušovlje",
+   "description": "od Ljubno-Savinjski most do Jez v Grušovljah"
+  },
+  "club": {
+   "name": "Ribiška družina Ljubno",
+   "url": "https://www.ribiskekarte.si/rd-ljubno"
+  },
+  "description": "od Ljubno-Savinjski most do Jez v Grušovljah",
+  "waterType": "river",
+  "water": "Savinja",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljubno/savinja-3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Grušovlje (jez)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.87486,
+    46.3149
+   ]
+  },
+  "center": [
+   46.3149,
+   14.87486
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:15.432Z"
+ }
+]

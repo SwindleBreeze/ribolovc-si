@@ -1,0 +1,351 @@
+[
+ {
+  "id": "rd-bled/revir-blejsko-jezero",
+  "clubSlug": "rd-bled",
+  "slug": "revir-blejsko-jezero",
+  "code": "Blejsko jezero",
+  "name": "Blejsko jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Bled",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Bled",
+   "url": "https://www.ribiskekarte.si/rd-bled"
+  },
+  "description": "Revir blejsko jezero zajema blejsko jezero brez pritokov ter rezervatov označenih na veljavni ribolovni dovolilnici.",
+  "waterType": "lake",
+  "water": "Blejsko jezero",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bled/revir-blejsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Blejsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.08194,
+      46.36255
+     ],
+     [
+      14.08284,
+      46.36158
+     ],
+     [
+      14.08486,
+      46.36185
+     ],
+     [
+      14.08491,
+      46.36126
+     ],
+     [
+      14.08474,
+      46.36048
+     ],
+     [
+      14.08489,
+      46.36011
+     ],
+     [
+      14.08558,
+      46.35893
+     ],
+     [
+      14.08658,
+      46.35863
+     ],
+     [
+      14.08998,
+      46.3583
+     ],
+     [
+      14.0911,
+      46.35864
+     ],
+     [
+      14.09186,
+      46.35942
+     ],
+     [
+      14.09355,
+      46.35998
+     ],
+     [
+      14.09537,
+      46.36001
+     ],
+     [
+      14.09821,
+      46.35972
+     ],
+     [
+      14.09901,
+      46.3598
+     ],
+     [
+      14.09929,
+      46.35993
+     ],
+     [
+      14.09953,
+      46.36058
+     ],
+     [
+      14.0994,
+      46.36124
+     ],
+     [
+      14.09893,
+      46.36191
+     ],
+     [
+      14.09909,
+      46.36232
+     ],
+     [
+      14.10043,
+      46.36295
+     ],
+     [
+      14.10128,
+      46.36314
+     ],
+     [
+      14.10147,
+      46.36341
+     ],
+     [
+      14.10218,
+      46.36335
+     ],
+     [
+      14.104,
+      46.36409
+     ],
+     [
+      14.10491,
+      46.3642
+     ],
+     [
+      14.10635,
+      46.36489
+     ],
+     [
+      14.10776,
+      46.3666
+     ],
+     [
+      14.10795,
+      46.36696
+     ],
+     [
+      14.10779,
+      46.36701
+     ],
+     [
+      14.10835,
+      46.36778
+     ],
+     [
+      14.10855,
+      46.36832
+     ],
+     [
+      14.10814,
+      46.36873
+     ],
+     [
+      14.10633,
+      46.36953
+     ],
+     [
+      14.10347,
+      46.36933
+     ],
+     [
+      14.10282,
+      46.36923
+     ],
+     [
+      14.10332,
+      46.36918
+     ],
+     [
+      14.10216,
+      46.36897
+     ],
+     [
+      14.10105,
+      46.36856
+     ],
+     [
+      14.09783,
+      46.36829
+     ],
+     [
+      14.0974,
+      46.36804
+     ],
+     [
+      14.0956,
+      46.36796
+     ],
+     [
+      14.09433,
+      46.36724
+     ],
+     [
+      14.09357,
+      46.36732
+     ],
+     [
+      14.09225,
+      46.36718
+     ],
+     [
+      14.08801,
+      46.36787
+     ],
+     [
+      14.08735,
+      46.36812
+     ],
+     [
+      14.08679,
+      46.36807
+     ],
+     [
+      14.08587,
+      46.36746
+     ],
+     [
+      14.08569,
+      46.36699
+     ],
+     [
+      14.08602,
+      46.36665
+     ],
+     [
+      14.08605,
+      46.3663
+     ],
+     [
+      14.08407,
+      46.36393
+     ],
+     [
+      14.08342,
+      46.36337
+     ],
+     [
+      14.08194,
+      46.36255
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.36421,
+   14.09535
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.36393,
+    "lon": 14.10469,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.36011,
+    "lon": 14.09972,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.36238,
+    "lon": 14.08126,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.36805,
+    "lon": 14.08477,
+    "name": "Veslaški center",
+    "distKm": 0.11
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:37.018Z"
+ },
+ {
+  "id": "rd-bled/revir-sava-bohinjka",
+  "clubSlug": "rd-bled",
+  "slug": "revir-sava-bohinjka",
+  "code": "Sava Bohinjka",
+  "name": "Reka Sava Bohinjka",
+  "subtitle": "od jezu v Soteski do Cajhnovega jezu",
+  "en": {
+   "name": "The river Sava Bohinjka",
+   "subtitle": "from the dam in Soteska to the dam Cajhnov jez",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Bled",
+   "url": "https://www.ribiskekarte.si/rd-bled"
+  },
+  "description": "Revir Sava Bohinjka poteka od jezu v Soteski, do Cajhnovega jezu nad sotočjem z Savo Dolinko.",
+  "waterType": "river",
+  "water": "Sava Bohinjka",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bled/revir-sava-bohinjka",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Cajhnov jez (jez)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.15429,
+    46.34218
+   ]
+  },
+  "center": [
+   46.34218,
+   14.15429
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:08.233Z"
+ }
+]

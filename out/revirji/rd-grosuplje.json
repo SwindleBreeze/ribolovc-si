@@ -1,0 +1,1632 @@
+[
+ {
+  "id": "rd-grosuplje/bicje-s-pritoki",
+  "clubSlug": "rd-grosuplje",
+  "slug": "bicje-s-pritoki",
+  "code": "Bičje s pritoki",
+  "name": "Bičje s pritoki",
+  "subtitle": "Od izvira do sotočja z Grosupeljščico",
+  "en": {
+   "name": "The creek Bičje with tributaries",
+   "subtitle": "from the spring to the confluence with the Grosupeljščica",
+   "description": "The creek Bičje with tributaries is an intertwinement of smaller creeks where the waters meander and create some excellent pools to fish for trouts, chubs and perches."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Bičje s pritoki je preplet manjših potočkov, večina vodotoka meandrira, zato so na nekaterih mestih odlični tolmuni za lov postrvi, klenov in ostrižev.",
+  "waterType": "river",
+  "water": "Bičje",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi - ujemi in vzemi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/383"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/1303"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/742"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/bicje-s-pritoki",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izvir"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.62274,
+    45.92643
+   ]
+  },
+  "center": [
+   45.92643,
+   14.62274
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.92526,
+    "lon": 14.62235,
+    "name": null,
+    "distKm": 0.13
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:41.701Z"
+ },
+ {
+  "id": "rd-grosuplje/grosupeljscica-2",
+  "clubSlug": "rd-grosuplje",
+  "slug": "grosupeljscica-2",
+  "code": "Grosupeljščica 2",
+  "name": "Potok Grosupeljščica",
+  "subtitle": "Od Laznikovega mlina do mostu pri mlinu pri Boštanju",
+  "en": {
+   "name": "The creek Grosupeljščica",
+   "subtitle": " from the mill Laznik to the bridge near the mill in Boštanj",
+   "description": "The creek Grosupeljščica runs through the city of Grosuplje. Its channel has been regulated since 1963.The creek flows from the northern edges of the basin Grosuplje. It is an excellent place to fish for trouts and chubs."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Skozi Grosuplje teče potok Grosupeljščica, ki ima od leta 1963 regulirano strugo. Potok priteče iz severnega obrobja Grosupeljske kotline. Potok je odličen za lov postrvi in klenov.",
+  "waterType": "river",
+  "water": "Grosupeljščica",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 29. 02. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/379"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/grosupeljscica-2",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.940498,
+   "lon": 14.677928
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.68559,
+     45.97989
+    ],
+    [
+     14.67997,
+     45.97716
+    ]
+   ]
+  },
+  "center": [
+   45.94109,
+   14.67358
+  ],
+  "lengthKm": 0.5,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:44.146Z"
+ },
+ {
+  "id": "rd-grosuplje/racna-sica",
+  "clubSlug": "rd-grosuplje",
+  "slug": "racna-sica",
+  "code": "Račna-Šica",
+  "name": "Potok Račna - Šica",
+  "subtitle": "od izvira v vasi Mala Račna do ponora v Zatočni jami na vzhodnem robu polja pod Malo Rebrijo",
+  "en": {
+   "name": "The creek Račna-Šica",
+   "subtitle": "from the spring in the village Mala Račna to the place it goes underground: in the cave Zatočna jama on the east edge of the field under Mala Rebrija",
+   "description": "The creek Šica-Račna springs in the south of the field under the village Mala Račna but the plenty of its waters come from underground. The Šica winds meandering throughout the field and thus increases its current three times. It disappears in the cave Zatočna jama."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Potok Šica -Račna izvira na jugu polja pod vasjo Mala Račna in ob obilju vode bruha iz podzemlja. Šica se meandrasto vije po polju tako skoraj za trikrat poveča dolžino svojega toka. Ponikuje v Zatočni jami. Zaradi svojega kraškega značaja oblikuje številne spodjede, ki so odličen habitat za večje potočne postrvi. Ribolov na samem potoku izredno težaven in je primernejši za izkušenejše ribiče.",
+  "waterType": "river",
+  "water": "Šica",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/380"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/racna-sica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: izvir",
+   "do: kraj Zatočna jama"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.69585,
+     45.89661
+    ],
+    [
+     14.70708,
+     45.90233
+    ]
+   ]
+  },
+  "center": [
+   45.89947,
+   14.70147
+  ],
+  "lengthKm": 1.1,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.89144,
+    "lon": 14.69657,
+    "name": null,
+    "distKm": 0.58
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:00.966Z"
+ },
+ {
+  "id": "rd-grosuplje/ribnik-bostanj",
+  "clubSlug": "rd-grosuplje",
+  "slug": "ribnik-bostanj",
+  "code": "Ribnik Boštanj",
+  "name": "Ribnik Boštanj",
+  "subtitle": "Boštanj",
+  "en": {
+   "name": "The pond Boštanj",
+   "subtitle": "Boštanj",
+   "description": "The landscape park Radensko polje is a natural beauty, situated in the middle of the carst in Dolenjska region, just southeast of Grosuplje on the edges of the basin Grosuplje. You can find the pond Boštanj on the very edges of the park. It is home to various fish species and fishermen of Grosuplje' have s fishing lodge there. An excellent place to go fishing for carps and predatory fish."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Krajinski park Radensko polje je naravni biser, ki se nahaja sredi dolenjskega krasa jugovzhodno od Grosuplja, na obronku Grosupeljske kotline. Na obrobju krajinskega parka se nahaja ribnik Boštanj, ki je vrstno zelo bogat. Poleg ribnika se nahaja dom grosupeljskih ribičev. Odličen je za krapolov in lov roparic.",
+  "waterType": "pond",
+  "water": "Ribnik Boštanj",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "postrvji-ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "postrvji ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi - ujemi in spusti",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/386"
+   },
+   {
+    "name": "Ciprinidi - ujemi in vzemi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/383"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/1303"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/ribnik-bostanj",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Boštanj"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.67213,
+      45.93252
+     ],
+     [
+      14.67262,
+      45.93257
+     ],
+     [
+      14.6731,
+      45.93331
+     ],
+     [
+      14.67258,
+      45.9335
+     ],
+     [
+      14.67213,
+      45.93252
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.93293,
+   14.6726
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.93226,
+    "lon": 14.67227,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 45.93298,
+    "lon": 14.67262,
+    "name": "Ribnik Boštanj",
+    "distKm": 0.05
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:37:10.563Z"
+ },
+ {
+  "id": "rd-grosuplje/ribnik-dobje",
+  "clubSlug": "rd-grosuplje",
+  "slug": "ribnik-dobje",
+  "code": "Ribnik Dobje",
+  "name": "Ribnik Dobje",
+  "subtitle": "Dobje",
+  "en": {
+   "name": "The pond Dobje",
+   "subtitle": "Dobje",
+   "description": "The pond Dobje is situated on the creek Breg, from the village Dobje west. The water in the pond was dammed directly. The year of the making is unknown (probably around 1842) The monks of Stična had managed the pond almost 150 years ago but since 1963 the Ribiška družina Grosuplje has been managing it. The creek Breg gives the pond its water."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Ribnik Dobje se nahaja na potoku Breg, zahodno od vasi Dobje. Zgrajen je bil tako, da je pregrada direktno zajezila vodo. Ni nam znano, kdaj je bil ribnik zgrajen (po nekaterih informacijah leta 1842). Z ribnikom so že pred več kot 150 leti upravljali stiški menihi, od leta 1963 naprej pa ga upravlja Ribiška družina Grosuplje. Ribnik napaja potok Breg, ki v sušnih letih tudi presuši.",
+  "waterType": "pond",
+  "water": "Ribnik Dobje",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "potocna-postrv",
+   "smuc",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "potočna postrv",
+   "smuč",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/384"
+   },
+   {
+    "name": "Salmonidi, roparice",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/385"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/ribnik-dobje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Dobje"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.65884,
+      45.97805
+     ],
+     [
+      14.65917,
+      45.97758
+     ],
+     [
+      14.65945,
+      45.97762
+     ],
+     [
+      14.66097,
+      45.97837
+     ],
+     [
+      14.66139,
+      45.97899
+     ],
+     [
+      14.66108,
+      45.97901
+     ],
+     [
+      14.65978,
+      45.97829
+     ],
+     [
+      14.65897,
+      45.97828
+     ],
+     [
+      14.65884,
+      45.97805
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.9783,
+   14.66001
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [
+   {
+    "lat": 45.97831,
+    "lon": 14.66002,
+    "name": "Ribnik Dobje",
+    "distKm": 0.02
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:37:24.980Z"
+ },
+ {
+  "id": "rd-grosuplje/temenica-2",
+  "clubSlug": "rd-grosuplje",
+  "slug": "temenica-2",
+  "code": "Temenica 2",
+  "name": "Reka Temenica",
+  "subtitle": "od jezu pri mlinu Pintar, do mostu pri Železniški postaji Veliki Gaber",
+  "en": {
+   "name": "The river Temenica",
+   "subtitle": "from the dam at the mill Pintar to the bridge at the train station Veliki Gaber",
+   "description": "The Temenica is a creek suitable for fishing of salmonids in the springtime but its waters are often pretty low in the summertime."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Temenica je potok, ki je v spomladanskih mesecih primeren za lov salmonidov, v poletnih mesecih je vodostaj pogosto nizek.",
+  "waterType": "river",
+  "water": "Temenica",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 29. 02. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/382"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/temenica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Veliki Gaber"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.90949,
+    45.94156
+   ]
+  },
+  "center": [
+   45.94156,
+   14.90949
+  ],
+  "lengthKm": null,
+  "region": "dolenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:25.019Z"
+ },
+ {
+  "id": "rd-grosuplje/visnjica-2",
+  "clubSlug": "rd-grosuplje",
+  "slug": "visnjica-2",
+  "code": "Višnjica 2",
+  "name": "Potok Višnjica",
+  "subtitle": "od mostu v Višnji gori do mostu Krška vas - Sinja gora",
+  "en": {
+   "name": "The creek Višnjica",
+   "subtitle": "from the bridge in Višnja gora to the bridge Krška vas-Sinja gora",
+   "description": "The creek Višnjica is mostly very narrow and covered in vegetation so the fishing demands more knowledge and patience. But there are some longer parts where it is possible to fish for trouts and chubs."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Potok Višnjica je na večjem delu toka ozka in precej zaraščena, tako da je ribolov na njej zahteva malo več znanja in potrpljenja. So pa tudi daljši pasovi, kjer je mogoče loviti postrvi in klene.",
+  "waterType": "river",
+  "water": "Višnjica",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 29. 02. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/381"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/visnjica-2",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.936421,
+   "lon": 14.805146
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Višnja Gora",
+   "do: kraj Krška vas"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.74533,
+     45.95645
+    ],
+    [
+     14.74822,
+     45.95563
+    ],
+    [
+     14.74885,
+     45.95534
+    ],
+    [
+     14.75094,
+     45.95277
+    ],
+    [
+     14.75117,
+     45.95207
+    ],
+    [
+     14.75168,
+     45.95181
+    ],
+    [
+     14.75235,
+     45.95124
+    ],
+    [
+     14.7538,
+     45.94972
+    ],
+    [
+     14.75437,
+     45.94957
+    ],
+    [
+     14.75552,
+     45.94867
+    ],
+    [
+     14.75637,
+     45.94713
+    ],
+    [
+     14.75663,
+     45.94696
+    ],
+    [
+     14.758,
+     45.94673
+    ],
+    [
+     14.75844,
+     45.94652
+    ],
+    [
+     14.75956,
+     45.94533
+    ],
+    [
+     14.76014,
+     45.94535
+    ],
+    [
+     14.76114,
+     45.94582
+    ],
+    [
+     14.76166,
+     45.94592
+    ],
+    [
+     14.76304,
+     45.94574
+    ],
+    [
+     14.76422,
+     45.94596
+    ],
+    [
+     14.76637,
+     45.94572
+    ],
+    [
+     14.76723,
+     45.94618
+    ],
+    [
+     14.76761,
+     45.94621
+    ],
+    [
+     14.77068,
+     45.94587
+    ],
+    [
+     14.77328,
+     45.94511
+    ],
+    [
+     14.77431,
+     45.94493
+    ],
+    [
+     14.77575,
+     45.94499
+    ],
+    [
+     14.77655,
+     45.94473
+    ],
+    [
+     14.77651,
+     45.94447
+    ],
+    [
+     14.77714,
+     45.94372
+    ],
+    [
+     14.77707,
+     45.94338
+    ],
+    [
+     14.77781,
+     45.94239
+    ],
+    [
+     14.78008,
+     45.94025
+    ],
+    [
+     14.78089,
+     45.93968
+    ],
+    [
+     14.78185,
+     45.93807
+    ],
+    [
+     14.78277,
+     45.93703
+    ],
+    [
+     14.78343,
+     45.93668
+    ],
+    [
+     14.78466,
+     45.93641
+    ],
+    [
+     14.78539,
+     45.93686
+    ],
+    [
+     14.78668,
+     45.93725
+    ],
+    [
+     14.7899,
+     45.93757
+    ],
+    [
+     14.79165,
+     45.93699
+    ],
+    [
+     14.7931,
+     45.93701
+    ],
+    [
+     14.80008,
+     45.93615
+    ],
+    [
+     14.80124,
+     45.93578
+    ],
+    [
+     14.80254,
+     45.93555
+    ],
+    [
+     14.80299,
+     45.93527
+    ],
+    [
+     14.80323,
+     45.93421
+    ],
+    [
+     14.80425,
+     45.93299
+    ],
+    [
+     14.80437,
+     45.93239
+    ],
+    [
+     14.80395,
+     45.93061
+    ],
+    [
+     14.80415,
+     45.92867
+    ],
+    [
+     14.80425,
+     45.92046
+    ],
+    [
+     14.80438,
+     45.92018
+    ],
+    [
+     14.80665,
+     45.91775
+    ],
+    [
+     14.8074,
+     45.91633
+    ],
+    [
+     14.80819,
+     45.91427
+    ],
+    [
+     14.80765,
+     45.91263
+    ],
+    [
+     14.80724,
+     45.91203
+    ],
+    [
+     14.80701,
+     45.91065
+    ],
+    [
+     14.80726,
+     45.90994
+    ],
+    [
+     14.808,
+     45.90967
+    ],
+    [
+     14.81042,
+     45.90914
+    ],
+    [
+     14.81085,
+     45.90855
+    ],
+    [
+     14.81259,
+     45.9074
+    ],
+    [
+     14.81303,
+     45.90692
+    ],
+    [
+     14.81599,
+     45.9056
+    ],
+    [
+     14.81622,
+     45.90534
+    ],
+    [
+     14.81753,
+     45.90479
+    ],
+    [
+     14.81868,
+     45.90397
+    ],
+    [
+     14.81907,
+     45.9039
+    ],
+    [
+     14.81974,
+     45.90333
+    ],
+    [
+     14.82154,
+     45.89989
+    ],
+    [
+     14.80601,
+     45.89329
+    ],
+    [
+     14.80543,
+     45.89287
+    ],
+    [
+     14.80457,
+     45.89273
+    ],
+    [
+     14.79866,
+     45.89111
+    ],
+    [
+     14.79844,
+     45.89086
+    ],
+    [
+     14.79863,
+     45.89046
+    ],
+    [
+     14.79857,
+     45.89034
+    ],
+    [
+     14.79769,
+     45.88978
+    ],
+    [
+     14.79807,
+     45.88897
+    ],
+    [
+     14.79658,
+     45.88832
+    ],
+    [
+     14.79615,
+     45.88762
+    ],
+    [
+     14.79594,
+     45.8875
+    ],
+    [
+     14.79571,
+     45.88763
+    ],
+    [
+     14.79556,
+     45.88826
+    ],
+    [
+     14.79476,
+     45.88856
+    ],
+    [
+     14.79362,
+     45.88837
+    ],
+    [
+     14.79325,
+     45.8885
+    ],
+    [
+     14.79279,
+     45.88827
+    ],
+    [
+     14.79253,
+     45.88848
+    ],
+    [
+     14.79182,
+     45.88862
+    ],
+    [
+     14.79077,
+     45.8884
+    ],
+    [
+     14.79046,
+     45.88869
+    ],
+    [
+     14.79034,
+     45.88862
+    ],
+    [
+     14.79034,
+     45.88842
+    ],
+    [
+     14.78994,
+     45.88843
+    ],
+    [
+     14.78955,
+     45.88818
+    ],
+    [
+     14.78881,
+     45.88813
+    ],
+    [
+     14.78853,
+     45.88838
+    ],
+    [
+     14.78744,
+     45.88824
+    ],
+    [
+     14.78712,
+     45.88793
+    ],
+    [
+     14.78731,
+     45.88758
+    ],
+    [
+     14.78709,
+     45.88716
+    ],
+    [
+     14.78715,
+     45.887
+    ],
+    [
+     14.787,
+     45.88686
+    ],
+    [
+     14.78713,
+     45.88643
+    ],
+    [
+     14.78703,
+     45.88615
+    ],
+    [
+     14.78715,
+     45.88599
+    ],
+    [
+     14.78753,
+     45.88615
+    ],
+    [
+     14.7877,
+     45.886
+    ],
+    [
+     14.78803,
+     45.8862
+    ],
+    [
+     14.78822,
+     45.88604
+    ],
+    [
+     14.78793,
+     45.8857
+    ],
+    [
+     14.78751,
+     45.88568
+    ],
+    [
+     14.78725,
+     45.88553
+    ]
+   ]
+  },
+  "center": [
+   45.92351,
+   14.80421
+  ],
+  "lengthKm": 14.3,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.95623,
+    "lon": 14.74574,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 45.93816,
+    "lon": 14.79851,
+    "name": null,
+    "distKm": 0.2
+   },
+   {
+    "lat": 45.94783,
+    "lon": 14.76967,
+    "name": null,
+    "distKm": 0.2
+   },
+   {
+    "lat": 45.93658,
+    "lon": 14.80618,
+    "name": null,
+    "distKm": 0.29
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:13.025Z"
+ },
+ {
+  "id": "rd-grosuplje/visnjica-3",
+  "clubSlug": "rd-grosuplje",
+  "slug": "visnjica-3",
+  "code": "Višnjica 3",
+  "name": "Potok Višnjica",
+  "subtitle": "od mostu AC do mostu v Krškem polju",
+  "en": {
+   "name": "The creek Višnjica",
+   "subtitle": "from the bridge on the highway to the bridge in Krško polje",
+   "description": "The creek Višnjica is mostly very narrow and covered in vegetation so the fishing demands more knowledge and patience. But there are some longer parts where it is possible to fish for trouts and chubs."
+  },
+  "club": {
+   "name": "Ribiška družina Grosuplje",
+   "url": "https://www.ribiskekarte.si/rd-grosuplje"
+  },
+  "description": "Potok Višnjica je na večjem delu toka ozka in precej zaraščena, tako da je ribolov na njej zahteva malo več znanja in potrpljenja. So pa tudi daljši pasovi, kjer je mogoče loviti postrvi in klene.",
+  "waterType": "river",
+  "water": "Višnjica",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 29. 02. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-grosuplje/nakup/381"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/visnjica-3",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.936421,
+   "lon": 14.805146
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.73329,
+     45.96343
+    ],
+    [
+     14.74542,
+     45.95642
+    ],
+    [
+     14.74822,
+     45.95563
+    ],
+    [
+     14.74885,
+     45.95534
+    ],
+    [
+     14.75094,
+     45.95277
+    ],
+    [
+     14.75117,
+     45.95207
+    ],
+    [
+     14.75168,
+     45.95181
+    ],
+    [
+     14.75235,
+     45.95124
+    ],
+    [
+     14.7538,
+     45.94972
+    ],
+    [
+     14.75437,
+     45.94957
+    ],
+    [
+     14.75552,
+     45.94867
+    ],
+    [
+     14.75637,
+     45.94713
+    ],
+    [
+     14.75663,
+     45.94696
+    ],
+    [
+     14.758,
+     45.94673
+    ],
+    [
+     14.75844,
+     45.94652
+    ],
+    [
+     14.75956,
+     45.94533
+    ],
+    [
+     14.76014,
+     45.94535
+    ],
+    [
+     14.76114,
+     45.94582
+    ],
+    [
+     14.76166,
+     45.94592
+    ],
+    [
+     14.76304,
+     45.94574
+    ],
+    [
+     14.76422,
+     45.94596
+    ],
+    [
+     14.76637,
+     45.94572
+    ],
+    [
+     14.76723,
+     45.94618
+    ],
+    [
+     14.76761,
+     45.94621
+    ],
+    [
+     14.77068,
+     45.94587
+    ],
+    [
+     14.77328,
+     45.94511
+    ],
+    [
+     14.77431,
+     45.94493
+    ],
+    [
+     14.77575,
+     45.94499
+    ],
+    [
+     14.77655,
+     45.94473
+    ],
+    [
+     14.77651,
+     45.94447
+    ],
+    [
+     14.77714,
+     45.94372
+    ],
+    [
+     14.77707,
+     45.94338
+    ],
+    [
+     14.77781,
+     45.94239
+    ],
+    [
+     14.78008,
+     45.94025
+    ],
+    [
+     14.78089,
+     45.93968
+    ],
+    [
+     14.78185,
+     45.93807
+    ],
+    [
+     14.78277,
+     45.93703
+    ],
+    [
+     14.78343,
+     45.93668
+    ],
+    [
+     14.78466,
+     45.93641
+    ],
+    [
+     14.78539,
+     45.93686
+    ],
+    [
+     14.78668,
+     45.93725
+    ],
+    [
+     14.7899,
+     45.93757
+    ],
+    [
+     14.79165,
+     45.93699
+    ],
+    [
+     14.7931,
+     45.93701
+    ],
+    [
+     14.80008,
+     45.93615
+    ],
+    [
+     14.80124,
+     45.93578
+    ],
+    [
+     14.80254,
+     45.93555
+    ],
+    [
+     14.80299,
+     45.93527
+    ],
+    [
+     14.80323,
+     45.93421
+    ],
+    [
+     14.80425,
+     45.93299
+    ],
+    [
+     14.80437,
+     45.93239
+    ],
+    [
+     14.80395,
+     45.93061
+    ],
+    [
+     14.80415,
+     45.92867
+    ],
+    [
+     14.80425,
+     45.92046
+    ],
+    [
+     14.80438,
+     45.92018
+    ],
+    [
+     14.80665,
+     45.91775
+    ],
+    [
+     14.8074,
+     45.91633
+    ],
+    [
+     14.80819,
+     45.91427
+    ],
+    [
+     14.80765,
+     45.91263
+    ],
+    [
+     14.80724,
+     45.91203
+    ],
+    [
+     14.80701,
+     45.91065
+    ],
+    [
+     14.80726,
+     45.90994
+    ],
+    [
+     14.808,
+     45.90967
+    ],
+    [
+     14.81042,
+     45.90914
+    ],
+    [
+     14.81085,
+     45.90855
+    ],
+    [
+     14.81259,
+     45.9074
+    ],
+    [
+     14.81303,
+     45.90692
+    ],
+    [
+     14.81753,
+     45.90479
+    ],
+    [
+     14.81868,
+     45.90397
+    ],
+    [
+     14.81907,
+     45.9039
+    ],
+    [
+     14.81974,
+     45.90333
+    ],
+    [
+     14.81976,
+     45.89572
+    ],
+    [
+     14.81927,
+     45.89536
+    ],
+    [
+     14.8188,
+     45.8945
+    ],
+    [
+     14.81821,
+     45.89411
+    ]
+   ]
+  },
+  "center": [
+   45.93527,
+   14.80299
+  ],
+  "lengthKm": 12.2,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.95623,
+    "lon": 14.74574,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 45.9582,
+    "lon": 14.74122,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 45.93816,
+    "lon": 14.79851,
+    "name": null,
+    "distKm": 0.2
+   },
+   {
+    "lat": 45.94783,
+    "lon": 14.76967,
+    "name": null,
+    "distKm": 0.2
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:15.433Z"
+ }
+]

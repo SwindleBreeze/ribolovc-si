@@ -1,0 +1,1512 @@
+[
+ {
+  "id": "rd-vevce/dobrunjscica",
+  "clubSlug": "rd-vevce",
+  "slug": "dobrunjscica",
+  "code": "Dobrunjščica",
+  "name": "Dobrunjščica",
+  "subtitle": "",
+  "en": {
+   "name": "Dobrunjščica",
+   "subtitle": "",
+   "description": "The lovely little spring creek Dobrunjščica is a small fishing district of the RD Vevče, where you can catch brown trout."
+  },
+  "club": {
+   "name": "Ribiška družina Vevče",
+   "url": "https://www.ribiskekarte.si/rd-vevce"
+  },
+  "description": "Predalpski potok Dobrunjščica je manjši ribolovni revir RD Vevče, v katerem lahko ujamemo potočno postrv.",
+  "waterType": "river",
+  "water": "Dobrunjščica",
+  "species": [
+   "potocna-postrv"
+  ],
+  "speciesRaw": [
+   "potočna postrv"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/1316"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vevce/dobrunjscica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.61077,
+     46.04538
+    ],
+    [
+     14.61066,
+     46.04504
+    ],
+    [
+     14.61035,
+     46.04476
+    ],
+    [
+     14.61077,
+     46.0441
+    ],
+    [
+     14.61024,
+     46.04369
+    ],
+    [
+     14.60996,
+     46.04313
+    ],
+    [
+     14.60938,
+     46.04251
+    ],
+    [
+     14.60945,
+     46.04201
+    ],
+    [
+     14.60908,
+     46.04195
+    ],
+    [
+     14.60833,
+     46.04147
+    ],
+    [
+     14.6086,
+     46.0413
+    ],
+    [
+     14.60962,
+     46.0411
+    ],
+    [
+     14.60968,
+     46.04086
+    ],
+    [
+     14.60949,
+     46.04057
+    ],
+    [
+     14.60987,
+     46.04013
+    ],
+    [
+     14.60945,
+     46.04002
+    ],
+    [
+     14.60887,
+     46.04014
+    ],
+    [
+     14.60849,
+     46.03993
+    ],
+    [
+     14.60804,
+     46.04003
+    ],
+    [
+     14.60748,
+     46.03983
+    ],
+    [
+     14.60729,
+     46.03966
+    ],
+    [
+     14.60743,
+     46.03942
+    ],
+    [
+     14.60728,
+     46.03875
+    ],
+    [
+     14.60659,
+     46.03868
+    ],
+    [
+     14.60564,
+     46.03763
+    ],
+    [
+     14.60506,
+     46.03756
+    ],
+    [
+     14.60474,
+     46.03738
+    ],
+    [
+     14.60469,
+     46.03785
+    ],
+    [
+     14.6044,
+     46.03801
+    ],
+    [
+     14.60408,
+     46.03788
+    ],
+    [
+     14.60393,
+     46.03758
+    ],
+    [
+     14.60366,
+     46.03754
+    ],
+    [
+     14.60355,
+     46.03729
+    ],
+    [
+     14.60387,
+     46.03651
+    ],
+    [
+     14.60295,
+     46.03586
+    ],
+    [
+     14.60301,
+     46.03559
+    ],
+    [
+     14.60285,
+     46.03539
+    ],
+    [
+     14.60295,
+     46.03526
+    ],
+    [
+     14.60278,
+     46.03504
+    ],
+    [
+     14.60287,
+     46.03482
+    ],
+    [
+     14.60333,
+     46.03467
+    ],
+    [
+     14.60357,
+     46.03426
+    ],
+    [
+     14.60332,
+     46.03401
+    ],
+    [
+     14.60317,
+     46.0335
+    ],
+    [
+     14.60265,
+     46.03325
+    ],
+    [
+     14.60251,
+     46.03284
+    ],
+    [
+     14.60257,
+     46.03269
+    ],
+    [
+     14.60327,
+     46.03236
+    ],
+    [
+     14.60366,
+     46.03197
+    ],
+    [
+     14.60351,
+     46.03175
+    ],
+    [
+     14.60383,
+     46.03056
+    ]
+   ]
+  },
+  "center": [
+   46.0381,
+   14.60606
+  ],
+  "lengthKm": 2.4,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.03207,
+    "lon": 14.60409,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.04324,
+    "lon": 14.60932,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04025,
+    "lon": 14.59907,
+    "name": null,
+    "distKm": 0.47
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:32.097Z"
+ },
+ {
+  "id": "rd-vevce/revir-45-ljubljanica",
+  "clubSlug": "rd-vevce",
+  "slug": "revir-45-ljubljanica",
+  "code": "Ljubljanica 8 + Gruberjev prekop",
+  "name": "Ljubljanica 8 + Gruberjev prekop",
+  "subtitle": "od Plečnikovih zapornic na Ambroževem trgu do Papirnice Vevče; od zapornic na Roški cesti do sotočja z Ljubljanico v Štepanjskemu naselju",
+  "en": {
+   "name": "Ljubljanica 8 + Gruberjev prekop",
+   "subtitle": "from the Plečnik dam on Ambrožev trg to Papirnica Vevče; from the dam near Roška cesta to the confluence with the Ljubljanica in Štepanjsko naselje",
+   "description": "The district spreads downstream from the Plečnik's barriers in Ambrož square (so called Cukrarna) to the dam at the paper factory Papirnica Vevče in Vevče. It also covers the Gruber canal from the dam near Roška cesta to the confluence with the Ljubljanica in Štepanjsko naselje. It is dynamic district with rapids, channels and deep pools and even some areas in the city that are engulfed in concrete."
+  },
+  "club": {
+   "name": "Ribiška družina Vevče",
+   "url": "https://www.ribiskekarte.si/rd-vevce"
+  },
+  "description": "Revir poteka dolvodno od Plečnikovih zapornic na Ambroževem trgu (Cukrarna) do jezu pri Papirnici Vevče na Vevčah. Obsega tudi Gruberjev prekop od zapornic na Roški cesti do sotočja z Ljubljanico v Štepanjskemu naselju. Razgiban revir z brzicami, prelivi in globokimi tolmuni ter tudi \"mestno zabetonirano\" reko.",
+  "waterType": "river",
+  "water": "Ljubljanica",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "smuc",
+   "som",
+   "sulec",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "smuč",
+   "som",
+   "sulec",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/168"
+   },
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/805"
+   },
+   {
+    "name": "Salmonidi + roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/169"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vevce/revir-45-ljubljanica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.055444,
+   "lon": 14.544447
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.62733,
+     46.06573
+    ],
+    [
+     14.626,
+     46.06597
+    ],
+    [
+     14.62524,
+     46.06599
+    ],
+    [
+     14.62457,
+     46.06585
+    ],
+    [
+     14.6236,
+     46.06554
+    ],
+    [
+     14.62298,
+     46.06516
+    ],
+    [
+     14.62235,
+     46.06464
+    ],
+    [
+     14.62187,
+     46.06404
+    ],
+    [
+     14.62156,
+     46.06296
+    ],
+    [
+     14.62174,
+     46.06177
+    ],
+    [
+     14.6216,
+     46.06034
+    ],
+    [
+     14.62197,
+     46.05954
+    ],
+    [
+     14.62222,
+     46.05799
+    ],
+    [
+     14.62151,
+     46.05755
+    ],
+    [
+     14.62065,
+     46.05732
+    ],
+    [
+     14.62001,
+     46.05734
+    ],
+    [
+     14.61931,
+     46.05706
+    ],
+    [
+     14.61752,
+     46.05501
+    ],
+    [
+     14.61751,
+     46.0547
+    ],
+    [
+     14.61766,
+     46.0545
+    ],
+    [
+     14.619,
+     46.05383
+    ],
+    [
+     14.61988,
+     46.05311
+    ],
+    [
+     14.61988,
+     46.05285
+    ],
+    [
+     14.61957,
+     46.05237
+    ],
+    [
+     14.61443,
+     46.05144
+    ],
+    [
+     14.61088,
+     46.05029
+    ],
+    [
+     14.60927,
+     46.05018
+    ],
+    [
+     14.60894,
+     46.04955
+    ],
+    [
+     14.60914,
+     46.04916
+    ],
+    [
+     14.61076,
+     46.04843
+    ],
+    [
+     14.61115,
+     46.04791
+    ],
+    [
+     14.61136,
+     46.04669
+    ],
+    [
+     14.61117,
+     46.04568
+    ],
+    [
+     14.61077,
+     46.04538
+    ],
+    [
+     14.60861,
+     46.04568
+    ],
+    [
+     14.60733,
+     46.0454
+    ],
+    [
+     14.60661,
+     46.04485
+    ],
+    [
+     14.60588,
+     46.04373
+    ],
+    [
+     14.60549,
+     46.04337
+    ],
+    [
+     14.60465,
+     46.04285
+    ],
+    [
+     14.6027,
+     46.04212
+    ],
+    [
+     14.60215,
+     46.04204
+    ],
+    [
+     14.60012,
+     46.04254
+    ],
+    [
+     14.59866,
+     46.04349
+    ],
+    [
+     14.59623,
+     46.04664
+    ],
+    [
+     14.59543,
+     46.0475
+    ],
+    [
+     14.5945,
+     46.04835
+    ],
+    [
+     14.59321,
+     46.04907
+    ],
+    [
+     14.59261,
+     46.04902
+    ],
+    [
+     14.59201,
+     46.0481
+    ],
+    [
+     14.591,
+     46.04756
+    ],
+    [
+     14.59056,
+     46.04643
+    ],
+    [
+     14.58756,
+     46.04489
+    ],
+    [
+     14.58637,
+     46.04464
+    ],
+    [
+     14.58584,
+     46.04469
+    ],
+    [
+     14.58537,
+     46.0449
+    ],
+    [
+     14.58468,
+     46.04582
+    ],
+    [
+     14.58409,
+     46.0472
+    ],
+    [
+     14.58352,
+     46.04811
+    ],
+    [
+     14.58244,
+     46.04871
+    ],
+    [
+     14.58168,
+     46.0489
+    ],
+    [
+     14.58023,
+     46.04897
+    ],
+    [
+     14.57603,
+     46.04812
+    ],
+    [
+     14.5729,
+     46.0481
+    ],
+    [
+     14.56924,
+     46.04843
+    ],
+    [
+     14.56581,
+     46.04969
+    ],
+    [
+     14.56551,
+     46.04999
+    ],
+    [
+     14.56515,
+     46.05013
+    ],
+    [
+     14.56431,
+     46.0501
+    ],
+    [
+     14.56383,
+     46.04989
+    ],
+    [
+     14.5629,
+     46.0499
+    ],
+    [
+     14.56279,
+     46.05001
+    ],
+    [
+     14.56224,
+     46.05004
+    ],
+    [
+     14.56108,
+     46.05058
+    ],
+    [
+     14.55862,
+     46.05117
+    ],
+    [
+     14.55671,
+     46.05118
+    ],
+    [
+     14.55523,
+     46.05093
+    ],
+    [
+     14.55348,
+     46.05032
+    ],
+    [
+     14.55226,
+     46.05022
+    ],
+    [
+     14.551,
+     46.05033
+    ],
+    [
+     14.55,
+     46.05092
+    ],
+    [
+     14.54945,
+     46.05174
+    ],
+    [
+     14.54903,
+     46.05415
+    ],
+    [
+     14.54888,
+     46.05447
+    ],
+    [
+     14.54823,
+     46.05499
+    ],
+    [
+     14.54722,
+     46.05533
+    ],
+    [
+     14.54594,
+     46.0554
+    ],
+    [
+     14.54194,
+     46.05479
+    ],
+    [
+     14.53735,
+     46.05579
+    ],
+    [
+     14.53653,
+     46.0558
+    ],
+    [
+     14.52563,
+     46.05304
+    ],
+    [
+     14.52491,
+     46.05258
+    ],
+    [
+     14.52406,
+     46.05145
+    ],
+    [
+     14.52318,
+     46.05099
+    ],
+    [
+     14.52093,
+     46.05052
+    ],
+    [
+     14.51819,
+     46.05028
+    ],
+    [
+     14.51127,
+     46.03889
+    ],
+    [
+     14.511,
+     46.03822
+    ],
+    [
+     14.50831,
+     46.03507
+    ],
+    [
+     14.50812,
+     46.03461
+    ],
+    [
+     14.50803,
+     46.0341
+    ],
+    [
+     14.50809,
+     46.03147
+    ],
+    [
+     14.50737,
+     46.02695
+    ],
+    [
+     14.5075,
+     46.02611
+    ],
+    [
+     14.50825,
+     46.02476
+    ],
+    [
+     14.50832,
+     46.02434
+    ],
+    [
+     14.50805,
+     46.02345
+    ],
+    [
+     14.50733,
+     46.02253
+    ],
+    [
+     14.50723,
+     46.02221
+    ],
+    [
+     14.50734,
+     46.02056
+    ],
+    [
+     14.50764,
+     46.02017
+    ],
+    [
+     14.50818,
+     46.01979
+    ],
+    [
+     14.50838,
+     46.01941
+    ],
+    [
+     14.50814,
+     46.01839
+    ],
+    [
+     14.50796,
+     46.01809
+    ],
+    [
+     14.50703,
+     46.01713
+    ],
+    [
+     14.50609,
+     46.01668
+    ],
+    [
+     14.50521,
+     46.01592
+    ],
+    [
+     14.50438,
+     46.01554
+    ],
+    [
+     14.50289,
+     46.01512
+    ],
+    [
+     14.50141,
+     46.01391
+    ],
+    [
+     14.49924,
+     46.01327
+    ],
+    [
+     14.49701,
+     46.01202
+    ],
+    [
+     14.49589,
+     46.01171
+    ],
+    [
+     14.49406,
+     46.01081
+    ]
+   ]
+  },
+  "center": [
+   46.05522,
+   14.54451
+  ],
+  "lengthKm": 17.7,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.04948,
+    "lon": 14.51781,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.04153,
+    "lon": 14.51301,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.05305,
+    "lon": 14.52657,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.05518,
+    "lon": 14.54853,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.03609,
+    "lon": 14.50886,
+    "name": "RD Barje",
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.06042,
+    "lon": 14.62221,
+    "name": "Dom Vevških Ribičev",
+    "distKm": 0.05
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:32:53.796Z"
+ },
+ {
+  "id": "rd-vevce/reka-ljubljanica-papirnica-vevce-sava",
+  "clubSlug": "rd-vevce",
+  "slug": "reka-ljubljanica-papirnica-vevce-sava",
+  "code": "Ljubljanica 9",
+  "name": "Reka Ljubljanica",
+  "subtitle": "od jezu papirnice Vevče do izliva v Savo, mrtvica Krnica",
+  "en": {
+   "name": "The river Ljubljanica",
+   "subtitle": " from the dam at the paper factory Papirnica Vevče to its outflow into the Sava, backwater Krnica",
+   "description": "This is the lower district where the Ljubljanica leaves the city. The river's channel is wider here with deeper pools and backwaters, followed by shallower canals and pebbled ground. All the fish species living in the Ljubljanica are present here."
+  },
+  "club": {
+   "name": "Ribiška družina Vevče",
+   "url": "https://www.ribiskekarte.si/rd-vevce"
+  },
+  "description": "Spodnji revir kjer Ljubljanica zapusti mesto. Širša struga z globljimi tolmuni ter mrtvicami, ki se izmenjujejo z plitvejšimi prelivi in prodišči. Tu živijo vse ribje vrste Ljubljanice.",
+  "waterType": "river",
+  "water": "Ljubljanica",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "smuc",
+   "som",
+   "sulec",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "lipan",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "smuč",
+   "som",
+   "sulec",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/164"
+   },
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/803"
+   },
+   {
+    "name": "Salmonidi + roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/165"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vevce/reka-ljubljanica-papirnica-vevce-sava",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.055444,
+   "lon": 14.544447
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Vevče (jez)",
+   "do: sotočje Savo"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.59145,
+     46.04789
+    ],
+    [
+     14.59201,
+     46.0481
+    ],
+    [
+     14.59261,
+     46.04902
+    ],
+    [
+     14.59284,
+     46.04911
+    ],
+    [
+     14.59349,
+     46.04896
+    ],
+    [
+     14.5945,
+     46.04835
+    ],
+    [
+     14.59543,
+     46.0475
+    ],
+    [
+     14.59623,
+     46.04664
+    ],
+    [
+     14.59866,
+     46.04349
+    ],
+    [
+     14.60012,
+     46.04254
+    ],
+    [
+     14.60178,
+     46.04208
+    ],
+    [
+     14.6027,
+     46.04212
+    ],
+    [
+     14.60465,
+     46.04285
+    ],
+    [
+     14.60588,
+     46.04373
+    ],
+    [
+     14.60661,
+     46.04485
+    ],
+    [
+     14.60733,
+     46.0454
+    ],
+    [
+     14.60861,
+     46.04568
+    ],
+    [
+     14.61077,
+     46.04538
+    ],
+    [
+     14.61117,
+     46.04568
+    ],
+    [
+     14.61136,
+     46.04669
+    ],
+    [
+     14.61115,
+     46.04791
+    ],
+    [
+     14.61076,
+     46.04843
+    ],
+    [
+     14.60914,
+     46.04916
+    ],
+    [
+     14.60894,
+     46.04955
+    ],
+    [
+     14.60927,
+     46.05018
+    ],
+    [
+     14.61088,
+     46.05029
+    ],
+    [
+     14.61443,
+     46.05144
+    ],
+    [
+     14.61957,
+     46.05237
+    ],
+    [
+     14.61988,
+     46.05285
+    ],
+    [
+     14.61988,
+     46.05311
+    ],
+    [
+     14.61951,
+     46.0535
+    ],
+    [
+     14.61766,
+     46.0545
+    ],
+    [
+     14.61751,
+     46.0547
+    ],
+    [
+     14.61752,
+     46.05501
+    ],
+    [
+     14.61931,
+     46.05706
+    ],
+    [
+     14.62001,
+     46.05734
+    ],
+    [
+     14.62065,
+     46.05732
+    ],
+    [
+     14.62151,
+     46.05755
+    ],
+    [
+     14.62222,
+     46.05799
+    ],
+    [
+     14.62197,
+     46.05954
+    ],
+    [
+     14.6216,
+     46.06034
+    ],
+    [
+     14.62174,
+     46.06177
+    ],
+    [
+     14.62156,
+     46.06296
+    ],
+    [
+     14.62187,
+     46.06404
+    ],
+    [
+     14.62235,
+     46.06464
+    ],
+    [
+     14.62298,
+     46.06516
+    ],
+    [
+     14.6236,
+     46.06554
+    ],
+    [
+     14.62524,
+     46.06599
+    ],
+    [
+     14.62733,
+     46.06573
+    ],
+    [
+     14.6284,
+     46.06591
+    ],
+    [
+     14.62951,
+     46.06663
+    ],
+    [
+     14.63118,
+     46.06835
+    ],
+    [
+     14.63358,
+     46.06946
+    ],
+    [
+     14.63376,
+     46.06967
+    ],
+    [
+     14.63397,
+     46.0706
+    ],
+    [
+     14.63497,
+     46.07206
+    ],
+    [
+     14.63585,
+     46.07312
+    ],
+    [
+     14.63704,
+     46.07368
+    ],
+    [
+     14.63903,
+     46.07428
+    ],
+    [
+     14.64179,
+     46.07556
+    ],
+    [
+     14.64348,
+     46.07566
+    ],
+    [
+     14.64606,
+     46.0755
+    ],
+    [
+     14.64721,
+     46.07557
+    ],
+    [
+     14.65205,
+     46.07678
+    ]
+   ]
+  },
+  "center": [
+   46.05576,
+   14.61818
+  ],
+  "lengthKm": 8.2,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.06164,
+    "lon": 14.62121,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.04922,
+    "lon": 14.59435,
+    "name": "Restavracija MAK",
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.0516,
+    "lon": 14.62076,
+    "name": null,
+    "distKm": 0.13
+   },
+   {
+    "lat": 46.04556,
+    "lon": 14.59414,
+    "name": null,
+    "distKm": 0.2
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.06042,
+    "lon": 14.62221,
+    "name": "Dom Vevških Ribičev",
+    "distKm": 0.05
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:32:56.172Z"
+ },
+ {
+  "id": "rd-vevce/ribnik-pod-debnim-vrhom",
+  "clubSlug": "rd-vevce",
+  "slug": "ribnik-pod-debnim-vrhom",
+  "code": "Ribnik pod Debnim Vrhom (30)",
+  "name": "Ribnik pod Debnim Vrhom",
+  "subtitle": "",
+  "en": {
+   "name": "The pond under the Debni Vrh hills",
+   "subtitle": "",
+   "description": "The pond under the Debni Vrh hills is situated in the close vicinity of Ljubljana and enables you to fish for carps and grass carps throughout the year."
+  },
+  "club": {
+   "name": "Ribiška družina Vevče",
+   "url": "https://www.ribiskekarte.si/rd-vevce"
+  },
+  "description": "Ribnik pod Debnim Vrhom se nahaja v neposredni bližini Ljubljane in vam omogoča ribolov krapa in amurja vse leto.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica (sivka)",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vevce/nakup/163"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vevce/ribnik-pod-debnim-vrhom",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:20.185Z"
+ }
+]

@@ -1,0 +1,6705 @@
+[
+ {
+  "id": "rd-bistrica-domzale/dolskamlinscica",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "dolskamlinscica",
+  "code": "Dolska mlinščica",
+  "name": "Dolska mlinščica",
+  "subtitle": "od zajetja pri Ihanu do izliva v Savo",
+  "en": {
+   "name": "The creek Dolska Mlinščica",
+   "subtitle": "from the reservoir in Ihan to the outflow into the Sava",
+   "description": "Dolska Mlinscica is a small river, which starts from the reservoir from the Kamniška Bistrica river in Ihan and flows into the Sava River in Dolsko. It is a small, mostly overgrown brook, which is interesting for more experienced fishermen who like to fish on a cheese or cherry. Exceptionally, it is possible to catch a trout on a small metal lure (No. 2 or 3)."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Dolska mlinščica je mešani revir, ki se začne od zajetja iz reke Kamniške Bistrice v Ihanu in se izliva v reko Savo v Dolskem. Gre za manjši, pretežno zaraščen potok, ki je zanimiv za ribolov pri bolj izkušenih ribičih, ki radi lovijo klena na sir ali češnjo. Izjemoma je mogoče ujeti tudi kakšno postrv na manjšo blestivko (št. 2 ali 3).",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "klen",
+   "krap",
+   "lipan",
+   "podust",
+   "potocna-postrv",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "lipan",
+   "podust",
+   "potočna postrv",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/901"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/1181"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/488"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/dolskamlinscica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "reka »Dolska mlinščica« ni v OSM",
+   "kraj Ihan"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.61484,
+    46.12239
+   ]
+  },
+  "center": [
+   46.12239,
+   14.61484
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.12091,
+    "lon": 14.61901,
+    "name": null,
+    "distKm": 0.36
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:34.524Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/drtijscica2",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "drtijscica2",
+  "code": "Drtijščica 2",
+  "name": "Drtijščica 2",
+  "subtitle": "od mlina pod Dolom do mostu v Soteski",
+  "en": {
+   "name": "The creek Drtijščica 2",
+   "subtitle": "from the mill under Dol to the bridge in Soteska",
+   "description": "Drtijščica 2 stream is a mixed district, starting from a mill below Dol to the bridge in Soteska (before Moravče). It is a small predominantly overgrown brook, which is interesting for more experienced fishermen who like to fish on a cheese or cherry. Exceptionally, it is possible to catch a trout on a small metal lure (No. 2 or 3)."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Drtijščica 2 je mešani revir, ki se začne od mlina pod Dolom do mostu v Soteski (pred Moravčami). Gre za manjši pretežno zaraščen potok, ki je zanimiv za ribolov pri bolj izkušenih ribičih, ki radi lovijo klena na sir ali češnjo. Izjemoma je mogoče ujeti tudi kakšno postrv na manjšo blestivko (št. 2 ali 3).",
+  "waterType": "river",
+  "water": "Drtijščica",
+  "species": [
+   "klen",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/937"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/486"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/drtijscica2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Dolenje",
+   "do: kraj Soteska"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.71174,
+     46.17069
+    ],
+    [
+     14.71146,
+     46.16292
+    ],
+    [
+     14.71067,
+     46.16174
+    ],
+    [
+     14.71089,
+     46.15859
+    ],
+    [
+     14.71508,
+     46.1574
+    ],
+    [
+     14.71755,
+     46.15563
+    ],
+    [
+     14.71658,
+     46.15473
+    ],
+    [
+     14.71718,
+     46.15436
+    ],
+    [
+     14.71724,
+     46.15382
+    ],
+    [
+     14.71828,
+     46.15379
+    ],
+    [
+     14.71903,
+     46.15413
+    ],
+    [
+     14.71929,
+     46.15393
+    ],
+    [
+     14.72014,
+     46.15394
+    ],
+    [
+     14.72069,
+     46.15473
+    ],
+    [
+     14.7207,
+     46.15523
+    ],
+    [
+     14.72088,
+     46.1553
+    ],
+    [
+     14.72122,
+     46.1549
+    ],
+    [
+     14.72142,
+     46.15485
+    ],
+    [
+     14.72165,
+     46.15542
+    ],
+    [
+     14.72224,
+     46.15599
+    ],
+    [
+     14.72264,
+     46.15607
+    ],
+    [
+     14.72278,
+     46.15648
+    ],
+    [
+     14.72353,
+     46.15659
+    ],
+    [
+     14.72462,
+     46.15653
+    ],
+    [
+     14.72589,
+     46.1572
+    ],
+    [
+     14.72635,
+     46.15776
+    ],
+    [
+     14.72628,
+     46.15809
+    ],
+    [
+     14.72664,
+     46.1583
+    ],
+    [
+     14.72922,
+     46.15865
+    ],
+    [
+     14.73052,
+     46.15804
+    ],
+    [
+     14.73101,
+     46.15824
+    ],
+    [
+     14.73101,
+     46.15847
+    ],
+    [
+     14.73139,
+     46.15846
+    ],
+    [
+     14.73139,
+     46.15824
+    ],
+    [
+     14.73152,
+     46.15817
+    ],
+    [
+     14.7318,
+     46.15829
+    ],
+    [
+     14.73211,
+     46.15812
+    ],
+    [
+     14.73329,
+     46.15825
+    ],
+    [
+     14.73356,
+     46.15769
+    ],
+    [
+     14.73368,
+     46.15667
+    ],
+    [
+     14.73424,
+     46.1563
+    ],
+    [
+     14.73425,
+     46.15584
+    ],
+    [
+     14.73474,
+     46.15533
+    ],
+    [
+     14.73479,
+     46.15491
+    ],
+    [
+     14.73498,
+     46.15463
+    ],
+    [
+     14.73481,
+     46.15394
+    ],
+    [
+     14.73515,
+     46.15365
+    ],
+    [
+     14.73598,
+     46.15329
+    ],
+    [
+     14.73886,
+     46.15304
+    ],
+    [
+     14.73972,
+     46.15336
+    ],
+    [
+     14.74183,
+     46.15368
+    ],
+    [
+     14.74296,
+     46.15368
+    ],
+    [
+     14.74313,
+     46.15358
+    ],
+    [
+     14.74311,
+     46.15346
+    ],
+    [
+     14.74353,
+     46.15358
+    ],
+    [
+     14.74367,
+     46.15342
+    ],
+    [
+     14.74407,
+     46.15336
+    ],
+    [
+     14.74461,
+     46.15347
+    ],
+    [
+     14.74524,
+     46.15306
+    ],
+    [
+     14.74808,
+     46.15179
+    ],
+    [
+     14.74942,
+     46.15145
+    ],
+    [
+     14.75007,
+     46.1508
+    ],
+    [
+     14.75016,
+     46.1504
+    ],
+    [
+     14.74975,
+     46.15014
+    ],
+    [
+     14.74926,
+     46.14959
+    ],
+    [
+     14.74907,
+     46.14926
+    ],
+    [
+     14.74908,
+     46.149
+    ],
+    [
+     14.74942,
+     46.14864
+    ],
+    [
+     14.75014,
+     46.14849
+    ],
+    [
+     14.74869,
+     46.14803
+    ],
+    [
+     14.74858,
+     46.14787
+    ],
+    [
+     14.74858,
+     46.14738
+    ],
+    [
+     14.7488,
+     46.14707
+    ],
+    [
+     14.7487,
+     46.14657
+    ],
+    [
+     14.74809,
+     46.14575
+    ]
+   ]
+  },
+  "center": [
+   46.1578,
+   14.72634
+  ],
+  "lengthKm": 6.6,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.16211,
+    "lon": 14.70805,
+    "name": null,
+    "distKm": 0.21
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:17.708Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/drtijscica3",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "drtijscica3",
+  "code": "Drtijščica 3",
+  "name": "Drtijščica 3",
+  "subtitle": "od mostu v soteski do izliva v Radomljo, brez GJ",
+  "en": {
+   "name": "The creek Drtijščica 3",
+   "subtitle": "from the bridge in Soteska to the outflow into the Radomlja",
+   "description": "Drtijščica 3 stream is a cyprinid district starting from the bridge in the Soteska and flowing into the Gradiško jezero (meander), then it is fishable from the drainage channel from the dam of the Gradiško lake to the estuary in the stream Radomlje (in Trnjava pri Lukovici). It is a small, predominantly overgrown creek, which is interesting for more experienced fishermen who love mainly chub and small fish."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Drtijščica 3 je ciprinidni revir, ki se začne od mostu v Soteski ter izliva v Gradiško jezero (meander), nato je loven od izpustnega kanala za jezom Gradiškega jezera pa do izliva v potok Radomlja (v Trnjavi pri Lukovici). Gre za manjši, pretežno z grmovjem zaraščen potok, ki je zanimiv za ribolov pri bolj izkušenih ribičih, ki radi lovijo predvsem klena in ribji drobiž.",
+  "waterType": "river",
+  "water": "Drtijščica",
+  "species": [
+   "klen",
+   "krap",
+   "mrena",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "mrena",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/441"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/984"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/drtijscica3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Radomljo"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.71185,
+    46.17063
+   ]
+  },
+  "center": [
+   46.17063,
+   14.71185
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:20.108Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/gradisko-jezero",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "gradisko-jezero",
+  "code": "Gradiško jezero",
+  "name": "Gradiško jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Gradiško jezero",
+   "subtitle": "",
+   "description": "Gradiško lake is a high water reservoir, which was created in 2004. Today, it is a pleasant district for carp fishing, fishing for white fish and predators. Access is from the direction of Domžale to Blagovica. Turn right into Lukovica and drive over the highway. When you cross the Radomlje stream, turn left and head to the top (village Gradišče). At the top turn right and then turn left."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Gradiško jezero je zadrževalnik visokih voda, ki je nastal leta 2004. Danes je prijeten revir za ribolov krapovcev, belic in roparic. Dostop je iz smeri Domžale proti Blagovici. V Lukovici zavijete desno in se peljete po nadvozu čez avtocesto. Ko prečkate potok Radomlja, zavijete levo in se peljete do vrha (kraj Gradišče). Na vrhu zavijete zopet desno in potem prvi odcep levo. Po ca.",
+  "waterType": "lake",
+  "water": "Gradiško jezero",
+  "species": [
+   "amur",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "pohra",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "pohra",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (ujemi in odnesi)",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/458"
+   },
+   {
+    "name": "Dan + noč",
+    "priceEur": 35,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/1293"
+   },
+   {
+    "name": "Nočni ribolov (ujemi in spusti)",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/459"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/510"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/836"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/gradisko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gradiško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.70828,
+      46.16163
+     ],
+     [
+      14.70872,
+      46.16161
+     ],
+     [
+      14.71006,
+      46.1605
+     ],
+     [
+      14.70986,
+      46.16015
+     ],
+     [
+      14.70931,
+      46.15987
+     ],
+     [
+      14.70905,
+      46.15933
+     ],
+     [
+      14.70958,
+      46.15875
+     ],
+     [
+      14.70964,
+      46.15833
+     ],
+     [
+      14.70944,
+      46.15784
+     ],
+     [
+      14.70957,
+      46.1571
+     ],
+     [
+      14.71112,
+      46.15716
+     ],
+     [
+      14.71463,
+      46.1567
+     ],
+     [
+      14.71471,
+      46.15652
+     ],
+     [
+      14.71618,
+      46.15569
+     ],
+     [
+      14.7157,
+      46.15531
+     ],
+     [
+      14.71588,
+      46.1547
+     ],
+     [
+      14.71688,
+      46.15423
+     ],
+     [
+      14.71711,
+      46.1544
+     ],
+     [
+      14.71719,
+      46.15382
+     ],
+     [
+      14.71738,
+      46.15369
+     ],
+     [
+      14.71831,
+      46.15373
+     ],
+     [
+      14.71826,
+      46.15384
+     ],
+     [
+      14.71733,
+      46.15381
+     ],
+     [
+      14.71722,
+      46.15445
+     ],
+     [
+      14.71673,
+      46.15474
+     ],
+     [
+      14.71725,
+      46.15452
+     ],
+     [
+      14.71756,
+      46.15398
+     ],
+     [
+      14.71794,
+      46.154
+     ],
+     [
+      14.71826,
+      46.15433
+     ],
+     [
+      14.71898,
+      46.15448
+     ],
+     [
+      14.71922,
+      46.15511
+     ],
+     [
+      14.71909,
+      46.15559
+     ],
+     [
+      14.71774,
+      46.15666
+     ],
+     [
+      14.71688,
+      46.15696
+     ],
+     [
+      14.71589,
+      46.1576
+     ],
+     [
+      14.7157,
+      46.15796
+     ],
+     [
+      14.71507,
+      46.15822
+     ],
+     [
+      14.71415,
+      46.15825
+     ],
+     [
+      14.71262,
+      46.15882
+     ],
+     [
+      14.7121,
+      46.15947
+     ],
+     [
+      14.71228,
+      46.15999
+     ],
+     [
+      14.71219,
+      46.16024
+     ],
+     [
+      14.71141,
+      46.16096
+     ],
+     [
+      14.7116,
+      46.16145
+     ],
+     [
+      14.71235,
+      46.16209
+     ],
+     [
+      14.71166,
+      46.16331
+     ],
+     [
+      14.71088,
+      46.16305
+     ],
+     [
+      14.70996,
+      46.16302
+     ],
+     [
+      14.70895,
+      46.16276
+     ],
+     [
+      14.70918,
+      46.16205
+     ],
+     [
+      14.70906,
+      46.16172
+     ],
+     [
+      14.70828,
+      46.16163
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.15747,
+   14.71425
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.16211,
+    "lon": 14.70805,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:44.133Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/homskamlinscica",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "homskamlinscica",
+  "code": "Homška Mlinščica",
+  "name": "Homška mlinščica",
+  "subtitle": "od zajetja v Homcu do izliva v Kamniško Bistrico",
+  "en": {
+   "name": "The creek Homska Mlinščica",
+   "subtitle": "from the reservoir in Homec to the outflow into the Kamniška Bistrica",
+   "description": "The Homska Mlinscica is a salmonid district starting from the Kamniška Bistrica in the Homec and to the mouth of Kamniška Bistrica. It is a small river that runs partially in a urbanized settlement partly in a sprawling natural environment. Large specimens of rainbow trout and grayling are hidden in some inhabited areas, which are mostly accessible to fishermen only via the riverbed."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Homška mlinščica je salmonidni revir, ki se začne od zajetja iz Kamniške Bistrice v Homcu in vse do izliva v Kamniško Bistrico. Je manjša struga, ki teče delno v urbaniziranem naselju delno v poraščenem naravnem okolju. Večji primerki šarenk in lipanov se za ribolov skrivajo v naseljenih predelih, ki so za ribiča večinoma dostopni le po strugi. Pretežno je možno vijačiti na manjšo blestivko (št. 2 ali št. 3).",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/442"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/homskamlinscica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "reka »Homška mlinščica« ni v OSM",
+   "kraj Homec"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.59459,
+    46.1785
+   ]
+  },
+  "center": [
+   46.1785,
+   14.59459
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.18102,
+    "lon": 14.60051,
+    "name": null,
+    "distKm": 0.54
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:51.348Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/jezeropristava",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "jezeropristava",
+  "code": "Jezero Pristava",
+  "name": "Jezero Pristava",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Pristava",
+   "subtitle": "",
+   "description": "Lake Pristava (C&R) is rich with larger carp and grass carp (10 kg and more). Access is through Mengeš. At the main intersection (at the fire station) in the direction of the road Trzin - Kamnik, turn towards the flower shop, post office, former Melodija Mengeš. Follow the road to the first branch where you turn right and follow the information signs for access to the producer of the accordion Zupan."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Jezero Pristava (ujemi in spusti) je bogato z večjimi krapi in amurji (10 kg in več). Dostop je skozi Mengeš. Na glavnem križišču (pri gasilskem domu) v smeri ceste Trzin - Kamnik, zavijete proti cvetličarni, pošti oz. bivši Melodiji Mengeš. Po cesti se peljete do prvega odcepa, kjer zavijete desno in sledite usmerjevalnim tablam za dostop do izdelovalca harmonik Zupan.",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Dan + noč",
+    "priceEur": 35,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/1291"
+   },
+   {
+    "name": "Nočni ribolov",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/505"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/503"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/457"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/jezeropristava",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.14504,
+   14.60551
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:27.354Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/kamniskabistrica2",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "kamniskabistrica2",
+  "code": "Kamniška Bistrica 2",
+  "name": "Kamniška Bistrica 2",
+  "subtitle": "od mostu pod izvirom do mostu v Stranjah",
+  "en": {
+   "name": "The river Kamniška Bistrica 2",
+   "subtitle": "from the bridge under the spring to the bridge in Stranje",
+   "description": "Kamniška Bistrica 2 is a salmonid river, which begins under a spring - a reserve in Kamniška Bistrica (from a stone bridge) and all the way to the bridge in Stranje (at the Uršič inn). It is a river that flows through the canyons and gradually goes towards Kamnik. Bistrica is mainly inhabited by a native genetically clean brown trout and grayling."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Kamniška Bistrica 2 je salmonidni revir, ki se začne pod izvirom - rezervatom v Kamniški Bistrici (od kamnitega mostu) in vse do mostu v Zgornjih Stranjah (pri gostilni Uršič). Gre za matično reko, ki se v modrini pretaka skozi kanjone in postopoma razliva proti Kamniku. Bistrico naseljuje predvsem avtohtona gensko čista potočna postrv in lipan.",
+  "waterType": "river",
+  "water": "Kamniška Bistrica",
+  "species": [
+   "lipan",
+   "potocna-postrv"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Salmonidi - ujemi in spusti",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/421"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/kamniskabistrica2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izvir"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.59001,
+    46.32727
+   ]
+  },
+  "center": [
+   46.32727,
+   14.59001
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.32721,
+    "lon": 14.58931,
+    "name": null,
+    "distKm": 0.05
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:36.963Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/kamniskabistrica3",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "kamniskabistrica3",
+  "code": "Kamniška Bistrica 3",
+  "name": "Kamniška Bistrica 3",
+  "subtitle": "od mostu v Zg. Stranjah do jezu pri Homcu in Titanova mlinščica",
+  "en": {
+   "name": "The river Kamniška Bistrica 3",
+   "subtitle": "from the bridge in Stranje to the dam near Homec",
+   "description": "Kamniška Bistrica 3 is a salmonid river, starting from the bridge in the Upper Stranje to the two-story dam in Homec (the border is on the first chamber). The water has a constant flow. Each water cascade is enriched with rainbow trout and brown trout. Grayling can be found in slowly flowing current."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Kamniška Bistrica 3 je salmonidni revir, ki se začne od mostu v Zgornjih Stranjah pa vse do dvoprekatnega jezu v Homcu (meja je na prvem prekatu). Vodotok je ves čas v konstantnem vodostaju. Vsak vodni prag je obogaten s šarenkami in potočnimi postrvmi. Lipana je mogoče najti v počasi tekočih prelivih prodnatega dna.",
+  "waterType": "river",
+  "water": "Kamniška Bistrica",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/422"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/1505"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/kamniskabistrica3",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.224416,
+   "lon": 14.613335
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Zgornje Stranje",
+   "do: kraj Homec (jez)"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.60493,
+     46.25652
+    ],
+    [
+     14.60519,
+     46.25563
+    ],
+    [
+     14.60493,
+     46.25504
+    ],
+    [
+     14.60383,
+     46.25381
+    ],
+    [
+     14.60337,
+     46.25307
+    ],
+    [
+     14.60326,
+     46.25156
+    ],
+    [
+     14.603,
+     46.25058
+    ],
+    [
+     14.60278,
+     46.24872
+    ],
+    [
+     14.60242,
+     46.24778
+    ],
+    [
+     14.60232,
+     46.24627
+    ],
+    [
+     14.60323,
+     46.24454
+    ],
+    [
+     14.60499,
+     46.24341
+    ],
+    [
+     14.60525,
+     46.24286
+    ],
+    [
+     14.60494,
+     46.24165
+    ],
+    [
+     14.605,
+     46.2407
+    ],
+    [
+     14.60588,
+     46.23857
+    ],
+    [
+     14.60678,
+     46.23764
+    ],
+    [
+     14.6097,
+     46.23519
+    ],
+    [
+     14.60986,
+     46.23473
+    ],
+    [
+     14.60994,
+     46.23364
+    ],
+    [
+     14.61028,
+     46.23282
+    ],
+    [
+     14.61096,
+     46.23156
+    ],
+    [
+     14.61196,
+     46.23034
+    ],
+    [
+     14.6124,
+     46.22933
+    ],
+    [
+     14.61361,
+     46.22812
+    ],
+    [
+     14.61422,
+     46.22674
+    ],
+    [
+     14.61419,
+     46.22597
+    ],
+    [
+     14.61429,
+     46.22573
+    ],
+    [
+     14.61417,
+     46.22516
+    ],
+    [
+     14.61336,
+     46.22402
+    ],
+    [
+     14.61087,
+     46.22194
+    ],
+    [
+     14.61006,
+     46.22106
+    ],
+    [
+     14.60978,
+     46.22041
+    ],
+    [
+     14.60991,
+     46.21908
+    ],
+    [
+     14.60982,
+     46.21875
+    ],
+    [
+     14.60949,
+     46.21827
+    ],
+    [
+     14.60778,
+     46.21672
+    ],
+    [
+     14.60767,
+     46.21614
+    ],
+    [
+     14.6081,
+     46.21202
+    ],
+    [
+     14.60785,
+     46.21121
+    ],
+    [
+     14.60734,
+     46.21064
+    ],
+    [
+     14.60692,
+     46.21039
+    ],
+    [
+     14.60619,
+     46.21011
+    ],
+    [
+     14.60434,
+     46.20978
+    ],
+    [
+     14.60364,
+     46.20939
+    ],
+    [
+     14.60338,
+     46.20871
+    ],
+    [
+     14.60384,
+     46.20672
+    ],
+    [
+     14.60365,
+     46.20623
+    ],
+    [
+     14.60264,
+     46.20556
+    ],
+    [
+     14.60119,
+     46.20521
+    ],
+    [
+     14.6005,
+     46.20492
+    ],
+    [
+     14.60013,
+     46.20452
+    ],
+    [
+     14.59981,
+     46.20347
+    ],
+    [
+     14.59872,
+     46.20285
+    ],
+    [
+     14.59816,
+     46.20218
+    ],
+    [
+     14.59801,
+     46.20182
+    ],
+    [
+     14.59806,
+     46.20002
+    ],
+    [
+     14.59846,
+     46.1993
+    ],
+    [
+     14.59954,
+     46.198
+    ],
+    [
+     14.59988,
+     46.19688
+    ],
+    [
+     14.59949,
+     46.19642
+    ],
+    [
+     14.5974,
+     46.19568
+    ],
+    [
+     14.59711,
+     46.19528
+    ],
+    [
+     14.59731,
+     46.19473
+    ],
+    [
+     14.59815,
+     46.19415
+    ],
+    [
+     14.60016,
+     46.19363
+    ],
+    [
+     14.60046,
+     46.19312
+    ],
+    [
+     14.59963,
+     46.19032
+    ],
+    [
+     14.60031,
+     46.18903
+    ],
+    [
+     14.6007,
+     46.18788
+    ],
+    [
+     14.60065,
+     46.18714
+    ],
+    [
+     14.60003,
+     46.1856
+    ],
+    [
+     14.60005,
+     46.18519
+    ],
+    [
+     14.60131,
+     46.18299
+    ],
+    [
+     14.60155,
+     46.18277
+    ],
+    [
+     14.60205,
+     46.18255
+    ],
+    [
+     14.60389,
+     46.1823
+    ],
+    [
+     14.60436,
+     46.1821
+    ],
+    [
+     14.60454,
+     46.18162
+    ]
+   ]
+  },
+  "center": [
+   46.21701,
+   14.6081
+  ],
+  "lengthKm": 9.7,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.22394,
+    "lon": 14.613,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.22104,
+    "lon": 14.60966,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.21025,
+    "lon": 14.60736,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.23118,
+    "lon": 14.61186,
+    "name": null,
+    "distKm": 0.04
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:39.491Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/kamniskabistrica4",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "kamniskabistrica4",
+  "code": "Kamniška Bistrica 4",
+  "name": "Kamniška Bistrica 4",
+  "subtitle": "od jezu pri Homcu do izliva v Savo",
+  "en": {
+   "name": "The river Kamniška Bistrica 4",
+   "subtitle": "from the dam near Homec to the outflow into the Sava",
+   "description": "Kamniška Bistrica 4 is a mixed district. It starts in the first part of the dam at the Homec dam and flows to the Sava. The upper stretch has lower water levels, as the water is taken away by the Radomeljska and Homska Mlinscica streams."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Kamniška Bistrica 4 je mešani revir. Začne se od prvega prekata jezu v Homcu pa vse do izliva v Savo. Zgornji tok je praviloma v nižjem vodostaju, saj odvzameta del vode Radomeljska in Homška mlinščica. Zgornji tok revirja je predvsem lipanski pas (do sotočja z Račo), od tam naprej je zaradi pritoka Rače večja naseljenost šarenke, klena, mrene, podusti in sulca.",
+  "waterType": "river",
+  "water": "Kamniška Bistrica",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/424"
+   },
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/806"
+   },
+   {
+    "name": "Ribolov sulca - ujemi in spusti",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/869"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/478"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/kamniskabistrica4",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.224416,
+   "lon": 14.613335
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Homec (jez)",
+   "do: sotočje Savo"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.60454,
+     46.18162
+    ],
+    [
+     14.60533,
+     46.18102
+    ],
+    [
+     14.60587,
+     46.18038
+    ],
+    [
+     14.60593,
+     46.18014
+    ],
+    [
+     14.60566,
+     46.17942
+    ],
+    [
+     14.60487,
+     46.17868
+    ],
+    [
+     14.60417,
+     46.17823
+    ],
+    [
+     14.60405,
+     46.17738
+    ],
+    [
+     14.60413,
+     46.17691
+    ],
+    [
+     14.6046,
+     46.17626
+    ],
+    [
+     14.6057,
+     46.17552
+    ],
+    [
+     14.60717,
+     46.17411
+    ],
+    [
+     14.60741,
+     46.17316
+    ],
+    [
+     14.60783,
+     46.17258
+    ],
+    [
+     14.60802,
+     46.17162
+    ],
+    [
+     14.6079,
+     46.1713
+    ],
+    [
+     14.60695,
+     46.17024
+    ],
+    [
+     14.60537,
+     46.16961
+    ],
+    [
+     14.60478,
+     46.16915
+    ],
+    [
+     14.60428,
+     46.16827
+    ],
+    [
+     14.60432,
+     46.16695
+    ],
+    [
+     14.60411,
+     46.16612
+    ],
+    [
+     14.60382,
+     46.16572
+    ],
+    [
+     14.60237,
+     46.16483
+    ],
+    [
+     14.60168,
+     46.1642
+    ],
+    [
+     14.60159,
+     46.16239
+    ],
+    [
+     14.60103,
+     46.16177
+    ],
+    [
+     14.59972,
+     46.15671
+    ],
+    [
+     14.59984,
+     46.15571
+    ],
+    [
+     14.60158,
+     46.15297
+    ],
+    [
+     14.60178,
+     46.15248
+    ],
+    [
+     14.60224,
+     46.1498
+    ],
+    [
+     14.60252,
+     46.14918
+    ],
+    [
+     14.60447,
+     46.14728
+    ],
+    [
+     14.60471,
+     46.14676
+    ],
+    [
+     14.60496,
+     46.14564
+    ],
+    [
+     14.60476,
+     46.14172
+    ],
+    [
+     14.60431,
+     46.14056
+    ],
+    [
+     14.60361,
+     46.13941
+    ],
+    [
+     14.60354,
+     46.13812
+    ],
+    [
+     14.60295,
+     46.13626
+    ],
+    [
+     14.60289,
+     46.1354
+    ],
+    [
+     14.60299,
+     46.13515
+    ],
+    [
+     14.60478,
+     46.13348
+    ],
+    [
+     14.60517,
+     46.13173
+    ],
+    [
+     14.60591,
+     46.13053
+    ],
+    [
+     14.60731,
+     46.12897
+    ],
+    [
+     14.60753,
+     46.12852
+    ],
+    [
+     14.60755,
+     46.1278
+    ],
+    [
+     14.6074,
+     46.12744
+    ],
+    [
+     14.60558,
+     46.12527
+    ],
+    [
+     14.6054,
+     46.12462
+    ],
+    [
+     14.60547,
+     46.12416
+    ],
+    [
+     14.60563,
+     46.12373
+    ],
+    [
+     14.60665,
+     46.12284
+    ],
+    [
+     14.60989,
+     46.12194
+    ],
+    [
+     14.61096,
+     46.12117
+    ],
+    [
+     14.61149,
+     46.12051
+    ],
+    [
+     14.61161,
+     46.11978
+    ],
+    [
+     14.61148,
+     46.11933
+    ],
+    [
+     14.611,
+     46.11867
+    ],
+    [
+     14.6108,
+     46.11774
+    ],
+    [
+     14.61104,
+     46.11684
+    ],
+    [
+     14.61171,
+     46.11585
+    ],
+    [
+     14.61227,
+     46.1144
+    ],
+    [
+     14.61216,
+     46.10744
+    ],
+    [
+     14.61226,
+     46.10666
+    ],
+    [
+     14.61254,
+     46.10608
+    ],
+    [
+     14.6129,
+     46.10571
+    ],
+    [
+     14.61379,
+     46.10516
+    ],
+    [
+     14.61656,
+     46.10371
+    ],
+    [
+     14.6188,
+     46.10281
+    ],
+    [
+     14.61987,
+     46.10217
+    ],
+    [
+     14.62291,
+     46.09845
+    ],
+    [
+     14.62335,
+     46.09694
+    ],
+    [
+     14.62328,
+     46.09624
+    ],
+    [
+     14.6225,
+     46.09387
+    ],
+    [
+     14.6224,
+     46.09316
+    ],
+    [
+     14.62246,
+     46.09238
+    ],
+    [
+     14.62265,
+     46.09174
+    ],
+    [
+     14.62315,
+     46.09094
+    ],
+    [
+     14.62405,
+     46.08996
+    ],
+    [
+     14.62563,
+     46.08871
+    ],
+    [
+     14.62627,
+     46.08772
+    ],
+    [
+     14.62647,
+     46.08659
+    ],
+    [
+     14.62637,
+     46.08568
+    ],
+    [
+     14.62586,
+     46.08367
+    ],
+    [
+     14.62586,
+     46.08303
+    ],
+    [
+     14.62606,
+     46.08221
+    ],
+    [
+     14.62647,
+     46.08137
+    ],
+    [
+     14.62815,
+     46.07853
+    ],
+    [
+     14.62877,
+     46.0778
+    ],
+    [
+     14.6294,
+     46.07735
+    ],
+    [
+     14.63169,
+     46.07638
+    ],
+    [
+     14.63375,
+     46.07617
+    ],
+    [
+     14.63986,
+     46.07599
+    ]
+   ]
+  },
+  "center": [
+   46.125,
+   14.60551
+  ],
+  "lengthKm": 13.9,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.17685,
+    "lon": 14.60378,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.15143,
+    "lon": 14.60144,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.1088,
+    "lon": 14.61165,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.12321,
+    "lon": 14.60522,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:41.809Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/nevljica26a",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "nevljica26a",
+  "code": "Nevljica 2",
+  "name": "Nevljica 2",
+  "subtitle": "od sotočja s Šumščico do izliva v Kamniško Bistrico",
+  "en": {
+   "name": "The stream Nevljica 2",
+   "subtitle": "from the confluence with the Šumščica to the outflow into the Kamniška Bistrica",
+   "description": "The Nevljica 2 stream is a salmonid river that starts from the confluence with the Šumščica (in Šmartno pri Tuhinju) and flows into Kamniška Bistrica. The watercourse offers a pleasant possibility for fly fishing with a shorter rod, larger fish specimens are hidden under rocky overhangs in the gorges. For fishing, the area is most interesting from Vrhpolje near Kamnik to the confluence with the Kamniška Bistrica."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Nevljica 2 je salmonidni revir, ki se prične od sotočja s Šumščico (v Šmartnem pri Tuhinju) in izliva v Kamniško Bistrico. Vodotok nudi prijeten vodostaj za muharjenje s krajšo palico, večji primerki rib pa se skrivajo pod skalnimi previsi v globelih. Za ribolov je zanimiv predvsem predel od Vrhpolj pri Kamniku do izliva v Kamniško Bistrico.",
+  "waterType": "river",
+  "water": "Nevljica",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/433"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nevljica26a",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.233199,
+   "lon": 14.629643
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Kamniško Bistrico"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.61429,
+    46.22573
+   ]
+  },
+  "center": [
+   46.22573,
+   14.61429
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.22541,
+    "lon": 14.61386,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.22931,
+    "lon": 14.61712,
+    "name": null,
+    "distKm": 0.45
+   },
+   {
+    "lat": 46.22162,
+    "lon": 14.61436,
+    "name": null,
+    "distKm": 0.46
+   },
+   {
+    "lat": 46.22627,
+    "lon": 14.60838,
+    "name": "Žale",
+    "distKm": 0.46
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:44.202Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/psata2",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "psata2",
+  "code": "Pšata 2",
+  "name": "Pšata 2",
+  "subtitle": "od pod ribogojnico v Pšati do mlina v Sr. Zalogu in Reka 2",
+  "en": {
+   "name": "The creek Pšata 2",
+   "subtitle": "from the reservation at the spring to the mill in Srednji Zalog",
+   "description": "The Pšata 2 stream is a salmonid river starting in the village of Pšata, just below Krvavec (under the reserve - dam for the Vodomec fish farm), and flows all the way to the mill in Srednji Zalog. The watercourse is narrower and suitable for spinning, exceptionally for fly fishing, for those who are more skilled and, of course, with a shorter rod."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Pšata 2 je salmonidni revir, ki se začne v vasi Pšata, neposredno pod Krvavcem (pod rezervatom - jez za ribogojnico Vodomec), pa vse do mlina v Srednjem Zalogu. Vodotok je ožji in primeren za vijačenje, izjemoma za muharjenje, za tiste, ki so bolj spretni in seveda s krajšo palico. Gre za ožjo strugo, ki teče delno v urbaniziranem naselju delno v obraščenem naravnem okolju.",
+  "waterType": "river",
+  "water": "Pšata",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/425"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/psata2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Pšata"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.50911,
+    46.25932
+   ]
+  },
+  "center": [
+   46.25932,
+   14.50911
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:46.580Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/psata3",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "psata3",
+  "code": "Pšata 3",
+  "name": "Pšata 3",
+  "subtitle": "od mlina v Srednjem Zalogu do jezu v Mostah",
+  "en": {
+   "name": "The creek Pšata 3",
+   "subtitle": "from the mill in Srednji Zalog to the dam in Moste",
+   "description": "The Pšata 3 stream is a mixed district starting from a mill in the Srednji Zalog and flowing all the way to the dam at the Moste pri Komendi. The watercourse flows partially in an urbanized settlement partly in an overgrown natural environment. In particular, it is appropriate to fish it with bread, cherry, or cheese, since it is dominated by chub, barbel, nase."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Pšata 3 je mešani revir, ki se začne od mlina v Srednjem Zalogu ter vse do jezu v Mostah pri Komendi. Vodotok teče delno v urbaniziranem naselju delno v obraščenem naravnem okolju. Primerno je predvsem beličarjenje na kruh, češnjo ali sir, saj so prisotni pretežno kleni, mrene, podusti, in pa vijačenje, kjer se najde kakšna večja šarenka ali potočna postrv.",
+  "waterType": "river",
+  "water": "Pšata",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/426"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/479"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/psata3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "odsek okoli sedeža družine"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.54495,
+     46.20149
+    ],
+    [
+     14.54488,
+     46.20081
+    ],
+    [
+     14.54395,
+     46.19991
+    ],
+    [
+     14.54408,
+     46.19926
+    ],
+    [
+     14.54456,
+     46.1983
+    ],
+    [
+     14.54505,
+     46.19823
+    ],
+    [
+     14.54519,
+     46.19806
+    ],
+    [
+     14.54481,
+     46.1977
+    ],
+    [
+     14.54489,
+     46.19727
+    ],
+    [
+     14.54448,
+     46.197
+    ],
+    [
+     14.54484,
+     46.1967
+    ],
+    [
+     14.54464,
+     46.19648
+    ],
+    [
+     14.54522,
+     46.19608
+    ],
+    [
+     14.5446,
+     46.19577
+    ],
+    [
+     14.54506,
+     46.19518
+    ],
+    [
+     14.54705,
+     46.19485
+    ],
+    [
+     14.54763,
+     46.19451
+    ],
+    [
+     14.54778,
+     46.19425
+    ],
+    [
+     14.54743,
+     46.19307
+    ],
+    [
+     14.54752,
+     46.19267
+    ],
+    [
+     14.54736,
+     46.19209
+    ],
+    [
+     14.54752,
+     46.1916
+    ],
+    [
+     14.54747,
+     46.19132
+    ],
+    [
+     14.54768,
+     46.19099
+    ],
+    [
+     14.54728,
+     46.19046
+    ],
+    [
+     14.54746,
+     46.18948
+    ],
+    [
+     14.54777,
+     46.18898
+    ],
+    [
+     14.54774,
+     46.18843
+    ],
+    [
+     14.54745,
+     46.18802
+    ],
+    [
+     14.54519,
+     46.18653
+    ],
+    [
+     14.54425,
+     46.18541
+    ],
+    [
+     14.54391,
+     46.18375
+    ],
+    [
+     14.5441,
+     46.18226
+    ],
+    [
+     14.54434,
+     46.18173
+    ],
+    [
+     14.54381,
+     46.18146
+    ],
+    [
+     14.54364,
+     46.18119
+    ],
+    [
+     14.5448,
+     46.18073
+    ],
+    [
+     14.54636,
+     46.18068
+    ],
+    [
+     14.54693,
+     46.18023
+    ],
+    [
+     14.54791,
+     46.18078
+    ],
+    [
+     14.54825,
+     46.18081
+    ],
+    [
+     14.54843,
+     46.18065
+    ],
+    [
+     14.54869,
+     46.17985
+    ],
+    [
+     14.54886,
+     46.17968
+    ],
+    [
+     14.54948,
+     46.17977
+    ],
+    [
+     14.55208,
+     46.1794
+    ],
+    [
+     14.55238,
+     46.17911
+    ],
+    [
+     14.55291,
+     46.1789
+    ],
+    [
+     14.5528,
+     46.17835
+    ],
+    [
+     14.55334,
+     46.17744
+    ],
+    [
+     14.55423,
+     46.17692
+    ],
+    [
+     14.55512,
+     46.17672
+    ],
+    [
+     14.55598,
+     46.17614
+    ],
+    [
+     14.55649,
+     46.17595
+    ],
+    [
+     14.55956,
+     46.17534
+    ],
+    [
+     14.5607,
+     46.175
+    ],
+    [
+     14.56196,
+     46.17437
+    ],
+    [
+     14.56336,
+     46.17339
+    ],
+    [
+     14.56449,
+     46.17282
+    ],
+    [
+     14.56642,
+     46.17219
+    ],
+    [
+     14.56798,
+     46.17193
+    ],
+    [
+     14.57017,
+     46.16548
+    ],
+    [
+     14.57011,
+     46.16517
+    ],
+    [
+     14.5703,
+     46.16458
+    ],
+    [
+     14.57017,
+     46.16446
+    ],
+    [
+     14.56921,
+     46.16447
+    ],
+    [
+     14.5679,
+     46.16427
+    ],
+    [
+     14.56666,
+     46.16385
+    ],
+    [
+     14.56496,
+     46.16156
+    ],
+    [
+     14.56494,
+     46.16105
+    ],
+    [
+     14.56335,
+     46.15995
+    ],
+    [
+     14.56318,
+     46.15932
+    ],
+    [
+     14.56343,
+     46.15808
+    ],
+    [
+     14.56337,
+     46.15781
+    ],
+    [
+     14.5641,
+     46.15574
+    ],
+    [
+     14.5643,
+     46.15551
+    ],
+    [
+     14.56397,
+     46.15462
+    ],
+    [
+     14.56373,
+     46.15436
+    ],
+    [
+     14.56398,
+     46.15388
+    ],
+    [
+     14.56378,
+     46.15348
+    ],
+    [
+     14.5638,
+     46.1531
+    ],
+    [
+     14.56338,
+     46.15249
+    ],
+    [
+     14.56223,
+     46.15193
+    ],
+    [
+     14.56246,
+     46.15127
+    ],
+    [
+     14.56153,
+     46.1506
+    ],
+    [
+     14.56133,
+     46.15015
+    ],
+    [
+     14.56088,
+     46.14985
+    ],
+    [
+     14.56108,
+     46.14951
+    ],
+    [
+     14.56168,
+     46.14903
+    ],
+    [
+     14.56151,
+     46.14806
+    ],
+    [
+     14.56136,
+     46.14791
+    ],
+    [
+     14.56045,
+     46.14787
+    ],
+    [
+     14.56028,
+     46.14771
+    ],
+    [
+     14.5603,
+     46.14737
+    ],
+    [
+     14.56062,
+     46.14708
+    ],
+    [
+     14.56016,
+     46.14651
+    ],
+    [
+     14.56033,
+     46.14632
+    ],
+    [
+     14.56032,
+     46.14613
+    ],
+    [
+     14.56001,
+     46.14569
+    ],
+    [
+     14.55952,
+     46.14555
+    ],
+    [
+     14.55987,
+     46.1451
+    ],
+    [
+     14.56073,
+     46.14463
+    ],
+    [
+     14.56011,
+     46.14392
+    ],
+    [
+     14.56032,
+     46.14323
+    ],
+    [
+     14.55958,
+     46.14279
+    ],
+    [
+     14.55899,
+     46.14187
+    ],
+    [
+     14.55839,
+     46.1415
+    ],
+    [
+     14.55817,
+     46.14111
+    ],
+    [
+     14.55821,
+     46.14058
+    ],
+    [
+     14.55834,
+     46.14048
+    ],
+    [
+     14.55909,
+     46.14057
+    ],
+    [
+     14.55974,
+     46.14007
+    ],
+    [
+     14.56049,
+     46.13902
+    ],
+    [
+     14.56113,
+     46.13748
+    ],
+    [
+     14.56165,
+     46.13691
+    ],
+    [
+     14.56155,
+     46.13571
+    ],
+    [
+     14.5608,
+     46.13471
+    ],
+    [
+     14.56148,
+     46.13274
+    ],
+    [
+     14.56125,
+     46.13135
+    ],
+    [
+     14.56135,
+     46.13084
+    ],
+    [
+     14.56309,
+     46.1294
+    ],
+    [
+     14.56408,
+     46.12815
+    ],
+    [
+     14.56494,
+     46.1262
+    ],
+    [
+     14.56843,
+     46.12075
+    ],
+    [
+     14.56888,
+     46.12033
+    ],
+    [
+     14.57078,
+     46.11951
+    ],
+    [
+     14.57513,
+     46.11712
+    ],
+    [
+     14.57593,
+     46.1168
+    ],
+    [
+     14.58236,
+     46.11517
+    ],
+    [
+     14.58352,
+     46.11464
+    ],
+    [
+     14.58703,
+     46.11184
+    ],
+    [
+     14.58833,
+     46.11127
+    ],
+    [
+     14.59073,
+     46.10967
+    ],
+    [
+     14.59089,
+     46.10948
+    ],
+    [
+     14.59138,
+     46.10766
+    ],
+    [
+     14.59194,
+     46.10738
+    ],
+    [
+     14.59339,
+     46.10705
+    ],
+    [
+     14.59359,
+     46.10686
+    ],
+    [
+     14.59374,
+     46.10622
+    ],
+    [
+     14.59487,
+     46.10569
+    ],
+    [
+     14.59506,
+     46.10513
+    ],
+    [
+     14.59494,
+     46.10483
+    ],
+    [
+     14.59468,
+     46.10461
+    ],
+    [
+     14.59474,
+     46.104
+    ],
+    [
+     14.59484,
+     46.10374
+    ],
+    [
+     14.59522,
+     46.10344
+    ],
+    [
+     14.5947,
+     46.10317
+    ],
+    [
+     14.5947,
+     46.10302
+    ],
+    [
+     14.59595,
+     46.10267
+    ],
+    [
+     14.59655,
+     46.10291
+    ],
+    [
+     14.59676,
+     46.10278
+    ],
+    [
+     14.59703,
+     46.10232
+    ],
+    [
+     14.59757,
+     46.10219
+    ],
+    [
+     14.59777,
+     46.10235
+    ],
+    [
+     14.59759,
+     46.10257
+    ],
+    [
+     14.59763,
+     46.10298
+    ],
+    [
+     14.59838,
+     46.10356
+    ],
+    [
+     14.59891,
+     46.10359
+    ],
+    [
+     14.59966,
+     46.10319
+    ],
+    [
+     14.6,
+     46.10286
+    ],
+    [
+     14.60045,
+     46.10171
+    ],
+    [
+     14.60125,
+     46.10048
+    ],
+    [
+     14.60238,
+     46.09952
+    ],
+    [
+     14.60238,
+     46.09932
+    ],
+    [
+     14.602,
+     46.09892
+    ],
+    [
+     14.60205,
+     46.09867
+    ],
+    [
+     14.60273,
+     46.09832
+    ],
+    [
+     14.60369,
+     46.09859
+    ],
+    [
+     14.60376,
+     46.09838
+    ],
+    [
+     14.60361,
+     46.09806
+    ],
+    [
+     14.6039,
+     46.09767
+    ],
+    [
+     14.60479,
+     46.09768
+    ],
+    [
+     14.60535,
+     46.09784
+    ],
+    [
+     14.6055,
+     46.09802
+    ],
+    [
+     14.60543,
+     46.09847
+    ],
+    [
+     14.60519,
+     46.09884
+    ],
+    [
+     14.60447,
+     46.09869
+    ],
+    [
+     14.60444,
+     46.09891
+    ],
+    [
+     14.60463,
+     46.09901
+    ],
+    [
+     14.60529,
+     46.09916
+    ],
+    [
+     14.60635,
+     46.09894
+    ],
+    [
+     14.60707,
+     46.099
+    ],
+    [
+     14.60736,
+     46.09911
+    ],
+    [
+     14.60742,
+     46.09923
+    ],
+    [
+     14.60725,
+     46.0995
+    ],
+    [
+     14.60734,
+     46.09979
+    ],
+    [
+     14.60751,
+     46.09983
+    ],
+    [
+     14.608,
+     46.09963
+    ],
+    [
+     14.60848,
+     46.0999
+    ],
+    [
+     14.60904,
+     46.09999
+    ],
+    [
+     14.60947,
+     46.09994
+    ],
+    [
+     14.60986,
+     46.09969
+    ]
+   ]
+  },
+  "center": [
+   46.15739,
+   14.59986
+  ],
+  "lengthKm": 17.1,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.14843,
+    "lon": 14.56171,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.17693,
+    "lon": 14.55465,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.10735,
+    "lon": 14.59256,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.1017,
+    "lon": 14.60069,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:49.027Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/psata4",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "psata4",
+  "code": "Pšata 4",
+  "name": "Pšata 4",
+  "subtitle": "od jezu v Mostah do odvodnega kanala v Mengšu",
+  "en": {
+   "name": "The creek Pšata 4",
+   "subtitle": "from the dam in Moste to the drain canal in Mengeš",
+   "description": "The Pšata 4 stream is a cyprinid river starting from the dam in Most at Komenda and flowing all the way to the discharge canal in Mengeš. Predominantly there are chub, barbel, nase and small fish. The watercourse is regulated where it runs through the villages, partly it is located in the natural environment."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Pšata 4 je ciprinidni revir, ki se začne od jezu v Mostah pri Komendi in vse do odvodnega kanala - razbremenilnika v Mengšu. Pretežno so prisotni kleni, mrene, podusti in ribji drobiž. Vodotok je reguliran, kjer teče delno skozi vasi, delno v naravnem okolju.",
+  "waterType": "river",
+  "water": "Pšata",
+  "species": [
+   "klen",
+   "mrena",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "mrena",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/429"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/psata4",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "odsek okoli sedeža družine"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.54495,
+     46.20149
+    ],
+    [
+     14.54488,
+     46.20081
+    ],
+    [
+     14.54395,
+     46.19991
+    ],
+    [
+     14.54408,
+     46.19926
+    ],
+    [
+     14.54456,
+     46.1983
+    ],
+    [
+     14.54505,
+     46.19823
+    ],
+    [
+     14.54519,
+     46.19806
+    ],
+    [
+     14.54481,
+     46.1977
+    ],
+    [
+     14.54489,
+     46.19727
+    ],
+    [
+     14.54448,
+     46.197
+    ],
+    [
+     14.54484,
+     46.1967
+    ],
+    [
+     14.54464,
+     46.19648
+    ],
+    [
+     14.54522,
+     46.19608
+    ],
+    [
+     14.5446,
+     46.19577
+    ],
+    [
+     14.54506,
+     46.19518
+    ],
+    [
+     14.54705,
+     46.19485
+    ],
+    [
+     14.54763,
+     46.19451
+    ],
+    [
+     14.54778,
+     46.19425
+    ],
+    [
+     14.54743,
+     46.19307
+    ],
+    [
+     14.54752,
+     46.19267
+    ],
+    [
+     14.54736,
+     46.19209
+    ],
+    [
+     14.54752,
+     46.1916
+    ],
+    [
+     14.54747,
+     46.19132
+    ],
+    [
+     14.54768,
+     46.19099
+    ],
+    [
+     14.54728,
+     46.19046
+    ],
+    [
+     14.54746,
+     46.18948
+    ],
+    [
+     14.54777,
+     46.18898
+    ],
+    [
+     14.54774,
+     46.18843
+    ],
+    [
+     14.54745,
+     46.18802
+    ],
+    [
+     14.54519,
+     46.18653
+    ],
+    [
+     14.54425,
+     46.18541
+    ],
+    [
+     14.54391,
+     46.18375
+    ],
+    [
+     14.5441,
+     46.18226
+    ],
+    [
+     14.54434,
+     46.18173
+    ],
+    [
+     14.54381,
+     46.18146
+    ],
+    [
+     14.54364,
+     46.18119
+    ],
+    [
+     14.5448,
+     46.18073
+    ],
+    [
+     14.54636,
+     46.18068
+    ],
+    [
+     14.54693,
+     46.18023
+    ],
+    [
+     14.54791,
+     46.18078
+    ],
+    [
+     14.54825,
+     46.18081
+    ],
+    [
+     14.54843,
+     46.18065
+    ],
+    [
+     14.54869,
+     46.17985
+    ],
+    [
+     14.54886,
+     46.17968
+    ],
+    [
+     14.54948,
+     46.17977
+    ],
+    [
+     14.55208,
+     46.1794
+    ],
+    [
+     14.55238,
+     46.17911
+    ],
+    [
+     14.55291,
+     46.1789
+    ],
+    [
+     14.5528,
+     46.17835
+    ],
+    [
+     14.55334,
+     46.17744
+    ],
+    [
+     14.55423,
+     46.17692
+    ],
+    [
+     14.55512,
+     46.17672
+    ],
+    [
+     14.55598,
+     46.17614
+    ],
+    [
+     14.55649,
+     46.17595
+    ],
+    [
+     14.55956,
+     46.17534
+    ],
+    [
+     14.5607,
+     46.175
+    ],
+    [
+     14.56196,
+     46.17437
+    ],
+    [
+     14.56336,
+     46.17339
+    ],
+    [
+     14.56449,
+     46.17282
+    ],
+    [
+     14.56642,
+     46.17219
+    ],
+    [
+     14.56798,
+     46.17193
+    ],
+    [
+     14.57017,
+     46.16548
+    ],
+    [
+     14.57011,
+     46.16517
+    ],
+    [
+     14.5703,
+     46.16458
+    ],
+    [
+     14.57017,
+     46.16446
+    ],
+    [
+     14.56921,
+     46.16447
+    ],
+    [
+     14.5679,
+     46.16427
+    ],
+    [
+     14.56666,
+     46.16385
+    ],
+    [
+     14.56496,
+     46.16156
+    ],
+    [
+     14.56494,
+     46.16105
+    ],
+    [
+     14.56335,
+     46.15995
+    ],
+    [
+     14.56318,
+     46.15932
+    ],
+    [
+     14.56343,
+     46.15808
+    ],
+    [
+     14.56337,
+     46.15781
+    ],
+    [
+     14.5641,
+     46.15574
+    ],
+    [
+     14.5643,
+     46.15551
+    ],
+    [
+     14.56397,
+     46.15462
+    ],
+    [
+     14.56373,
+     46.15436
+    ],
+    [
+     14.56398,
+     46.15388
+    ],
+    [
+     14.56378,
+     46.15348
+    ],
+    [
+     14.5638,
+     46.1531
+    ],
+    [
+     14.56338,
+     46.15249
+    ],
+    [
+     14.56223,
+     46.15193
+    ],
+    [
+     14.56246,
+     46.15127
+    ],
+    [
+     14.56153,
+     46.1506
+    ],
+    [
+     14.56133,
+     46.15015
+    ],
+    [
+     14.56088,
+     46.14985
+    ],
+    [
+     14.56108,
+     46.14951
+    ],
+    [
+     14.56168,
+     46.14903
+    ],
+    [
+     14.56151,
+     46.14806
+    ],
+    [
+     14.56136,
+     46.14791
+    ],
+    [
+     14.56045,
+     46.14787
+    ],
+    [
+     14.56028,
+     46.14771
+    ],
+    [
+     14.5603,
+     46.14737
+    ],
+    [
+     14.56062,
+     46.14708
+    ],
+    [
+     14.56016,
+     46.14651
+    ],
+    [
+     14.56033,
+     46.14632
+    ],
+    [
+     14.56032,
+     46.14613
+    ],
+    [
+     14.56001,
+     46.14569
+    ],
+    [
+     14.55952,
+     46.14555
+    ],
+    [
+     14.55987,
+     46.1451
+    ],
+    [
+     14.56073,
+     46.14463
+    ],
+    [
+     14.56011,
+     46.14392
+    ],
+    [
+     14.56032,
+     46.14323
+    ],
+    [
+     14.55958,
+     46.14279
+    ],
+    [
+     14.55899,
+     46.14187
+    ],
+    [
+     14.55839,
+     46.1415
+    ],
+    [
+     14.55817,
+     46.14111
+    ],
+    [
+     14.55821,
+     46.14058
+    ],
+    [
+     14.55834,
+     46.14048
+    ],
+    [
+     14.55909,
+     46.14057
+    ],
+    [
+     14.55974,
+     46.14007
+    ],
+    [
+     14.56049,
+     46.13902
+    ],
+    [
+     14.56113,
+     46.13748
+    ],
+    [
+     14.56165,
+     46.13691
+    ],
+    [
+     14.56155,
+     46.13571
+    ],
+    [
+     14.5608,
+     46.13471
+    ],
+    [
+     14.56148,
+     46.13274
+    ],
+    [
+     14.56125,
+     46.13135
+    ],
+    [
+     14.56135,
+     46.13084
+    ],
+    [
+     14.56309,
+     46.1294
+    ],
+    [
+     14.56408,
+     46.12815
+    ],
+    [
+     14.56494,
+     46.1262
+    ],
+    [
+     14.56843,
+     46.12075
+    ],
+    [
+     14.56888,
+     46.12033
+    ],
+    [
+     14.57078,
+     46.11951
+    ],
+    [
+     14.57513,
+     46.11712
+    ],
+    [
+     14.57593,
+     46.1168
+    ],
+    [
+     14.58236,
+     46.11517
+    ],
+    [
+     14.58352,
+     46.11464
+    ],
+    [
+     14.58703,
+     46.11184
+    ],
+    [
+     14.58833,
+     46.11127
+    ],
+    [
+     14.59073,
+     46.10967
+    ],
+    [
+     14.59089,
+     46.10948
+    ],
+    [
+     14.59138,
+     46.10766
+    ],
+    [
+     14.59194,
+     46.10738
+    ],
+    [
+     14.59339,
+     46.10705
+    ],
+    [
+     14.59359,
+     46.10686
+    ],
+    [
+     14.59374,
+     46.10622
+    ],
+    [
+     14.59487,
+     46.10569
+    ],
+    [
+     14.59506,
+     46.10513
+    ],
+    [
+     14.59494,
+     46.10483
+    ],
+    [
+     14.59468,
+     46.10461
+    ],
+    [
+     14.59474,
+     46.104
+    ],
+    [
+     14.59484,
+     46.10374
+    ],
+    [
+     14.59522,
+     46.10344
+    ],
+    [
+     14.5947,
+     46.10317
+    ],
+    [
+     14.5947,
+     46.10302
+    ],
+    [
+     14.59595,
+     46.10267
+    ],
+    [
+     14.59655,
+     46.10291
+    ],
+    [
+     14.59676,
+     46.10278
+    ],
+    [
+     14.59703,
+     46.10232
+    ],
+    [
+     14.59757,
+     46.10219
+    ],
+    [
+     14.59777,
+     46.10235
+    ],
+    [
+     14.59759,
+     46.10257
+    ],
+    [
+     14.59763,
+     46.10298
+    ],
+    [
+     14.59838,
+     46.10356
+    ],
+    [
+     14.59891,
+     46.10359
+    ],
+    [
+     14.59966,
+     46.10319
+    ],
+    [
+     14.6,
+     46.10286
+    ],
+    [
+     14.60045,
+     46.10171
+    ],
+    [
+     14.60125,
+     46.10048
+    ],
+    [
+     14.60238,
+     46.09952
+    ],
+    [
+     14.60238,
+     46.09932
+    ],
+    [
+     14.602,
+     46.09892
+    ],
+    [
+     14.60205,
+     46.09867
+    ],
+    [
+     14.60273,
+     46.09832
+    ],
+    [
+     14.60369,
+     46.09859
+    ],
+    [
+     14.60376,
+     46.09838
+    ],
+    [
+     14.60361,
+     46.09806
+    ],
+    [
+     14.6039,
+     46.09767
+    ],
+    [
+     14.60479,
+     46.09768
+    ],
+    [
+     14.60535,
+     46.09784
+    ],
+    [
+     14.6055,
+     46.09802
+    ],
+    [
+     14.60543,
+     46.09847
+    ],
+    [
+     14.60519,
+     46.09884
+    ],
+    [
+     14.60447,
+     46.09869
+    ],
+    [
+     14.60444,
+     46.09891
+    ],
+    [
+     14.60463,
+     46.09901
+    ],
+    [
+     14.60529,
+     46.09916
+    ],
+    [
+     14.60635,
+     46.09894
+    ],
+    [
+     14.60707,
+     46.099
+    ],
+    [
+     14.60736,
+     46.09911
+    ],
+    [
+     14.60742,
+     46.09923
+    ],
+    [
+     14.60725,
+     46.0995
+    ],
+    [
+     14.60734,
+     46.09979
+    ],
+    [
+     14.60751,
+     46.09983
+    ],
+    [
+     14.608,
+     46.09963
+    ],
+    [
+     14.60848,
+     46.0999
+    ],
+    [
+     14.60904,
+     46.09999
+    ],
+    [
+     14.60947,
+     46.09994
+    ],
+    [
+     14.60986,
+     46.09969
+    ]
+   ]
+  },
+  "center": [
+   46.15739,
+   14.59986
+  ],
+  "lengthKm": 17.1,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.14843,
+    "lon": 14.56171,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.17693,
+    "lon": 14.55465,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.10735,
+    "lon": 14.59256,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.1017,
+    "lon": 14.60069,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:51.396Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/psata5",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "psata5",
+  "code": "Pšata 5",
+  "name": "Pšata 5",
+  "subtitle": "od odvodnega kanala v Mengšu do izliva v Kamniško Bistrico",
+  "en": {
+   "name": "The creek Pšata 5",
+   "subtitle": "from the drain canal in Mengeš to the outflow into the Kamniška Bistrica",
+   "description": "The Pšata 5 stream is a cyprinid river that starts from the drainage channel - the discharge in Mengeš and flows into Kamniška Bistrica. This part of the district is longer and runs through the larger settlements, Mengeš, Trzin, Dragomelj. In natural meanders, there are also large specimens of chub, nase, danube roach and other white fish."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Pšata 5 je ciprinidni revir, ki se začne od odvodnega kanala - razbremenilnika v Mengšu ter izliva v Kamniško Bistrico. Ta del revirja je daljši in teče skozi večja naselja, Mengeš, Trzin, Dragomelj. V naravnih meandrih se skrivajo tudi večji primerki klenov, podusti, platnic in drugih belic.",
+  "waterType": "river",
+  "water": "Pšata",
+  "species": [
+   "klen",
+   "mrena",
+   "ostriz",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "mrena",
+   "ostriž",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/431"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/1205"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/psata5",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Kamniško Bistrico"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.59986,
+    46.15739
+   ]
+  },
+  "center": [
+   46.15739,
+   14.59986
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.16132,
+    "lon": 14.59838,
+    "name": "Tuš Cash&Carry Parking",
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:53.783Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/raca3",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "raca3",
+  "code": "Rača 3",
+  "name": "Rača 3",
+  "subtitle": "od mostu v Vrhpolju do sotočja z Radomljo",
+  "en": {
+   "name": "The creek Rača 3",
+   "subtitle": "from the bridge in Vrhpolje to the confluence with the Radomlja",
+   "description": "The Rača 3 is a cyprinid district, which starts at the bridge in Vrhpolje near Moravče and flows into Radomlja in Dob (near Močilnik). It is a stream that flows through two major dams that are fishable. The stream is rich with chub, perch and small fish, while in the beaver world you can fish wild carp, pike, asp and other fish."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Rača 3 je ciprinidni revir, ki se začne od mostu v Vrhpoljah pri Moravčah ter izteka v Radomljo v Dobu (pri Močilniku). Gre za potok, ki se pretaka skozi dve večji zajezitvi, ki sta lovni. Struga potoka je bogata s kleni, ostriži in drobižem, medtem ko se v bobrovem svetu lahko nalovite primerkov divjih krapov, ščuke, bolena in drugih belic.",
+  "waterType": "river",
+  "water": "Rača",
+  "species": [
+   "bolen",
+   "klen",
+   "krap",
+   "mrena",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "krap",
+   "mrena",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/435"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/481"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/raca3",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.144323,
+   "lon": 14.621565
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Radomljo"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.63566,
+    46.14326
+   ]
+  },
+  "center": [
+   46.14326,
+   14.63566
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:56.218Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/raca4",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "raca4",
+  "code": "Rača 4",
+  "name": "Rača 4",
+  "subtitle": "od sotočja z Radomljo do izliva v Kamniško Bistrico",
+  "en": {
+   "name": "The creek Rača 4",
+   "subtitle": "from the confluence with the Radomlja to the outflow into the Kamniška Bistrica",
+   "description": "The Rača 4 is a cyprinid district, starting from the confluence with Radomlja in Dob (near Močilnik) and flowing into Kamniška Bistrica. Rača, Radomlja and Radomeljska Mlinščica are joined into the brook. From the confluence, the channel is regulated and deeper and covered with a high branch. It is rich mainly with cyprinid fish species, including the nase."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Rača 4 je ciprinidni revir, ki se začne od sotočja z Radomljo v Dobu (pri Močilniku) ter izteka v Kamniško Bistrico. V potok se združijo Rača, Radomlja in Radomeljska mlinščica. Od sotočja naprej je struga regulirana in globja ter poraščena z visokim vejevjem. Bogata je predvsem s ciprinidnimi vrstami rib, med njimi tudi s podustjo.",
+  "waterType": "river",
+  "water": "Rača",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/437"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/1339"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/raca4",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.144323,
+   "lon": 14.621565
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: sotočje Radomljo",
+   "do: sotočje Kamniško Bistrico"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.63805,
+     46.14278
+    ],
+    [
+     14.62805,
+     46.14669
+    ],
+    [
+     14.62749,
+     46.14677
+    ],
+    [
+     14.6243,
+     46.14614
+    ],
+    [
+     14.62065,
+     46.14474
+    ],
+    [
+     14.61631,
+     46.14394
+    ],
+    [
+     14.6154,
+     46.14351
+    ],
+    [
+     14.61438,
+     46.14271
+    ],
+    [
+     14.61237,
+     46.14186
+    ],
+    [
+     14.61179,
+     46.14181
+    ],
+    [
+     14.61061,
+     46.14211
+    ],
+    [
+     14.61011,
+     46.14212
+    ],
+    [
+     14.60678,
+     46.14157
+    ],
+    [
+     14.60544,
+     46.14167
+    ],
+    [
+     14.60459,
+     46.14113
+    ]
+   ]
+  },
+  "center": [
+   46.14504,
+   14.62143
+  ],
+  "lengthKm": 2.9,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.14172,
+    "lon": 14.60904,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.14209,
+    "lon": 14.60222,
+    "name": null,
+    "distKm": 0.21
+   },
+   {
+    "lat": 46.14562,
+    "lon": 14.61474,
+    "name": null,
+    "distKm": 0.22
+   },
+   {
+    "lat": 46.14866,
+    "lon": 14.62889,
+    "name": "Parkirišče pokopališča Dob",
+    "distKm": 0.23
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:58.627Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/radomeljskamlinscica",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "radomeljskamlinscica",
+  "code": "Radomeljska mlinščica",
+  "name": "Radomeljska mlinščica",
+  "subtitle": "od zajetja v Volčjem potoku do izliva v Račo",
+  "en": {
+   "name": "The creek Radomeljska Mlinščica",
+   "subtitle": "from the reservoir in Volčji potok to the outflow into the Rača",
+   "description": "The Radomeljska Mlinscica is a salmonid river starting from the Kamniška Bistrica in Volčji Potok and flowing to the outflow into Rača at Vir. It is an artificial small river that runs two thirds in an urbanized settlement, the remaining part is in a natural environment. The specimens of rainbow trout and brown trout are quite hidden but they are there."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Radomeljska mlinščica je salmonidni revir, ki se začne od zajetja iz Kamniške Bistrice v Volčjem Potoku ter do izliva v Račo na Viru. Je umetna manjša struga, ki teče dve tretjine v urbaniziranem naselju ostalo v poraščenem naravnem okolju. Primerki šarenk in potočnih postrvi se skrivajo predelih, ki jih je potrebno poiskati. Pretežno je možno vijačiti na manjšo blestivko (št. 2 ali št.",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/443"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/radomeljskamlinscica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "reka »Radomeljska mlinščica« ni v OSM",
+   "kraj Rača"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.66223,
+    46.13286
+   ]
+  },
+  "center": [
+   46.13286,
+   14.66223
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:08.180Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/radomlja2",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "radomlja2",
+  "code": "Radomlja 2",
+  "name": "Radomlja 2",
+  "subtitle": "od Blagovice do sotočja z Drtijščico",
+  "en": {
+   "name": "The creek Radomlja 2",
+   "subtitle": "from Blagovica to the confluence with the Drtijščica",
+   "description": "The Radomlja 2 is a salmonid river starting from the former Benkovič Inn (in Blagovica) and flowing to the confluence with Drtijščica (in Trnjava pri Lukovici). The regulated watercourse flows through a natural environment where it is suitable for spinning with smaller metal lures (No. 2 or No. 3). Rainbow trout or brown trout are most often held behind water thresholds and obstacles."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Radomlja 2 je salmonidni revir, ki se začne od nekdanje gostilne Benkovič (v Blagovici) ter do sotočja z Drtijščico (v Trnjavi pri Lukovici). Reguliran vodotok teče po naravnem okolju, kjer je primeren za vijačenje na manjše blestivke (št. 2 ali št. 3). Šarenke ali potočne postrvi se najpogosteje zadržujejo za vodnimi pragovi in preprekami. Tam jih zagotovo ulovite.",
+  "waterType": "river",
+  "water": "Radomlja",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/438"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/radomlja2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Blagovica",
+   "do: sotočje Drtijščico"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.80229,
+     46.17531
+    ],
+    [
+     14.80179,
+     46.1749
+    ],
+    [
+     14.8015,
+     46.17482
+    ],
+    [
+     14.80066,
+     46.17461
+    ],
+    [
+     14.79966,
+     46.17459
+    ],
+    [
+     14.79836,
+     46.17397
+    ],
+    [
+     14.79554,
+     46.17347
+    ],
+    [
+     14.79362,
+     46.17361
+    ],
+    [
+     14.79059,
+     46.17303
+    ],
+    [
+     14.78915,
+     46.17348
+    ],
+    [
+     14.78293,
+     46.17216
+    ],
+    [
+     14.78027,
+     46.17188
+    ],
+    [
+     14.77938,
+     46.17151
+    ],
+    [
+     14.77618,
+     46.17062
+    ],
+    [
+     14.77532,
+     46.17061
+    ],
+    [
+     14.77483,
+     46.17046
+    ],
+    [
+     14.77419,
+     46.16996
+    ],
+    [
+     14.76865,
+     46.1675
+    ],
+    [
+     14.76833,
+     46.16723
+    ],
+    [
+     14.76805,
+     46.16607
+    ],
+    [
+     14.7677,
+     46.16586
+    ],
+    [
+     14.7665,
+     46.16591
+    ],
+    [
+     14.76424,
+     46.16521
+    ],
+    [
+     14.7629,
+     46.16558
+    ],
+    [
+     14.76206,
+     46.16533
+    ],
+    [
+     14.75991,
+     46.16499
+    ],
+    [
+     14.75825,
+     46.16488
+    ],
+    [
+     14.75531,
+     46.16432
+    ],
+    [
+     14.75395,
+     46.16427
+    ],
+    [
+     14.75342,
+     46.16408
+    ],
+    [
+     14.75265,
+     46.16333
+    ],
+    [
+     14.75077,
+     46.16312
+    ],
+    [
+     14.74905,
+     46.16319
+    ],
+    [
+     14.74835,
+     46.16338
+    ],
+    [
+     14.74769,
+     46.16332
+    ],
+    [
+     14.74696,
+     46.16352
+    ],
+    [
+     14.7461,
+     46.16346
+    ],
+    [
+     14.74563,
+     46.16361
+    ],
+    [
+     14.74478,
+     46.16364
+    ],
+    [
+     14.74399,
+     46.16396
+    ],
+    [
+     14.74266,
+     46.1649
+    ],
+    [
+     14.74113,
+     46.16549
+    ],
+    [
+     14.74083,
+     46.16587
+    ],
+    [
+     14.74014,
+     46.16603
+    ],
+    [
+     14.73986,
+     46.16655
+    ],
+    [
+     14.7399,
+     46.16729
+    ],
+    [
+     14.73974,
+     46.16764
+    ],
+    [
+     14.73635,
+     46.1694
+    ],
+    [
+     14.7352,
+     46.16916
+    ],
+    [
+     14.73329,
+     46.16905
+    ],
+    [
+     14.73224,
+     46.1693
+    ],
+    [
+     14.73106,
+     46.1693
+    ],
+    [
+     14.73011,
+     46.16956
+    ],
+    [
+     14.72956,
+     46.16956
+    ],
+    [
+     14.72863,
+     46.17004
+    ],
+    [
+     14.72692,
+     46.17001
+    ],
+    [
+     14.72497,
+     46.17019
+    ],
+    [
+     14.72303,
+     46.17009
+    ],
+    [
+     14.7207,
+     46.17032
+    ],
+    [
+     14.71798,
+     46.17012
+    ],
+    [
+     14.71471,
+     46.17031
+    ],
+    [
+     14.71409,
+     46.17057
+    ],
+    [
+     14.71288,
+     46.17073
+    ],
+    [
+     14.71189,
+     46.17066
+    ]
+   ]
+  },
+  "center": [
+   46.16463,
+   14.75694
+  ],
+  "lengthKm": 7.8,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.17602,
+    "lon": 14.80295,
+    "name": "OŠ Janka Kersnika",
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.16821,
+    "lon": 14.74703,
+    "name": null,
+    "distKm": 0.5
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:10.594Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/radomlja3",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "radomlja3",
+  "code": "Radomlja 3",
+  "name": "Radomlja 3",
+  "subtitle": "od sotočja z Drtijščico do sotočja z Račo",
+  "en": {
+   "name": "The creek Radomlja 3",
+   "subtitle": "from the confluence with the Drtijščica to the confluence with the Rača",
+   "description": "The stream Radomlja 3 is a mixed district starting from the confluence with Drtijščica (in Trnjava pri Lukovici) to the confluence with Raca in Dob. The regulated watercourse flows predominantly in a natural environment where it is suitable for spinning with small metal lures (No. 2 or No. 3). Water is also rich with white fish (chub, barbell, small fish)."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Potok Radomlja 3 je mešani revir, ki se začne od sotočja z Drtijščico (v Trnjavi pri Lukovici) do sotočja z Račo v Dobu. Reguliran vodotok teče pretežno po naravnem okolju, kjer je primeren za vijačenje na manjše blestivke (št. 2 ali št. 3). Voda je bogata tudi z belicami (klen, mrena, drobiž).",
+  "waterType": "river",
+  "water": "Radomlja",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/439"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/950"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/radomlja3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: sotočje Drtijščico",
+   "do: kraj Rača"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.71189,
+     46.17066
+    ],
+    [
+     14.71023,
+     46.17117
+    ],
+    [
+     14.70762,
+     46.17157
+    ],
+    [
+     14.70421,
+     46.17157
+    ],
+    [
+     14.70165,
+     46.17112
+    ],
+    [
+     14.69805,
+     46.1697
+    ],
+    [
+     14.69773,
+     46.16938
+    ],
+    [
+     14.69758,
+     46.16884
+    ],
+    [
+     14.69681,
+     46.16816
+    ],
+    [
+     14.69685,
+     46.1676
+    ],
+    [
+     14.69609,
+     46.16713
+    ],
+    [
+     14.69536,
+     46.16616
+    ],
+    [
+     14.69396,
+     46.16569
+    ],
+    [
+     14.69272,
+     46.16475
+    ],
+    [
+     14.68926,
+     46.16336
+    ],
+    [
+     14.68808,
+     46.16245
+    ],
+    [
+     14.68723,
+     46.16154
+    ],
+    [
+     14.68683,
+     46.15948
+    ],
+    [
+     14.68621,
+     46.15834
+    ],
+    [
+     14.68593,
+     46.15806
+    ],
+    [
+     14.68197,
+     46.15745
+    ],
+    [
+     14.67925,
+     46.15725
+    ],
+    [
+     14.67712,
+     46.15679
+    ],
+    [
+     14.67524,
+     46.15683
+    ],
+    [
+     14.67391,
+     46.15643
+    ],
+    [
+     14.67226,
+     46.1552
+    ],
+    [
+     14.6709,
+     46.15477
+    ],
+    [
+     14.66988,
+     46.15463
+    ],
+    [
+     14.66897,
+     46.15463
+    ],
+    [
+     14.66821,
+     46.15481
+    ],
+    [
+     14.66522,
+     46.1561
+    ],
+    [
+     14.66415,
+     46.15592
+    ],
+    [
+     14.66287,
+     46.15457
+    ],
+    [
+     14.66219,
+     46.15403
+    ],
+    [
+     14.66044,
+     46.15348
+    ],
+    [
+     14.65967,
+     46.15303
+    ],
+    [
+     14.65939,
+     46.15257
+    ],
+    [
+     14.6594,
+     46.15208
+    ],
+    [
+     14.66036,
+     46.15023
+    ],
+    [
+     14.6603,
+     46.14966
+    ],
+    [
+     14.65915,
+     46.14802
+    ],
+    [
+     14.65811,
+     46.14734
+    ],
+    [
+     14.65769,
+     46.14725
+    ]
+   ]
+  },
+  "center": [
+   46.15784,
+   14.68453
+  ],
+  "lengthKm": 5.9,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.14958,
+    "lon": 14.66049,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.16738,
+    "lon": 14.69516,
+    "name": null,
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.16534,
+    "lon": 14.68824,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 46.1517,
+    "lon": 14.65405,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:12.988Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikcesnjevk1",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikcesnjevk1",
+  "code": "Ribnik Češnjevek 1",
+  "name": "Ribnik Češnjevek 1",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Češnjevek 1",
+   "subtitle": "",
+   "description": "The pond Češnjevek 1 was built in the pit that was ones used to excavate clay. In the pond, cyprinids are mainly presented. Fishing is very popular in the summer. The pond is mainly dedicated to the members of the fishing family. Access is from the direction Cerklje na Gorenjskem to Velesov (direction towards Preddvor). Turn right at the bus stop in Češnjevek. After 1 km of the path, you will get to the pond."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Češnjevek 1 je glinokopnega izvora, kjer so prisotni predvsem krapovci. Poleti je zelo priljubljen ribolov soma. Je članski ribnik, torej namenjen ribolovu članov. Dostop iz smeri Cerklje na Gorenjskem proti Velesovem (smer proti Preddvoru). V kraju Češnjevek zavijete desno za avtobusnim postajališčem. Po 1 km poti se pripeljete na ribnik. Ribnika sta dva in si sledita v zaporedju.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "bolen",
+   "krap",
+   "linj",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "krap",
+   "linj",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/452"
+   },
+   {
+    "name": "Nočni ribolov - ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 29. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/939"
+   },
+   {
+    "name": "Nočni ribolov - roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/938"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/941"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikcesnjevk1",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:17.786Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnik-cesnjevek-2",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnik-cesnjevek-2",
+  "code": "Ribnik Češnjevek 2",
+  "name": "Ribnik Češnjevek 2",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Češnjevek 2",
+   "subtitle": "",
+   "description": "The pond Češnjevek 2 was built in the pit that was ones used to excavate clay. In the pond, cyprinids are mainly presented. Access is from the direction Cerklje na Gorenjskem to Velesov (direction towards Preddvor). Turn right at the bus stop in Češnjevek. After 1 km of the path, you will get to the pond. The ponds are two and follow in sequence."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Češnjevek 2 je glinokopnega izvora, kjer so prisotni predvsem krapovci. Dostop je iz smeri Cerklje na Gorenjskem proti Velesovem (smer proti Preddvoru). V kraju Češnjevek zavijete desno za avtobusnim postajališčem. Po 1. km poti se pripeljete na ribnik. Ribnika sta dva in si sledita v zaporedju.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "krap",
+   "linj",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "linj",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/498"
+   },
+   {
+    "name": "Nočni ribolov - ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 29. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/500"
+   },
+   {
+    "name": "Nočni ribolov - roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/940"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/499"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnik-cesnjevek-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:20.200Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikcrnelo12",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikcrnelo12",
+  "code": "Ribnik Črnelo 2",
+  "name": "Ribnik Črnelo 2",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Črnelo 2",
+   "subtitle": "",
+   "description": "Pond Črnelo 2 is rich mainly with the cyprinids as well as predators. In the summer, you are invited to go fishing for catfish. Access to the pond Crnelo is from the direction of Radomlje to Rove. After the plantation of trees (along the road on the right side) turn right onto the forest macadam road, after which you are still 1.1 km away and arrive directly in front of the Črnelo 2 pond."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Črnelo 2 je bogat predvsem s krapovci kot tudi plenilkami. Poleti ste vabljeni na ribolov soma. Dostop do ribnikov Črnelo je iz smeri Radomlje proti Rovam. Za nasadom platan (ob cesti na desni) zavijete desno na gozdno makadamsko pot, po kateri se peljete še 1,1 km in prispete neposredno pred ribnik Črnelo 2.",
+  "waterType": "pond",
+  "water": "Ribnik Črnelo",
+  "species": [
+   "amur",
+   "koreselj",
+   "krap",
+   "linj",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "krap",
+   "linj",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/449"
+   },
+   {
+    "name": "Nočni ribolov - ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/944"
+   },
+   {
+    "name": "Nočni ribolov - roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/943"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/942"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikcrnelo12",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Črnelo"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.62332,
+      46.17309
+     ],
+     [
+      14.62379,
+      46.17263
+     ],
+     [
+      14.6243,
+      46.17128
+     ],
+     [
+      14.62467,
+      46.17106
+     ],
+     [
+      14.62516,
+      46.17121
+     ],
+     [
+      14.62517,
+      46.17146
+     ],
+     [
+      14.62444,
+      46.17288
+     ],
+     [
+      14.62386,
+      46.17326
+     ],
+     [
+      14.62332,
+      46.17309
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.17229,
+   14.62421
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.17333,
+    "lon": 14.61923,
+    "name": null,
+    "distKm": 0.32
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:22.636Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikflorida",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikflorida",
+  "code": "Ribnik Florida",
+  "name": "Ribnik Florida",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Florida",
+   "subtitle": "",
+   "description": "The Florida pond is rich mainly with carp and pike and is a suitable place to rest your mind. Access is from the direction of Dob towards Krtina - on the old road. Immediately before overpassing the LJ-MB motorway, turn left. After approx. 1 km of the macadam road (the second turn to the left in front of the tree plantation) brings you to the pond."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Florida je bogat predvsem s krapovci in ščukami ter je umirjena lokacija za počitek. Dostop je iz smeri Dob proti Krtini - po stari cesti. Takoj pred nadvozom nad avtocesto LJ-MB se zavije levo. Po urejeni makadamski cesti se po ca. 1 km (drugi odcep levo pred drevesnim nasadom) pripeljete na ribnik.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "krap",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/454"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/945"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikflorida",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:27.395Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikkriz",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikkriz",
+  "code": "Ribnik Križ",
+  "name": "Ribnik Križ",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Križ",
+   "subtitle": "",
+   "description": "Pond Križ is rich mainly with carp and predators. Access to the pond is from the direction from Kamnik, passing Podgorje towards Križ pri Komendi. Immediately after the end of the settlement Podgorje (before the sign) turn right. After about 200 meters, you reach the parking lot by the pond."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Križ je bogat predvsem s krapovci in plenilkami. Dostop do ribnika je iz smeri iz Kamnika mimo Podgorja proti Križu pri Komendi. Takoj za koncem naselja Podgorje (pred znamenjem) zavijete desno. Po približno 200 metrih prispete do urejenega parkirišča ob ribniku.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "koreselj",
+   "klen",
+   "krap",
+   "linj",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/450"
+   },
+   {
+    "name": "Nočni ribolov - ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 29. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/946"
+   },
+   {
+    "name": "Nočni ribolov - roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/947"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/492"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikkriz",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:46.606Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribniklahovce",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribniklahovce",
+  "code": "Ribnik Lahovče",
+  "name": "Ribnik Lahovče",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Lahovče",
+   "subtitle": "",
+   "description": "Pond Lahovče is rich mainly with carps and large specimens of catfish. Access to the beautifully arranged pond Lahovče is from the direction of Lahovce to Brnik. In Lahovce, turn right (at the Ambrož Inn) and take the asphalt road (approx. 1.5 km) towards Zalog. You will see the pond on the left side, right by the road."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Lahovče je bogat predvsem s krapovci in večjimi primerki somov. Dostop do lepo urejenega ribnika Lahovče je iz smeri Lahovče proti Brniku. V Lahovčah zavijete desno (pri gostilni Ambrož) in se po asfaltni cesti (ca. 1,5 km) peljete proti Zalogu. Ribnik boste zagledali na levi strani, čisto ob cesti.",
+  "waterType": "pond",
+  "water": "Ribnik Lahovče",
+  "species": [
+   "americki-somic",
+   "amur",
+   "krap",
+   "linj",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "krap",
+   "linj",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/451"
+   },
+   {
+    "name": "Nočni ribolov - ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/495"
+   },
+   {
+    "name": "Nočni ribolov - roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/948"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/494"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribniklahovce",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Lahovče"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.50855,
+      46.22576
+     ],
+     [
+      14.5109,
+      46.22489
+     ],
+     [
+      14.51133,
+      46.22507
+     ],
+     [
+      14.5107,
+      46.22541
+     ],
+     [
+      14.51054,
+      46.22565
+     ],
+     [
+      14.51039,
+      46.22551
+     ],
+     [
+      14.51007,
+      46.22566
+     ],
+     [
+      14.51003,
+      46.22584
+     ],
+     [
+      14.50948,
+      46.2258
+     ],
+     [
+      14.50889,
+      46.22614
+     ],
+     [
+      14.50855,
+      46.22576
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.22558,
+   14.50998
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.22482,
+    "lon": 14.51117,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.22558,
+    "lon": 14.51001,
+    "name": "Ribnik Lahovče",
+    "distKm": 0.01
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:37:51.404Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikmoravce2",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikmoravce2",
+  "code": "Ribnik Moravče 2",
+  "name": "Ribnik Moravče 2",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Moravče 2",
+   "subtitle": "",
+   "description": "Pond Moravče is rich mainly with the cyprinids. At the Moravce center near the church, turn left towards Zalog. After about 1.5 km, turn right after the bridge over Drtijščica and take the asphalt road for about 800 m. You will arrive at Moravče fish ponds, which follow in sequence. Fishing is possible with this licence on both the second and third pond on the same day."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Moravče 2 je bogat predvsem s krapovci. V centru Moravč pri cerkvi zavijete levo proti Zalogu. Po približno 1,5 km zavijete za mostom čez Drtijščico desno in se peljete po asfaltni poti okrog 800 m. Prispeli boste do ribnikov Moravče, ki si sledijo v zaporedju. Ribolov je s to dovolilnico mogoč tako na drugem in tretjem ribniku v istem dnevu.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "koreselj",
+   "krap",
+   "linj",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "koreselj",
+   "krap",
+   "linj",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/456"
+   },
+   {
+    "name": "Nočni ribolov - ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/507"
+   },
+   {
+    "name": "Nočni ribolov - roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/949"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/506"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikmoravce2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:08.220Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikmoravce3",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikmoravce3",
+  "code": "Ribnik Moravče 3",
+  "name": "Ribnik Moravče 3",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Moravče 3",
+   "subtitle": "",
+   "description": "Pond Moravče is rich mainly with the cyprinids. At the Moravce center near the church, turn left towards Zalog. After about 1.5 km, turn right after the bridge over Drtijščica and take the asphalt road for about 800 m. You will arrive at Moravče fish ponds, which follow in sequence. Fishing is possible with this licence on both the second and third pond on the same day."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Moravče 3 je bogat s krapovci. V centru Moravč pri cerkvi zavijete levo proti Zalogu. Po približno 1,5 km zavijete za mostom čez Drtijščico desno in se peljete po asfaltni poti okrog 800 m. Prispeli boste do ribnikov Moravče, ki si sledijo v zaporedju. Ribolov je s to dovolilnico mogoč tako na drugem in tretjem ribniku v istem dnevu.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "koreselj",
+   "krap",
+   "linj",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "koreselj",
+   "krap",
+   "linj",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/456"
+   },
+   {
+    "name": "Nočni ribolov - ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/507"
+   },
+   {
+    "name": "Nočni ribolov - roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 07. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/949"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/506"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikmoravce3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:10.614Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikplastenka",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikplastenka",
+  "code": "Ribnik Plastenka",
+  "name": "Ribnik Plastenka",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Plastenka",
+   "subtitle": "Radomlje",
+   "description": "Pond Plastenka (C&R only) is rich in larger carp and grass carp (10 kg and more). It is accessible from the direction of Radomlje to Rove. After the plantation (along the road to the right), drive 100 meters towards Rove. On the left side, a view of the pond opens up. Fishing for cyprinids is allowed with up to two fishing rods."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Plastenka (Ujemi in spusti) je bogat z večjimi krapi in amurji (10 kg in več). Dostopen je iz smeri Radomlje proti Rovam. Za nasadom platan (ob cesti na desni) se peljete še 100 m proti Rovam. Na levi strani se odpre pogled na ribnik. Ribolov ciprinidov se izvaja z največ dvema ribiškima palicama.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "krap",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Dan + noč",
+    "priceEur": 35,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/1292"
+   },
+   {
+    "name": "Nočni ribolov ciprinidov",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/502"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/455"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikplastenka",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.47055,
+      46.05387
+     ],
+     [
+      14.471,
+      46.05365
+     ],
+     [
+      14.47115,
+      46.05388
+     ],
+     [
+      14.47095,
+      46.05404
+     ],
+     [
+      14.47109,
+      46.05415
+     ],
+     [
+      14.47077,
+      46.0543
+     ],
+     [
+      14.4708,
+      46.05399
+     ],
+     [
+      14.47055,
+      46.05387
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.05401,
+   14.47088
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.05376,
+    "lon": 14.46991,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.04921,
+    "lon": 14.4726,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:17.810Z"
+ },
+ {
+  "id": "rd-bistrica-domzale/ribnikzelodnik",
+  "clubSlug": "rd-bistrica-domzale",
+  "slug": "ribnikzelodnik",
+  "code": "Ribnik Želodnik",
+  "name": "Ribnik Želodnik",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Želodnik",
+   "subtitle": "",
+   "description": "Pond Zelodnik is rich mainly with carp and grass carp. Access to the pond Zelodnik is from the direction of Dob towards Prevoje. Turn left in the village of Želodnik (near Roltek) to the asphalt road. When the asphalt road ends (about 200 m of macadam forest road), turn left and then you reach the pond."
+  },
+  "club": {
+   "name": "Ribiška družina Bistrica Domžale",
+   "url": "https://www.ribiskekarte.si/rd-bistrica-domzale"
+  },
+  "description": "Ribnik Želodnik je bogat predvsem s krapi in amurji. Dostop do ribnika Želodnik je iz smeri Dob proti Prevojam. V kraju Želodnik (pri Rolteku) zavijete levo na asfaltno cesto. Po zaključku asfaltne ceste (približno 200 m makadamske gozdne poti) zavijete ponovno levo in se pripeljete do ribnika.",
+  "waterType": "pond",
+  "water": "Ribnik Želodnik",
+  "species": [
+   "amur",
+   "krap",
+   "smuc",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "smuč",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/448"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/nakup/489"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikzelodnik",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Želodnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.63689,
+      46.16118
+     ],
+     [
+      14.638,
+      46.15987
+     ],
+     [
+      14.63856,
+      46.15979
+     ],
+     [
+      14.63889,
+      46.16009
+     ],
+     [
+      14.63875,
+      46.16051
+     ],
+     [
+      14.63786,
+      46.1612
+     ],
+     [
+      14.63769,
+      46.16151
+     ],
+     [
+      14.63697,
+      46.16154
+     ],
+     [
+      14.63689,
+      46.16118
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.16095,
+   14.63765
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:34.601Z"
+ }
+]

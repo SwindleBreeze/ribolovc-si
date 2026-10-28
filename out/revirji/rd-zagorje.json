@@ -1,0 +1,206 @@
+[
+ {
+  "id": "rd-zagorje/potok-medija",
+  "clubSlug": "rd-zagorje",
+  "slug": "potok-medija",
+  "code": "Potok Medija",
+  "name": "Potok Medija",
+  "subtitle": "",
+  "en": {
+   "name": "stream Medija",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Zagorje",
+   "url": "https://www.ribiskekarte.si/rd-zagorje"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Medija",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-zagorje/potok-medija",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "reka 75 km od sedeža družine",
+   "meje niso razrešene"
+  ],
+  "geometry": null,
+  "center": [
+   45.48417,
+   14.0839
+  ],
+  "lengthKm": null,
+  "region": "notranjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:25.001Z"
+ },
+ {
+  "id": "rd-zagorje/potok-sklendrovec",
+  "clubSlug": "rd-zagorje",
+  "slug": "potok-sklendrovec",
+  "code": "potok Šklendrovec",
+  "name": "potok Šklendrovec",
+  "subtitle": "",
+  "en": {
+   "name": "stream Šklendrovec",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Zagorje",
+   "url": "https://www.ribiskekarte.si/rd-zagorje"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-zagorje/potok-sklendrovec",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "reka »Šklendrovec« ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   45.48417,
+   14.0839
+  ],
+  "lengthKm": null,
+  "region": "notranjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:27.398Z"
+ },
+ {
+  "id": "rd-zagorje/reka-sava-zagorje",
+  "clubSlug": "rd-zagorje",
+  "slug": "reka-sava-zagorje",
+  "code": "reka Sava",
+  "name": "reka Sava",
+  "subtitle": "",
+  "en": {
+   "name": "river Sava",
+   "subtitle": "",
+   "description": "od Petjoreka do lesenega mostu za naselje Sava"
+  },
+  "club": {
+   "name": "Ribiška družina Zagorje",
+   "url": "https://www.ribiskekarte.si/rd-zagorje"
+  },
+  "description": "od Petjoreka do lesenega mostu za naselje Sava",
+  "waterType": "river",
+  "water": "Sava",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-zagorje/reka-sava-zagorje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "reka 55 km od sedeža družine",
+   "meje niso razrešene"
+  ],
+  "geometry": null,
+  "center": [
+   45.48417,
+   14.0839
+  ],
+  "lengthKm": null,
+  "region": "notranjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:36.995Z"
+ },
+ {
+  "id": "rd-zagorje/ribnik-zagorje",
+  "clubSlug": "rd-zagorje",
+  "slug": "ribnik-zagorje",
+  "code": "Ribnik Zagorje",
+  "name": "Ribnik Zagorje",
+  "subtitle": "",
+  "en": {
+   "name": "pond Zagorje",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Zagorje",
+   "url": "https://www.ribiskekarte.si/rd-zagorje"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-zagorje/ribnik-zagorje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.08382,
+      45.4842
+     ],
+     [
+      14.08399,
+      45.48412
+     ],
+     [
+      14.08382,
+      45.4842
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.48417,
+   14.0839
+  ],
+  "lengthKm": null,
+  "region": "notranjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:51.401Z"
+ }
+]

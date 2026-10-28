@@ -1,0 +1,526 @@
+[
+ {
+  "id": "rd-litija/jablaniski-potok-2",
+  "clubSlug": "rd-litija",
+  "slug": "jablaniski-potok-2",
+  "code": "Jablaniški potok 2",
+  "name": "Jablaniški potok 2",
+  "subtitle": "",
+  "en": {
+   "name": "Jablaniški potok 2",
+   "subtitle": "",
+   "description": "od Gradiške Laze do Izliv v Reko"
+  },
+  "club": {
+   "name": "Ribiška družina Litija",
+   "url": "https://www.ribiskekarte.si/rd-litija"
+  },
+  "description": "od Gradiške Laze do Izliv v Reko",
+  "waterType": "river",
+  "water": "Jablaniški potok",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-litija/jablaniski-potok-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.8557,
+     46.05659
+    ],
+    [
+     14.84626,
+     46.0607
+    ]
+   ]
+  },
+  "center": [
+   46.05865,
+   14.85098
+  ],
+  "lengthKm": 0.9,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.06433,
+    "lon": 14.85112,
+    "name": null,
+    "distKm": 0.54
+   },
+   {
+    "lat": 46.05899,
+    "lon": 14.83907,
+    "name": null,
+    "distKm": 0.59
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:05.844Z"
+ },
+ {
+  "id": "rd-litija/reka-3",
+  "clubSlug": "rd-litija",
+  "slug": "reka-3",
+  "code": "Reka 3",
+  "name": "Reka 3",
+  "subtitle": "",
+  "en": {
+   "name": "Reka 3",
+   "subtitle": "",
+   "description": "od Izliv Konjskega potoka do Izliv v Savo"
+  },
+  "club": {
+   "name": "Ribiška družina Litija",
+   "url": "https://www.ribiskekarte.si/rd-litija"
+  },
+  "description": "od Izliv Konjskega potoka do Izliv v Savo",
+  "waterType": "river",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-litija/reka-3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "reka »3« ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.08274,
+   14.87252
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:29.837Z"
+ },
+ {
+  "id": "rd-litija/ribnik-mackovna",
+  "clubSlug": "rd-litija",
+  "slug": "ribnik-mackovna",
+  "code": "Ribnik Mačkovna",
+  "name": "Ribnik Mačkovna",
+  "subtitle": "",
+  "en": {
+   "name": "Ribnik Mačkovna",
+   "subtitle": "",
+   "description": "od Ob potoku Vidernica do -"
+  },
+  "club": {
+   "name": "Ribiška družina Litija",
+   "url": "https://www.ribiskekarte.si/rd-litija"
+  },
+  "description": "od Ob potoku Vidernica do -",
+  "waterType": "pond",
+  "water": "Ribnik Mačkovna",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-litija/ribnik-mackovna",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Mačkovna"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.87184,
+      46.08224
+     ],
+     [
+      14.87237,
+      46.0824
+     ],
+     [
+      14.87326,
+      46.08288
+     ],
+     [
+      14.87323,
+      46.08298
+     ],
+     [
+      14.87301,
+      46.08307
+     ],
+     [
+      14.87217,
+      46.0829
+     ],
+     [
+      14.87234,
+      46.08262
+     ],
+     [
+      14.87184,
+      46.08224
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.08274,
+   14.87252
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:44.234Z"
+ },
+ {
+  "id": "rd-litija/sava-12",
+  "clubSlug": "rd-litija",
+  "slug": "sava-12",
+  "code": "Sava 12",
+  "name": "Sava 12",
+  "subtitle": "",
+  "en": {
+   "name": "Sava 12",
+   "subtitle": "",
+   "description": "od Most v Litiji do Most v vasi Sava"
+  },
+  "club": {
+   "name": "Ribiška družina Litija",
+   "url": "https://www.ribiskekarte.si/rd-litija"
+  },
+  "description": "od Most v Litiji do Most v vasi Sava",
+  "waterType": "lake",
+  "water": "Sava",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-litija/sava-12",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Sava"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.98465,
+      46.11617
+     ],
+     [
+      14.98512,
+      46.116
+     ],
+     [
+      14.98623,
+      46.11725
+     ],
+     [
+      14.98908,
+      46.11916
+     ],
+     [
+      14.99041,
+      46.11952
+     ],
+     [
+      14.99271,
+      46.11955
+     ],
+     [
+      14.99359,
+      46.11927
+     ],
+     [
+      14.99729,
+      46.11655
+     ],
+     [
+      14.99854,
+      46.11517
+     ],
+     [
+      14.99954,
+      46.11356
+     ],
+     [
+      15.00159,
+      46.11192
+     ],
+     [
+      15.00235,
+      46.11163
+     ],
+     [
+      15.00336,
+      46.1115
+     ],
+     [
+      15.00601,
+      46.11157
+     ],
+     [
+      15.00829,
+      46.11138
+     ],
+     [
+      15.00956,
+      46.11169
+     ],
+     [
+      15.01198,
+      46.1128
+     ],
+     [
+      15.01792,
+      46.11456
+     ],
+     [
+      15.02178,
+      46.11599
+     ],
+     [
+      15.02264,
+      46.11666
+     ],
+     [
+      15.02385,
+      46.11722
+     ],
+     [
+      15.02477,
+      46.1179
+     ],
+     [
+      15.0254,
+      46.11848
+     ],
+     [
+      15.02574,
+      46.11918
+     ],
+     [
+      15.0277,
+      46.12041
+     ],
+     [
+      15.02871,
+      46.12128
+     ],
+     [
+      15.03704,
+      46.12569
+     ],
+     [
+      15.03931,
+      46.12615
+     ],
+     [
+      15.04357,
+      46.12647
+     ],
+     [
+      15.04639,
+      46.12644
+     ],
+     [
+      15.05126,
+      46.12576
+     ],
+     [
+      15.05629,
+      46.12539
+     ],
+     [
+      15.05797,
+      46.12508
+     ],
+     [
+      15.05826,
+      46.12554
+     ],
+     [
+      15.05512,
+      46.1261
+     ],
+     [
+      15.04633,
+      46.12687
+     ],
+     [
+      15.04224,
+      46.12679
+     ],
+     [
+      15.0371,
+      46.12617
+     ],
+     [
+      15.02845,
+      46.12154
+     ],
+     [
+      15.02667,
+      46.12029
+     ],
+     [
+      15.0255,
+      46.11932
+     ],
+     [
+      15.02491,
+      46.11861
+     ],
+     [
+      15.02337,
+      46.11741
+     ],
+     [
+      15.02263,
+      46.11715
+     ],
+     [
+      15.02112,
+      46.11627
+     ],
+     [
+      15.0192,
+      46.11541
+     ],
+     [
+      15.017,
+      46.11473
+     ],
+     [
+      15.01143,
+      46.11339
+     ],
+     [
+      15.01006,
+      46.1125
+     ],
+     [
+      15.00799,
+      46.11197
+     ],
+     [
+      15.00698,
+      46.11196
+     ],
+     [
+      15.00543,
+      46.1122
+     ],
+     [
+      15.00326,
+      46.11218
+     ],
+     [
+      15.00195,
+      46.11253
+     ],
+     [
+      14.99995,
+      46.11399
+     ],
+     [
+      14.99904,
+      46.11538
+     ],
+     [
+      14.9964,
+      46.11766
+     ],
+     [
+      14.99527,
+      46.11884
+     ],
+     [
+      14.99511,
+      46.11929
+     ],
+     [
+      14.99244,
+      46.12043
+     ],
+     [
+      14.99211,
+      46.12042
+     ],
+     [
+      14.992,
+      46.12019
+     ],
+     [
+      14.99059,
+      46.12029
+     ],
+     [
+      14.98929,
+      46.12
+     ],
+     [
+      14.986,
+      46.11767
+     ],
+     [
+      14.98465,
+      46.11617
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.11867,
+   15.01558
+  ],
+  "lengthKm": null,
+  "region": "zasavje",
+  "parking": [
+   {
+    "lat": 46.12627,
+    "lon": 15.03608,
+    "name": null,
+    "distKm": 0.08
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:01.037Z"
+ }
+]

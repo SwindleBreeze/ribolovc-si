@@ -1,0 +1,1296 @@
+[
+ {
+  "id": "rd-jesenice/akumulacija-javorniski-rovt",
+  "clubSlug": "rd-jesenice",
+  "slug": "akumulacija-javorniski-rovt",
+  "code": "Akumulacijsko jezero v Javorniškem Rovtu (58)",
+  "name": "Akumulacijsko jezero v Javorniškem Rovtu",
+  "subtitle": "",
+  "en": {
+   "name": "The reservoir in Javorniški Rovt",
+   "subtitle": "",
+   "description": "This district is a reservoir that was built in 1901 for the needs of the ironworks plants of that time. The lake is emerald green, the water temperature rarely exceeds 12 C. You can find brown and rainbow trout in this district. The lake is situated at the end of the road in Javorniški rovt at the TRILOBIT lodge. The water surface of the lake measures 1 ha."
+  },
+  "club": {
+   "name": "Ribiška družina Jesenice",
+   "url": "https://www.ribiskekarte.si/rd-jesenice"
+  },
+  "description": "Revir predstavlja umetno jezero, zgrajeno v letu 1901 za potrebe takratnih železarskih obratov. Jezero je smaragdne barve, temperatura vode pa redko preseže 12⁰C. V vodi je moč zaslediti potočno postrv in šarenko. Jezero se nahaja na koncu ceste v Javorniškem Rovtu ob domu TRILOBIT. Jezero obsega 1 ha vodne površine.",
+  "waterType": "reservoir",
+  "water": "Javorniško jezero",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi (ujemi in odnesi)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/105"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/1004"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-jesenice/akumulacija-javorniski-rovt",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Javorniško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.10135,
+      46.45722
+     ],
+     [
+      14.10142,
+      46.45704
+     ],
+     [
+      14.10225,
+      46.45701
+     ],
+     [
+      14.10281,
+      46.45719
+     ],
+     [
+      14.10322,
+      46.45754
+     ],
+     [
+      14.1028,
+      46.45766
+     ],
+     [
+      14.10135,
+      46.45722
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.45735,
+   14.10229
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.45506,
+    "lon": 14.09574,
+    "name": null,
+    "distKm": 0.49
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:29.719Z"
+ },
+ {
+  "id": "rd-jesenice/akumulacija-zavrsnica",
+  "clubSlug": "rd-jesenice",
+  "slug": "akumulacija-zavrsnica",
+  "code": "Akumulacijsko jezero Završnica (19)",
+  "name": "Akumulacijsko jezero Završnica",
+  "subtitle": "",
+  "en": {
+   "name": "The reservoir Završnica",
+   "subtitle": "",
+   "description": "The lake, that has a very easy access , was made by stemming the creek Završnica near the barrier behind one of the older powerplants and the first public power plant in Slovenia - it works no longer and its water has been channelled to the hydropower plant Moste. The lake is home to brown trouts, rainbow trouts and graylings."
+  },
+  "club": {
+   "name": "Ribiška družina Jesenice",
+   "url": "https://www.ribiskekarte.si/rd-jesenice"
+  },
+  "description": "Jezero, ki je zelo lahko dostopno, je nastalo ob pregradi zajezitve potoka Završnica za eno starejših elektrarn in prvo javno elektrarno v Sloveniji, ki pa ne obratuje več in je voda speljana na HE Moste. V jezeru imajo svoje domovanje potočne postrvi, šarenke in lipani. Jezero se nahaja ob križišču ceste na Valvazorjev dom in ceste v dolino Završnice. Površnina jezera znaša 3 ha.",
+  "waterType": "reservoir",
+  "water": "Završniško jezero",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi (ujemi in odnesi)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 04. do 15. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/107"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/1004"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-jesenice/akumulacija-zavrsnica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Završniško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.14614,
+      46.4068
+     ],
+     [
+      14.1464,
+      46.40629
+     ],
+     [
+      14.14705,
+      46.40619
+     ],
+     [
+      14.14789,
+      46.40616
+     ],
+     [
+      14.14895,
+      46.40658
+     ],
+     [
+      14.14944,
+      46.40647
+     ],
+     [
+      14.14972,
+      46.40618
+     ],
+     [
+      14.15011,
+      46.40616
+     ],
+     [
+      14.15089,
+      46.4065
+     ],
+     [
+      14.14982,
+      46.40669
+     ],
+     [
+      14.14917,
+      46.40748
+     ],
+     [
+      14.14889,
+      46.40756
+     ],
+     [
+      14.14615,
+      46.40694
+     ],
+     [
+      14.14614,
+      46.4068
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.40674,
+   14.14858
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.4078,
+    "lon": 14.14822,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.40598,
+    "lon": 14.15466,
+    "name": null,
+    "distKm": 0.29
+   },
+   {
+    "lat": 46.4115,
+    "lon": 14.14759,
+    "name": "Turška jama",
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:32.115Z"
+ },
+ {
+  "id": "rd-jesenice/jezero-jasna",
+  "clubSlug": "rd-jesenice",
+  "slug": "jezero-jasna",
+  "code": "Jezero Jasna (09)",
+  "name": "Jezero Jasna",
+  "subtitle": "Kranjska Gora",
+  "en": {
+   "name": "The lake Jasna",
+   "subtitle": "Kranjska Gora",
+   "description": "This district consists of two connected reservoirs that were made by taking away the gravel from the confluence of the creeks Velika and Mala Pišnica. An additional supplement to fishing can be the extremely picturesque nature and the view to the Julijske Alpe mountains as well as the pebbled surroundings of the lake itself. In the most parts of the pretty cold water you can catch brown, rainbow or brook trouts."
+  },
+  "club": {
+   "name": "Ribiška družina Jesenice",
+   "url": "https://www.ribiskekarte.si/rd-jesenice"
+  },
+  "description": "Revir predstavlja medsebojno povezani umetni jezeri, ki sta nastali z odvzemon gramoza ob sotočju potokov Velike in Male Pišnice. Izjemno slikovita narava in pogled na Julijske Alpe ter prodnata okolica jezera predstavljajo izjemno dopolnilo ribolovu. V večjem delu sorazmerno hladne vode je moč ujeti potočno postrv ali šarenko, z malo sreče celo lipana.",
+  "waterType": "lake",
+  "water": "Jasna",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi (ujemi in odnesi)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/106"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/1004"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-jesenice/jezero-jasna",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Jasna"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      13.78271,
+      46.47518
+     ],
+     [
+      13.78289,
+      46.47441
+     ],
+     [
+      13.78379,
+      46.47457
+     ],
+     [
+      13.78433,
+      46.47449
+     ],
+     [
+      13.78326,
+      46.47411
+     ],
+     [
+      13.78317,
+      46.47391
+     ],
+     [
+      13.78367,
+      46.47332
+     ],
+     [
+      13.78432,
+      46.47293
+     ],
+     [
+      13.78481,
+      46.47365
+     ],
+     [
+      13.78445,
+      46.47449
+     ],
+     [
+      13.78449,
+      46.47485
+     ],
+     [
+      13.78374,
+      46.47535
+     ],
+     [
+      13.78271,
+      46.47518
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.47451,
+   13.78369
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.47525,
+    "lon": 13.78219,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.47144,
+    "lon": 13.78466,
+    "name": null,
+    "distKm": 0.17
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:15.348Z"
+ },
+ {
+  "id": "rd-jesenice/akumulacija-he-moste",
+  "clubSlug": "rd-jesenice",
+  "slug": "akumulacija-he-moste",
+  "code": "Sava Dolinka - trofejni revir Moste",
+  "name": "Sava Dolinka - trofejni revir Moste",
+  "subtitle": "Od izliva potoka Javornik v Savo Dolinko do pregrade elektrarne v Mostah",
+  "en": {
+   "name": "The river Sava Dolinka - trophy district Moste",
+   "subtitle": "from the confluence of the Sava Dolinka and the creek Javornik to the barrier of the power plant in Moste",
+   "description": "This district offers the strongest possibility of trophy catch. It is possible to fish even using a belly boat (without any kind of motorized propulsion) up to the sign for the power plant approximately 100 m before the lower barrier. The possibility of fishing from the shore largely depends on water levels - they can cover all the access points during the rain season."
+  },
+  "club": {
+   "name": "Ribiška družina Jesenice",
+   "url": "https://www.ribiskekarte.si/rd-jesenice"
+  },
+  "description": "V tem revirju je največja verjetnost za kapitalni ulov. Ribolov je dovoljen z obale ali s plovnim pripomočkom t.i. belly boat-om (brez vseh vrst motornega pogona), po celotnem jezeru, do opozorilne table cca. 100 m pred spodnjo pregrado. Možnost ribolova z obale je v precejšnji meri odvisna od nivoja vodne gladine, ki v času deževja prekrije dostopne točke.",
+  "waterType": "river",
+  "water": "Sava Dolinka",
+  "species": [
+   "jezerska-postrv",
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "jezerska postrv",
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 60,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/883"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-jesenice/akumulacija-he-moste",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.434212,
+   "lon": 14.05902
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: sotočje Javornik",
+   "do: kraj Moste (jez)"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.08541,
+     46.42215
+    ],
+    [
+     14.08869,
+     46.42036
+    ],
+    [
+     14.09156,
+     46.41961
+    ],
+    [
+     14.09279,
+     46.41959
+    ],
+    [
+     14.09349,
+     46.41984
+    ],
+    [
+     14.09467,
+     46.42063
+    ],
+    [
+     14.09589,
+     46.42069
+    ],
+    [
+     14.0966,
+     46.42037
+    ],
+    [
+     14.09805,
+     46.41939
+    ],
+    [
+     14.10073,
+     46.41664
+    ],
+    [
+     14.10134,
+     46.41645
+    ],
+    [
+     14.10429,
+     46.41668
+    ],
+    [
+     14.10541,
+     46.41668
+    ],
+    [
+     14.10642,
+     46.41652
+    ],
+    [
+     14.1081,
+     46.41583
+    ],
+    [
+     14.10986,
+     46.41436
+    ],
+    [
+     14.11051,
+     46.41404
+    ],
+    [
+     14.11491,
+     46.41286
+    ],
+    [
+     14.11643,
+     46.41272
+    ],
+    [
+     14.11816,
+     46.41286
+    ],
+    [
+     14.11996,
+     46.41318
+    ],
+    [
+     14.12065,
+     46.41311
+    ],
+    [
+     14.12365,
+     46.41236
+    ],
+    [
+     14.12545,
+     46.41183
+    ],
+    [
+     14.12622,
+     46.41145
+    ],
+    [
+     14.12639,
+     46.41125
+    ],
+    [
+     14.12645,
+     46.41088
+    ],
+    [
+     14.12624,
+     46.41006
+    ]
+   ]
+  },
+  "center": [
+   46.41663,
+   14.10575
+  ],
+  "lengthKm": 3.8,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.423,
+    "lon": 14.1017,
+    "name": null,
+    "distKm": 0.48
+   },
+   {
+    "lat": 46.42532,
+    "lon": 14.09395,
+    "name": null,
+    "distKm": 0.52
+   },
+   {
+    "lat": 46.42714,
+    "lon": 14.08403,
+    "name": null,
+    "distKm": 0.56
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:51.424Z"
+ },
+ {
+  "id": "rd-jesenice/sava-dolinka-podkoren-mojstrana",
+  "clubSlug": "rd-jesenice",
+  "slug": "sava-dolinka-podkoren-mojstrana",
+  "code": "Sava Dolinka (A)",
+  "name": "Sava Dolinka",
+  "subtitle": "Od mostu v Podkorenu do prodne pregrade na Javorniku), Bistrica",
+  "en": {
+   "name": "The river Sava Dolinka",
+   "subtitle": "from the bridge in Podkoren to the pebble barrier in Javornik), the river Bistrica",
+   "description": "This is our longest fishing beat, stretching 32 km. The beat runs along the road from Podkoren to Slovenski Javornik. The entire beat is relatively easy to access. The upper section stands out for its beautiful nature and exceptionally scenic surroundings, while the lower section is special for its competition course, which was prepared some time ago for a World Fly Fishing Championship event."
+  },
+  "club": {
+   "name": "Ribiška družina Jesenice",
+   "url": "https://www.ribiskekarte.si/rd-jesenice"
+  },
+  "description": "To je naš najdaljši ribolovni revir v dolžini 32km. Revir poteka ob cesti od Podkorena do Slovenskega Javornika. Celoten revir je sorazmerno lahko dostopen. Prednost zgornjega dela predstavlja čudovita narava z izjemno slikovito okolico, posebnost spodnjega dela, pa je tekmovalna trasa, ki je bila pred časom pripravljena za tekmo svetovnega prvenstva v muharjenju.",
+  "waterType": "river",
+  "water": "Sava Dolinka",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "potocna-zlatovcica",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "potočna zlatovčica",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi (ujemi in odnesi)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/97"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 60,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/883"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-jesenice/sava-dolinka-podkoren-mojstrana",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.434212,
+   "lon": 14.05902
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Podkoren (most)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    13.73779,
+    46.49243
+   ]
+  },
+  "center": [
+   46.49243,
+   13.73779
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.49417,
+    "lon": 13.73613,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 46.49317,
+    "lon": 13.74183,
+    "name": null,
+    "distKm": 0.32
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:53.847Z"
+ },
+ {
+  "id": "rd-jesenice/sava-dolinka-moste-radovljica",
+  "clubSlug": "rd-jesenice",
+  "slug": "sava-dolinka-moste-radovljica",
+  "code": "Sava Dolinka (C)",
+  "name": "Sava Dolinka",
+  "subtitle": "Od pregrade v Mostah do sotočja s Savo Bohinjko), Radovna",
+  "en": {
+   "name": "The Sava Dolinka river",
+   "subtitle": "from the barrier in Moste to the confluence with the Sava Bohinjka river), the river Radovna",
+   "description": "It is the most pictureque area in fish life in the RD Jesenice. The district begins in the pools under the hydropower plant Moste and concludes just before the confluence of the Sava Dolinka and the Sava Bohinjka in Radovljica. The route of this water basin runs through the unspoilt nature in the valley Piškovce, through rapids in Berje and Lisice and through the famous camp Šobec in Lesce."
+  },
+  "club": {
+   "name": "Ribiška družina Jesenice",
+   "url": "https://www.ribiskekarte.si/rd-jesenice"
+  },
+  "description": "To je najbolj slikovit predel ribjega življa v RD Jesenice. Začetek revirja se prične v bazenih pod pregrado HE Moste in zaključi na sotočju Save Dolinke in Save Bohinjke v Radovljici. Trasa vodotoka poteka skozi neokrnjeno naravo v dolini Piškovce, skozi povirja v Berjah in Lisicah ter mimo znamenitega Campa Šobec v Lescah.",
+  "waterType": "river",
+  "water": "Sava Dolinka",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "potocna-zlatovcica",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "potočna zlatovčica",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 5.6,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/800"
+   },
+   {
+    "name": "Ribolov sulca - ujemi in spusti",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/1378"
+   },
+   {
+    "name": "Salmonidi - ciprinidi (ujemi in odnesi)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/103"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 60,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-jesenice/nakup/883"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-jesenice/sava-dolinka-moste-radovljica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.36763,
+   "lon": 14.134573
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Moste (jez)",
+   "do: sotočje Savo Bohinjko"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.12624,
+     46.41006
+    ],
+    [
+     14.12585,
+     46.40966
+    ],
+    [
+     14.12584,
+     46.40945
+    ],
+    [
+     14.12638,
+     46.40855
+    ],
+    [
+     14.12619,
+     46.40767
+    ],
+    [
+     14.12628,
+     46.40654
+    ],
+    [
+     14.12558,
+     46.40581
+    ],
+    [
+     14.12421,
+     46.40479
+    ],
+    [
+     14.12404,
+     46.4044
+    ],
+    [
+     14.12418,
+     46.40387
+    ],
+    [
+     14.12381,
+     46.40302
+    ],
+    [
+     14.12383,
+     46.40256
+    ],
+    [
+     14.12397,
+     46.40219
+    ],
+    [
+     14.12433,
+     46.40191
+    ],
+    [
+     14.12457,
+     46.40151
+    ],
+    [
+     14.12411,
+     46.39953
+    ],
+    [
+     14.12327,
+     46.39742
+    ],
+    [
+     14.12222,
+     46.39567
+    ],
+    [
+     14.12078,
+     46.39456
+    ],
+    [
+     14.12029,
+     46.39305
+    ],
+    [
+     14.11992,
+     46.39243
+    ],
+    [
+     14.11957,
+     46.39205
+    ],
+    [
+     14.11811,
+     46.3912
+    ],
+    [
+     14.11783,
+     46.39089
+    ],
+    [
+     14.11763,
+     46.39038
+    ],
+    [
+     14.11766,
+     46.38982
+    ],
+    [
+     14.11846,
+     46.38899
+    ],
+    [
+     14.11968,
+     46.38833
+    ],
+    [
+     14.12009,
+     46.38797
+    ],
+    [
+     14.12017,
+     46.38741
+    ],
+    [
+     14.12002,
+     46.38637
+    ],
+    [
+     14.12021,
+     46.38585
+    ],
+    [
+     14.12099,
+     46.3859
+    ],
+    [
+     14.12301,
+     46.387
+    ],
+    [
+     14.12375,
+     46.38722
+    ],
+    [
+     14.12503,
+     46.38703
+    ],
+    [
+     14.12565,
+     46.38655
+    ],
+    [
+     14.12587,
+     46.38602
+    ],
+    [
+     14.12574,
+     46.38576
+    ],
+    [
+     14.12478,
+     46.38509
+    ],
+    [
+     14.12469,
+     46.38486
+    ],
+    [
+     14.12476,
+     46.38417
+    ],
+    [
+     14.12519,
+     46.38329
+    ],
+    [
+     14.12678,
+     46.38227
+    ],
+    [
+     14.12817,
+     46.3816
+    ],
+    [
+     14.12839,
+     46.38126
+    ],
+    [
+     14.12843,
+     46.38078
+    ],
+    [
+     14.12799,
+     46.37955
+    ],
+    [
+     14.12825,
+     46.37892
+    ],
+    [
+     14.12886,
+     46.37839
+    ],
+    [
+     14.12952,
+     46.37815
+    ],
+    [
+     14.13053,
+     46.37809
+    ],
+    [
+     14.13148,
+     46.37785
+    ],
+    [
+     14.13276,
+     46.37685
+    ],
+    [
+     14.1338,
+     46.37634
+    ],
+    [
+     14.13387,
+     46.37589
+    ],
+    [
+     14.13374,
+     46.37565
+    ],
+    [
+     14.1321,
+     46.37473
+    ],
+    [
+     14.13197,
+     46.37455
+    ],
+    [
+     14.13208,
+     46.37396
+    ],
+    [
+     14.13157,
+     46.37177
+    ],
+    [
+     14.13188,
+     46.37091
+    ],
+    [
+     14.13228,
+     46.37054
+    ],
+    [
+     14.13332,
+     46.37038
+    ],
+    [
+     14.13443,
+     46.3705
+    ],
+    [
+     14.13496,
+     46.37037
+    ],
+    [
+     14.13529,
+     46.36992
+    ],
+    [
+     14.1354,
+     46.36887
+    ],
+    [
+     14.13497,
+     46.36822
+    ],
+    [
+     14.13401,
+     46.36729
+    ],
+    [
+     14.13368,
+     46.36669
+    ],
+    [
+     14.13375,
+     46.36537
+    ],
+    [
+     14.13433,
+     46.36432
+    ],
+    [
+     14.13468,
+     46.36401
+    ],
+    [
+     14.13542,
+     46.36392
+    ],
+    [
+     14.13702,
+     46.36446
+    ],
+    [
+     14.13767,
+     46.36486
+    ],
+    [
+     14.13843,
+     46.36513
+    ],
+    [
+     14.13926,
+     46.36522
+    ],
+    [
+     14.14005,
+     46.36497
+    ],
+    [
+     14.14117,
+     46.36328
+    ],
+    [
+     14.14155,
+     46.36181
+    ],
+    [
+     14.14186,
+     46.35977
+    ],
+    [
+     14.14277,
+     46.3583
+    ],
+    [
+     14.14358,
+     46.35752
+    ],
+    [
+     14.14432,
+     46.35709
+    ],
+    [
+     14.14642,
+     46.35623
+    ],
+    [
+     14.14708,
+     46.35611
+    ],
+    [
+     14.14766,
+     46.35581
+    ],
+    [
+     14.14785,
+     46.35557
+    ],
+    [
+     14.14792,
+     46.355
+    ],
+    [
+     14.14751,
+     46.35445
+    ],
+    [
+     14.14615,
+     46.35392
+    ],
+    [
+     14.14474,
+     46.35366
+    ],
+    [
+     14.14426,
+     46.35343
+    ],
+    [
+     14.14387,
+     46.35255
+    ],
+    [
+     14.14381,
+     46.35218
+    ],
+    [
+     14.14392,
+     46.35193
+    ],
+    [
+     14.14451,
+     46.35149
+    ],
+    [
+     14.14505,
+     46.35137
+    ],
+    [
+     14.14728,
+     46.35202
+    ],
+    [
+     14.14817,
+     46.35202
+    ],
+    [
+     14.14975,
+     46.35158
+    ],
+    [
+     14.15185,
+     46.35062
+    ],
+    [
+     14.15227,
+     46.35017
+    ],
+    [
+     14.15253,
+     46.34942
+    ],
+    [
+     14.15246,
+     46.34842
+    ],
+    [
+     14.1521,
+     46.34791
+    ],
+    [
+     14.15198,
+     46.34711
+    ],
+    [
+     14.15211,
+     46.34542
+    ],
+    [
+     14.15295,
+     46.34452
+    ],
+    [
+     14.15378,
+     46.34428
+    ],
+    [
+     14.15528,
+     46.34416
+    ]
+   ]
+  },
+  "center": [
+   46.37436,
+   14.13201
+  ],
+  "lengthKm": 10.7,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.37129,
+    "lon": 14.13652,
+    "name": null,
+    "distKm": 0.16
+   },
+   {
+    "lat": 46.36676,
+    "lon": 14.13606,
+    "name": null,
+    "distKm": 0.16
+   },
+   {
+    "lat": 46.35489,
+    "lon": 14.1501,
+    "name": null,
+    "distKm": 0.17
+   },
+   {
+    "lat": 46.40372,
+    "lon": 14.13043,
+    "name": null,
+    "distKm": 0.44
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:56.259Z"
+ }
+]

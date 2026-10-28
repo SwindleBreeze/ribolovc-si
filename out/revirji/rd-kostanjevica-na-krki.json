@@ -1,0 +1,1116 @@
+[
+ {
+  "id": "rd-kostanjevica-na-krki/krka-5",
+  "clubSlug": "rd-kostanjevica-na-krki",
+  "slug": "krka-5",
+  "code": "Krka 5",
+  "name": "Reka Krka",
+  "subtitle": "Od Mršeče vasi do izliva potoka Sušica pri Podbočju",
+  "en": {
+   "name": "The river Krka",
+   "subtitle": " from Mršeča vas to the outflow of the creek Sušica in Podbočje",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Kostanjevica na Krki",
+   "url": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Krka",
+  "species": [
+   "bolen",
+   "klen",
+   "linj",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "podust",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "bolen",
+   "klen",
+   "linj",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "podust",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/nakup/808"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/krka-5",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Mršeča vas",
+   "do: izliv"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.41727,
+     45.84711
+    ],
+    [
+     15.4199,
+     45.84881
+    ]
+   ]
+  },
+  "center": [
+   45.84796,
+   15.41859
+  ],
+  "lengthKm": 0.3,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 45.84779,
+    "lon": 15.41884,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 45.85156,
+    "lon": 15.42143,
+    "name": null,
+    "distKm": 0.33
+   },
+   {
+    "lat": 45.84405,
+    "lon": 15.41893,
+    "name": null,
+    "distKm": 0.36
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:22.544Z"
+ },
+ {
+  "id": "rd-kostanjevica-na-krki/obrh",
+  "clubSlug": "rd-kostanjevica-na-krki",
+  "slug": "obrh",
+  "code": "Obrh",
+  "name": "Potok Obrh",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Obrh",
+   "subtitle": "",
+   "description": "In its course from the spring to the outflow, the creek Obrh is relatively short but nevertheless it represents an intresting challenge for any recreational fishermen due to its many, artificially made treshholds which provide hiding places for brown trouts."
+  },
+  "club": {
+   "name": "Ribiška družina Kostanjevica na Krki",
+   "url": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki"
+  },
+  "description": "Od izvira do izliva je Obrh dokaj majhen potok, vendar je kljub temu zanimiv za športnega ribiča zaradi številnih umetno postavljenih pragov, ki ponujajo skrivališče potočni postrvi.",
+  "waterType": "river",
+  "water": "Obrh",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/nakup/807"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/obrh",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.31793,
+     45.6524
+    ],
+    [
+     15.31865,
+     45.65175
+    ],
+    [
+     15.31866,
+     45.65108
+    ],
+    [
+     15.31852,
+     45.65074
+    ],
+    [
+     15.31931,
+     45.64989
+    ],
+    [
+     15.3206,
+     45.6494
+    ],
+    [
+     15.32064,
+     45.64905
+    ],
+    [
+     15.32107,
+     45.64854
+    ],
+    [
+     15.32124,
+     45.64857
+    ],
+    [
+     15.32129,
+     45.64885
+    ],
+    [
+     15.32141,
+     45.6499
+    ],
+    [
+     15.32129,
+     45.65018
+    ],
+    [
+     15.32239,
+     45.65036
+    ],
+    [
+     15.32384,
+     45.65017
+    ],
+    [
+     15.32551,
+     45.64966
+    ],
+    [
+     15.32752,
+     45.64931
+    ],
+    [
+     15.32773,
+     45.64891
+    ],
+    [
+     15.32738,
+     45.64798
+    ],
+    [
+     15.3276,
+     45.64754
+    ],
+    [
+     15.32962,
+     45.64628
+    ],
+    [
+     15.33104,
+     45.64606
+    ],
+    [
+     15.33226,
+     45.64549
+    ],
+    [
+     15.33334,
+     45.64538
+    ],
+    [
+     15.33425,
+     45.64556
+    ],
+    [
+     15.3349,
+     45.64592
+    ],
+    [
+     15.33661,
+     45.64604
+    ],
+    [
+     15.3373,
+     45.64581
+    ],
+    [
+     15.33933,
+     45.64565
+    ],
+    [
+     15.34097,
+     45.64504
+    ],
+    [
+     15.34215,
+     45.64477
+    ]
+   ]
+  },
+  "center": [
+   45.64835,
+   15.32752
+  ],
+  "lengthKm": 2.7,
+  "region": "dolenjska",
+  "parking": [
+   {
+    "lat": 45.65054,
+    "lon": 15.31646,
+    "name": null,
+    "distKm": 0.16
+   },
+   {
+    "lat": 45.64713,
+    "lon": 15.31913,
+    "name": null,
+    "distKm": 0.22
+   },
+   {
+    "lat": 45.65359,
+    "lon": 15.31351,
+    "name": null,
+    "distKm": 0.37
+   },
+   {
+    "lat": 45.65143,
+    "lon": 15.3364,
+    "name": null,
+    "distKm": 0.6
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:48.963Z"
+ },
+ {
+  "id": "rd-kostanjevica-na-krki/studena",
+  "clubSlug": "rd-kostanjevica-na-krki",
+  "slug": "studena",
+  "code": "Studena",
+  "name": "Potok Studena",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Studena",
+   "subtitle": "",
+   "description": "The creek Studena is the most visited salmonid water for recreational fishing in our district. Due to prominent meanders and numerous pools made by the creek itself in its middle stream, the fishing for brown trouts is an interesting and special challenge."
+  },
+  "club": {
+   "name": "Ribiška družina Kostanjevica na Krki",
+   "url": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki"
+  },
+  "description": "Potok Studena je najbolj obiskana salmonidna športno-ribolovna voda v našem revirju. Zaradi izrazitih meandrov in številnih tolmunov, ki jih potok dela v svojem srednjem toku, je ribolov potočne postrvi zanimiv in poseben ribiški izziv.",
+  "waterType": "river",
+  "water": "Studena",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/nakup/807"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/studena",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.43335,
+     45.8386
+    ],
+    [
+     15.42339,
+     45.84504
+    ]
+   ]
+  },
+  "center": [
+   45.84182,
+   15.42837
+  ],
+  "lengthKm": 1.1,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 45.8441,
+    "lon": 15.42503,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 45.83855,
+    "lon": 15.433,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 45.84378,
+    "lon": 15.41987,
+    "name": null,
+    "distKm": 0.31
+   },
+   {
+    "lat": 45.84779,
+    "lon": 15.41889,
+    "name": null,
+    "distKm": 0.46
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:00.990Z"
+ },
+ {
+  "id": "rd-kostanjevica-na-krki/susica",
+  "clubSlug": "rd-kostanjevica-na-krki",
+  "slug": "susica",
+  "code": "Sušica",
+  "name": "Potok Sušica",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Sušica",
+   "subtitle": "",
+   "description": "The creek Sušica is long but rather \"whimsical\" creek that dries up often ( the word suša means drought in Slovenian, hence the name of the creek). It runs mostly through the karst terrain, often goes underground and leaves the channel dry. This happens more often in the summer months or when the precipitations are scarce."
+  },
+  "club": {
+   "name": "Ribiška družina Kostanjevica na Krki",
+   "url": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki"
+  },
+  "description": "Sušica je dolg, precej »muhast« potok in, kot že samo ime pove, velikokrat presuši. Ker večinoma teče po kraškem terenu, na določenih mestih ponikne in je struga suha. Pojav je izrazitejši v poletnih mesecih ter ob pomanjkanju padavin. Za ribolov je zanimiv predvsem odsek od vodnega zajetja pod vasjo Dol do ribogojnice v Podbočju.",
+  "waterType": "river",
+  "water": "Sušica",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sulec"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "sulec"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/nakup/807"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kostanjevica-na-krki/susica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.46927,
+     45.83055
+    ],
+    [
+     15.46835,
+     45.83114
+    ],
+    [
+     15.46813,
+     45.83157
+    ],
+    [
+     15.46765,
+     45.83193
+    ],
+    [
+     15.46738,
+     45.83232
+    ],
+    [
+     15.46651,
+     45.83284
+    ],
+    [
+     15.46589,
+     45.8339
+    ],
+    [
+     15.46552,
+     45.83401
+    ],
+    [
+     15.46534,
+     45.8344
+    ],
+    [
+     15.46456,
+     45.83477
+    ],
+    [
+     15.4646,
+     45.83495
+    ],
+    [
+     15.46329,
+     45.83612
+    ],
+    [
+     15.46208,
+     45.83647
+    ],
+    [
+     15.46153,
+     45.83715
+    ],
+    [
+     15.4608,
+     45.83764
+    ],
+    [
+     15.46083,
+     45.83835
+    ],
+    [
+     15.46063,
+     45.83886
+    ],
+    [
+     15.46057,
+     45.83976
+    ],
+    [
+     15.45904,
+     45.84023
+    ],
+    [
+     15.4584,
+     45.84059
+    ],
+    [
+     15.45841,
+     45.8412
+    ],
+    [
+     15.45818,
+     45.84161
+    ],
+    [
+     15.45761,
+     45.84206
+    ],
+    [
+     15.45672,
+     45.84307
+    ],
+    [
+     15.4562,
+     45.84405
+    ],
+    [
+     15.4562,
+     45.84457
+    ],
+    [
+     15.45667,
+     45.8452
+    ],
+    [
+     15.4567,
+     45.84563
+    ],
+    [
+     15.45599,
+     45.8472
+    ],
+    [
+     15.45568,
+     45.84757
+    ],
+    [
+     15.45561,
+     45.84826
+    ],
+    [
+     15.45605,
+     45.84885
+    ],
+    [
+     15.45605,
+     45.84914
+    ],
+    [
+     15.45568,
+     45.84936
+    ],
+    [
+     15.45536,
+     45.84975
+    ],
+    [
+     15.45516,
+     45.85029
+    ],
+    [
+     15.45555,
+     45.85052
+    ],
+    [
+     15.45669,
+     45.85028
+    ],
+    [
+     15.45713,
+     45.85031
+    ],
+    [
+     15.4582,
+     45.8509
+    ],
+    [
+     15.45838,
+     45.85115
+    ],
+    [
+     15.45996,
+     45.85158
+    ],
+    [
+     15.46012,
+     45.85174
+    ],
+    [
+     15.46007,
+     45.85207
+    ],
+    [
+     15.45936,
+     45.85238
+    ],
+    [
+     15.45913,
+     45.85262
+    ],
+    [
+     15.4593,
+     45.85281
+    ],
+    [
+     15.45977,
+     45.85292
+    ],
+    [
+     15.46121,
+     45.85263
+    ],
+    [
+     15.46133,
+     45.85252
+    ],
+    [
+     15.46122,
+     45.85199
+    ],
+    [
+     15.46135,
+     45.85186
+    ],
+    [
+     15.46416,
+     45.85163
+    ],
+    [
+     15.46481,
+     45.85171
+    ],
+    [
+     15.46501,
+     45.85123
+    ],
+    [
+     15.46559,
+     45.85125
+    ],
+    [
+     15.46833,
+     45.85241
+    ],
+    [
+     15.46977,
+     45.85244
+    ],
+    [
+     15.47262,
+     45.85199
+    ],
+    [
+     15.47456,
+     45.85247
+    ],
+    [
+     15.47564,
+     45.85256
+    ],
+    [
+     15.47944,
+     45.85213
+    ],
+    [
+     15.48345,
+     45.85214
+    ],
+    [
+     15.48539,
+     45.85167
+    ],
+    [
+     15.48601,
+     45.85187
+    ],
+    [
+     15.48675,
+     45.85188
+    ],
+    [
+     15.48707,
+     45.85173
+    ],
+    [
+     15.4881,
+     45.85058
+    ],
+    [
+     15.48853,
+     45.85039
+    ],
+    [
+     15.49123,
+     45.85057
+    ],
+    [
+     15.49174,
+     45.8508
+    ],
+    [
+     15.49214,
+     45.85215
+    ],
+    [
+     15.49199,
+     45.85352
+    ],
+    [
+     15.49297,
+     45.85433
+    ],
+    [
+     15.49336,
+     45.8545
+    ],
+    [
+     15.49347,
+     45.85474
+    ],
+    [
+     15.493,
+     45.85507
+    ],
+    [
+     15.49298,
+     45.85535
+    ],
+    [
+     15.49273,
+     45.85574
+    ],
+    [
+     15.49289,
+     45.85625
+    ],
+    [
+     15.49282,
+     45.8566
+    ],
+    [
+     15.492,
+     45.85709
+    ],
+    [
+     15.49144,
+     45.85716
+    ],
+    [
+     15.49088,
+     45.85684
+    ],
+    [
+     15.48897,
+     45.85731
+    ],
+    [
+     15.48692,
+     45.85713
+    ],
+    [
+     15.48591,
+     45.85754
+    ],
+    [
+     15.48511,
+     45.85764
+    ],
+    [
+     15.48362,
+     45.8574
+    ],
+    [
+     15.48294,
+     45.85706
+    ],
+    [
+     15.48144,
+     45.85767
+    ],
+    [
+     15.4812,
+     45.85791
+    ],
+    [
+     15.48117,
+     45.85833
+    ],
+    [
+     15.48086,
+     45.85875
+    ],
+    [
+     15.48013,
+     45.85863
+    ],
+    [
+     15.47914,
+     45.85877
+    ],
+    [
+     15.47839,
+     45.85923
+    ],
+    [
+     15.47749,
+     45.85932
+    ],
+    [
+     15.47684,
+     45.8592
+    ],
+    [
+     15.47684,
+     45.85957
+    ],
+    [
+     15.47669,
+     45.85977
+    ],
+    [
+     15.47598,
+     45.85987
+    ],
+    [
+     15.47516,
+     45.8598
+    ],
+    [
+     15.47492,
+     45.85998
+    ],
+    [
+     15.47409,
+     45.86015
+    ],
+    [
+     15.4742,
+     45.86028
+    ],
+    [
+     15.47408,
+     45.8604
+    ],
+    [
+     15.47342,
+     45.86058
+    ],
+    [
+     15.473,
+     45.86049
+    ],
+    [
+     15.4725,
+     45.86076
+    ],
+    [
+     15.47245,
+     45.86105
+    ],
+    [
+     15.47184,
+     45.86098
+    ],
+    [
+     15.47169,
+     45.86117
+    ],
+    [
+     15.47115,
+     45.86131
+    ],
+    [
+     15.47099,
+     45.86155
+    ],
+    [
+     15.4703,
+     45.86174
+    ],
+    [
+     15.46994,
+     45.86224
+    ],
+    [
+     15.4677,
+     45.86286
+    ],
+    [
+     15.46693,
+     45.86325
+    ],
+    [
+     15.46681,
+     45.86355
+    ],
+    [
+     15.46728,
+     45.86368
+    ],
+    [
+     15.46739,
+     45.8639
+    ],
+    [
+     15.46727,
+     45.86446
+    ],
+    [
+     15.467,
+     45.8648
+    ],
+    [
+     15.46702,
+     45.86505
+    ],
+    [
+     15.46728,
+     45.86543
+    ],
+    [
+     15.4673,
+     45.86588
+    ],
+    [
+     15.46709,
+     45.86619
+    ],
+    [
+     15.46754,
+     45.86625
+    ],
+    [
+     15.46732,
+     45.86658
+    ],
+    [
+     15.4677,
+     45.86694
+    ],
+    [
+     15.46769,
+     45.86716
+    ],
+    [
+     15.46828,
+     45.8674
+    ],
+    [
+     15.46833,
+     45.8677
+    ],
+    [
+     15.46928,
+     45.86825
+    ],
+    [
+     15.47026,
+     45.86839
+    ],
+    [
+     15.47063,
+     45.86818
+    ],
+    [
+     15.47203,
+     45.86843
+    ],
+    [
+     15.47232,
+     45.86879
+    ],
+    [
+     15.47273,
+     45.86886
+    ],
+    [
+     15.47368,
+     45.86949
+    ],
+    [
+     15.47392,
+     45.8703
+    ],
+    [
+     15.47432,
+     45.87066
+    ]
+   ]
+  },
+  "center": [
+   45.85214,
+   15.48223
+  ],
+  "lengthKm": 10.5,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 45.86187,
+    "lon": 15.47134,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 45.86378,
+    "lon": 15.46339,
+    "name": null,
+    "distKm": 0.27
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:05.790Z"
+ }
+]

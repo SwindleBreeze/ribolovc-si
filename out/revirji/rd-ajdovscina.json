@@ -1,0 +1,965 @@
+[
+ {
+  "id": "rd-ajdovscina/jezero-dobravska-krnica",
+  "clubSlug": "rd-ajdovscina",
+  "slug": "jezero-dobravska-krnica",
+  "code": "Dobravska krnica",
+  "name": "Ribnik v Dobravski Krnici",
+  "subtitle": "",
+  "en": {
+   "name": "The pond in Dobravska krnica",
+   "subtitle": "",
+   "description": "A reservoir that was made due to land improvements around the river Vipava .The reservoir's waters come directly from the Vipava itself. The pond is up to 3m deep. The pond is surrounded with trees which offer very pleasant shadowvs, the parking lot has been provided for and even some picnic benches can be found."
+  },
+  "club": {
+   "name": "Ribiška družina Ajdovščina",
+   "url": "https://www.ribiskekarte.si/rd-ajdovscina"
+  },
+  "description": "Umetno jezero, ki je natalo kot posledica melioracij reke Vipave. Napaja se z vodo iz reke Vipave. Globina vode je do 3m. Ribnik je obkrožen z drevjem ki nudijo prijetno senco, urejeno je tudi parkirišče in piknik klopi. Vodo naseljujejo krapi, linji, štrkavci, grbe, podusti, zelenike, mazenice, sončni ostriži.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "mrena",
+   "klen",
+   "krap",
+   "linj",
+   "podust"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "podust"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "bojli",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ajdovscina/nakup/83"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ajdovscina/jezero-dobravska-krnica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      13.85957,
+      45.8854
+     ],
+     [
+      13.86008,
+      45.88553
+     ],
+     [
+      13.86005,
+      45.88567
+     ],
+     [
+      13.85983,
+      45.88568
+     ],
+     [
+      13.85957,
+      45.8854
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.88554,
+   13.85981
+  ],
+  "lengthKm": null,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 45.88679,
+    "lon": 13.86349,
+    "name": null,
+    "distKm": 0.29
+   },
+   {
+    "lat": 45.88281,
+    "lon": 13.86437,
+    "name": null,
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:29.704Z"
+ },
+ {
+  "id": "rd-ajdovscina/hubelj",
+  "clubSlug": "rd-ajdovscina",
+  "slug": "hubelj",
+  "code": "Hubelj",
+  "name": "Reka Hubelj",
+  "subtitle": "",
+  "en": {
+   "name": "The river Hubelj",
+   "subtitle": "",
+   "description": "The district Hubelj expands from the bridge on highway to the confluence with the Vipava."
+  },
+  "club": {
+   "name": "Ribiška družina Ajdovščina",
+   "url": "https://www.ribiskekarte.si/rd-ajdovscina"
+  },
+  "description": "Revir Hubelj poteka od mosta avtoceste do sotočja z Vipavo.",
+  "waterType": "river",
+  "water": "Hubelj",
+  "species": [
+   "krizanec",
+   "potocna-postrv",
+   "soska-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "potočna postrv",
+   "soška postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Salmonidi (ujemi in spusti)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ajdovscina/nakup/1340"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ajdovscina/hubelj",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.89405,
+   "lon": 13.909731
+  },
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.91346,
+     45.90491
+    ],
+    [
+     13.91326,
+     45.9046
+    ],
+    [
+     13.91274,
+     45.90443
+    ],
+    [
+     13.91251,
+     45.90417
+    ],
+    [
+     13.91127,
+     45.90387
+    ],
+    [
+     13.91048,
+     45.90354
+    ],
+    [
+     13.91031,
+     45.90313
+    ],
+    [
+     13.9096,
+     45.90279
+    ],
+    [
+     13.90938,
+     45.9025
+    ],
+    [
+     13.90826,
+     45.90249
+    ],
+    [
+     13.90661,
+     45.90215
+    ],
+    [
+     13.90648,
+     45.90184
+    ],
+    [
+     13.90674,
+     45.90147
+    ],
+    [
+     13.90656,
+     45.90107
+    ],
+    [
+     13.90583,
+     45.90036
+    ],
+    [
+     13.9055,
+     45.89979
+    ],
+    [
+     13.9054,
+     45.89901
+    ],
+    [
+     13.90601,
+     45.89827
+    ],
+    [
+     13.90622,
+     45.89779
+    ],
+    [
+     13.90518,
+     45.89673
+    ],
+    [
+     13.90472,
+     45.89544
+    ],
+    [
+     13.90496,
+     45.89501
+    ],
+    [
+     13.90554,
+     45.89494
+    ],
+    [
+     13.9057,
+     45.89479
+    ],
+    [
+     13.90514,
+     45.8941
+    ],
+    [
+     13.90567,
+     45.89267
+    ],
+    [
+     13.90622,
+     45.89176
+    ],
+    [
+     13.90626,
+     45.89124
+    ],
+    [
+     13.906,
+     45.89049
+    ],
+    [
+     13.90599,
+     45.8899
+    ],
+    [
+     13.90627,
+     45.88902
+    ],
+    [
+     13.90684,
+     45.88821
+    ],
+    [
+     13.90703,
+     45.88762
+    ],
+    [
+     13.90658,
+     45.88591
+    ],
+    [
+     13.9066,
+     45.88562
+    ],
+    [
+     13.90689,
+     45.88506
+    ],
+    [
+     13.90792,
+     45.88433
+    ],
+    [
+     13.90832,
+     45.88385
+    ],
+    [
+     13.90873,
+     45.88165
+    ],
+    [
+     13.90857,
+     45.8805
+    ],
+    [
+     13.90762,
+     45.87889
+    ],
+    [
+     13.90752,
+     45.87846
+    ],
+    [
+     13.90777,
+     45.87698
+    ],
+    [
+     13.90733,
+     45.87634
+    ],
+    [
+     13.90711,
+     45.87555
+    ],
+    [
+     13.90727,
+     45.87495
+    ],
+    [
+     13.90837,
+     45.8734
+    ],
+    [
+     13.90839,
+     45.87257
+    ],
+    [
+     13.90812,
+     45.87203
+    ],
+    [
+     13.90696,
+     45.87087
+    ],
+    [
+     13.90641,
+     45.87041
+    ],
+    [
+     13.90503,
+     45.86965
+    ],
+    [
+     13.90468,
+     45.8693
+    ],
+    [
+     13.90432,
+     45.8685
+    ],
+    [
+     13.90411,
+     45.86733
+    ],
+    [
+     13.90348,
+     45.86664
+    ]
+   ]
+  },
+  "center": [
+   45.88709,
+   13.90689
+  ],
+  "lengthKm": 5,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 45.89745,
+    "lon": 13.90567,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 45.90391,
+    "lon": 13.912,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 45.8873,
+    "lon": 13.90666,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 45.88212,
+    "lon": 13.9092,
+    "name": null,
+    "distKm": 0.04
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:56.156Z"
+ },
+ {
+  "id": "rd-ajdovscina/vipava",
+  "clubSlug": "rd-ajdovscina",
+  "slug": "vipava",
+  "code": "Vipava",
+  "name": "Reka Vipava",
+  "subtitle": "Od starega mostu v Vipavi do jezu pod Brjami",
+  "en": {
+   "name": "The river Vipava",
+   "subtitle": "From the old bridge in Vipava to the dam in Brje",
+   "description": "The district includes the whole current of the river Vipava, which is managed by the RD Ajdovščina. The district is further divided in to two subdistricts: Vipava fly fishing district and cyprinid district. All the fish species of our fishing environment can be found in this district : trophy marble trouts, hybrids, brown trouts, natural rainbow trouts and graylings."
+  },
+  "club": {
+   "name": "Ribiška družina Ajdovščina",
+   "url": "https://www.ribiskekarte.si/rd-ajdovscina"
+  },
+  "description": "Revir predstavlja celoten tok reke Vipave s katerim upravlja RD Ajdovščina. Ta revir delimo na 2 dela, in sicer Vipava Muharski revir ter ciprinidni revir. V revirju najdemo skoraj vse vrste rib, od trofejnih soških postrvi in križancev, do potočne postrvi ter natur šarenke in lipanov. Od ciprinidov prevaladujejo štrkavci, mrene ter podusti pa tudi krapi in linji niso redki.",
+  "waterType": "river",
+  "water": "Vipava",
+  "species": [
+   "mrena",
+   "klen",
+   "krap",
+   "krizanec",
+   "linj",
+   "podust",
+   "potocna-postrv",
+   "soska-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "klen",
+   "krap",
+   "križanec",
+   "linj",
+   "mrena",
+   "podust",
+   "potočna postrv",
+   "soška postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "koruza",
+   "sadje",
+   "umetna muha",
+   "umetne vabe",
+   "vodni mah"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (ujemi in odnesi)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ajdovscina/nakup/86"
+   },
+   {
+    "name": "Salmonidi (ujemi in odnesi, 1.4. - 30.9.)",
+    "priceEur": 70,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ajdovscina/nakup/84"
+   },
+   {
+    "name": "Salmonidi (ujemi in odnesi, od 1.10. do 31.10.)",
+    "priceEur": 70,
+    "saleWindow": "Nakup od 01. 10. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ajdovscina/nakup/829"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ajdovscina/vipava",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.866353,
+   "lon": 13.901269
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Vipava",
+   "do: kraj Brje (jez)"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.9637,
+     45.84541
+    ],
+    [
+     13.96352,
+     45.84481
+    ],
+    [
+     13.96274,
+     45.84428
+    ],
+    [
+     13.96254,
+     45.84391
+    ],
+    [
+     13.96231,
+     45.84266
+    ],
+    [
+     13.96195,
+     45.84235
+    ],
+    [
+     13.96106,
+     45.84198
+    ],
+    [
+     13.95872,
+     45.8422
+    ],
+    [
+     13.95797,
+     45.84285
+    ],
+    [
+     13.9576,
+     45.84298
+    ],
+    [
+     13.95606,
+     45.8429
+    ],
+    [
+     13.95528,
+     45.84345
+    ],
+    [
+     13.954,
+     45.84357
+    ],
+    [
+     13.95113,
+     45.84447
+    ],
+    [
+     13.94964,
+     45.84481
+    ],
+    [
+     13.94847,
+     45.8454
+    ],
+    [
+     13.94773,
+     45.84593
+    ],
+    [
+     13.94696,
+     45.84708
+    ],
+    [
+     13.94629,
+     45.8477
+    ],
+    [
+     13.94429,
+     45.84854
+    ],
+    [
+     13.94395,
+     45.84887
+    ],
+    [
+     13.9433,
+     45.85001
+    ],
+    [
+     13.94295,
+     45.8503
+    ],
+    [
+     13.94076,
+     45.85092
+    ],
+    [
+     13.92378,
+     45.8615
+    ],
+    [
+     13.92274,
+     45.86188
+    ],
+    [
+     13.92022,
+     45.86203
+    ],
+    [
+     13.91867,
+     45.86237
+    ],
+    [
+     13.9177,
+     45.8628
+    ],
+    [
+     13.91541,
+     45.8645
+    ],
+    [
+     13.9142,
+     45.86501
+    ],
+    [
+     13.91327,
+     45.86524
+    ],
+    [
+     13.91225,
+     45.86536
+    ],
+    [
+     13.90803,
+     45.86508
+    ],
+    [
+     13.9071,
+     45.86531
+    ],
+    [
+     13.90498,
+     45.86654
+    ],
+    [
+     13.90419,
+     45.86667
+    ],
+    [
+     13.90127,
+     45.86631
+    ],
+    [
+     13.89965,
+     45.86646
+    ],
+    [
+     13.89811,
+     45.86689
+    ],
+    [
+     13.89726,
+     45.86698
+    ],
+    [
+     13.89508,
+     45.86663
+    ],
+    [
+     13.89375,
+     45.86666
+    ],
+    [
+     13.89078,
+     45.86764
+    ],
+    [
+     13.88791,
+     45.86754
+    ],
+    [
+     13.88607,
+     45.86786
+    ],
+    [
+     13.88553,
+     45.86779
+    ],
+    [
+     13.88336,
+     45.86702
+    ],
+    [
+     13.88277,
+     45.86704
+    ],
+    [
+     13.88131,
+     45.86748
+    ],
+    [
+     13.87989,
+     45.86737
+    ],
+    [
+     13.87791,
+     45.86645
+    ],
+    [
+     13.87625,
+     45.86475
+    ],
+    [
+     13.87538,
+     45.86413
+    ],
+    [
+     13.87493,
+     45.86399
+    ],
+    [
+     13.87258,
+     45.86423
+    ],
+    [
+     13.87118,
+     45.86468
+    ],
+    [
+     13.8697,
+     45.86482
+    ],
+    [
+     13.86896,
+     45.86471
+    ],
+    [
+     13.86685,
+     45.86516
+    ],
+    [
+     13.8651,
+     45.86492
+    ],
+    [
+     13.86323,
+     45.86495
+    ],
+    [
+     13.85915,
+     45.8647
+    ],
+    [
+     13.8584,
+     45.8649
+    ],
+    [
+     13.85744,
+     45.86565
+    ],
+    [
+     13.85678,
+     45.86732
+    ],
+    [
+     13.85626,
+     45.86785
+    ],
+    [
+     13.85551,
+     45.86898
+    ],
+    [
+     13.85485,
+     45.87096
+    ],
+    [
+     13.85412,
+     45.8716
+    ],
+    [
+     13.85101,
+     45.87318
+    ],
+    [
+     13.85,
+     45.87348
+    ],
+    [
+     13.8488,
+     45.87321
+    ],
+    [
+     13.84827,
+     45.87288
+    ],
+    [
+     13.84753,
+     45.87195
+    ],
+    [
+     13.84701,
+     45.87152
+    ],
+    [
+     13.84383,
+     45.86974
+    ],
+    [
+     13.84278,
+     45.86945
+    ],
+    [
+     13.84193,
+     45.86937
+    ],
+    [
+     13.84057,
+     45.86954
+    ],
+    [
+     13.83804,
+     45.8705
+    ],
+    [
+     13.83671,
+     45.87081
+    ],
+    [
+     13.8356,
+     45.87083
+    ],
+    [
+     13.83289,
+     45.87038
+    ],
+    [
+     13.83081,
+     45.87059
+    ],
+    [
+     13.82825,
+     45.87047
+    ],
+    [
+     13.82464,
+     45.87129
+    ],
+    [
+     13.82237,
+     45.87147
+    ],
+    [
+     13.82113,
+     45.87197
+    ],
+    [
+     13.81955,
+     45.87282
+    ],
+    [
+     13.81539,
+     45.87332
+    ],
+    [
+     13.81286,
+     45.87413
+    ],
+    [
+     13.81134,
+     45.87411
+    ],
+    [
+     13.81031,
+     45.87356
+    ]
+   ]
+  },
+  "center": [
+   45.86756,
+   13.88852
+  ],
+  "lengthKm": 14.4,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 45.86493,
+    "lon": 13.90845,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 45.84271,
+    "lon": 13.96285,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 45.86691,
+    "lon": 13.88018,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 45.84097,
+    "lon": 13.95793,
+    "name": null,
+    "distKm": 0.15
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 45.87137,
+    "lon": 13.83604,
+    "name": "Dobravska Krnica",
+    "distKm": 0.06
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:43:03.437Z"
+ }
+]

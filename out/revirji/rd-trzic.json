@@ -1,0 +1,257 @@
+[
+ {
+  "id": "rd-trzic/ribnik-zeje",
+  "clubSlug": "rd-trzic",
+  "slug": "ribnik-zeje",
+  "code": "Ribnik Žeje",
+  "name": "Ribnik Žeje",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Žeje",
+   "subtitle": "",
+   "description": "The ponds are situated on nice location at the base of the little village called Žeje, very near the highway across Gorenjska region. Variety in fish species guarantees some unforgettable moments of joy for every fisherman - even with a possibility to catch some first class specimens."
+  },
+  "club": {
+   "name": "Ribiška družina Tržič",
+   "url": "https://www.ribiskekarte.si/rd-trzic"
+  },
+  "description": "Ribniki so na lepi lokaciji v vznožju vasice Žeje tik ob gorenjski avtocesti. Pestrost vrst rib omogoča vsakemu ribiču nekaj nepozabnih užitkov z možnostju ulova tudi kapitalnih primerkov. Teren je primeren in dostopen prav za vsakega ribiča in omogoča tudi družinskim članom sprostitev s sprehodom ali otrokom veselje na igralih. Med ribolovom si žejo in lakoto lahko potešite v ribiškem domu po ugodnih cenah.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-trzic/ribnik-zeje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.4221,
+      46.28622
+     ],
+     [
+      14.42231,
+      46.28622
+     ],
+     [
+      14.4221,
+      46.28622
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.28621,
+   14.4222
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.28991,
+    "lon": 14.42156,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:53.811Z"
+ },
+ {
+  "id": "rd-trzic/sava-5",
+  "clubSlug": "rd-trzic",
+  "slug": "sava-5",
+  "code": "Sava",
+  "name": "Reka Sava",
+  "subtitle": "od izliva Tržiške Bistrice do jezu pri Tekstilindusu - Aquasavi, vključno z Majdičevim kanalom",
+  "en": {
+   "name": "The river Sava",
+   "subtitle": "from the outflow of the Tržiška Bistrica to the dam at Tekstilindus - Aquasava, including the Majdič's channel",
+   "description": "The nature is beautiful and the water is clean and hard to access in some areas. The water is rich in salmonids and in 2012 the world championship in fly fishing took place in this district. The water is meant for sports fishing and is extremely salmonid in character - here live brown trouts, rainbow trouts and graylings and in the district you can find some first class specimen of huchen."
+  },
+  "club": {
+   "name": "Ribiška družina Tržič",
+   "url": "https://www.ribiskekarte.si/rd-trzic"
+  },
+  "description": "Izjemno lepa narava s čisto vodo, ki je sicer na nekaterih delih malce težje dostopna. Voda je izredno bogata s salmonidnimi vrstami. V revirju se je leta 2012 odvijalo svetovno prvenstvo v muharjenju. Voda je namenjena športnemu ribolovu in je izrazito salmonidna. Poseljujejo jo potočna postrv, šarenka in lipan. V revirju kraljujejo kapitalni sulci.",
+  "waterType": "river",
+  "water": "Sava",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-trzic/sava-5",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.256269,
+   "lon": 14.324355
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Tržiške Bistrice"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.26622,
+    46.2794
+   ]
+  },
+  "center": [
+   46.2794,
+   14.26622
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.27943,
+    "lon": 14.27314,
+    "name": null,
+    "distKm": 0.53
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:58.645Z"
+ },
+ {
+  "id": "rd-trzic/trziska-bistrica-3",
+  "clubSlug": "rd-trzic",
+  "slug": "trziska-bistrica-3",
+  "code": "Tržiška Bistrica",
+  "name": "Tržiška Bistrica",
+  "subtitle": "s pritokom Mošenik",
+  "en": {
+   "name": "The Tržiška Bistrica",
+   "subtitle": "the chine Dovžanova soteska",
+   "description": "Do you want to know where to fish? Where to leave your car? What kind of a fly do you need? Just click here and read for free the guide for the river Tržiška Bistrica. From Jelendol to Tržič the Bistrica runs mostly through the canyon well known as \"Dovžanova soteska\". The current steadies itself from Tržič to the outflow into the Sava with bigger dams and thresholds that make fishing even more interesting."
+  },
+  "club": {
+   "name": "Ribiška družina Tržič",
+   "url": "https://www.ribiskekarte.si/rd-trzic"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšno muho potrebujete? Kliknite tukaj in preberite brezplačen vodič po Tržiški Bistrici. Od Jelendola do Tržiča teče Bistrica večinoma po kanjonu skozi znano \"Dovžanovo sotesko\". Od Tržiča do izliva v reko Savo pa je tok mirnejši v pravi rečni strugi z večimi jezovi in pragovi, ki popestrijo ribolov. Vsi pritoki Tržiške Bistrice, razen potoka Mošenik, so gojitveni potoki.",
+  "waterType": "lake",
+  "water": "Tržiška Bistrica",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-trzic/trziska-bistrica-3",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.35791,
+   "lon": 14.299584
+  },
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Tržiška Bistrica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.26647,
+      46.27992
+     ],
+     [
+      14.2666,
+      46.27967
+     ],
+     [
+      14.26729,
+      46.28005
+     ],
+     [
+      14.2684,
+      46.28036
+     ],
+     [
+      14.27096,
+      46.28048
+     ],
+     [
+      14.27395,
+      46.28009
+     ],
+     [
+      14.27489,
+      46.28044
+     ],
+     [
+      14.27567,
+      46.2805
+     ],
+     [
+      14.27607,
+      46.28084
+     ],
+     [
+      14.27563,
+      46.28118
+     ],
+     [
+      14.27402,
+      46.2809
+     ],
+     [
+      14.27321,
+      46.28043
+     ],
+     [
+      14.26895,
+      46.28078
+     ],
+     [
+      14.2673,
+      46.28039
+     ],
+     [
+      14.26647,
+      46.27992
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.28044,
+   14.27134
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.27943,
+    "lon": 14.27314,
+    "name": null,
+    "distKm": 0.1
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:29.852Z"
+ }
+]

@@ -1,0 +1,5466 @@
+[
+ {
+  "id": "rd-lendava/gramoznica-banuta",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-banuta",
+  "code": "Gramoznica Banuta",
+  "name": "Gramoznica Banuta v gozdu",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Banuta - in the woods",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica Banuta",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/771"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-banuta",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Banuta"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.40442,
+      46.59798
+     ],
+     [
+      16.40479,
+      46.59751
+     ],
+     [
+      16.40562,
+      46.597
+     ],
+     [
+      16.40577,
+      46.59694
+     ],
+     [
+      16.40599,
+      46.59711
+     ],
+     [
+      16.40564,
+      46.59827
+     ],
+     [
+      16.4049,
+      46.59843
+     ],
+     [
+      16.40442,
+      46.59798
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.59777,
+   16.4052
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:56.138Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-brezovica",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-brezovica",
+  "code": "Gramoznica Brezovica",
+  "name": "Gramoznica Brezovica",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Brezovica",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/749"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-brezovica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:05.729Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-crensevci",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-crensevci",
+  "code": "Gramoznica Črenševci",
+  "name": "Gramoznica Črenšovci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Črenšovci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ogrica",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ogrica (sivka)",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/750"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-crensevci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:12.930Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-dobrovnik",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-dobrovnik",
+  "code": "Gramoznica Dobrovnik",
+  "name": "Gramoznica Dobrovnik",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Dobrovnik",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica Dobrovnik",
+  "species": [
+   "amur",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1024"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1109"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/772"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna (som)",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1110"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-dobrovnik",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Dobrovnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.34154,
+      46.63594
+     ],
+     [
+      16.34252,
+      46.63522
+     ],
+     [
+      16.34404,
+      46.6344
+     ],
+     [
+      16.34352,
+      46.63323
+     ],
+     [
+      16.34403,
+      46.63224
+     ],
+     [
+      16.34464,
+      46.63179
+     ],
+     [
+      16.34666,
+      46.63086
+     ],
+     [
+      16.34765,
+      46.63088
+     ],
+     [
+      16.34903,
+      46.63199
+     ],
+     [
+      16.35042,
+      46.63345
+     ],
+     [
+      16.34955,
+      46.63397
+     ],
+     [
+      16.34895,
+      46.63403
+     ],
+     [
+      16.34832,
+      46.6344
+     ],
+     [
+      16.34804,
+      46.63479
+     ],
+     [
+      16.34825,
+      46.635
+     ],
+     [
+      16.34799,
+      46.63492
+     ],
+     [
+      16.34798,
+      46.63476
+     ],
+     [
+      16.34769,
+      46.63506
+     ],
+     [
+      16.34838,
+      46.63519
+     ],
+     [
+      16.3484,
+      46.63539
+     ],
+     [
+      16.34789,
+      46.63568
+     ],
+     [
+      16.34717,
+      46.63541
+     ],
+     [
+      16.34735,
+      46.63531
+     ],
+     [
+      16.34724,
+      46.63526
+     ],
+     [
+      16.34644,
+      46.63511
+     ],
+     [
+      16.3463,
+      46.63484
+     ],
+     [
+      16.34565,
+      46.63491
+     ],
+     [
+      16.3457,
+      46.63515
+     ],
+     [
+      16.34633,
+      46.63559
+     ],
+     [
+      16.34653,
+      46.63561
+     ],
+     [
+      16.34621,
+      46.63539
+     ],
+     [
+      16.34641,
+      46.6352
+     ],
+     [
+      16.34656,
+      46.63543
+     ],
+     [
+      16.3468,
+      46.63541
+     ],
+     [
+      16.3475,
+      46.63585
+     ],
+     [
+      16.34659,
+      46.63565
+     ],
+     [
+      16.34674,
+      46.63593
+     ],
+     [
+      16.34657,
+      46.63625
+     ],
+     [
+      16.34341,
+      46.63768
+     ],
+     [
+      16.34292,
+      46.63765
+     ],
+     [
+      16.34154,
+      46.63594
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.63506,
+   16.34617
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.63832,
+    "lon": 16.34564,
+    "name": null,
+    "distKm": 0.18
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:15.341Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-gaberje-pasnik",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-gaberje-pasnik",
+  "code": "Gramoznica Gaberje-pašnik",
+  "name": "Gramoznica Gaberje-pašnik",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Gaberje - pasture",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1027"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1111"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/751"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna (som)",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1133"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-gaberje-pasnik",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:27.334Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-genterovci",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-genterovci",
+  "code": "Gramoznica Genterovci",
+  "name": "Gramoznica Genterovci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Genterovci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/752"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-genterovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:32.128Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-gomilica",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-gomilica",
+  "code": "Gramoznica Gomilica",
+  "name": "Gramoznica Gomilica",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Gomilica",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/753"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-gomilica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:34.528Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-gradbenik-nova",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-gradbenik-nova",
+  "code": "Gramoznica Gradbenik-nova",
+  "name": "Gramoznica Gradbenik - nova",
+  "subtitle": "Belovič",
+  "en": {
+   "name": "The gravel pit Gradbenik - the new one",
+   "subtitle": "Belovič",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Belovič",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1029"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1112"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/754"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-gradbenik-nova",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Belovič"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.43162,
+      46.5286
+     ],
+     [
+      16.432,
+      46.52865
+     ],
+     [
+      16.43274,
+      46.52797
+     ],
+     [
+      16.43401,
+      46.52738
+     ],
+     [
+      16.43414,
+      46.52744
+     ],
+     [
+      16.43436,
+      46.52764
+     ],
+     [
+      16.43417,
+      46.52774
+     ],
+     [
+      16.43439,
+      46.5281
+     ],
+     [
+      16.4342,
+      46.52824
+     ],
+     [
+      16.43533,
+      46.52983
+     ],
+     [
+      16.43517,
+      46.53014
+     ],
+     [
+      16.4356,
+      46.53083
+     ],
+     [
+      16.43433,
+      46.53112
+     ],
+     [
+      16.43366,
+      46.53107
+     ],
+     [
+      16.43338,
+      46.53064
+     ],
+     [
+      16.43274,
+      46.5304
+     ],
+     [
+      16.43269,
+      46.52928
+     ],
+     [
+      16.43204,
+      46.52894
+     ],
+     [
+      16.4319,
+      46.52913
+     ],
+     [
+      16.43165,
+      46.52909
+     ],
+     [
+      16.43162,
+      46.5286
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.52933,
+   16.43358
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:36.935Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-kobilje",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-kobilje",
+  "code": "Gramoznica Kobilje",
+  "name": "Gramoznica Kobilje",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Kobilje",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica Kobilje",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/756"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-kobilje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Kobilje"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.36967,
+      46.69374
+     ],
+     [
+      16.37011,
+      46.6934
+     ],
+     [
+      16.3709,
+      46.69316
+     ],
+     [
+      16.37131,
+      46.69336
+     ],
+     [
+      16.37116,
+      46.69352
+     ],
+     [
+      16.37136,
+      46.69368
+     ],
+     [
+      16.37095,
+      46.69379
+     ],
+     [
+      16.37102,
+      46.69415
+     ],
+     [
+      16.37063,
+      46.69431
+     ],
+     [
+      16.37022,
+      46.69421
+     ],
+     [
+      16.36967,
+      46.69374
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.69368,
+   16.37063
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:41.735Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-lakos",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-lakos",
+  "code": "Gramoznica Lakoš",
+  "name": "Gramoznica Lakoš",
+  "subtitle": "070",
+  "en": {
+   "name": "Gramoznica Lakoš",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1343"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-lakos",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:51.334Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-mala-polana",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-mala-polana",
+  "code": "Gramoznica Mala Polana",
+  "name": "Gramoznica Mala Polana",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Mala Polana",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/748"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-mala-polana",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:58.533Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-male-grabe",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-male-grabe",
+  "code": "Gramoznica Male grabe",
+  "name": "Gramoznica Male Grabe",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Male Grabe",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/757"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-male-grabe",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:00.943Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-mlin",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-mlin",
+  "code": "Gramoznica Mlin",
+  "name": "Gramoznica Mlin",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Mlin",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica Mlin",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Dan + noč",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 09. do 12. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1128"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 09. do 12. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1113"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 09. do 12. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/792"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-mlin",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Mlin"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.43853,
+      46.52792
+     ],
+     [
+      16.43941,
+      46.52721
+     ],
+     [
+      16.43983,
+      46.52717
+     ],
+     [
+      16.43993,
+      46.52737
+     ],
+     [
+      16.43994,
+      46.52758
+     ],
+     [
+      16.43967,
+      46.52778
+     ],
+     [
+      16.43996,
+      46.52792
+     ],
+     [
+      16.43973,
+      46.5282
+     ],
+     [
+      16.43974,
+      46.52856
+     ],
+     [
+      16.43907,
+      46.5289
+     ],
+     [
+      16.43874,
+      46.5288
+     ],
+     [
+      16.439,
+      46.52821
+     ],
+     [
+      16.43853,
+      46.52792
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.52806,
+   16.43929
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:05.740Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-nedelica",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-nedelica",
+  "code": "Gramoznica Nedelica",
+  "name": "Gramoznica Nedelica",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Nedelica",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/759"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna (som)",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/796"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-nedelica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:08.174Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-ob-nasipu-gaberje",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-ob-nasipu-gaberje",
+  "code": "Gramoznica ob nasipu-Gaberje",
+  "name": "Gramoznica ob nasipu Gaberje",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit along the embankment Gaberje",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/773"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-ob-nasipu-gaberje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:10.538Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-petisovci",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-petisovci",
+  "code": "Gramoznica Petišovci",
+  "name": "Gramoznica Petišovci-terme",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Petišovci - the spa",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/764"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-petisovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:12.937Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-petisovci-ritas",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-petisovci-ritas",
+  "code": "Gramoznica Petišovci Ritaš",
+  "name": "Gramoznica Ritaš",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Ritaš",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "spin"
+  ],
+  "baits": [
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/763"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-petisovci-ritas",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:15.349Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-pri-premosi",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-pri-premosi",
+  "code": "Gramoznica pri Premoši",
+  "name": "Gramoznica pri Premoši",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit near Premoša",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica pri Premoši",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/791"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna (som)",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/795"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-pri-premosi",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica pri Premoši"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.31726,
+      46.63108
+     ],
+     [
+      16.31883,
+      46.63049
+     ],
+     [
+      16.31904,
+      46.63051
+     ],
+     [
+      16.31918,
+      46.63077
+     ],
+     [
+      16.31763,
+      46.63154
+     ],
+     [
+      16.31726,
+      46.63108
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.63117,
+   16.31775
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:20.137Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-trnje",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-trnje",
+  "code": "Gramoznica Trnje",
+  "name": "Gramoznica Trnje",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Trnje",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/765"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-trnje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:34.530Z"
+ },
+ {
+  "id": "rd-lendava/gramoznica-za-mlinom",
+  "clubSlug": "rd-lendava",
+  "slug": "gramoznica-za-mlinom",
+  "code": "Gramoznica za Mlinom",
+  "name": "Gramoznica Za Mlinom",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Za Mlinom",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica za Mlinom",
+  "species": [
+   "amur",
+   "krap"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap"
+  ],
+  "methods": [
+   "talni ribolov"
+  ],
+  "techniques": [
+   "bottom",
+   "feeder"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - 1-dnevna",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 14. 08. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1248"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 14. 08. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1251"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 45,
+    "saleWindow": "Nakup od 14. 08. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1252"
+   },
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 14. 08. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1249"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 14. 08. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1250"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/gramoznica-za-mlinom",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica za Mlinom"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.43641,
+      46.52978
+     ],
+     [
+      16.43661,
+      46.52952
+     ],
+     [
+      16.43703,
+      46.52972
+     ],
+     [
+      16.43776,
+      46.52966
+     ],
+     [
+      16.43847,
+      46.53007
+     ],
+     [
+      16.43871,
+      46.53038
+     ],
+     [
+      16.43881,
+      46.53114
+     ],
+     [
+      16.43834,
+      46.53144
+     ],
+     [
+      16.43759,
+      46.53111
+     ],
+     [
+      16.43641,
+      46.52978
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.53041,
+   16.43757
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:39.342Z"
+ },
+ {
+  "id": "rd-lendava/mrtvica-bednjaj-bobri",
+  "clubSlug": "rd-lendava",
+  "slug": "mrtvica-bednjaj-bobri",
+  "code": "Mrtvica Bednjaj-Bobri",
+  "name": "Mrtvica Bednjaj Bobri",
+  "subtitle": "",
+  "en": {
+   "name": "The backwater Bednjaj Bobri",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "bojli",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1115"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/767"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/mrtvica-bednjaj-bobri",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "reka »Bednjaj Bobri« ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:58.571Z"
+ },
+ {
+  "id": "rd-lendava/mrtvica-gjula-hotisko",
+  "clubSlug": "rd-lendava",
+  "slug": "mrtvica-gjula-hotisko",
+  "code": "Mrtvica Gjula Hotiško",
+  "name": "Mrtvica Jula Hotiško",
+  "subtitle": "Hotiško jezero",
+  "en": {
+   "name": "The backwater Gjula Hotiško",
+   "subtitle": "the lake Hotiško jezero",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Hotiško Jezero",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "bojli",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1022"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1023"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/774"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/mrtvica-gjula-hotisko",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Hotiško Jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.31576,
+      46.54717
+     ],
+     [
+      16.31654,
+      46.54617
+     ],
+     [
+      16.31655,
+      46.54595
+     ],
+     [
+      16.31673,
+      46.54621
+     ],
+     [
+      16.31646,
+      46.54638
+     ],
+     [
+      16.31654,
+      46.54653
+     ],
+     [
+      16.3163,
+      46.54682
+     ],
+     [
+      16.31622,
+      46.54734
+     ],
+     [
+      16.31653,
+      46.54791
+     ],
+     [
+      16.31741,
+      46.54838
+     ],
+     [
+      16.31826,
+      46.5486
+     ],
+     [
+      16.31921,
+      46.54852
+     ],
+     [
+      16.31952,
+      46.54831
+     ],
+     [
+      16.31965,
+      46.54839
+     ],
+     [
+      16.31942,
+      46.54865
+     ],
+     [
+      16.31866,
+      46.54884
+     ],
+     [
+      16.31716,
+      46.54852
+     ],
+     [
+      16.31618,
+      46.54798
+     ],
+     [
+      16.31576,
+      46.54717
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.5475,
+   16.31722
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:03.369Z"
+ },
+ {
+  "id": "rd-lendava/mrtvica-nasip-petisovci",
+  "clubSlug": "rd-lendava",
+  "slug": "mrtvica-nasip-petisovci",
+  "code": "Mrtvica nasip Petišovci",
+  "name": "Mrtvica nasip Petišovci",
+  "subtitle": "",
+  "en": {
+   "name": "The backwater-embankment Petišovci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/769"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/mrtvica-nasip-petisovci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "jezero ni v OSM",
+   "kraj Petišovci / Petesháza"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    16.45637,
+    46.52813
+   ]
+  },
+  "center": [
+   46.52813,
+   16.45637
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:08.181Z"
+ },
+ {
+  "id": "rd-lendava/mrtvica-podkev",
+  "clubSlug": "rd-lendava",
+  "slug": "mrtvica-podkev",
+  "code": "Mrtvica Podkev",
+  "name": "Mrtvica Podkev",
+  "subtitle": "",
+  "en": {
+   "name": "The backwater Podkev",
+   "subtitle": "",
+   "description": "-"
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/768"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/mrtvica-podkev",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:10.568Z"
+ },
+ {
+  "id": "rd-lendava/mrtvica-szent-kiraly",
+  "clubSlug": "rd-lendava",
+  "slug": "mrtvica-szent-kiraly",
+  "code": "Mrtvica Szent Kiraly",
+  "name": "Mrtvica Szent Kiraly 2",
+  "subtitle": "",
+  "en": {
+   "name": "The backwater Szent Kiraly 2",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/770"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/mrtvica-szent-kiraly",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:15.362Z"
+ },
+ {
+  "id": "rd-lendava/mura-ii",
+  "clubSlug": "rd-lendava",
+  "slug": "mura-ii",
+  "code": "Mura (II)",
+  "name": "Reka Mura",
+  "subtitle": "od Broda Gibina do mostu v Murskem Središču",
+  "en": {
+   "name": "Mura",
+   "subtitle": "II",
+   "description": "od Brod Gibina do Most v Murskem Središču"
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Mura",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica (sivka)",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/731"
+   },
+   {
+    "name": "Ujemi in vzemi - nočni (som)",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/867"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/mura-ii",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.648821,
+   "lon": 16.059244
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.11977,
+     46.60901
+    ],
+    [
+     16.11627,
+     46.61085
+    ],
+    [
+     16.1147,
+     46.61125
+    ],
+    [
+     16.11313,
+     46.61146
+    ],
+    [
+     16.11099,
+     46.61136
+    ],
+    [
+     16.10328,
+     46.6104
+    ],
+    [
+     16.10017,
+     46.61103
+    ],
+    [
+     16.09904,
+     46.61161
+    ],
+    [
+     16.09835,
+     46.61218
+    ],
+    [
+     16.09634,
+     46.6146
+    ],
+    [
+     16.09523,
+     46.61526
+    ],
+    [
+     16.09393,
+     46.6158
+    ],
+    [
+     16.08973,
+     46.61681
+    ],
+    [
+     16.08725,
+     46.61815
+    ],
+    [
+     16.08634,
+     46.61915
+    ],
+    [
+     16.08599,
+     46.62013
+    ],
+    [
+     16.08578,
+     46.62257
+    ],
+    [
+     16.08507,
+     46.62421
+    ],
+    [
+     16.08392,
+     46.62509
+    ],
+    [
+     16.08228,
+     46.62583
+    ],
+    [
+     16.08003,
+     46.62743
+    ],
+    [
+     16.07769,
+     46.63124
+    ],
+    [
+     16.07656,
+     46.63215
+    ],
+    [
+     16.0743,
+     46.63304
+    ],
+    [
+     16.07237,
+     46.63351
+    ],
+    [
+     16.07008,
+     46.63386
+    ],
+    [
+     16.06699,
+     46.63508
+    ],
+    [
+     16.06563,
+     46.63625
+    ],
+    [
+     16.06448,
+     46.63826
+    ],
+    [
+     16.06416,
+     46.63922
+    ],
+    [
+     16.06392,
+     46.64143
+    ],
+    [
+     16.06361,
+     46.64254
+    ],
+    [
+     16.06258,
+     46.64368
+    ],
+    [
+     16.06141,
+     46.64462
+    ],
+    [
+     16.05899,
+     46.64623
+    ],
+    [
+     16.05696,
+     46.64717
+    ],
+    [
+     16.05015,
+     46.64947
+    ],
+    [
+     16.04448,
+     46.65119
+    ],
+    [
+     16.04274,
+     46.65213
+    ],
+    [
+     16.04157,
+     46.65302
+    ],
+    [
+     16.03343,
+     46.65788
+    ],
+    [
+     16.02941,
+     46.65915
+    ],
+    [
+     16.02769,
+     46.66001
+    ],
+    [
+     16.02611,
+     46.66161
+    ],
+    [
+     16.02552,
+     46.66195
+    ],
+    [
+     16.02368,
+     46.66241
+    ],
+    [
+     16.02245,
+     46.6624
+    ],
+    [
+     16.02019,
+     46.6627
+    ],
+    [
+     16.01615,
+     46.66292
+    ],
+    [
+     16.01441,
+     46.66331
+    ],
+    [
+     16.01197,
+     46.66423
+    ],
+    [
+     16.01039,
+     46.66514
+    ],
+    [
+     16.00924,
+     46.66597
+    ],
+    [
+     16.00817,
+     46.66698
+    ],
+    [
+     16.00726,
+     46.66807
+    ],
+    [
+     16.00625,
+     46.66993
+    ],
+    [
+     16.00471,
+     46.67466
+    ],
+    [
+     16.00356,
+     46.67653
+    ],
+    [
+     16.00286,
+     46.67734
+    ],
+    [
+     16.00174,
+     46.67844
+    ],
+    [
+     15.99994,
+     46.67973
+    ],
+    [
+     15.99835,
+     46.68057
+    ],
+    [
+     15.99619,
+     46.68138
+    ],
+    [
+     15.99416,
+     46.68197
+    ]
+   ]
+  },
+  "center": [
+   46.64695,
+   16.05743
+  ],
+  "lengthKm": 13.7,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.66197,
+    "lon": 16.01592,
+    "name": null,
+    "distKm": 0.11
+   },
+   {
+    "lat": 46.6796,
+    "lon": 15.99603,
+    "name": null,
+    "distKm": 0.18
+   },
+   {
+    "lat": 46.66413,
+    "lon": 16.00763,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 46.68421,
+    "lon": 15.99578,
+    "name": null,
+    "distKm": 0.28
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:22.600Z"
+ },
+ {
+  "id": "rd-lendava/mura-iii",
+  "clubSlug": "rd-lendava",
+  "slug": "mura-iii",
+  "code": "Mura (III)",
+  "name": "Reka Mura",
+  "subtitle": "od mostu v Murskem Središču do sotočja z Veliko Krko",
+  "en": {
+   "name": "Mura river",
+   "subtitle": "from the bridge in Mursko Središče to the confluence with the Velika Krka",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Mura",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica (sivka)",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/731"
+   },
+   {
+    "name": "Ujemi in vzemi - nočni (som)",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/867"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/mura-iii",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.648821,
+   "lon": 16.059244
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.11977,
+     46.60901
+    ],
+    [
+     16.11627,
+     46.61085
+    ],
+    [
+     16.1147,
+     46.61125
+    ],
+    [
+     16.11313,
+     46.61146
+    ],
+    [
+     16.11099,
+     46.61136
+    ],
+    [
+     16.10328,
+     46.6104
+    ],
+    [
+     16.10017,
+     46.61103
+    ],
+    [
+     16.09904,
+     46.61161
+    ],
+    [
+     16.09835,
+     46.61218
+    ],
+    [
+     16.09634,
+     46.6146
+    ],
+    [
+     16.09523,
+     46.61526
+    ],
+    [
+     16.09393,
+     46.6158
+    ],
+    [
+     16.08973,
+     46.61681
+    ],
+    [
+     16.08725,
+     46.61815
+    ],
+    [
+     16.08634,
+     46.61915
+    ],
+    [
+     16.08599,
+     46.62013
+    ],
+    [
+     16.08578,
+     46.62257
+    ],
+    [
+     16.08507,
+     46.62421
+    ],
+    [
+     16.08392,
+     46.62509
+    ],
+    [
+     16.08228,
+     46.62583
+    ],
+    [
+     16.08003,
+     46.62743
+    ],
+    [
+     16.07769,
+     46.63124
+    ],
+    [
+     16.07656,
+     46.63215
+    ],
+    [
+     16.0743,
+     46.63304
+    ],
+    [
+     16.07237,
+     46.63351
+    ],
+    [
+     16.07008,
+     46.63386
+    ],
+    [
+     16.06699,
+     46.63508
+    ],
+    [
+     16.06563,
+     46.63625
+    ],
+    [
+     16.06448,
+     46.63826
+    ],
+    [
+     16.06416,
+     46.63922
+    ],
+    [
+     16.06392,
+     46.64143
+    ],
+    [
+     16.06361,
+     46.64254
+    ],
+    [
+     16.06258,
+     46.64368
+    ],
+    [
+     16.06141,
+     46.64462
+    ],
+    [
+     16.05899,
+     46.64623
+    ],
+    [
+     16.05696,
+     46.64717
+    ],
+    [
+     16.05015,
+     46.64947
+    ],
+    [
+     16.04448,
+     46.65119
+    ],
+    [
+     16.04274,
+     46.65213
+    ],
+    [
+     16.04157,
+     46.65302
+    ],
+    [
+     16.03343,
+     46.65788
+    ],
+    [
+     16.02941,
+     46.65915
+    ],
+    [
+     16.02769,
+     46.66001
+    ],
+    [
+     16.02611,
+     46.66161
+    ],
+    [
+     16.02552,
+     46.66195
+    ],
+    [
+     16.02368,
+     46.66241
+    ],
+    [
+     16.02245,
+     46.6624
+    ],
+    [
+     16.02019,
+     46.6627
+    ],
+    [
+     16.01615,
+     46.66292
+    ],
+    [
+     16.01441,
+     46.66331
+    ],
+    [
+     16.01197,
+     46.66423
+    ],
+    [
+     16.01039,
+     46.66514
+    ],
+    [
+     16.00924,
+     46.66597
+    ],
+    [
+     16.00817,
+     46.66698
+    ],
+    [
+     16.00726,
+     46.66807
+    ],
+    [
+     16.00625,
+     46.66993
+    ],
+    [
+     16.00471,
+     46.67466
+    ],
+    [
+     16.00356,
+     46.67653
+    ],
+    [
+     16.00286,
+     46.67734
+    ],
+    [
+     16.00174,
+     46.67844
+    ],
+    [
+     15.99994,
+     46.67973
+    ],
+    [
+     15.99835,
+     46.68057
+    ],
+    [
+     15.99619,
+     46.68138
+    ],
+    [
+     15.99416,
+     46.68197
+    ]
+   ]
+  },
+  "center": [
+   46.64695,
+   16.05743
+  ],
+  "lengthKm": 13.7,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.66197,
+    "lon": 16.01592,
+    "name": null,
+    "distKm": 0.11
+   },
+   {
+    "lat": 46.6796,
+    "lon": 15.99603,
+    "name": null,
+    "distKm": 0.18
+   },
+   {
+    "lat": 46.66413,
+    "lon": 16.00763,
+    "name": null,
+    "distKm": 0.23
+   },
+   {
+    "lat": 46.68421,
+    "lon": 15.99578,
+    "name": null,
+    "distKm": 0.28
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:24.999Z"
+ },
+ {
+  "id": "rd-lendava/reka-ledava",
+  "clubSlug": "rd-lendava",
+  "slug": "reka-ledava",
+  "code": "Reka Ledava",
+  "name": "Ledava",
+  "subtitle": "",
+  "en": {
+   "name": "Ledava",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Ledava / Lendva",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "klen",
+   "krap",
+   "linj",
+   "ogrica",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "klen",
+   "krap",
+   "linj",
+   "ogrica (sivka)",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/890"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/reka-ledava",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "odsek okoli sedeža družine"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.37694,
+     46.59269
+    ],
+    [
+     16.38133,
+     46.58978
+    ],
+    [
+     16.3824,
+     46.58877
+    ],
+    [
+     16.38614,
+     46.58644
+    ],
+    [
+     16.38883,
+     46.58423
+    ],
+    [
+     16.39305,
+     46.58185
+    ],
+    [
+     16.39728,
+     46.58018
+    ],
+    [
+     16.40046,
+     46.57812
+    ],
+    [
+     16.40098,
+     46.57758
+    ],
+    [
+     16.40179,
+     46.57634
+    ],
+    [
+     16.40397,
+     46.57533
+    ],
+    [
+     16.40888,
+     46.57443
+    ],
+    [
+     16.42993,
+     46.57373
+    ],
+    [
+     16.43143,
+     46.57332
+    ],
+    [
+     16.43862,
+     46.57023
+    ],
+    [
+     16.44557,
+     46.56485
+    ],
+    [
+     16.45257,
+     46.55912
+    ],
+    [
+     16.45327,
+     46.55873
+    ],
+    [
+     16.45655,
+     46.55742
+    ],
+    [
+     16.4574,
+     46.55677
+    ],
+    [
+     16.46133,
+     46.5527
+    ],
+    [
+     16.46699,
+     46.54553
+    ],
+    [
+     16.46864,
+     46.54394
+    ],
+    [
+     16.47111,
+     46.5427
+    ],
+    [
+     16.47389,
+     46.53888
+    ],
+    [
+     16.47435,
+     46.53843
+    ],
+    [
+     16.47605,
+     46.53743
+    ],
+    [
+     16.47882,
+     46.53432
+    ],
+    [
+     16.48019,
+     46.53135
+    ],
+    [
+     16.48383,
+     46.52707
+    ],
+    [
+     16.49628,
+     46.51683
+    ],
+    [
+     16.49692,
+     46.5165
+    ]
+   ]
+  },
+  "center": [
+   46.56187,
+   16.44919
+  ],
+  "lengthKm": 13.2,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.55511,
+    "lon": 16.45982,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.56083,
+    "lon": 16.45151,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.56387,
+    "lon": 16.44797,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.55851,
+    "lon": 16.45685,
+    "name": null,
+    "distKm": 0.12
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:44.182Z"
+ },
+ {
+  "id": "rd-lendava/rokav-benica",
+  "clubSlug": "rd-lendava",
+  "slug": "rokav-benica",
+  "code": "Rokav Benica",
+  "name": "Rokav Benica",
+  "subtitle": "od izvira do izliva v Muro",
+  "en": {
+   "name": "The channel Benica",
+   "subtitle": "from the spring to the outflow into the Mura",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "bolen",
+   "krap",
+   "linj",
+   "ogrica",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "bolen",
+   "krap",
+   "linj",
+   "ogrica (sivka)",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/739"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/rokav-benica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "jezero ni v OSM",
+   "kraj Mura"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    16.53458,
+    46.48341
+   ]
+  },
+  "center": [
+   46.48341,
+   16.53458
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:58.604Z"
+ },
+ {
+  "id": "rd-lendava/rokav-gaberje-poros",
+  "clubSlug": "rd-lendava",
+  "slug": "rokav-gaberje-poros",
+  "code": "Rokav Gaberje Pöröš",
+  "name": "Rokav Gaberje Pöröš",
+  "subtitle": "014",
+  "en": {
+   "name": "Rokav Gaberje Pöröš",
+   "subtitle": "014",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Gaberska gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Dan + noč",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1149"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1148"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/rokav-gaberje-poros",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gaberska gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.40449,
+      46.56049
+     ],
+     [
+      16.40475,
+      46.56028
+     ],
+     [
+      16.40582,
+      46.56029
+     ],
+     [
+      16.40602,
+      46.56087
+     ],
+     [
+      16.4055,
+      46.56118
+     ],
+     [
+      16.40517,
+      46.56118
+     ],
+     [
+      16.40483,
+      46.56099
+     ],
+     [
+      16.40449,
+      46.56049
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.56067,
+   16.40542
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:01.004Z"
+ },
+ {
+  "id": "rd-lendava/rokav-v-gaberju",
+  "clubSlug": "rd-lendava",
+  "slug": "rokav-v-gaberju",
+  "code": "Rokav v Gaberju",
+  "name": "Rokav v Gaberju",
+  "subtitle": "od mostu v Gaberju do izliva v Muro",
+  "en": {
+   "name": "The channel in Gaberje",
+   "subtitle": "from the bridge in Gaberje to the outflow into the Mura",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Gaberska gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/734"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/rokav-v-gaberju",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gaberska gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.40449,
+      46.56049
+     ],
+     [
+      16.40475,
+      46.56028
+     ],
+     [
+      16.40582,
+      46.56029
+     ],
+     [
+      16.40602,
+      46.56087
+     ],
+     [
+      16.4055,
+      46.56118
+     ],
+     [
+      16.40517,
+      46.56118
+     ],
+     [
+      16.40483,
+      46.56099
+     ],
+     [
+      16.40449,
+      46.56049
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.56067,
+   16.40542
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:03.402Z"
+ },
+ {
+  "id": "rd-lendava/rokav-v-kot",
+  "clubSlug": "rd-lendava",
+  "slug": "rokav-v-kot",
+  "code": "Rokav v Kotu",
+  "name": "Rokav v Kotu",
+  "subtitle": "012",
+  "en": {
+   "name": "The channel in Kot",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Lendava",
+   "url": "https://www.ribiskekarte.si/rd-lendava"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1026"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1117"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/732"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna (som)",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-lendava/nakup/1134"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-lendava/rokav-v-kot",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "reka »Rokav v Kotu« ni v OSM",
+   "kraj Kot / Kót"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    16.38582,
+    46.54319
+   ]
+  },
+  "center": [
+   46.54319,
+   16.38582
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:05.806Z"
+ }
+]

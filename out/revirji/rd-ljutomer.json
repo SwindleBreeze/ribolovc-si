@@ -1,0 +1,1843 @@
+[
+ {
+  "id": "rd-ljutomer/akumulacija-gajsevci",
+  "clubSlug": "rd-ljutomer",
+  "slug": "akumulacija-gajsevci",
+  "code": "akumulacija Gajševci",
+  "name": "Gajševsko jezero",
+  "subtitle": "akumulacija Gajševci",
+  "en": {
+   "name": "The lake Gajševsko jezero",
+   "subtitle": " the reservoir Gajševci",
+   "description": "The lake Gajševsko jezero is our biggest and richest fishing district and also the most visited one. It is home to many predatory fish, mostly to zanders and catfish, a little less to pikes but you can find large quantities of carps here which spawn very succesfully last few years. The number of young fish is huge and we also put in extra quantities every year."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Vas zanima kje loviti in kako loviti? Kliknite tukaj in preberite brezplačen vodič po jezeru Gajševci. Gajševsko jezero je naš največji in najbogatejši ribolovni revir ter hkrati najbolj obiskan. V Gajševskem jezeru je veliko rib roparic, predvsem smuča in soma, manj je ščuk, veliko je krapa, saj se v zadnjih letih izredno uspešno drsti.",
+  "waterType": "reservoir",
+  "water": "Gajševsko jezero",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "silikonska vaba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi (ciprinidi, roparice) - dnevna",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/172"
+   },
+   {
+    "name": "Ujemi in spusti - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1087"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 16,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/911"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 24,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/192"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 32,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1088"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/193"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 48,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1089"
+   },
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 12,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1086"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/173"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/akumulacija-gajsevci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gajševsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.10552,
+      46.53596
+     ],
+     [
+      16.10633,
+      46.53581
+     ],
+     [
+      16.10705,
+      46.53603
+     ],
+     [
+      16.10762,
+      46.53552
+     ],
+     [
+      16.10708,
+      46.53544
+     ],
+     [
+      16.10711,
+      46.53507
+     ],
+     [
+      16.10676,
+      46.53507
+     ],
+     [
+      16.10693,
+      46.53484
+     ],
+     [
+      16.10689,
+      46.53458
+     ],
+     [
+      16.10618,
+      46.53473
+     ],
+     [
+      16.10608,
+      46.53423
+     ],
+     [
+      16.10665,
+      46.53358
+     ],
+     [
+      16.10751,
+      46.53309
+     ],
+     [
+      16.10857,
+      46.53273
+     ],
+     [
+      16.11036,
+      46.53272
+     ],
+     [
+      16.11174,
+      46.53296
+     ],
+     [
+      16.11345,
+      46.53402
+     ],
+     [
+      16.11537,
+      46.53397
+     ],
+     [
+      16.11616,
+      46.53343
+     ],
+     [
+      16.11566,
+      46.53318
+     ],
+     [
+      16.11757,
+      46.53154
+     ],
+     [
+      16.11942,
+      46.53087
+     ],
+     [
+      16.12219,
+      46.53069
+     ],
+     [
+      16.123,
+      46.53077
+     ],
+     [
+      16.1234,
+      46.53108
+     ],
+     [
+      16.12416,
+      46.53295
+     ],
+     [
+      16.12409,
+      46.53348
+     ],
+     [
+      16.12384,
+      46.53387
+     ],
+     [
+      16.12225,
+      46.53485
+     ],
+     [
+      16.12109,
+      46.53613
+     ],
+     [
+      16.11728,
+      46.53759
+     ],
+     [
+      16.11351,
+      46.53715
+     ],
+     [
+      16.10827,
+      46.53693
+     ],
+     [
+      16.10659,
+      46.53601
+     ],
+     [
+      16.10562,
+      46.53607
+     ],
+     [
+      16.10552,
+      46.53596
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.53482,
+   16.11239
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.53162,
+    "lon": 16.1246,
+    "name": "Gajševsko jezero",
+    "distKm": 0.11
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:24.928Z"
+ },
+ {
+  "id": "rd-ljutomer/gramoznica-babinci",
+  "clubSlug": "rd-ljutomer",
+  "slug": "gramoznica-babinci",
+  "code": "Gramoznica Babinci",
+  "name": "Gramoznica Babinci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Babinci",
+   "subtitle": "",
+   "description": "The gravel pit Babinci consists of 13 ha of the water surface and reaches the depth of 30 m. The gravel is still being excavated here so the waters are murky sometimes but it doesn't affect the fishing itself. The carps (at least 1000 kg of them) and zanders with a minimum length (up to 100 pieces) are being put in in this gravel pit every year."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Gramoznica Babinci obsega 13 ha vodne površine z največjo globino 30 m. Je gramoznica kjer še vedno kopljejo gramoz, zato je včasih voda malo bolj motna, vendar to bistveno ne vpliva na sam ribolov. V to gramoznico vsako leto vlagamo krape (najmanj 1000 kg) in merske smuče do 100 komadov.",
+  "waterType": "pond",
+  "water": "Kamenšnica Babinci",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi (ciprinidi, roparice) - dnevna",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/178"
+   },
+   {
+    "name": "Ujemi in spusti - 1-dnevna",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1090"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 16,
+    "saleWindow": "Nakup od 29. 02. do 01. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/912"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 24,
+    "saleWindow": "Nakup od 29. 02. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/897"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 32,
+    "saleWindow": "Nakup od 01. 03. do 30. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1092"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 03. do 29. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/898"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 48,
+    "saleWindow": "Nakup od 01. 03. do 28. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1093"
+   },
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 12,
+    "saleWindow": "Nakup od 29. 02. do 01. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1091"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 29. 02. do 02. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/179"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-babinci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Kamenšnica Babinci"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.19309,
+      46.54358
+     ],
+     [
+      16.1933,
+      46.54293
+     ],
+     [
+      16.19394,
+      46.5422
+     ],
+     [
+      16.19584,
+      46.54203
+     ],
+     [
+      16.19682,
+      46.54221
+     ],
+     [
+      16.19849,
+      46.54284
+     ],
+     [
+      16.19898,
+      46.54338
+     ],
+     [
+      16.20006,
+      46.54351
+     ],
+     [
+      16.20045,
+      46.5439
+     ],
+     [
+      16.20047,
+      46.54412
+     ],
+     [
+      16.19966,
+      46.54509
+     ],
+     [
+      16.19754,
+      46.54585
+     ],
+     [
+      16.19724,
+      46.54631
+     ],
+     [
+      16.1966,
+      46.54646
+     ],
+     [
+      16.19429,
+      46.54487
+     ],
+     [
+      16.19321,
+      46.54432
+     ],
+     [
+      16.19309,
+      46.54358
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.54407,
+   16.19715
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [
+   {
+    "lat": 46.54465,
+    "lon": 16.1938,
+    "name": null,
+    "distKm": 0.04
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:28:48.944Z"
+ },
+ {
+  "id": "rd-ljutomer/gramoznica-boreci",
+  "clubSlug": "rd-ljutomer",
+  "slug": "gramoznica-boreci",
+  "code": "Gramoznica Boreci",
+  "name": "Gramoznica Boreci",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Boreci",
+   "subtitle": "",
+   "description": "This gravel pit is one of smaller districts in our fishing environment but it is very rich in fish life. It is home mostly to catfish, pikes and zanders, you can find large quantities of carps here as well as silver carps, common breams and roaches."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Gramoznica je med manjšimi revirji v našem ribiškem okolišu, vendar je bogata z ribjim življem. Naseljujejo jo somi, ščuke in smuči, veliko je krapov, prav tako je bogata z srebrnim koresljem in ploščiči ter rdečeokami.",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "koreselj",
+   "krap",
+   "ploscic",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "koreselj",
+   "krap",
+   "ploščič",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi, roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 18. 03. do 04. 03.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/182"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-boreci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:00.915Z"
+ },
+ {
+  "id": "rd-ljutomer/gramoznica-buncani",
+  "clubSlug": "rd-ljutomer",
+  "slug": "gramoznica-buncani",
+  "code": "Gramoznica Bunčani",
+  "name": "Gramoznica Bunčani",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Bunčani",
+   "subtitle": "",
+   "description": "The gravel pit Bunčani is one of the smaller districts because it measures 4 ha only. This district is visited mainly by the local or nearby fishermen. It is home to carps, pikes, chubs, roaches, percoidei, tenches, common rudds and bleaks."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Gramoznica Bunčani je eden naših manjših revirjev, saj je njena površina 4 ha. To je revir, ki ga obiskujejo bolj domačini in bližnji ribiči. Naseljujejo jo krapi, ščuke, kleni, rdečeoke, navadni ostriž, linj, rdečeperke in zelenike.",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "klen",
+   "krap",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi, roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/181"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-buncani",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:08.126Z"
+ },
+ {
+  "id": "rd-ljutomer/gramoznica-krapje",
+  "clubSlug": "rd-ljutomer",
+  "slug": "gramoznica-krapje",
+  "code": "Gramoznica Krapje",
+  "name": "Gramoznica Krapje",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Krapje",
+   "subtitle": "",
+   "description": "The gravel is still being excavated in this gravel pit and the fishermen don't visit it as often as other districts in Ljutomer's fishing environment. This gravel pit is home to pikes, zanders and catfish and you can also find many carps, silver carps, roaches, common breams, percoidei and bleaks here."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Gramoznica Krapje je revir, kjer še poteka eksploatacija gramoza, zato jo ribiči ne obiskujejo tako pogosto kot druge revirje v Ljutomerskem ribiškem okolišu. V gramoznici so ščuke, smuči in somi, prav tako je naseljena s krapi, srebrnim koresljem, rdečeoko, ploščičem, navadnim ostrižem, zeleniko.",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "koreselj",
+   "krap",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "koreselj",
+   "krap",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi (ciprinidi, roparice) - dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 18. 03. do 04. 03.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/183"
+   },
+   {
+    "name": "Ujemi in spusti - 1-dnevna",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1225"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 16,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1228"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 24,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1229"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 32,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1230"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 40,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1231"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 48,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1232"
+   },
+   {
+    "name": "Ujemi in spusti - dan+noč",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1227"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1226"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-krapje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:44.139Z"
+ },
+ {
+  "id": "rd-ljutomer/gramoznica-razkrizje",
+  "clubSlug": "rd-ljutomer",
+  "slug": "gramoznica-razkrizje",
+  "code": "Gramoznica Razkrižje",
+  "name": "Gramoznica Razkrižje",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Razkrižje",
+   "subtitle": "",
+   "description": "The gravel pit Razkrižje is one of the smallest districts in our fishing environment. It is visited mostly by local fishermen. It is 2 ha big and is home to pikes, carps, common breams,roaches, percoidei and common rudds. You can find this gravel pit on the road from Razkrižje to Srednja Bistrica ( on the right side of the road)."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Revir gramoznica Razkrižje je eden manjših v našem ribiškem okolišu. Gramoznico obiskujejo predvsem domači ribiči. Gramoznica je površine 2,00 ha, naseljujejo jo ščuke, krapi, ploščiči, rdečeoke, navadni ostriži in rdečeperke. Gramoznico najdete ob poti od Razkrižja proti Srednji Bistrici (na desni strani ceste).",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "krap",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "krap",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "silikonska vaba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi, roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/187"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-razkrizje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:22.533Z"
+ },
+ {
+  "id": "rd-ljutomer/gramoznica-mota",
+  "clubSlug": "rd-ljutomer",
+  "slug": "gramoznica-mota",
+  "code": "Gramoznice Gezove jame",
+  "name": "Gezove jame",
+  "subtitle": "Golnik, Siget, Mala jama",
+  "en": {
+   "name": "The gravel pits Gezove jame",
+   "subtitle": "Golnik, Siget, Mala jama",
+   "description": "The district consists of 4 gravel pits and the fishing regime is marked on boards. The big gravel pit Golnik is meant for fishing of carps using ground fishing technique and the fishing places are arranged accordingly. The gravel pit Siget is meant for fishermen who love to float fish. The fishing is allowed with 2 rods. The little sports cave is meant for competitions."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Revir sestavljajo 4 gramoznice, režim ribolova je označen na tablah. Velika gramoznica z imenom Golnik je namenjena predvsem kraparjem s tehniko lova talni ribolov, v ta namen so tudi urejena ribolovna mesta. Gramoznica z imenom Siget je namenjena predvsem ljubiteljem ribolova s tehniko beličarjenja. Ribolov dovoljen z dvema ribiškima palicama. Mala športna jama je namenjena tekmovanjem.",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + U&S roparice, Golnik",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1372"
+   },
+   {
+    "name": "Ujemi in odnesi, Siget - dnevna",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/191"
+   },
+   {
+    "name": "Ujemi in odnesi, Siget (vijačenje) - dnevna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/184"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - 1-dnevna",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1094"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - 2-dnevna",
+    "priceEur": 16,
+    "saleWindow": "Nakup od 29. 02. do 01. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/913"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - 3-dnevna",
+    "priceEur": 24,
+    "saleWindow": "Nakup od 29. 02. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/189"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - 4-dnevna",
+    "priceEur": 32,
+    "saleWindow": "Nakup od 01. 03. do 30. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1095"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - 5-dnevna",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 03. do 29. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/190"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - 6-dnevna",
+    "priceEur": 48,
+    "saleWindow": "Nakup od 01. 03. do 28. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1097"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - dan+noč",
+    "priceEur": 12,
+    "saleWindow": "Nakup od 29. 02. do 01. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1096"
+   },
+   {
+    "name": "Ujemi in spusti Golnik - nočna",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 29. 02. do 02. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/186"
+   },
+   {
+    "name": "Ujemi in spusti Mala jama - 1-dnevna",
+    "priceEur": 3,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/1209"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-mota",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:41.735Z"
+ },
+ {
+  "id": "rd-ljutomer/mura-s-pritoki-in-mrtvicami",
+  "clubSlug": "rd-ljutomer",
+  "slug": "mura-s-pritoki-in-mrtvicami",
+  "code": "Mura s pritoki in mrtvicami",
+  "name": "Reka Mura s pritoki in mrtvicami",
+  "subtitle": "od Vučje vasi do Gibine",
+  "en": {
+   "name": "The river Mura with tributaries and backwaters",
+   "subtitle": "from Vučja vas to Gibina",
+   "description": "The river Mura with its tributaries and backwaters is the district that spreads on the right bank of the river Mura from the cable ferry in Vučja vas to the outflow of the river Ščavnica into the Mura in Gibina including all the tributaries and backwaters.This district is cyprinid in character and is home to cyprinid fish species, mostly common nase, barbel, vimba vimba fish, chub, common dace, common bream,…"
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Reka Mura s pritoki in mrtvicami je revir, ki poteka po desnem bregu reke Mure od broda v Vučji Vasi do izliva reke Ščavnice v Muro na Gibini z vsemi pritoki in mrtvicami. Revir je ciprinidnega značaja, saj v reki Muri prevladujejo ciprinidne vrste rib, predvsem podust, mrena, ogrica, klen, klenič, ploščič, ščuka, smuč, som, rdečeoka, platnica, menek in še druge vrste, ki pa za športni ribolov niso zanimive.",
+  "waterType": "river",
+  "water": "Mura",
+  "species": [
+   "klen",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "podust",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "podust",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "silikonska vaba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi, roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/170"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/mura-s-pritoki-in-mrtvicami",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Vučja vas",
+   "do: kraj Gibina"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.10328,
+     46.6104
+    ],
+    [
+     16.11099,
+     46.61136
+    ],
+    [
+     16.11313,
+     46.61146
+    ],
+    [
+     16.1147,
+     46.61125
+    ],
+    [
+     16.11627,
+     46.61085
+    ],
+    [
+     16.11977,
+     46.60901
+    ],
+    [
+     16.12287,
+     46.60817
+    ],
+    [
+     16.1269,
+     46.6079
+    ],
+    [
+     16.12962,
+     46.60677
+    ],
+    [
+     16.13267,
+     46.60487
+    ],
+    [
+     16.13487,
+     46.60399
+    ],
+    [
+     16.13694,
+     46.60364
+    ],
+    [
+     16.13932,
+     46.60346
+    ],
+    [
+     16.14257,
+     46.60269
+    ],
+    [
+     16.14442,
+     46.6016
+    ],
+    [
+     16.14712,
+     46.59923
+    ],
+    [
+     16.14883,
+     46.59824
+    ],
+    [
+     16.15103,
+     46.59793
+    ],
+    [
+     16.15568,
+     46.59773
+    ],
+    [
+     16.15707,
+     46.5975
+    ],
+    [
+     16.15867,
+     46.59702
+    ],
+    [
+     16.16118,
+     46.59569
+    ],
+    [
+     16.16354,
+     46.59379
+    ],
+    [
+     16.16549,
+     46.59286
+    ],
+    [
+     16.16842,
+     46.59216
+    ],
+    [
+     16.17099,
+     46.59216
+    ],
+    [
+     16.17389,
+     46.59159
+    ],
+    [
+     16.17652,
+     46.58985
+    ],
+    [
+     16.17943,
+     46.58851
+    ],
+    [
+     16.18382,
+     46.58799
+    ],
+    [
+     16.18657,
+     46.58822
+    ],
+    [
+     16.18875,
+     46.58796
+    ],
+    [
+     16.19047,
+     46.58752
+    ],
+    [
+     16.19195,
+     46.5869
+    ],
+    [
+     16.19591,
+     46.58428
+    ],
+    [
+     16.19874,
+     46.58264
+    ],
+    [
+     16.2003,
+     46.58154
+    ],
+    [
+     16.20187,
+     46.58084
+    ],
+    [
+     16.21173,
+     46.57749
+    ],
+    [
+     16.21733,
+     46.57528
+    ],
+    [
+     16.21894,
+     46.57444
+    ],
+    [
+     16.22954,
+     46.5651
+    ],
+    [
+     16.233,
+     46.55718
+    ],
+    [
+     16.23377,
+     46.55606
+    ],
+    [
+     16.23448,
+     46.55573
+    ],
+    [
+     16.23669,
+     46.5551
+    ],
+    [
+     16.23837,
+     46.5533
+    ],
+    [
+     16.24016,
+     46.55175
+    ],
+    [
+     16.24113,
+     46.55114
+    ],
+    [
+     16.24319,
+     46.55024
+    ],
+    [
+     16.24969,
+     46.54702
+    ],
+    [
+     16.25266,
+     46.5459
+    ],
+    [
+     16.25374,
+     46.54559
+    ],
+    [
+     16.25539,
+     46.54534
+    ],
+    [
+     16.26103,
+     46.54472
+    ],
+    [
+     16.26373,
+     46.54372
+    ],
+    [
+     16.26983,
+     46.54003
+    ],
+    [
+     16.27331,
+     46.5388
+    ],
+    [
+     16.27661,
+     46.53813
+    ],
+    [
+     16.27877,
+     46.53733
+    ],
+    [
+     16.28074,
+     46.53611
+    ],
+    [
+     16.28251,
+     46.53466
+    ],
+    [
+     16.28323,
+     46.53387
+    ],
+    [
+     16.28359,
+     46.53298
+    ],
+    [
+     16.28689,
+     46.52881
+    ],
+    [
+     16.28865,
+     46.52787
+    ],
+    [
+     16.29161,
+     46.52709
+    ],
+    [
+     16.29355,
+     46.527
+    ],
+    [
+     16.29552,
+     46.52734
+    ],
+    [
+     16.29981,
+     46.52743
+    ],
+    [
+     16.30103,
+     46.52692
+    ],
+    [
+     16.3016,
+     46.52652
+    ],
+    [
+     16.30247,
+     46.52516
+    ],
+    [
+     16.30384,
+     46.52378
+    ]
+   ]
+  },
+  "center": [
+   46.57667,
+   16.21381
+  ],
+  "lengthKm": 19.4,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.58026,
+    "lon": 16.20855,
+    "name": "Otok Ljubezni",
+    "distKm": 0.17
+   },
+   {
+    "lat": 46.52121,
+    "lon": 16.30413,
+    "name": null,
+    "distKm": 0.29
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:27.358Z"
+ },
+ {
+  "id": "rd-ljutomer/scavnica-3",
+  "clubSlug": "rd-ljutomer",
+  "slug": "scavnica-3",
+  "code": "Ščavnica 3",
+  "name": "Reka Ščavnica",
+  "subtitle": "od Žihlave do izteka v reko Muro",
+  "en": {
+   "name": "The river Ščavnica",
+   "subtitle": "from Žihlava to the outflow into the river Mura",
+   "description": "The river Ščavnica is very rich in cyprinids due to the facts that large number of fish runs from the lake Gajševsko jezero into the Ščavnica when the waters are high - mostly carps, silver carps, roaches, pikes, zanders and others and from the river Mura sometimes - also when the water are high - common nases, vimba vimba fish, common daces and chubs come to the Ščavnica as well."
+  },
+  "club": {
+   "name": "Ribiška družina Ljutomer",
+   "url": "https://www.ribiskekarte.si/rd-ljutomer"
+  },
+  "description": "Reka Ščavnica je zelo bogata s ciprinidi, saj iz Gajševskega jezera ob visokih vodah v Ščavnico uide zelo veliko rib, predvsem krapov, srebrnih koresljev,rdečeok, ščuk, smučev in drugih, iz Mure pa tudi občasno ob visokih vodah prihajajo podusti, ogrice, kleniči in kleni. Reka Ščavnica je v celoti regulirana reka, zato za ribiče ni preveč zanimiva in atraktivna, čeprav je bogata z ribjim življem.",
+  "waterType": "river",
+  "water": "Ščavnica",
+  "species": [
+   "klen",
+   "koreselj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "koreselj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "silikonska vaba",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi, roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ljutomer/nakup/171"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/scavnica-3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Žihlava"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    16.04807,
+    46.55023
+   ]
+  },
+  "center": [
+   46.55023,
+   16.04807
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:12.994Z"
+ }
+]

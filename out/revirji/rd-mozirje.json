@@ -1,0 +1,2007 @@
+[
+ {
+  "id": "rd-mozirje/dreta",
+  "clubSlug": "rd-mozirje",
+  "slug": "dreta",
+  "code": "Dreta",
+  "name": "Reka Dreta",
+  "subtitle": "od izvira do sotočja s Savinjo v Nazarju",
+  "en": {
+   "name": "The river Dreta",
+   "subtitle": "from the spring to the confluence with the Savinja in Nazarje",
+   "description": "The district Dreta, which is managed by RD Mozirje starts at the Dreta's spring under the Črnivec and ends at the confluence with the Savinja in the village Nazarje. The district is 22 km long. The average depth of the Dreta is between 0,5 and 1,0 m except in pools and below dams. The bottom is marl or covered with gravel limestone."
+  },
+  "club": {
+   "name": "Ribiška družina Mozirje",
+   "url": "https://www.ribiskekarte.si/rd-mozirje"
+  },
+  "description": "Revir Dreta, s katerim upravlja RD Mozirje se začne na izviru Drete pod Črnivcem in se konča na sotočju s Savinjo v vasi Nazarje. Dolg je 22 km. Povprečna globina Drete je med 0,5 in 1,0 m, razen v tolmunih in pod jezovi. Dno je lapornato ali pokrito z gramoznimi nanosi apnenca. V revirju se brzice izmenjujejo z mirnejšimi odseki reke. Reka je široka od 10 do 20 m.",
+  "waterType": "river",
+  "water": "Dreta",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Muharjenje (ujemi in spusti)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/29"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 2 dnevna",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 01. 03. do 29. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/719"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 3 dnevna",
+    "priceEur": 120,
+    "saleWindow": "Nakup od 01. 03. do 28. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/63"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 4 dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 01. 03. do 27. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/711"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 5 dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 01. 03. do 26. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/712"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 7 dnevna",
+    "priceEur": 230,
+    "saleWindow": "Nakup od 01. 03. do 24. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/713"
+   },
+   {
+    "name": "Ribolov sulca (člani RD Mozirje)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/1237"
+   },
+   {
+    "name": "Ribolov sulca (ujemi in spusti)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/34"
+   },
+   {
+    "name": "Ribolov sulca 2 dnevna (ujemi in spusti)",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 01. 11. do 13. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/714"
+   },
+   {
+    "name": "Ribolov sulca 3 dnevna (ujemi in spusti)",
+    "priceEur": 120,
+    "saleWindow": "Nakup od 01. 11. do 12. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/715"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-mozirje/dreta",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.284995,
+   "lon": 14.904955
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: izvir",
+   "do: sotočje Savinjo"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.72639,
+     46.27095
+    ],
+    [
+     14.72689,
+     46.27144
+    ],
+    [
+     14.72795,
+     46.27114
+    ],
+    [
+     14.7283,
+     46.27142
+    ],
+    [
+     14.72876,
+     46.27147
+    ],
+    [
+     14.72917,
+     46.27127
+    ],
+    [
+     14.73004,
+     46.27143
+    ],
+    [
+     14.73081,
+     46.27195
+    ],
+    [
+     14.73063,
+     46.27226
+    ],
+    [
+     14.73075,
+     46.2724
+    ],
+    [
+     14.7315,
+     46.27268
+    ],
+    [
+     14.73198,
+     46.27304
+    ],
+    [
+     14.73255,
+     46.27304
+    ],
+    [
+     14.73382,
+     46.27341
+    ],
+    [
+     14.73408,
+     46.2737
+    ],
+    [
+     14.73473,
+     46.27374
+    ],
+    [
+     14.73495,
+     46.27393
+    ],
+    [
+     14.73497,
+     46.27411
+    ],
+    [
+     14.73619,
+     46.27419
+    ],
+    [
+     14.73682,
+     46.27386
+    ],
+    [
+     14.73702,
+     46.27415
+    ],
+    [
+     14.73741,
+     46.27411
+    ],
+    [
+     14.73771,
+     46.27428
+    ],
+    [
+     14.73804,
+     46.27409
+    ],
+    [
+     14.73875,
+     46.27418
+    ],
+    [
+     14.73926,
+     46.27439
+    ],
+    [
+     14.74021,
+     46.27441
+    ],
+    [
+     14.74087,
+     46.27473
+    ],
+    [
+     14.7413,
+     46.27454
+    ],
+    [
+     14.74231,
+     46.27516
+    ],
+    [
+     14.74396,
+     46.27518
+    ],
+    [
+     14.74514,
+     46.27584
+    ],
+    [
+     14.74573,
+     46.27575
+    ],
+    [
+     14.74604,
+     46.27603
+    ],
+    [
+     14.74735,
+     46.27614
+    ],
+    [
+     14.74848,
+     46.27646
+    ],
+    [
+     14.74931,
+     46.27689
+    ],
+    [
+     14.75092,
+     46.27647
+    ],
+    [
+     14.75112,
+     46.27634
+    ],
+    [
+     14.75131,
+     46.27594
+    ],
+    [
+     14.75193,
+     46.27578
+    ],
+    [
+     14.75333,
+     46.27561
+    ],
+    [
+     14.75497,
+     46.27622
+    ],
+    [
+     14.75572,
+     46.2759
+    ],
+    [
+     14.75718,
+     46.27569
+    ],
+    [
+     14.75753,
+     46.27537
+    ],
+    [
+     14.75826,
+     46.27525
+    ],
+    [
+     14.75885,
+     46.27498
+    ],
+    [
+     14.75988,
+     46.27496
+    ],
+    [
+     14.76046,
+     46.27442
+    ],
+    [
+     14.76058,
+     46.27371
+    ],
+    [
+     14.76138,
+     46.27347
+    ],
+    [
+     14.76184,
+     46.2735
+    ],
+    [
+     14.76221,
+     46.2738
+    ],
+    [
+     14.76276,
+     46.27397
+    ],
+    [
+     14.76352,
+     46.27387
+    ],
+    [
+     14.76423,
+     46.27404
+    ],
+    [
+     14.76584,
+     46.27414
+    ],
+    [
+     14.76691,
+     46.2737
+    ],
+    [
+     14.7683,
+     46.27422
+    ],
+    [
+     14.76901,
+     46.27434
+    ],
+    [
+     14.76935,
+     46.27458
+    ],
+    [
+     14.7705,
+     46.27465
+    ],
+    [
+     14.77148,
+     46.27496
+    ],
+    [
+     14.77176,
+     46.27516
+    ],
+    [
+     14.77195,
+     46.27569
+    ],
+    [
+     14.77395,
+     46.27643
+    ],
+    [
+     14.77401,
+     46.27684
+    ],
+    [
+     14.77361,
+     46.27726
+    ],
+    [
+     14.7736,
+     46.27757
+    ],
+    [
+     14.77545,
+     46.27828
+    ],
+    [
+     14.77584,
+     46.27892
+    ],
+    [
+     14.77615,
+     46.27983
+    ],
+    [
+     14.77685,
+     46.28056
+    ],
+    [
+     14.77692,
+     46.28127
+    ],
+    [
+     14.77787,
+     46.28157
+    ],
+    [
+     14.7785,
+     46.28199
+    ],
+    [
+     14.77857,
+     46.28255
+    ],
+    [
+     14.7789,
+     46.28285
+    ],
+    [
+     14.77994,
+     46.28314
+    ],
+    [
+     14.78215,
+     46.28322
+    ],
+    [
+     14.78228,
+     46.28332
+    ],
+    [
+     14.7825,
+     46.28445
+    ],
+    [
+     14.78309,
+     46.28486
+    ],
+    [
+     14.78374,
+     46.2851
+    ],
+    [
+     14.78377,
+     46.28528
+    ],
+    [
+     14.78345,
+     46.28569
+    ],
+    [
+     14.78344,
+     46.28597
+    ],
+    [
+     14.78419,
+     46.28658
+    ],
+    [
+     14.78461,
+     46.28663
+    ],
+    [
+     14.78559,
+     46.28605
+    ],
+    [
+     14.78593,
+     46.28606
+    ],
+    [
+     14.78604,
+     46.28644
+    ],
+    [
+     14.78567,
+     46.28689
+    ],
+    [
+     14.78597,
+     46.28748
+    ],
+    [
+     14.78644,
+     46.288
+    ],
+    [
+     14.78777,
+     46.28862
+    ],
+    [
+     14.7885,
+     46.28869
+    ],
+    [
+     14.79057,
+     46.28922
+    ],
+    [
+     14.79329,
+     46.28929
+    ],
+    [
+     14.7936,
+     46.2898
+    ],
+    [
+     14.79397,
+     46.29
+    ],
+    [
+     14.79444,
+     46.2899
+    ],
+    [
+     14.79484,
+     46.28947
+    ],
+    [
+     14.79516,
+     46.28935
+    ],
+    [
+     14.79631,
+     46.28957
+    ],
+    [
+     14.79685,
+     46.28988
+    ],
+    [
+     14.79779,
+     46.29007
+    ],
+    [
+     14.79937,
+     46.29105
+    ],
+    [
+     14.79961,
+     46.29142
+    ],
+    [
+     14.80014,
+     46.2916
+    ],
+    [
+     14.80036,
+     46.29182
+    ],
+    [
+     14.80052,
+     46.29231
+    ],
+    [
+     14.80142,
+     46.29315
+    ],
+    [
+     14.80165,
+     46.29434
+    ],
+    [
+     14.80243,
+     46.29479
+    ],
+    [
+     14.80261,
+     46.29524
+    ],
+    [
+     14.80287,
+     46.29551
+    ],
+    [
+     14.80363,
+     46.29584
+    ],
+    [
+     14.80472,
+     46.29683
+    ],
+    [
+     14.8054,
+     46.29694
+    ],
+    [
+     14.8102,
+     46.29577
+    ],
+    [
+     14.81044,
+     46.29588
+    ],
+    [
+     14.81097,
+     46.29653
+    ],
+    [
+     14.81095,
+     46.29734
+    ],
+    [
+     14.81108,
+     46.29763
+    ],
+    [
+     14.81156,
+     46.29796
+    ],
+    [
+     14.81223,
+     46.29818
+    ],
+    [
+     14.81318,
+     46.29769
+    ],
+    [
+     14.81682,
+     46.29737
+    ],
+    [
+     14.81875,
+     46.29771
+    ],
+    [
+     14.82168,
+     46.29659
+    ],
+    [
+     14.82326,
+     46.29626
+    ],
+    [
+     14.82611,
+     46.29532
+    ],
+    [
+     14.82667,
+     46.29504
+    ],
+    [
+     14.82729,
+     46.29442
+    ],
+    [
+     14.82803,
+     46.29247
+    ],
+    [
+     14.82848,
+     46.29188
+    ],
+    [
+     14.83134,
+     46.29021
+    ],
+    [
+     14.83296,
+     46.29026
+    ],
+    [
+     14.83389,
+     46.29043
+    ],
+    [
+     14.83569,
+     46.29182
+    ],
+    [
+     14.83827,
+     46.29205
+    ],
+    [
+     14.83944,
+     46.2926
+    ],
+    [
+     14.84026,
+     46.29268
+    ],
+    [
+     14.84132,
+     46.29238
+    ],
+    [
+     14.84179,
+     46.29202
+    ],
+    [
+     14.8419,
+     46.29181
+    ],
+    [
+     14.84185,
+     46.29101
+    ],
+    [
+     14.842,
+     46.29082
+    ],
+    [
+     14.84318,
+     46.29028
+    ],
+    [
+     14.84396,
+     46.29017
+    ],
+    [
+     14.84443,
+     46.29025
+    ],
+    [
+     14.84482,
+     46.29055
+    ],
+    [
+     14.8461,
+     46.29318
+    ],
+    [
+     14.84612,
+     46.29374
+    ],
+    [
+     14.84587,
+     46.29455
+    ],
+    [
+     14.84639,
+     46.2958
+    ],
+    [
+     14.84806,
+     46.29616
+    ],
+    [
+     14.84891,
+     46.29597
+    ],
+    [
+     14.84989,
+     46.29556
+    ],
+    [
+     14.8504,
+     46.29555
+    ],
+    [
+     14.85097,
+     46.29588
+    ],
+    [
+     14.85089,
+     46.2967
+    ],
+    [
+     14.85098,
+     46.29703
+    ],
+    [
+     14.85137,
+     46.29758
+    ],
+    [
+     14.85191,
+     46.29778
+    ],
+    [
+     14.854,
+     46.29779
+    ],
+    [
+     14.85621,
+     46.29681
+    ],
+    [
+     14.8574,
+     46.29663
+    ],
+    [
+     14.86055,
+     46.29564
+    ],
+    [
+     14.86207,
+     46.29545
+    ],
+    [
+     14.86285,
+     46.29549
+    ],
+    [
+     14.86548,
+     46.29626
+    ],
+    [
+     14.8658,
+     46.29617
+    ],
+    [
+     14.86656,
+     46.29498
+    ],
+    [
+     14.8675,
+     46.29431
+    ],
+    [
+     14.86763,
+     46.29344
+    ],
+    [
+     14.86982,
+     46.2921
+    ],
+    [
+     14.87047,
+     46.29195
+    ],
+    [
+     14.8717,
+     46.29197
+    ],
+    [
+     14.87245,
+     46.29309
+    ],
+    [
+     14.87288,
+     46.29321
+    ],
+    [
+     14.87357,
+     46.293
+    ],
+    [
+     14.87379,
+     46.2928
+    ],
+    [
+     14.87433,
+     46.29171
+    ],
+    [
+     14.87423,
+     46.29083
+    ],
+    [
+     14.87394,
+     46.29026
+    ],
+    [
+     14.8739,
+     46.28988
+    ],
+    [
+     14.87406,
+     46.28949
+    ],
+    [
+     14.87483,
+     46.28853
+    ],
+    [
+     14.87618,
+     46.28792
+    ],
+    [
+     14.87686,
+     46.28783
+    ],
+    [
+     14.87795,
+     46.28798
+    ],
+    [
+     14.8783,
+     46.2882
+    ],
+    [
+     14.87919,
+     46.28947
+    ],
+    [
+     14.87977,
+     46.28947
+    ],
+    [
+     14.88027,
+     46.28921
+    ],
+    [
+     14.88168,
+     46.2877
+    ],
+    [
+     14.88189,
+     46.28645
+    ],
+    [
+     14.88237,
+     46.28488
+    ],
+    [
+     14.88434,
+     46.28365
+    ],
+    [
+     14.88515,
+     46.28357
+    ],
+    [
+     14.88719,
+     46.28385
+    ],
+    [
+     14.88869,
+     46.28496
+    ],
+    [
+     14.88912,
+     46.2851
+    ],
+    [
+     14.89102,
+     46.28408
+    ],
+    [
+     14.89266,
+     46.28407
+    ],
+    [
+     14.89398,
+     46.28427
+    ],
+    [
+     14.89436,
+     46.28458
+    ],
+    [
+     14.89401,
+     46.28514
+    ],
+    [
+     14.89402,
+     46.28559
+    ],
+    [
+     14.895,
+     46.2859
+    ],
+    [
+     14.89589,
+     46.28563
+    ],
+    [
+     14.89938,
+     46.28509
+    ],
+    [
+     14.90222,
+     46.28395
+    ],
+    [
+     14.90307,
+     46.2834
+    ],
+    [
+     14.90409,
+     46.28246
+    ],
+    [
+     14.90444,
+     46.28225
+    ],
+    [
+     14.90549,
+     46.28198
+    ],
+    [
+     14.90801,
+     46.28452
+    ],
+    [
+     14.90862,
+     46.28577
+    ],
+    [
+     14.90961,
+     46.28668
+    ],
+    [
+     14.91179,
+     46.28726
+    ],
+    [
+     14.91277,
+     46.28773
+    ],
+    [
+     14.91285,
+     46.28792
+    ],
+    [
+     14.91267,
+     46.28851
+    ],
+    [
+     14.91224,
+     46.28893
+    ],
+    [
+     14.91126,
+     46.28951
+    ],
+    [
+     14.91114,
+     46.28975
+    ],
+    [
+     14.91131,
+     46.29042
+    ],
+    [
+     14.91204,
+     46.29103
+    ],
+    [
+     14.91356,
+     46.29116
+    ],
+    [
+     14.91471,
+     46.2918
+    ],
+    [
+     14.91585,
+     46.29273
+    ],
+    [
+     14.91766,
+     46.29495
+    ],
+    [
+     14.91938,
+     46.29578
+    ],
+    [
+     14.92153,
+     46.29633
+    ],
+    [
+     14.9227,
+     46.29624
+    ],
+    [
+     14.92352,
+     46.29585
+    ],
+    [
+     14.92428,
+     46.29525
+    ],
+    [
+     14.92533,
+     46.29478
+    ],
+    [
+     14.92578,
+     46.29484
+    ],
+    [
+     14.9265,
+     46.29529
+    ],
+    [
+     14.92727,
+     46.29539
+    ],
+    [
+     14.92819,
+     46.2959
+    ],
+    [
+     14.92891,
+     46.29737
+    ],
+    [
+     14.9303,
+     46.29858
+    ],
+    [
+     14.93102,
+     46.29941
+    ],
+    [
+     14.93336,
+     46.30053
+    ],
+    [
+     14.93388,
+     46.30229
+    ],
+    [
+     14.93507,
+     46.30306
+    ],
+    [
+     14.93589,
+     46.30386
+    ],
+    [
+     14.93739,
+     46.30387
+    ],
+    [
+     14.93917,
+     46.3041
+    ],
+    [
+     14.94202,
+     46.30472
+    ],
+    [
+     14.94246,
+     46.30509
+    ],
+    [
+     14.9425,
+     46.30631
+    ],
+    [
+     14.94308,
+     46.30685
+    ],
+    [
+     14.94497,
+     46.30745
+    ],
+    [
+     14.9473,
+     46.30736
+    ],
+    [
+     14.94813,
+     46.30769
+    ],
+    [
+     14.94823,
+     46.30779
+    ],
+    [
+     14.94827,
+     46.30871
+    ],
+    [
+     14.94774,
+     46.31002
+    ],
+    [
+     14.94764,
+     46.31087
+    ],
+    [
+     14.9479,
+     46.31176
+    ],
+    [
+     14.94732,
+     46.31251
+    ],
+    [
+     14.94692,
+     46.31515
+    ],
+    [
+     14.94768,
+     46.31616
+    ],
+    [
+     14.94853,
+     46.31655
+    ],
+    [
+     14.94947,
+     46.31659
+    ],
+    [
+     14.95134,
+     46.3161
+    ],
+    [
+     14.95261,
+     46.31622
+    ],
+    [
+     14.95322,
+     46.31657
+    ],
+    [
+     14.95348,
+     46.31704
+    ],
+    [
+     14.95328,
+     46.31853
+    ],
+    [
+     14.95305,
+     46.31875
+    ],
+    [
+     14.95193,
+     46.31908
+    ],
+    [
+     14.95149,
+     46.31944
+    ],
+    [
+     14.95136,
+     46.31975
+    ],
+    [
+     14.95151,
+     46.32081
+    ],
+    [
+     14.95193,
+     46.32133
+    ]
+   ]
+  },
+  "center": [
+   46.29621,
+   14.85094
+  ],
+  "lengthKm": 26.9,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.29634,
+    "lon": 14.80472,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.32031,
+    "lon": 14.95063,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.28107,
+    "lon": 14.88858,
+    "name": null,
+    "distKm": 0.33
+   },
+   {
+    "lat": 46.29722,
+    "lon": 14.93698,
+    "name": null,
+    "distKm": 0.46
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:15.324Z"
+ },
+ {
+  "id": "rd-mozirje/ribnik-mozirje",
+  "clubSlug": "rd-mozirje",
+  "slug": "ribnik-mozirje",
+  "code": "ribnik Gaj",
+  "name": "Ribnik Gaj",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Gaj",
+   "subtitle": "",
+   "description": "The pond Gaj is in Mozirje, in the near vicinity of Mozirski gaj. Its surface measures 1 ha. It has a very well managed course at the half of the pond with access to the wheelchairs. so fishermen with disabilities can fish here, too. The pond's shore is decorated with benches that enable relaxed fishing. The pond is 3 m deep, the water temperature varies from 5 to 20 C."
+  },
+  "club": {
+   "name": "Ribiška družina Mozirje",
+   "url": "https://www.ribiskekarte.si/rd-mozirje"
+  },
+  "description": "Ribnik gaj se nahaja v Mozirju, v neposredni bližini mozirskega gaja. Velik je 1 ha. Ob polovici ribnika je urejena trasa, ki omogoča ribolov invalidom, saj je dostopna z invalidski vozičkom. Obala ribnika je opremljena s klopmi, ki omogočajo sproščen ribolov. Ribnik je globok do 3 m, temperatura vode se giblje med 5 do 20 st. C. Poseljujejo ga krapi, amurji in ostale ciprinidne vrste rib.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "krap",
+   "smuc",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "krap",
+   "smuč",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "mrtva riba",
+   "umetna muha",
+   "umetne vabe",
+   "vabe naravnega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (krap - beličarjenje, talni ribolov)",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/32"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/31"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/1147"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-mozirje/ribnik-mozirje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.35989,
+      46.24264
+     ],
+     [
+      15.36093,
+      46.24247
+     ],
+     [
+      15.36113,
+      46.24325
+     ],
+     [
+      15.36029,
+      46.24347
+     ],
+     [
+      15.35989,
+      46.24264
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.24297,
+   15.36054
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:29.781Z"
+ },
+ {
+  "id": "rd-mozirje/savinja-45",
+  "clubSlug": "rd-mozirje",
+  "slug": "savinja-45",
+  "code": "Savinja 4+5",
+  "name": "Reka Savinja",
+  "subtitle": "od Grušovlje do Letuša",
+  "en": {
+   "name": "The river Savinja",
+   "subtitle": "from Grušovlje to Letuš",
+   "description": "The district Savinja, which is managed by RD Mozirje starts at Grušovlje dam in the village Grušovlje and ends at the bridge across the Savinja in the village Letuš. The average depth of the Savinja in this district is between 0,5 and 1,5 m, except in pools and below dams. The bottom is marl or covered with gravel limestone.The current changes in this district; the rapid parts are followed by still waters."
+  },
+  "club": {
+   "name": "Ribiška družina Mozirje",
+   "url": "https://www.ribiskekarte.si/rd-mozirje"
+  },
+  "description": "Revir Savinja, s katerim upravlja RD Mozirje se začne na Grušoveljskem jezu pri vasi Grušovlje in se konča na mostu preko Savinje v vasi Letuš. Dolg je 15,2 km. Povprečna globina Savinje v revirju je med 0,5 in 1,5 m, razen v tolmunih in pod jezovi. Dno je lapornato ali pokrito z gramoznimi nanosi apnenca. V revirju se brzice izmenjujejo z mirnejšimi odseki reke. Reka je široka med 25 do 40 m.",
+  "waterType": "river",
+  "water": "Savinja",
+  "species": [
+   "klen",
+   "lipan",
+   "mrena",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "mrena",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Muharjenje (ujemi in spusti)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/29"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 2 dnevna",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 01. 03. do 29. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/719"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 3 dnevna",
+    "priceEur": 120,
+    "saleWindow": "Nakup od 01. 03. do 28. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/63"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 4 dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 01. 03. do 27. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/711"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 5 dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 01. 03. do 26. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/712"
+   },
+   {
+    "name": "Muharjenje (ujemi in spusti) 7 dnevna",
+    "priceEur": 230,
+    "saleWindow": "Nakup od 01. 03. do 24. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/713"
+   },
+   {
+    "name": "Ribolov sulca (člani RD Mozirje)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/1237"
+   },
+   {
+    "name": "Ribolov sulca (ujemi in spusti)",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/34"
+   },
+   {
+    "name": "Ribolov sulca 2 dnevna (ujemi in spusti)",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 01. 11. do 13. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/714"
+   },
+   {
+    "name": "Ribolov sulca 3 dnevna (ujemi in spusti)",
+    "priceEur": 120,
+    "saleWindow": "Nakup od 01. 11. do 12. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/715"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-mozirje/savinja-45",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.321327,
+   "lon": 14.952548
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Grušovlje",
+   "do: kraj Letuš"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.88184,
+     46.31336
+    ],
+    [
+     14.88338,
+     46.31345
+    ],
+    [
+     14.8844,
+     46.31328
+    ],
+    [
+     14.88624,
+     46.31254
+    ],
+    [
+     14.88697,
+     46.31192
+    ],
+    [
+     14.88723,
+     46.31101
+    ],
+    [
+     14.88706,
+     46.31007
+    ],
+    [
+     14.88735,
+     46.30958
+    ],
+    [
+     14.88769,
+     46.30928
+    ],
+    [
+     14.88916,
+     46.30852
+    ],
+    [
+     14.89047,
+     46.30834
+    ],
+    [
+     14.89156,
+     46.30853
+    ],
+    [
+     14.89274,
+     46.30902
+    ],
+    [
+     14.8939,
+     46.3104
+    ],
+    [
+     14.89462,
+     46.31052
+    ],
+    [
+     14.89625,
+     46.30996
+    ],
+    [
+     14.89638,
+     46.30968
+    ],
+    [
+     14.89643,
+     46.3089
+    ],
+    [
+     14.89714,
+     46.30844
+    ],
+    [
+     14.89774,
+     46.30832
+    ],
+    [
+     14.90113,
+     46.3086
+    ],
+    [
+     14.90358,
+     46.30936
+    ],
+    [
+     14.90574,
+     46.3096
+    ],
+    [
+     14.9081,
+     46.30906
+    ],
+    [
+     14.90893,
+     46.309
+    ],
+    [
+     14.90951,
+     46.30935
+    ],
+    [
+     14.9103,
+     46.30953
+    ],
+    [
+     14.91062,
+     46.30983
+    ],
+    [
+     14.91214,
+     46.31065
+    ],
+    [
+     14.91356,
+     46.31099
+    ],
+    [
+     14.91593,
+     46.31126
+    ],
+    [
+     14.9168,
+     46.31156
+    ],
+    [
+     14.91726,
+     46.3115
+    ],
+    [
+     14.91872,
+     46.31051
+    ],
+    [
+     14.91964,
+     46.31006
+    ],
+    [
+     14.91999,
+     46.31002
+    ],
+    [
+     14.92078,
+     46.31054
+    ],
+    [
+     14.92196,
+     46.31176
+    ],
+    [
+     14.92208,
+     46.31294
+    ],
+    [
+     14.92271,
+     46.31335
+    ],
+    [
+     14.92318,
+     46.31346
+    ],
+    [
+     14.9246,
+     46.31342
+    ],
+    [
+     14.92599,
+     46.31309
+    ],
+    [
+     14.9273,
+     46.3126
+    ],
+    [
+     14.92991,
+     46.31209
+    ],
+    [
+     14.93036,
+     46.31212
+    ],
+    [
+     14.93102,
+     46.31252
+    ],
+    [
+     14.93105,
+     46.31276
+    ],
+    [
+     14.9307,
+     46.31332
+    ],
+    [
+     14.93074,
+     46.31345
+    ],
+    [
+     14.9316,
+     46.31419
+    ],
+    [
+     14.93413,
+     46.31534
+    ],
+    [
+     14.93737,
+     46.31609
+    ],
+    [
+     14.93867,
+     46.31665
+    ],
+    [
+     14.93918,
+     46.3173
+    ],
+    [
+     14.94114,
+     46.31879
+    ],
+    [
+     14.94385,
+     46.32021
+    ],
+    [
+     14.94783,
+     46.32131
+    ],
+    [
+     14.94871,
+     46.32143
+    ],
+    [
+     14.95096,
+     46.32125
+    ],
+    [
+     14.95193,
+     46.32133
+    ],
+    [
+     14.95238,
+     46.32146
+    ],
+    [
+     14.9548,
+     46.32301
+    ],
+    [
+     14.95506,
+     46.32329
+    ],
+    [
+     14.95506,
+     46.32381
+    ],
+    [
+     14.95577,
+     46.3264
+    ],
+    [
+     14.95593,
+     46.3278
+    ],
+    [
+     14.95679,
+     46.33048
+    ],
+    [
+     14.95754,
+     46.33195
+    ],
+    [
+     14.95731,
+     46.33245
+    ],
+    [
+     14.95757,
+     46.333
+    ],
+    [
+     14.9586,
+     46.33431
+    ],
+    [
+     14.96018,
+     46.3355
+    ],
+    [
+     14.9642,
+     46.3369
+    ],
+    [
+     14.96795,
+     46.33774
+    ],
+    [
+     14.97156,
+     46.33814
+    ],
+    [
+     14.97578,
+     46.33822
+    ],
+    [
+     14.98504,
+     46.33803
+    ],
+    [
+     14.98616,
+     46.33787
+    ],
+    [
+     14.98765,
+     46.33743
+    ],
+    [
+     14.98935,
+     46.33645
+    ],
+    [
+     14.99044,
+     46.33534
+    ],
+    [
+     14.99149,
+     46.33391
+    ],
+    [
+     14.99172,
+     46.33306
+    ],
+    [
+     14.99206,
+     46.33249
+    ],
+    [
+     14.99275,
+     46.33198
+    ],
+    [
+     14.99419,
+     46.3311
+    ],
+    [
+     14.9953,
+     46.33062
+    ],
+    [
+     14.99587,
+     46.33007
+    ],
+    [
+     14.99633,
+     46.32989
+    ],
+    [
+     14.99666,
+     46.32984
+    ],
+    [
+     14.99709,
+     46.32996
+    ],
+    [
+     14.99786,
+     46.33044
+    ],
+    [
+     14.99837,
+     46.33053
+    ],
+    [
+     14.99888,
+     46.33042
+    ],
+    [
+     15.00026,
+     46.32936
+    ],
+    [
+     15.00256,
+     46.32712
+    ],
+    [
+     15.00703,
+     46.32467
+    ],
+    [
+     15.01194,
+     46.32268
+    ],
+    [
+     15.01508,
+     46.32188
+    ],
+    [
+     15.01542,
+     46.32163
+    ],
+    [
+     15.01664,
+     46.31949
+    ],
+    [
+     15.01663,
+     46.31801
+    ],
+    [
+     15.01681,
+     46.31738
+    ],
+    [
+     15.01699,
+     46.31719
+    ],
+    [
+     15.01897,
+     46.31639
+    ],
+    [
+     15.02099,
+     46.31591
+    ]
+   ]
+  },
+  "center": [
+   46.3244,
+   14.95522
+  ],
+  "lengthKm": 14.7,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.31654,
+    "lon": 15.01782,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.31632,
+    "lon": 14.93582,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.33657,
+    "lon": 14.96564,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.33193,
+    "lon": 14.99425,
+    "name": null,
+    "distKm": 0.07
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:03.434Z"
+ }
+]
