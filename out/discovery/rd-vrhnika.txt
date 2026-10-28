@@ -1,0 +1,1197 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,400italic&subset=latin,cyrillic-ext,cyrillic,latin-ext'
+          rel='stylesheet' type='text/css'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link href="https://www.ribiskekarte.si/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+	<base href="https://www.ribiskekarte.si/"/>
+    <title>Ribiška družina Vrhnika - Spletni nakup ribolovnih dovolilnic za športni ribolov v Sloveniji | Ribiške Karte</title>
+    <!-- CSS -->
+    <link href="https://www.ribiskekarte.si/css/select2.css" rel="stylesheet" />
+    <link href="https://www.ribiskekarte.si/css/basictable.style.css" rel="stylesheet" />
+    <link href="https://www.ribiskekarte.si/css/stacktable-only-try.css" rel="stylesheet" />
+    <link href="https://www.ribiskekarte.si/css/main.css?v=2.231" rel="stylesheet">
+    <!--a9773cb1e2ac365508c77960386dcca7-->
+    <link href="https://www.ribiskekarte.si/css/slick.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://www.ribiskekarte.si/css/jquery-ui-1.8.22.custom-pepper-grinder.css"/>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+    
+    <link rel="stylesheet" type="text/css" href="https://www.ribiskekarte.si/css/font-awesome.min.css?v=1.1" />
+	<meta name="description" content="Reka Bistra (od izvira do izliva v reko Ljubljanico), Reka Ljubija (od izvira do izliva v reko Ljubljanico), Reka Ljubljanica (od izvirov Ljubljanice do pritoka Pekovega grabna), Podlipščica in Črni graben, Reka Ljubljanica (od pritoka Pekovega grabna pri Kaminih / Bevke do mostu čez Ljubljanico v Podpeči), Borovniščica, Zrnica, Podpeški graben, Ribčev ribnik pri Bistri, Ribnik Lokev v Logatcu, Ribniki Opekarna (Divjak), Ribnik pri Ribiškem domu v Sinji Gorici. Ribiška družina Vrhnika je bila ustanovljena leta 1955 in deluje neprekinjeno do sedaj. V upravljanju imamo Ljubljanico od izvirov v Močilniku in Retovju do mos"/>
+    <meta name="keywords" content="Reka Bistra (od izvira do izliva v reko Ljubljanico), Reka Ljubija (od izvira do izliva v reko Ljubljanico), Reka Ljubljanica (od izvirov Ljubljanice do pritoka Pekovega grabna), Podlipščica in Črni graben, Reka Ljubljanica (od pritoka Pekovega grabna pri Kaminih / Bevke do mostu čez Ljubljanico v Podpeči), Borovniščica, Zrnica, Podpeški graben, Ribčev ribnik pri Bistri, Ribnik Lokev v Logatcu, Ribniki Opekarna (Divjak), Ribnik pri Ribiškem domu v Sinji Gorici"/>
+    <meta property="og:url" content="https://www.ribiskekarte.si/rd-vrhnika"/>
+    <meta property="og:title" content="Ribiška družina Vrhnika - Spletni nakup ribolovnih dovolilnic za športni ribolov v Sloveniji | Ribiške Karte"/>
+    <meta property="og:description" content="Reka Bistra (od izvira do izliva v reko Ljubljanico), Reka Ljubija (od izvira do izliva v reko Ljubljanico), Reka Ljubljanica (od izvirov Ljubljanice do pritoka Pekovega grabna), Podlipščica in Črni graben, Reka Ljubljanica (od pritoka Pekovega grabna pri Kaminih / Bevke do mostu čez Ljubljanico v Podpeči), Borovniščica, Zrnica, Podpeški graben, Ribčev ribnik pri Bistri, Ribnik Lokev v Logatcu, Ribniki Opekarna (Divjak), Ribnik pri Ribiškem domu v Sinji Gorici. Ribiška družina Vrhnika je bila ustanovljena leta 1955 in deluje neprekinjeno do sedaj. V upravljanju imamo Ljubljanico od izvirov v Močilniku in Retovju do mos"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:image" content="https://imgs.ribiskekarte.si/logo/logo-rd-vrhnika.jpg"/>
+    <meta property="fb:app_id" content="220260514762217"/>
+    
+    <!-- Start of  Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b10b6aa9-e534-42b2-a5fb-9ff02e626c2e"> </script>
+    <script type="text/javascript">
+     zE('webWidget', 'setLocale', 'sl');
+    </script>
+    <!-- End of  Zendesk Widget script -->
+    
+</head>
+<body class="typography"><!--[if lte IE 8]><p class="chromeframe">Your browser is <em>ancient!</em> <a rel="nofollow"
+																			  href="http://browsehappy.com/">Upgrade to
+	a different browser</a> or <a rel="nofollow" href="http://www.google.com/chromeframe/?redirect=true">install Google
+	Chrome Frame</a> to experience this site.</p><![endif]-->
+<div class="alert alert-danger hidden" style="text-align: center;">
+	<strong>!!</strong> Zaradi nizkega vodostaja in ekstremnih temperatur skrbno ravnajte z ribami! Če je mogoče, morda prestavite ribolov (še posebej salmonidov) za kak dan, da se razmere normalizirajo.
+</div>
+<header class="header">
+	<nav class="navbar navbar-default header-static-top navbar-main">
+		<div class="container">
+			<!-- BRAND - left -->
+			<div class="navbar-header pull-left">
+				<a href="https://www.ribiskekarte.si"><img class="logo-ribiske-karte" src="https://imgs.ribiskekarte.si/licence_to_fish_green_fish_logo_723x723.png"></a>
+				<a href="https://www.ribiskekarte.si" class="navbar-brand hidden-xs">RIBISKE KARTE
+					<!--<img alt="christmas cap" src="https://imgs.ribiskekarte.si/christmas-cap.png">-->
+				</a>
+			</div>
+			<!-- LANGUAGE - right -->
+			<div class="navbar-header pull-right">
+				<ul class="nav navbar-nav">
+					<li id="collapse_submenu_lang" class="hidden-xs">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+						   aria-expanded="false">sl <img alt="sl" src="https://imgs.ribiskekarte.si/icon_flag.png"></a>
+						<ul class="dropdown-menu">
+							
+							<li title="English"><a href="https://www.ribiskekarte.si/en/rd-vrhnika">en</a></li>
+							
+							<li title="Deutsch"><a href="https://www.ribiskekarte.si/de/rd-vrhnika">de</a></li>
+							
+							<li title="Italiano"><a href="https://www.ribiskekarte.si/it/rd-vrhnika">it</a></li>
+							
+						</ul>
+					</li>
+					<li class="visible-xs">
+						<a id="mobile_lang" href="#navbar-collapse-2" data-toggle="collapse" class="quiet">
+							sl <img alt="sl" src="https://imgs.ribiskekarte.si/icon_flag.png"></a>
+					</li>
+				</ul>
+			</div>
+
+			<!-- MENU mobile - right -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+					<!--<span class="badge hidden" style="background-color:#8cc640;position: absolute;bottom:50%;right:10%;">0</span>-->
+					<img src="https://imgs.ribiskekarte.si/icon_more.png" alt="Menu">
+				</button>
+				<ul class="nav navbar-nav pull-right">
+					
+					<li class="visible-xs"><a href="https://auth.ribiskekarte.si/sl/login" title="Prijava" class="cp glyphicon glyphicon-log-in"></a></li>
+					
+					
+					<li class="visible-xs">
+						<a href="https://moje.ribiskekarte.si/shopping-cart">
+							<i style="font-size: 18px;margin-top: 4px;" class="glyphicon glyphicon-shopping-cart"></i>
+	                        <span class="badge" style="background-color:#8cc640;position: absolute;bottom:50%;left:30px;">0</span>
+                        </a>
+                    </li>
+				</ul>
+			</div>
+
+			<!-- MENU not-mobile with SUBMENU - right -->
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div id="navbar-collapse-1" class="collapse navbar-collapse pull-right">
+				<ul class="nav navbar-nav">
+					<!--<li><a href="#"><img src="https://imgs.ribiskekarte.si/icon_search.png" alt="Search"></a></li>-->
+
+					
+					<li ><a href="https://www.ribiskekarte.si/kako-deluje">Kako deluje</a></li>
+					<li><a href="https://www.ribiskekarte.si/blog" target="_blank">Blog</a></li>
+					
+					
+					
+					<li class="hidden-xs"><a href="https://auth.ribiskekarte.si/sl/login">Prijava</a></li>
+					
+					
+					<li class="hidden-xs">
+						<a href="https://moje.ribiskekarte.si/shopping-cart">
+							<i style="font-size: 18px;" class="glyphicon glyphicon-shopping-cart"></i>
+	                        <span class="badge" style="background-color:#8cc640;position: absolute;bottom:50%;right:10%;">0</span>
+                        </a>
+                    </li>
+					<li id="collapse_submenu" class="dropdown hidden-xs">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+						   aria-expanded="false"><img src="img/icon_more.png" alt="More"></a>
+						<ul class="dropdown-menu">
+							
+							
+							<li ><a href="https://www.ribiskekarte.si/ribolovni-revirji">Ribolovni revirji</a></li>
+							<li ><a href="https://www.ribiskekarte.si/ribiske-druzine">Ribiške družine</a></li>
+							
+							<li ><a href="https://www.ribiskekarte.si/nakup-darilnega-bona">Darilni boni</a></li>
+							
+							<li ><a class="highlighted" href="https://www.ribiskekarte.si/kapitalni-ulovi">Kapitalni ulovi</a></li>
+							<li><a href="https://www.ribiskekarte.si/ribolov-v-sloveniji">Ribolov v Sloveniji</a></li>
+							
+							<li><a href="https://auth.ribiskekarte.si/sl/register">Registracija</a></li>
+							
+							
+						</ul>
+					</li>
+
+					
+					
+					<li class="visible-xs"><a href="https://www.ribiskekarte.si/ribolovni-revirji">Ribolovni revirji</a></li>
+					<li class="visible-xs"><a href="https://www.ribiskekarte.si/ribiske-druzine">Ribiške družine</a></li>
+					
+					<li class="visible-xs"><a href="https://www.ribiskekarte.si/nakup-darilnega-bona">Darilni boni</a></li>
+					
+					<li class="visible-xs"><a class="highlighted" href="https://www.ribiskekarte.si/kapitalni-ulovi">Kapitalni ulovi</a></li>
+					<li class="visible-xs"><a href="https://www.ribiskekarte.si/ribolov-v-sloveniji">Ribolov v Sloveniji</a></li>
+					
+					<li class="visible-xs"><a href="https://auth.ribiskekarte.si/sl/register">Registracija</a></li>
+					
+					
+				</ul>
+			</div>
+			<!-- /.navbar-collapse -->
+
+			<div id="navbar-collapse-2" class="collapse navbar-collapse pull-right hidden-lg hidden-md hidden-sm">
+				<ul class="nav navbar-nav">
+					
+							<li title="English"><a href="https://www.ribiskekarte.si/en/rd-vrhnika">en</a></li>
+							
+							<li title="Deutsch"><a href="https://www.ribiskekarte.si/de/rd-vrhnika">de</a></li>
+							
+							<li title="Italiano"><a href="https://www.ribiskekarte.si/it/rd-vrhnika">it</a></li>
+							
+				</ul>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container -->
+	</nav>
+</header>
+
+<!--shops offers-->
+<div class="offer-carousel container-fluid">
+	<div class="row">
+		<div class="carousel-old" id="carousel-so">
+			<ul>
+				
+				<li class="carousel-height-min">
+					<a onclick="_gaq.push(['_trackEvent','ribisketrgovine','posebna-ponudba-slider','378-ŠPORT DANILO: Muharski set TRAPER']);"
+					   href="https://sport-danilo.si/muharjenje/2512-6156-muharski-set-traper-active#/1499-model_muharice-df_86_4" target="_blank" rel="nofollow">
+						<div class="offer-wrap">
+							<div class="offer-min semi-bold">
+								<span class="pull-left">ŠPORT DANILO: Muharski set TRAPER</span>
+								<img src="https://imgs.ribiskekarte.si/icon_discount.png" class="pull-right">
+							</div>
+							<div class="offer-max" hidden>
+								<div class="offer-descipt">
+									
+									
+									<span class="bold offer-price-title text-uppercase">Tvoja cena: </span>
+									<span class="offer-price semi-bold">148,90 &euro;</span>
+									
+									<div class="offer-text">
+										ŠPORT DANILO: Muharski set TRAPER
+									</div>
+									
+								</div>
+								<img src="https://imgs.ribiskekarte.si/galleries/offers/24/Muharski-set-TRAPER-ACTIVE.jpg" class="offer-img" alt="https://imgs.ribiskekarte.si/galleries/offers/24/Muharski-set-TRAPER-ACTIVE.jpg">
+								<img src="https://imgs.ribiskekarte.si/bg_carrousel_overlay.png" class="offer-img" alt="">
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				<li class="carousel-height-min">
+					<a onclick="_gaq.push(['_trackEvent','ribisketrgovine','posebna-ponudba-slider','377-ŠPORT DANILO: Palica Abu Garcia TT']);"
+					   href="https://sport-danilo.si/vijacenje/2617-palica-abu-garcia-turmentor-travel-244-m-10-40g" target="_blank" rel="nofollow">
+						<div class="offer-wrap">
+							<div class="offer-min semi-bold">
+								<span class="pull-left">ŠPORT DANILO: Palica Abu Garcia TT</span>
+								<img src="https://imgs.ribiskekarte.si/icon_discount.png" class="pull-right">
+							</div>
+							<div class="offer-max" hidden>
+								<div class="offer-descipt">
+									
+									
+									<span class="bold offer-price-title text-uppercase">Tvoja cena: </span>
+									<span class="offer-price semi-bold">56,90 &euro;</span>
+									
+									<div class="offer-text">
+										ŠPORT DANILO: Palica Abu Garcia TT
+									</div>
+									
+								</div>
+								<img src="https://imgs.ribiskekarte.si/galleries/offers/24/Palica-Abu-Garcia-TURMENTOR-TRAVEL.jpg" class="offer-img" alt="https://imgs.ribiskekarte.si/galleries/offers/24/Palica-Abu-Garcia-TURMENTOR-TRAVEL.jpg">
+								<img src="https://imgs.ribiskekarte.si/bg_carrousel_overlay.png" class="offer-img" alt="">
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				<li class="carousel-height-min">
+					<a onclick="_gaq.push(['_trackEvent','ribisketrgovine','posebna-ponudba-slider','379-ŠPORT D.: Muharsko kolesce JAXON M.']);"
+					   href="https://sport-danilo.si/muharjenje/2596-6229-muharsko-kolesce-jaxon-machine#/1448-velikost_kolesc-3_4" target="_blank" rel="nofollow">
+						<div class="offer-wrap">
+							<div class="offer-min semi-bold">
+								<span class="pull-left">ŠPORT D.: Muharsko kolesce JAXON M.</span>
+								<img src="https://imgs.ribiskekarte.si/icon_discount.png" class="pull-right">
+							</div>
+							<div class="offer-max" hidden>
+								<div class="offer-descipt">
+									
+									
+									<span class="bold offer-price-title text-uppercase">Tvoja cena: </span>
+									<span class="offer-price semi-bold">46,90 &euro;</span>
+									
+									<div class="offer-text">
+										ŠPORT D.: Muharsko kolesce JAXON M.
+									</div>
+									
+								</div>
+								<img src="https://imgs.ribiskekarte.si/galleries/offers/24/kolesce-jaxon-machine.jpg" class="offer-img" alt="https://imgs.ribiskekarte.si/galleries/offers/24/kolesce-jaxon-machine.jpg">
+								<img src="https://imgs.ribiskekarte.si/bg_carrousel_overlay.png" class="offer-img" alt="">
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				<li class="carousel-height-min">
+					<a onclick="_gaq.push(['_trackEvent','ribisketrgovine','posebna-ponudba-slider','301-TOP IZBIRA: Rola Hotfly CMA 590']);"
+					   href="https://flyfishingshop.eu/izdelek/muharsko-kolesce-hotfly-cma-590-edition/" target="_blank" rel="nofollow">
+						<div class="offer-wrap">
+							<div class="offer-min semi-bold">
+								<span class="pull-left">TOP IZBIRA: Rola Hotfly CMA 590</span>
+								<img src="https://imgs.ribiskekarte.si/icon_discount.png" class="pull-right">
+							</div>
+							<div class="offer-max" hidden>
+								<div class="offer-descipt">
+									
+									
+									<span class="bold offer-price-title text-uppercase">Tvoja cena: </span>
+									<span class="offer-price semi-bold">89,00 &euro;</span>
+									
+									<div class="offer-text">
+										TOP IZBIRA: Rola Hotfly CMA 590
+									</div>
+									
+								</div>
+								<img src="https://imgs.ribiskekarte.si/galleries/offers/42/rola-Muharsko-kolesce-hotfly-CMA-590-EDITION.jpg" class="offer-img" alt="https://imgs.ribiskekarte.si/galleries/offers/42/rola-Muharsko-kolesce-hotfly-CMA-590-EDITION.jpg">
+								<img src="https://imgs.ribiskekarte.si/bg_carrousel_overlay.png" class="offer-img" alt="">
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				<li class="carousel-height-min">
+					<a onclick="_gaq.push(['_trackEvent','ribisketrgovine','posebna-ponudba-slider','376-ŠPORT DANILO: umetne muhe']);"
+					   href="https://sport-danilo.si/27-umetne-muhe" target="_blank" rel="nofollow">
+						<div class="offer-wrap">
+							<div class="offer-min semi-bold">
+								<span class="pull-left">ŠPORT DANILO: umetne muhe</span>
+								<img src="https://imgs.ribiskekarte.si/icon_discount.png" class="pull-right">
+							</div>
+							<div class="offer-max" hidden>
+								<div class="offer-descipt">
+									
+									
+									<span class="bold offer-price-title text-uppercase">Tvoja cena: </span>
+									<span class="offer-price semi-bold">1,65 &euro;</span>
+									
+									<div class="offer-text">
+										ŠPORT DANILO: umetne muhe
+									</div>
+									
+								</div>
+								<img src="https://imgs.ribiskekarte.si/galleries/offers/24/umetne-muhe-danilo-bizal.jpg" class="offer-img" alt="https://imgs.ribiskekarte.si/galleries/offers/24/umetne-muhe-danilo-bizal.jpg">
+								<img src="https://imgs.ribiskekarte.si/bg_carrousel_overlay.png" class="offer-img" alt="">
+							</div>
+						</div>
+					</a>
+				</li>
+				
+				<li class="carousel-height-min">
+					<a onclick="_gaq.push(['_trackEvent','ribisketrgovine','posebna-ponudba-slider','375-ŠPORT DANILO: Freestone Smoke']);"
+					   href="https://sport-danilo.si/skornji-za-muharjenje/2623-6281-skornji-simms-freestone-smoke" target="_blank" rel="nofollow">
+						<div class="offer-wrap">
+							<div class="offer-min semi-bold">
+								<span class="pull-left">ŠPORT DANILO: Freestone Smoke</span>
+								<img src="https://imgs.ribiskekarte.si/icon_discount.png" class="pull-right">
+							</div>
+							<div class="offer-max" hidden>
+								<div class="offer-descipt">
+									
+									
+									<span class="bold offer-price-title text-uppercase">Tvoja cena: </span>
+									<span class="offer-price semi-bold">499,90 &euro;</span>
+									
+									<div class="offer-text">
+										ŠPORT DANILO: Freestone Smoke
+									</div>
+									
+								</div>
+								<img src="https://imgs.ribiskekarte.si/galleries/offers/24/simms-smoke.jpg" class="offer-img" alt="https://imgs.ribiskekarte.si/galleries/offers/24/simms-smoke.jpg">
+								<img src="https://imgs.ribiskekarte.si/bg_carrousel_overlay.png" class="offer-img" alt="">
+							</div>
+						</div>
+					</a>
+				</li>
+				
+			</ul>
+		</div>
+		<div class="offer-border"></div>
+	</div>
+</div>
+<div class="offer-container container">
+		<span class="offer-tag">POSEBNA PONUDBA
+			<img src="https://imgs.ribiskekarte.si/icon_up.png" class="offer-tag-icon rotate90">
+		</span>
+</div>
+
+<div class="family pb0">
+    <div class="container-fluid">
+        <div class="row">
+            <div id="map_canvas" class="map" style="z-index:0;position: absolute !important; height: 500px !important;"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 opc9">
+                <div class="breadcrumbs">
+                    <ol class="breadcrumb">
+                        <li><a href="https://www.ribiskekarte.si"><img src="https://imgs.ribiskekarte.si/icon_home.png"></a></li>
+                        <li><a href="https://www.ribiskekarte.si/ribiske-druzine">Ribiške družine</a></li>
+                        <li class="active">Ribiška družina  Vrhnika</li>
+                    </ol>
+                    <span class="italic"><strong>Vsi podatki o Ribiška družina Vrhnika.</strong> Bodi na tekočem s podatki o ribolovnih revirjih in ribiških kartah za Ribiška družina Vrhnika!</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="block-border-top">
+                    <div class="block-img">
+                        <img src="https://imgs.ribiskekarte.si/h_imgs/ljubljanica-rd-vrhnika.jpg" class="img-full-width">
+                    </div>
+                    <div class="block-text">
+                        
+                        <img src="https://imgs.ribiskekarte.si/logo/logo-rd-vrhnika.jpg" class="family-logo">
+                        
+                        <div class="family-text">
+                            <h1 class="h2">Ribiška družina  Vrhnika</h1>
+                            <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/ribiske-druzine">Ribiška družina </a></h4>
+                        </div>
+                        <br>
+                        <ul class="block-features">
+                            <li><span class="bold">ŠTEVILO VSEH REVIRJEV</span> <span>10</span>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="block-border-top data">
+                    <table class="table table-striped mb0">
+                        <tr>
+                            <td class="bold">NASLOV</td>
+                            <td>Sinja Gorica 57, 1360 Vrhnika
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="bold">TELEFON</td>
+                            <td>+386 (0)51 338 090
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="bold">E-POŠTA</td>
+                            <td><a href="mailto:info@rdvrhnika.si">info@rdvrhnika.si</a></td>
+                        </tr>
+                        <tr>
+                            <td class="bold">URADNE URE</td>
+                            <td>Vsak prvi torek v mesecu med 18:00 in 19:00 uro.
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- RD TOLMIN SQUARES -->
+        
+        
+        <div class="block-border-top description">
+            <div class="row">
+                <div class="col-sm-12">
+                    <p><strong>Ribiška družina Vrhnika</strong> je bila ustanovljena leta 1955 in deluje neprekinjeno do sedaj. V upravljanju imamo <strong>Ljubljanico</strong> od izvirov v Močilniku in Retovju do mostu v Podpeči z vsemi pritoki, majhen <strong>ribnik pri Ribiškem domu Sulec v Sinji Gorici, Ribnike Opekarna na Verdu, Ribčev ribnik v Bistri in ribnik Lokev v Logatcu.</strong> <strong>Ljubljanica </strong>kot lovna voda je razdeljena v <strong>revirja 30 in 31</strong>. Revir 30 se deli na salmonidni in ciprinidni del. Revir 31 je revir mešanega značaja. Salmonidni del revirja 30 obsega del vodotoka od izvira Ljubljanice do avtocestnega mostu. V njem je dovoljeno<strong> muharjenje</strong>. V tem delu je številčna populacija <strong>lipana</strong> in <strong>potočne postrvi</strong>, vmes pa plavajo tudi <strong>šarenke</strong>, <strong>kleni, podusti in </strong>povsod navzoči <strong>kralj voda - sulec</strong>. <strong>Ribolov</strong> je mogoč iz brega in ponekod tudi <strong>bredenje po vodi</strong>. Težavo predstavljata velika poraščenost bregov in v poletnih mesecih z vodnim rastlinjem <strong>prekomerna zaraščenost struge</strong> v celotnem toku <strong>barjanske lepotice</strong>. Na tem delu je priporočljiva uporaba čolna ali plovnega obroča (belly boat). Ciprinidni del se začne avtocestnem mostu in poteka do meje z revirjem 31<strong> ( Kamini ).</strong> Revir je mešanega značaja, kar pomeni da lahko izvajamo <strong>ribolov na belice ali roparice</strong>. <strong>Ribolov </strong>je dovoljen le z brega. Pozimi je ta del <strong>priljubljeno lovišče za sulca</strong>, ki pa se ga običajno <strong>lovi iz čolna</strong>.<br />
+Revir 31 se začne, kjer se v <strong>Ljubljanico </strong>z leve strani<strong> izlije Pekov graben(pri Kaminu)</strong> in poteka do cestnega mostu v<strong> Podpeči</strong>. Je mešani revir, kjer so zastopane <strong>vse vrste rib, ki živijo v Ljubljanici</strong>. Včasih je ta revir slovel po <strong>velikih platnicah, lipanih, ščukah in sulcih</strong>, a si ta del reke po<strong> velikem poginu od Borovniščice </strong>navzdol, še ni opomogel. V zadnjem času dodatne preglavice povzročajo še <strong>kormorani</strong>, ki v jatah od 50 do 200 ptic plenijo po celotnem<strong> ribolovnem okolišu</strong> s katerim upravljamo. Večje stoječe vode pri nas predstavljajo <strong>Ribniki Opekarna</strong>, kjer prevladujejo <strong>krap, som, in drobiž</strong>, prisotna pa sta tudi <strong>ščuka in smuč</strong>. <strong>ribolov </strong>je dovoljen na vse naštete vrste ribe z brega. <strong>Ribnik pri ribiškem domu, ribnik Lokev in Ribčev ribnik</strong> so namenjeni <strong>lovu krapa in drobiža z beličarskim priborom</strong>. Poleg <strong>ribolovnih vod</strong> ima r<strong>ibiška družina Vrhnika</strong> tudi veliko <strong>gojitvenih potokov</strong> in <strong>varstvenih voda</strong> v katerih je <strong>ribolov prepovedan</strong>. Za konec poudarimo, da <strong>ribiška družina Vrhnika</strong> zelo dobro sodeluje s civilnimi in uradnimi ustanovami in lokalnim prebivalstvom. Dokaz za to je vsakoletna množično obiskana <strong>ribiška veselica</strong> in skupne delovne akcije s policijo in gasilskimi društvi. 
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<div class="districts container">
+    <div class="row">
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/reka-bistra"><img title="Reka Bistra " alt="Bistra" src="https://imgs.ribiskekarte.si/h_imgs/bistra-upper-the-wood-bridge-header.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/reka-bistra">Reka Bistra </a></h2>
+                    <span class="h5 quiet">(od izvira do izliva v reko Ljubljanico)</span>                    <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>lipan, potočna postrv, sulec, šarenka, ščuka</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>muharjenje, vijačenje</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>potezanka, umetna muha, umetne vabe</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>tekoča</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/reka-bistra" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/reka-ljubija"><img title="Reka Ljubija " alt="Ljubija" src="https://imgs.ribiskekarte.si/h_imgs/ljubija_fly-fishing-wild-torut-ljubljana-slovenia-header.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/reka-ljubija">Reka Ljubija </a></h2>
+                    <span class="h5 quiet">(od izvira do izliva v reko Ljubljanico)</span>                    <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>lipan, potočna postrv, sulec, šarenka, ščuka</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>muharjenje, vijačenje</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>potezanka, umetna muha, umetne vabe</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>tekoča</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/reka-ljubija" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-30"><img title="Reka Ljubljanica " alt="Revir 30" src="https://imgs.ribiskekarte.si/h_imgs/reka-ljubljanica-muharjenje-rd-vrhnika-sotocje-ribiske-karte.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-30">Reka Ljubljanica </a></h2>
+                    <span class="h5 quiet">(od izvirov Ljubljanice do pritoka Pekovega grabna), Podlipščica in Črni graben</span>                    <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>klen, krap, lipan, mrena, platnica, ploščič, podust, potočna postrv, rdečeoka, rdečeperka, som, sulec, šarenka, ščuka, zelenika</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>beličarjenje, muharjenje, ribolov iz čolna, talni ribolov, vijačenje</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>potezanka, umetna muha, umetne vabe, vabe rastlinskega izvora, vabe živalskega izvora</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>tekoča</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-30" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+        </div>
+    <div class="row">
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-31"><img title="Reka Ljubljanica " alt="Revir 31" src="https://imgs.ribiskekarte.si/h_imgs/reka-ljubljanica-krap-talni-ribolov-rd-vrhnika-bevke-podpec-ribiske-dovolilnice.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-31">Reka Ljubljanica </a></h2>
+                    <span class="h5 quiet">(od pritoka Pekovega grabna pri Kaminih / Bevke do mostu čez Ljubljanico v Podpeči), Borovniščica, Zrnica, Podpeški graben</span>                    <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>klen, krap, lipan, mrena, platnica, ploščič, podust, potočna postrv, rdečeoka, rdečeperka, som, sulec, šarenka, ščuka, zelenika</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>beličarjenje, muharjenje, ribolov iz čolna, talni ribolov, vijačenje</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>potezanka, umetna muha, umetne vabe, vabe rastlinskega izvora, vabe živalskega izvora</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>tekoča</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-31" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/ribcev-ribnik-pri-bistri"><img title="Ribčev ribnik pri Bistri" alt="Ribčev ribnik pri Bistri" src="https://imgs.ribiskekarte.si/h_imgs/ribcev-ribnik-rd-vrhnika-revir-ribiska-karta.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/ribcev-ribnik-pri-bistri">Ribčev ribnik pri Bistri</a></h2>
+                                        <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>amur, krap, linj, ploščič</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>beličarjenje, talni ribolov</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>beličarske vabe</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>stoječa</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/ribcev-ribnik-pri-bistri" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/ribnik-lokev-logatec"><img title="Ribnik Lokev v Logatcu" alt="Ribnik Lokev v Logatcu" src="https://imgs.ribiskekarte.si/h_imgs/ribnik-lokev-ribiske-karte-krapolov.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/ribnik-lokev-logatec">Ribnik Lokev v Logatcu</a></h2>
+                                        <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>amur, klen, krap, linj, ploščič, rdečeoka, rdečeperka</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>beličarjenje, talni ribolov</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>vabe rastlinskega izvora, vabe živalskega izvora</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>stoječa</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/ribnik-lokev-logatec" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+        </div>
+    <div class="row">
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/ribniki-opekarna"><img title="Ribniki Opekarna " alt="Ribniki Opekarna" src="https://imgs.ribiskekarte.si/h_imgs/ribniki-opekarna-ribiske-karte-vrhnika.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/ribniki-opekarna">Ribniki Opekarna </a></h2>
+                    <span class="h5 quiet">(Divjak)</span>                    <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>amur, krap, linj, ploščič, rdečeoka, rdečeperka, smuč, som, ščuka, zelenika</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>beličarjenje, muharjenje, ribolov iz čolna, talni ribolov, vijačenje</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>bojli, koruza, potezanka, umetne vabe, vabe rastlinskega izvora, vabe živalskega izvora</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>stoječa</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/ribniki-opekarna" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+                                <div class="col-sm-4">
+            <div class="block">
+                <div class="block-img">
+                    <a href="https://www.ribiskekarte.si/rd-vrhnika/ribniki-sinja-gorica"><img title="Ribnik pri Ribiškem domu v Sinji Gorici" alt="Ribniki pri Ribiškem domu v Sinji Gorici" src="https://imgs.ribiskekarte.si/h_imgs/ribnik-ribiski-dom-vrhnika-dovolilnice-slovenija.jpg" class="img-full-width"></a>
+                                    </div>
+                <div class="block-text-sm">
+                    <h2><a href="https://www.ribiskekarte.si/rd-vrhnika/ribniki-sinja-gorica">Ribnik pri Ribiškem domu v Sinji Gorici</a></h2>
+                                        <span class="h5 quiet"></span>
+                    <h4 class="quiet semi-bold"><a href="https://www.ribiskekarte.si/rd-vrhnika">Ribiška družina Vrhnika</a></h4>
+                                                            <br>
+                    <ul class="block-features">
+                        <li><span class="bold text-uppercase">Možnost ribolova</span>* <span>amur, krap, linj, ploščič, rdečeoka, rdečeperka</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Vrsta ribolova</span>*
+                            <span>beličarjenje, talni ribolov</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Dovoljene vabe</span>*
+                            <span>beličarske vabe, bojli</span>
+                        </li>
+                        <li><span class="bold text-uppercase">Tip vode</span> <span>stoječa</span></li>
+                    </ul>
+                    <br>
+                    <span class="glyphicon glyphicon-hand-right" style="color:red"></span>
+                    <span class="bold">* POZOR:</span>
+                    <span style="font-style: italic"> parametri so odvisni od kupljene dovolilnice! Pred nakupom preverite KATERE VRSTE RIBOLOVA LAHKO s posamično dovolilnico izvajate!</span>
+                    <a class="glyphicon glyphicon-option-horizontal pull-right lead" href="https://www.ribiskekarte.si/rd-vrhnika/ribniki-sinja-gorica" role="button"></a>
+                                    </div>
+            </div>
+        </div>
+                    </div>
+    </div>
+
+
+    <!-- Mapbox CSS & JS -->
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+    <script src="https://unpkg.com/@mapbox/mapbox-sdk/umd/mapbox-sdk.min.js"></script>
+
+    <script>
+      // Mapbox token
+      mapboxgl.accessToken = 'pk.[REDACTED]';
+
+      // Create map
+      const map = new mapboxgl.Map({
+        container: 'map_canvas',
+        style: 'mapbox://styles/mapbox/streets-v11',
+        center: [14.768927, 46.191545],
+        zoom: 8
+      });
+
+      // Polyline coordinates
+      const flightPlanCoordinates = [
+        {lng: 13.71866, lat: 46.52661}, {lng: 13.77611, lat: 46.51833}, {lng: 13.84556, lat: 46.52000},
+        {lng: 13.93695, lat: 46.51583}, {lng: 14.08222, lat: 46.48916}, {lng: 14.12889, lat: 46.46306},
+        {lng: 14.47805, lat: 46.41945}, {lng: 14.54500, lat: 46.40749}, {lng: 14.81319, lat: 46.51138},
+        {lng: 14.83375, lat: 46.57069}, {lng: 14.86750, lat: 46.61333}, {lng: 15.07441, lat: 46.64857},
+        {lng: 15.13945, lat: 46.65722}, {lng: 15.40611, lat: 46.65250}, {lng: 15.60250, lat: 46.68666},
+        {lng: 15.80666, lat: 46.71861}, {lng: 15.85903, lat: 46.72319}, {lng: 15.98792, lat: 46.75514},
+        {lng: 16.00931, lat: 46.83549}, {lng: 16.11180, lat: 46.86972}, {lng: 16.18104, lat: 46.86458},
+        {lng: 16.22945, lat: 46.87625}, {lng: 16.29819, lat: 46.86930}, {lng: 16.33722, lat: 46.80916},
+        {lng: 16.32527, lat: 46.75583}, {lng: 16.37533, lat: 46.72277}, {lng: 16.40861, lat: 46.65888},
+        {lng: 16.53097, lat: 46.50903}, {lng: 16.60787, lat: 46.47624}, {lng: 16.56446, lat: 46.47709},
+        {lng: 16.51779, lat: 46.49165}, {lng: 16.46389, lat: 46.52096}, {lng: 16.38416, lat: 46.53583},
+        {lng: 16.29251, lat: 46.53082}, {lng: 16.25241, lat: 46.49556}, {lng: 16.26611, lat: 46.41945},
+        {lng: 16.13792, lat: 46.40596}, {lng: 16.08041, lat: 46.33604}, {lng: 16.01722, lat: 46.29805},
+        {lng: 15.79778, lat: 46.23333}, {lng: 15.65916, lat: 46.22090}, {lng: 15.61195, lat: 46.16694},
+        {lng: 15.60639, lat: 46.11583}, {lng: 15.66361, lat: 46.06798}, {lng: 15.71149, lat: 46.05319},
+        {lng: 15.72445, lat: 45.93861}, {lng: 15.69611, lat: 45.84306}, {lng: 15.65264, lat: 45.82339},
+        {lng: 15.61180, lat: 45.84674}, {lng: 15.49945, lat: 45.83583}, {lng: 15.31584, lat: 45.75666},
+        {lng: 15.28865, lat: 45.70055}, {lng: 15.35663, lat: 45.71201}, {lng: 15.35259, lat: 45.65176},
+        {lng: 15.29400, lat: 45.59454}, {lng: 15.30397, lat: 45.53863}, {lng: 15.27722, lat: 45.46277},
+        {lng: 15.15667, lat: 45.42929}, {lng: 15.09203, lat: 45.47152}, {lng: 14.97906, lat: 45.50047},
+        {lng: 14.82609, lat: 45.46545}, {lng: 14.72361, lat: 45.53139}, {lng: 14.57035, lat: 45.66638},
+        {lng: 14.53500, lat: 45.61222}, {lng: 14.49611, lat: 45.54368}, {lng: 14.39250, lat: 45.48611},
+        {lng: 14.13722, lat: 45.47527}, {lng: 13.90695, lat: 45.45333}, {lng: 13.70361, lat: 45.44416},
+        {lng: 13.64048, lat: 45.45375}, {lng: 13.59174, lat: 45.48170}, {lng: 13.66584, lat: 45.54306},
+        {lng: 13.74993, lat: 45.54902}, {lng: 13.71695, lat: 45.59611}, {lng: 13.85722, lat: 45.58722},
+        {lng: 13.91834, lat: 45.63639}, {lng: 13.83528, lat: 45.71777}, {lng: 13.79153, lat: 45.75277},
+        {lng: 13.69750, lat: 45.78416}, {lng: 13.60375, lat: 45.80888}, {lng: 13.57833, lat: 45.85027},
+        {lng: 13.61410, lat: 45.90514}, {lng: 13.63472, lat: 45.94791}, {lng: 13.59334, lat: 45.99305},
+        {lng: 13.54028, lat: 45.96833}, {lng: 13.47972, lat: 46.01222}, {lng: 13.53889, lat: 46.07944},
+        {lng: 13.59361, lat: 46.10527}, {lng: 13.66604, lat: 46.17531}, {lng: 13.55055, lat: 46.21805},
+        {lng: 13.48847, lat: 46.23195}, {lng: 13.41889, lat: 46.21306}, {lng: 13.38347, lat: 46.29514},
+        {lng: 13.44084, lat: 46.34638}, {lng: 13.51139, lat: 46.38472}, {lng: 13.69201, lat: 46.45166},
+        {lng: 13.71866, lat: 46.52661}
+      ];
+
+      // Convert to GeoJSON line
+      const geojsonLine = {
+        type: 'Feature',
+        geometry: {
+          type: 'LineString',
+          coordinates: flightPlanCoordinates.map(coord => [coord.lng, coord.lat])
+        }
+      };
+
+      map.on('load', function () {
+        // Add line layer
+        map.addSource('route', {
+          'type': 'geojson',
+          'data': geojsonLine
+        });
+
+        map.addLayer({
+          'id': 'route',
+          'type': 'line',
+          'source': 'route',
+          'layout': {},
+          'paint': {
+            'line-color': '#444',
+            'line-width': 5,
+            'line-opacity': 0.5
+          }
+        });
+
+        // Geocode address
+        const mapboxClient = mapboxSdk({ accessToken: 'pk.[REDACTED]'});
+        const address = 'Sinja Gorica 57, 1360 Vrhnika';
+
+        mapboxClient.geocoding.forwardGeocode({
+          query: address,
+          limit: 1
+        })
+        .send()
+        .then(response => {
+          if (response && response.body && response.body.features && response.body.features.length) {
+            const feature = response.body.features[0];
+            const lngLat = feature.center;
+
+            // Center map
+            map.flyTo({ center: lngLat, zoom: 10, offset: [300, 0] });
+
+            // Create marker
+            const marker = new mapboxgl.Marker()
+              .setLngLat(lngLat)
+              .addTo(map);
+
+            // Info popup
+            const popupHtml = `
+              <div style="width:300px">
+                <div style="float:left;margin-right:10px">
+                  <img src="https://imgs.ribiskekarte.si/logo/logo-rd-vrhnika.jpg" width="80">
+                </div>
+                <a target="_blank" style="float:left;font-size:16px;width:210px" href="https://maps.google.com/maps?q=${lngLat[1]},${lngLat[0]}&z=12">Ribiška družina  Vrhnika</a><br />
+                <a target="_blank" style="float:left;font-size:12px;width:210px" href="https://maps.google.com/maps?q=${lngLat[1]},${lngLat[0]}&z=12">Sinja Gorica 57, 1360 Vrhnika</a>
+              </div>
+            `;
+
+            const popup = new mapboxgl.Popup({ offset: 25, maxWidth: '500px' }).setHTML(popupHtml);
+            marker.setPopup(popup);
+          } else {
+            alert('Geocode was not successful.');
+          }
+        });
+      });
+    </script>
+<div class="hero coupon" onclick="_gaq.push(['_trackEvent','content','fp_actions','darilni-boni']);">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6 pl0 pr0">
+                <div class="coupon-text">
+                    <img src="img/icon_coupon.png" class="img-responsive icon-coupon">
+
+                    <h2>Darilni boni</h2>
+                    <span class="block-dis">NEPRECENLJIVO DARILO ZA VSAKEGA RIBIČA!<br>Možnost nakupa DARILNEGA BONA za preko 400 revirjev. </span>
+                    <br>
+                    <a class="btn btn-brand-dark btn-spacing" href="https://www.ribiskekarte.si/nakup-darilnega-bona" role="button">Klikni tukaj in preberi več</a>
+                </div>
+            </div>
+            <div class="col-sm-6 pl0 pr0 hidden-xs">
+                <div class="hero-img">
+                    <img src="https://imgs.ribiskekarte.si/boni.jpg" class="img-full-width">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="footer-top">
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="https://www.ribiskekarte.si">RIBISKE KARTE</a>
+
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                            data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+                        <img src="https://imgs.ribiskekarte.si/icon_more_inverted.png" alt="More">
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="https://www.ribiskekarte.si/pogosta-vprasanja">Pogosta vprašanja</a></li>
+                        <li><a href="https://www.ribiskekarte.si/kako-deluje">Kako deluje</a></li>
+                        <li><a href="https://www.ribiskekarte.si/blog">Blog</a></li>
+                        <li><a href="https://www.ribiskekarte.si/kontakt">Kontakt</a></li>
+                        <li><a href="#" class="pr0"><img alt="More" src="img/icon_share.png"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <ul class="col-sm-2">
+	<li>
+		<b>Za ribiče:</b></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/pogosta-vprasanja">Pogosta vprašanja o portalu</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/navodila-za-uporabo">Navodila za uporabo portala</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/pozabljeno-geslo">Ste pozabili geslo?</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/placilo-ribiske-karte-z-e-denarnico">Kako polnim in plačam z eDenarnico?</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/elrd">O orodju eLRD</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/navodila-za-uporabo-elrd">Navodila za uporabo eLRD</a></li>
+	<li>
+		<br />
+		<b>Za ribiške družine:</b></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/enadzornik">Urejanje članov (eNadzornik)</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/ecuvaj">O orodju eČuvaj</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/navodila-za-uporabo-aplikacije-ecuvaj">Pomoč za eČuvaja</a></li>
+	<br />
+</ul>
+<ul class="col-sm-2">
+	<li>
+		<a href="https://www.ribiskekarte.si/kontakt">Kontakt</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/o-portalu">O portalu</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/pravila-in-pogoji">Pravila in pogoji</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/za-ribiske-druzine">Za ribiške družine</a></li>
+</ul>
+<ul class="col-sm-2">
+	<li>
+		<a href="https://www.ribiskekarte.si/ribolov-v-sloveniji">Ribolov v Sloveniji</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/muharjenje-v-sloveniji">Muharjenje v Sloveniji</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/krapolov-v-sloveniji">Krapolov v Sloveniji</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/najzanimivejse-ribolovne-ribe-v-sloveniji" target="_blank">Najzanimivejše ribolovne ribe v Sloveniji</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/ribolovni-revirji">Ribolovni revirji</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/ribiske-druzine">Ribiške družine</a></li>
+</ul>
+<ul class="col-sm-2">
+	<li>
+		<a href="https://www.ribiskekarte.si/kapitalni-ulovi">Kapitalni ulovi</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/blog" target="_blank">Blog</a></li>
+	<li>
+		<a href="https://www.ribiskekarte.si/v-medijih">V medijih</a></li>
+</ul>
+
+                <div class="col-sm-4 brands">
+                    <a onclick="_gaq.push(['_trackEvent','brands','footer','sloveniainfo']);" class="pull-left" href="http://www.slovenia.info" target="_blank" rel="nofollow"><img alt="slovenia.info" src="https://imgs.ribiskekarte.si/logo_brand_i_feel_slovenia.png" class="img-responsive"></a>
+                    <a onclick="_gaq.push(['_trackEvent','brands','footer','visitljubljanacom']);" class="pull-left" href="https://www.visitljubljana.com" target="_blank" rel="nofollow"><img alt="visitljubljana.com" src="https://imgs.ribiskekarte.si/logo_brand_visit_ljubljana.png" class="img-responsive"></a>
+                    <a onclick="_gaq.push(['_trackEvent','brands','footer','radolcasi']);" class="pull-left" href="http://www.radolca.si" target="_blank" rel="nofollow"><img alt="radolca.si" src="https://imgs.ribiskekarte.si/logo_brand_radolca.png" class="img-responsive"></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="pull-left  payment-images">
+                        <img alt="Moneta" src="https://imgs.ribiskekarte.si/_footer/logo_moneta_new.png" class="img-responsive pull-left">
+                        <img alt="Visa" src="https://imgs.ribiskekarte.si/_footer/logo_visa.png" class="img-responsive pull-left">
+                        <img alt="Visa Electron" src="https://imgs.ribiskekarte.si/_footer/logo_visa_electron.png" class="img-responsive pull-left ">
+                        <img alt="Mastercard" src="https://imgs.ribiskekarte.si/_footer/logo_mastercard.png" class="img-responsive pull-left">
+                        <img alt="Mastercard Secure Code" src="https://imgs.ribiskekarte.si/_footer/logo_mc_secure_code.png" class="img-responsive pull-left ">
+                        <img alt="Verified by Visa" src="https://imgs.ribiskekarte.si/_footer/logo_verified_by_visa.png" class="img-responsive pull-left ">
+                        <img alt="PayPal" src="https://imgs.ribiskekarte.si/_footer/logo_paypal.png" class="img-responsive pull-left">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container center">Ribiške karte &copy; 2026 &bullet; Vse pravice pridržane
+        </div>
+    </div>
+    <div class="footer-copyright" style="background: white">
+        <div class="container center">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="pull-left footer-logos">
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-ajdovscina"> <img title="Ajdovščina" alt="Ajdovščina" src="https://imgs.ribiskekarte.si/logo/logo_rd_ajdovscina.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-barje"> <img title="Barje" alt="Barje" src="https://imgs.ribiskekarte.si/logo/rd_barje_logo.png" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-ilirska-bistrica"> <img title="Bistrica" alt="Bistrica" src="https://imgs.ribiskekarte.si/logo/logotip-rd-bistrica-2024.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-bistrica-domzale"> <img title="Bistrica Domžale" alt="Bistrica Domžale" src="https://imgs.ribiskekarte.si/logo/rd-bistrica-domzale-logotip-2019-izboljsani.png" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-bohinj"> <img title="Bohinj" alt="Bohinj" src="https://imgs.ribiskekarte.si/logo/logo_rd_bohinj.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-brestanica-krsko"> <img title="Brestanica-Krško" alt="Brestanica-Krško" src="https://imgs.ribiskekarte.si/logo/logo-rd-brestanca-krsko.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-brezice"> <img title="Brežice" alt="Brežice" src="https://imgs.ribiskekarte.si/logo/logo-rd-brezice.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-celje"> <img title="Celje" alt="Celje" src="https://imgs.ribiskekarte.si/logo/logo_rd_celje.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-cerknica"> <img title="Cerknica" alt="Cerknica" src="https://imgs.ribiskekarte.si/logo/rd-cerknica-logotip-128.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-crnomelj"> <img title="Črnomelj" alt="Črnomelj" src="https://imgs.ribiskekarte.si/logo/logo-rd-crnomelj.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-dolomiti"> <img title="Dolomiti" alt="Dolomiti" src="https://imgs.ribiskekarte.si/logo/rd-dolomiti-logo-znak-lipan.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/gemeinde-keutschach-am-see"> <img title="Gemeinde Keutschach am See" alt="Gemeinde Keutschach am See" src="https://imgs.ribiskekarte.si/logo/gemeinde-keutschach-am-see.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-grosuplje"> <img title="Grosuplje" alt="Grosuplje" src="https://imgs.ribiskekarte.si/logo/logo-rd-grosuplje.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/iztok-rebernak"> <img title="Iztok Rebernak" alt="Iztok Rebernak" src="https://imgs.ribiskekarte.si/logo/ribniki-vinicka-vas-128.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-jesenice"> <img title="Jesenice" alt="Jesenice" src="https://imgs.ribiskekarte.si/logo/logo-RD-Jesenice-128x128.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-koper"> <img title="Koper" alt="Koper" src="https://imgs.ribiskekarte.si/logo/logo-rd-koper.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-koroska"> <img title="Koroška" alt="Koroška" src="https://imgs.ribiskekarte.si/logo/logo-rd-koroska.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-kostanjevica-na-krki"> <img title="Kostanjevica na Krki" alt="Kostanjevica na Krki" src="https://imgs.ribiskekarte.si/logo/logo-rd-kostanjevica-na-krki.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-kranj"> <img title="Kranj" alt="Kranj" src="https://imgs.ribiskekarte.si/logo/logo-rd-kranj.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-lasko"> <img title="Laško" alt="Laško" src="https://imgs.ribiskekarte.si/logo/logo-rd-lasko.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-lendava"> <img title="Lendava" alt="Lendava" src="https://imgs.ribiskekarte.si/logo/logo-rd-lendava.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-ljutomer"> <img title="Ljutomer" alt="Ljutomer" src="https://imgs.ribiskekarte.si/logo/logo-rd-ljutomer.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-majsperk"> <img title="Majšperk" alt="Majšperk" src="https://imgs.ribiskekarte.si/logo/logo-rd-majsperk.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-maribor"> <img title="Maribor" alt="Maribor" src="https://imgs.ribiskekarte.si/logo/logo-rd-maribor.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-medvode"> <img title="Medvode" alt="Medvode" src="https://imgs.ribiskekarte.si/logo/logotip-rd-medvode.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-metlika"> <img title="Metlika" alt="Metlika" src="https://imgs.ribiskekarte.si/logo/rd-metlika-logo.png" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-mozirje"> <img title="Mozirje" alt="Mozirje" src="https://imgs.ribiskekarte.si/logo/logo-rd-mozirje.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-mura-paloma"> <img title="Mura Paloma" alt="Mura Paloma" src="https://imgs.ribiskekarte.si/logo/logo_rd_mura-paloma.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-murska-sobota"> <img title="Murska Sobota" alt="Murska Sobota" src="https://imgs.ribiskekarte.si/logo/logo-murska.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-novo-mesto"> <img title="Novo mesto" alt="Novo mesto" src="https://imgs.ribiskekarte.si/logo/logo-rd-novo-mesto.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-pesnica-lenart"> <img title="Pesnica - Lenart" alt="Pesnica - Lenart" src="https://imgs.ribiskekarte.si/logo/logo-rd-pesnica-lenart.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-postojna"> <img title="Postojna" alt="Postojna" src="https://imgs.ribiskekarte.si/logo/logo_rd_postojna.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-ptuj"> <img title="Ptuj" alt="Ptuj" src="https://imgs.ribiskekarte.si/logo/rdptuj.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-radece"> <img title="Radeče" alt="Radeče" src="https://imgs.ribiskekarte.si/logo/ribiska-druzina-radece-logotip.png" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-radgona"> <img title="Radgona" alt="Radgona" src="https://imgs.ribiskekarte.si/logo/logo-rd-radgona.JPG" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-radlje-ob-dravi"> <img title="Radlje ob Dravi" alt="Radlje ob Dravi" src="https://imgs.ribiskekarte.si/logo/logotip-ribiska-druzina-radlje-ob-dravi.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-radovljica"> <img title="Radovljica" alt="Radovljica" src="https://imgs.ribiskekarte.si/logo/logo_rd_radovljica.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-rence"> <img title="Renče" alt="Renče" src="https://imgs.ribiskekarte.si/logo/logo-rd-rence.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-ribnica"> <img title="Ribnica" alt="Ribnica" src="https://imgs.ribiskekarte.si/logo/logo_rd_ribnica.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/richard-sturzenbecher"> <img title="Richard Stürzenbecher" alt="Richard Stürzenbecher" src="https://imgs.ribiskekarte.si/logo/richard-sturzenbecher-klein.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-ruse"> <img title="Ruše" alt="Ruše" src="https://imgs.ribiskekarte.si/logo/logo-rd-ruse.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-sevnica"> <img title="Sevnica" alt="Sevnica" src="https://imgs.ribiskekarte.si/logo/logo-rd-sevnica.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-slovenska-bistrica"> <img title="Slovenska Bistrica" alt="Slovenska Bistrica" src="https://imgs.ribiskekarte.si/logo/logo-rd-slovenska-bistrica.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-soca"> <img title="Soča" alt="Soča" src="https://imgs.ribiskekarte.si/logo/logo-rd-soca.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-sora"> <img title="Sora" alt="Sora" src="https://imgs.ribiskekarte.si/logo/rd-sora-skofja-loka-logotip-2018.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-sotla"> <img title="Sotla" alt="Sotla" src="https://imgs.ribiskekarte.si/logo/sotla_logo.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-straza-sava"> <img title="Straža-Sava" alt="Straža-Sava" src="https://imgs.ribiskekarte.si/logo/RD-STRAZA-SAVA-3-3.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-sempeter"> <img title="Šempeter" alt="Šempeter" src="https://imgs.ribiskekarte.si/logo/logo-rd-sempeter-2018a.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-tolmin"> <img title="Tolmin" alt="Tolmin" src="https://imgs.ribiskekarte.si/logo/rd-tolmin-logo-2026.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-velenje"> <img title="Velenje" alt="Velenje" src="https://imgs.ribiskekarte.si/logo/logo-rd-velenje-2014.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-vevce"> <img title="Vevče" alt="Vevče" src="https://imgs.ribiskekarte.si/logo/rd-vevce-logo-2021.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-visoko"> <img title="Visoko" alt="Visoko" src="https://imgs.ribiskekarte.si/logo/rd-visoko-logo.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-voglajna"> <img title="Voglajna" alt="Voglajna" src="https://imgs.ribiskekarte.si/logo/logo-rd-voglajna.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-vrhnika"> <img title="Vrhnika" alt="Vrhnika" src="https://imgs.ribiskekarte.si/logo/logo-rd-vrhnika.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/zavod-za-ribistvo-slovenije"> <img title="Zavod za ribištvo Slovenije" alt="Zavod za ribištvo Slovenije" src="https://imgs.ribiskekarte.si/logo/ribolov-slovenija-fishing-slovenia-zavod-za-ribistvo-slovenije-logo.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/zveza-za-sportni-ribolov-na-morju-slovenije"> <img title="Zveza za športni ribolov na morju Slovenije (ZŠRMS)" alt="Zveza za športni ribolov na morju Slovenije (ZŠRMS)" src="https://imgs.ribiskekarte.si/logo/logo-zveza-za-sportni-ribolov-na-morju-slovenije-zsrms.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-zelezniki"> <img title="Železniki" alt="Železniki" src="https://imgs.ribiskekarte.si/logo/logo-rd-zelezniki.jpg" class="img-responsive"></a>
+                        
+                        <a target="_blank" href="https://www.ribiskekarte.si/rd-ziri"> <img title="Žiri" alt="Žiri" src="https://imgs.ribiskekarte.si/logo/logo-rd-ziri.jpg" class="img-responsive"></a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /.modal for disabled language-->
+  <div class="modal fade" id="disableg_lang_modal" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+          <!--<button type="button" class="close" data-dismiss="modal">&times;</button>-->
+          <h4>Unfortunately, your language preferences are no longer updated. You have been redirected to the English version of the website. Depending on your preferences, you can also select a German or Italian version in the menu.</h4>
+        </div>
+                <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+<!-- /.modal for disabled language-->
+<div class="modal fade pop_up_product-modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="productModalLabel">
+    <div class="modal-dialog pop_up_modal-dialog" role="document">
+        <div class="modal-content pop_up_modal-content">
+            <div class="pop_up_discount-badge">-10%</div>
+            <button type="button" class="pop_up_close-button" data-dismiss="modal" aria-label="Zapri" aria-hidden="true">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-body">
+                <img src="https://imgs.ribiskekarte.si/_pop_up_modal/pop-up-alpine-diver-v3.jpg" 
+                     alt="Alpine Diver V3 Muharski škornji" 
+                     class="pop_up_product-image">
+                <h2 class="pop_up_product-title">Muharski škornji Alpine Diver V3</h2>
+                <p class="pop_up_product-description">
+                    - <b>24 mesecev garancije</b><br>
+                    - <b>90 dnevno vračilo denarja</b><br>
+                    - Servis v Sloveniji<br>
+                    - <b>COMBO10 za 10%</b> popusta ob nakupu kompleta s čevlji
+                </p>
+                <div class="pop_up_product-price">499,00 €</div>
+                <a target="_blank" href="https://flyfishingshop.eu/izdelek/visoki-muharski-skornji-hotfly-superb-alpine-diver-v3/" onclick="_paq.push(['trackEvent', 'POPUP', 'Klik', 'gumb-nakup']);" class="pop_up_btn-order">
+                    Naroči zdaj
+                </a>
+            </div>
+        </div>
+    </div>
+</div><script>
+    <!--//dynamic vars -->
+    var login_url = 'https://www.ribiskekarte.si/login/?login-lang=sl';
+    var img_href = 'https://imgs.ribiskekarte.si';
+</script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/langs/sl.js?v=2.02"></script>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="https://www.ribiskekarte.si/js/jquery-ui.min.js"></script>
+<!-- select" for searcher filters functionality -->
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/select2.min.js"></script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/jquery.basictable.js"></script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/stacktable-only-try.js"></script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/moment.js"></script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/jquery.autocomplete.new.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/langs/jquery.ui.datepicker-sl.js?v=2.01"></script>
+<script src="https://www.ribiskekarte.si/js/bootstrap.min.js"></script>
+<script src="https://www.ribiskekarte.si/js/modernizr-custom.min.js"></script>
+<script src="https://www.ribiskekarte.si/js/jcarousellite.js"></script>
+<script src="https://www.ribiskekarte.si/js/slick.min.js?v=1.8.1"></script>
+<script src="https://www.ribiskekarte.si/js/salvattore.min.js"></script>
+
+<script src="https://www.ribiskekarte.si/js/_home.js?v=2.033"></script>
+
+
+
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/general.js?v=2.170"></script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/buy_general.js?v=2.50"></script>
+
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/home_searcher_submit.js?v=2.01"></script>
+
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/check_ticket_date.js?v=2.01"></script>
+<script type="text/javascript" src="https://www.ribiskekarte.si/js/_special_offer.js?v=2.02"></script>
+
+
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//lipnik.net/analytics/matomo/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
+
+
+
+
+
+<a onclick="_gaq.push(['_trackEvent','scroll-to-top','sl']);" id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="" data-toggle="tooltip" data-placement="left" style="left: 50%;right:auto;margin-left: -30px;"><span class="glyphicon glyphicon-chevron-up" style="margin-top:-10px"></span></a>
+<script type="text/javascript">
+    setTimeout(function() {
+        $('#myModal').modal({show:false});
+    }, 0000);
+    $('#myModal').on('shown.bs.modal', function (e) {
+        $.get("/js/jx/pop-up-handling.php", {
+            lang: curr_lang
+        },
+        function (data) {
+            //do nothing
+        });
+    })
+    $('#disableg_lang_modal').modal({backdrop: 'static',show:false});
+
+
+<!-- hide zopim window -->
+$(document).ready(function() {
+    if (typeof zE !== 'undefined') {
+        zE(function(){zE.hide();});
+    }
+    
+})
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://www.ribiskekarte.si/robots.txt",
+    "status": 200,
+    "bytes": 85,
+    "links": 0,
+    "coordSamples": []
+  },
+  {
+    "url": "https://www.ribiskekarte.si/sitemap.xml",
+    "status": 404,
+    "bytes": 46100,
+    "links": 106,
+    "coordSamples": []
+  },
+  {
+    "url": "https://www.ribiskekarte.si/ribolovni-revirji",
+    "status": 200,
+    "bytes": 73101,
+    "links": 115,
+    "coordSamples": []
+  },
+  {
+    "url": "https://www.ribiskekarte.si/rd-ptuj/drava-10",
+    "status": 200,
+    "bytes": 66884,
+    "links": 118,
+    "coordSamples": []
+  },
+  {
+    "url": "https://www.ribiskekarte.si/rd-tolmin/ucja",
+    "status": 200,
+    "bytes": 184040,
+    "links": 138,
+    "coordSamples": []
+  },
+  {
+    "url": "https://www.ribiskekarte.si/rd-vrhnika",
+    "status": 200,
+    "bytes": 78669,
+    "links": 115,
+    "coordSamples": [
+      "46.52661}, {lng: 13.77611",
+      "46.51833}, {lng: 13.84556",
+      "46.52000},\n        {lng: 13.93695",
+      "46.51583}, {lng: 14.08222",
+      "46.48916}, {lng: 14.12889",
+      "46.46306},\n        {lng: 14.47805",
+      "46.41945}, {lng: 14.54500",
+      "46.40749}, {lng: 14.81319",
+      "46.51138},\n        {lng: 14.83375",
+      "46.57069}, {lng: 14.86750"
+    ]
+  },
+  {
+    "url": "https://www.ribiskekarte.si/zavod-za-ribistvo-slovenije/sava-11",
+    "status": 200,
+    "bytes": 82364,
+    "links": 123,
+    "coordSamples": [
+      "46.057039+14.833571",
+      "46.057039 Long: 14.833571"
+    ]
+  },
+  {
+    "url": "https://www.ribiskekarte.si/rd-koroska/meza-4",
+    "status": 200,
+    "bytes": 64871,
+    "links": 115,
+    "coordSamples": []
+  },
+  {
+    "url": "https://www.ribiskekarte.si/rd-bled/revir-sava-bohinjka",
+    "status": 200,
+    "bytes": 83753,
+    "links": 167,
+    "coordSamples": [
+      "46.277315, 13.886677",
+      "46.228351, 14.367209",
+      "45.88252845524907, 14.782006727258372",
+      "46.124574, 15.190828"
+    ]
+  },
+  {
+    "service": "overpass",
+    "status": 406,
+    "sample": "<html>\r\n<head><title>406 Not Acceptable</title></head>\r\n<body>\r\n<center><h1>406 Not Acceptable</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+  },
+  {
+    "service": "overpass-kumi",
+    "error": "TypeError: fetch failed"
+  },
+  {
+    "service": "nominatim",
+    "status": 200,
+    "sample": "[{\"place_id\":69316808,\"licence\":\"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright\",\"osm_type\":\"node\",\"osm_id\":567336337,\"lat\":\"46.1520936\",\"lon\":\"13.7440176\",\"class\":\"place\",\"type\":\"village\",\"place_rank\":19,\"importance\":0.4276151273745538,\"addresstype\":\"village\",\"name\":\"Most na "
+  }
+]
