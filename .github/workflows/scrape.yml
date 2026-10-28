@@ -1,0 +1,52 @@
+name: Scrape fishing sections
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: discovery or full
+        default: full
+  schedule:
+    - cron: '17 3 1 * *' # monthly
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/scrape/**', '.github/workflows/scrape.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Discovery
+        run: node scripts/scrape/discover.mjs scrape-out/discovery
+      - name: Full scrape
+        if: ${{ hashFiles('scripts/scrape/run.ts') != '' && github.event.inputs.mode != 'discovery' }}
+        run: npx tsx scripts/scrape/run.ts scrape-out
+      - name: Publish output to data/revirji branch
+        run: |
+          git config user.name "ribolovc-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mv scrape-out "$RUNNER_TEMP/out"
+          if git fetch origin data/revirji; then
+            git checkout -B data/revirji FETCH_HEAD
+          else
+            git checkout --orphan data/revirji
+            git rm -rf -q .
+          fi
+          rm -rf out && cp -r "$RUNNER_TEMP/out" out
+          git add -f out
+          git commit -q -m "Scrape output (run ${GITHUB_RUN_ID}, ${GITHUB_SHA::7})" || echo "No changes"
+          git push origin data/revirji
