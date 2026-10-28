@@ -1,0 +1,281 @@
+[
+ {
+  "id": "rd-paka-sostanj/becovnica-2",
+  "clubSlug": "rd-paka-sostanj",
+  "slug": "becovnica-2",
+  "code": "Bečovnica 2",
+  "name": "Bečovnica 2",
+  "subtitle": "",
+  "en": {
+   "name": "Bečovnica 2",
+   "subtitle": "",
+   "description": "od Sotoč Bečovnice s Strmino do Izliv v Pako"
+  },
+  "club": {
+   "name": "Ribiška družina Paka Šoštanj",
+   "url": "https://www.ribiskekarte.si/rd-paka-sostanj"
+  },
+  "description": "od Sotoč Bečovnice s Strmino do Izliv v Pako",
+  "waterType": "lake",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-paka-sostanj/becovnica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.37739,
+   15.04595
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:34.637Z"
+ },
+ {
+  "id": "rd-paka-sostanj/paka-r-1415",
+  "clubSlug": "rd-paka-sostanj",
+  "slug": "paka-r-1415",
+  "code": "Paka R 14+15",
+  "name": "Paka R 14+15",
+  "subtitle": "",
+  "en": {
+   "name": "Paka R 14+15",
+   "subtitle": "",
+   "description": "od Pesje (most Preloge) do Izliv v Savinjo"
+  },
+  "club": {
+   "name": "Ribiška družina Paka Šoštanj",
+   "url": "https://www.ribiskekarte.si/rd-paka-sostanj"
+  },
+  "description": "od Pesje (most Preloge) do Izliv v Savinjo",
+  "waterType": "lake",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-paka-sostanj/paka-r-1415",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.376093,
+   "lon": 15.053198
+  },
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.37739,
+   15.04595
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:17.845Z"
+ },
+ {
+  "id": "rd-paka-sostanj/sentflorjanscica-2",
+  "clubSlug": "rd-paka-sostanj",
+  "slug": "sentflorjanscica-2",
+  "code": "Šentflorjanščica 2",
+  "name": "Šentflorjanščica 2",
+  "subtitle": "",
+  "en": {
+   "name": "Šentflorjanščica 2",
+   "subtitle": "",
+   "description": "od Gostišče Grebenšek do Izliv v Pako"
+  },
+  "club": {
+   "name": "Ribiška družina Paka Šoštanj",
+   "url": "https://www.ribiskekarte.si/rd-paka-sostanj"
+  },
+  "description": "od Gostišče Grebenšek do Izliv v Pako",
+  "waterType": "lake",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-paka-sostanj/sentflorjanscica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.37739,
+   15.04595
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:20.231Z"
+ },
+ {
+  "id": "rd-paka-sostanj/sostanjsko-jezero",
+  "clubSlug": "rd-paka-sostanj",
+  "slug": "sostanjsko-jezero",
+  "code": "Šoštanjsko jezero",
+  "name": "Šoštanjsko jezero",
+  "subtitle": "",
+  "en": {
+   "name": "Šoštanjsko jezero",
+   "subtitle": "",
+   "description": "od Šoštanj do -"
+  },
+  "club": {
+   "name": "Ribiška družina Paka Šoštanj",
+   "url": "https://www.ribiskekarte.si/rd-paka-sostanj"
+  },
+  "description": "od Šoštanj do -",
+  "waterType": "lake",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-paka-sostanj/sostanjsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.37739,
+   15.04595
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:22.628Z"
+ },
+ {
+  "id": "rd-paka-sostanj/toplica-2",
+  "clubSlug": "rd-paka-sostanj",
+  "slug": "toplica-2",
+  "code": "Toplica 2",
+  "name": "Toplica 2",
+  "subtitle": "",
+  "en": {
+   "name": "Toplica 2",
+   "subtitle": "",
+   "description": "od Mlinarjev jez do Izliv v Pako"
+  },
+  "club": {
+   "name": "Ribiška družina Paka Šoštanj",
+   "url": "https://www.ribiskekarte.si/rd-paka-sostanj"
+  },
+  "description": "od Mlinarjev jez do Izliv v Pako",
+  "waterType": "lake",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-paka-sostanj/toplica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.37739,
+   15.04595
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:25.029Z"
+ },
+ {
+  "id": "rd-paka-sostanj/velunja-2",
+  "clubSlug": "rd-paka-sostanj",
+  "slug": "velunja-2",
+  "code": "Velunja 2",
+  "name": "Velunja 2",
+  "subtitle": "",
+  "en": {
+   "name": "Velunja 2",
+   "subtitle": "",
+   "description": "od Gostišče Rihter do Izliv v Šoštanjsko jezero"
+  },
+  "club": {
+   "name": "Ribiška družina Paka Šoštanj",
+   "url": "https://www.ribiskekarte.si/rd-paka-sostanj"
+  },
+  "description": "od Gostišče Rihter do Izliv v Šoštanjsko jezero",
+  "waterType": "lake",
+  "water": null,
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-paka-sostanj/velunja-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.37739,
+   15.04595
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:32.229Z"
+ }
+]

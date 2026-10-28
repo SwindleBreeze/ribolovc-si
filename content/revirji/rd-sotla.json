@@ -1,0 +1,2680 @@
+[
+ {
+  "id": "rd-sotla/reka-bistrica",
+  "clubSlug": "rd-sotla",
+  "slug": "reka-bistrica",
+  "code": "Bistrica",
+  "name": "Reka Bistrica",
+  "subtitle": "od izvira do izliva v Sotlo",
+  "en": {
+   "name": "The river Bistrica",
+   "subtitle": "from the spring to the outflow into the Sotla",
+   "description": "The river Bistrica cut the most of its channel through the triassic rocks and some vast pebble deposits show us its torrential character. It is known by its diversity, clear waters and sudden changes of wider and narrower areas in the valley. The canyon between Trebče and Zagaj is so tight that it is impassable. The channel is surrounded by steep, rocky and wooded areas. But the nature in the canyon is very lively."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Reka Bistrica je večji del svoje struge vrezala v triasne kamenine, obsežnejši prodni nanosi v strugi pa pričajo o njenem hudourniškem značaju. Slovi po svoji razgibanosti, bistri vodi, in pestrem menjavanju širših in ožjih dolinskih delov. Soteska med Trebčami in Zagajem je tako tesna, da je soteska neprehodna. Strugo večji del obdajajo strma, skalovita in gozdnata pobočja. Pestrost soteske dopolnjuje živa narava.",
+  "waterType": "river",
+  "water": "Bistrica",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploscic",
+   "potocna-postrv",
+   "smuc",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploščič",
+   "potočna postrv",
+   "smuč",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/395"
+   },
+   {
+    "name": "Muharjenje",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 29. 02. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/397"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/396"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/reka-bistrica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 15.656321,
+   "lon": 46.048581
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "reka 4401 km od sedeža družine",
+   "od: izvir",
+   "do: sotočje Sotlo"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.4394,
+     46.10959
+    ],
+    [
+     15.43875,
+     46.10956
+    ],
+    [
+     15.4386,
+     46.1097
+    ],
+    [
+     15.43853,
+     46.11048
+    ],
+    [
+     15.43819,
+     46.1116
+    ],
+    [
+     15.43838,
+     46.112
+    ],
+    [
+     15.43836,
+     46.1128
+    ],
+    [
+     15.4387,
+     46.11362
+    ],
+    [
+     15.43962,
+     46.11462
+    ],
+    [
+     15.44045,
+     46.11601
+    ],
+    [
+     15.44091,
+     46.116
+    ],
+    [
+     15.44101,
+     46.11617
+    ],
+    [
+     15.441,
+     46.11724
+    ],
+    [
+     15.44121,
+     46.11802
+    ],
+    [
+     15.44099,
+     46.11999
+    ],
+    [
+     15.44101,
+     46.12077
+    ],
+    [
+     15.44115,
+     46.1211
+    ],
+    [
+     15.44101,
+     46.1214
+    ],
+    [
+     15.44106,
+     46.12167
+    ],
+    [
+     15.44175,
+     46.12198
+    ],
+    [
+     15.44229,
+     46.12259
+    ],
+    [
+     15.4428,
+     46.1226
+    ],
+    [
+     15.4428,
+     46.12278
+    ],
+    [
+     15.44293,
+     46.12286
+    ],
+    [
+     15.44344,
+     46.1227
+    ],
+    [
+     15.4445,
+     46.12276
+    ],
+    [
+     15.44457,
+     46.12283
+    ],
+    [
+     15.44441,
+     46.12302
+    ],
+    [
+     15.44463,
+     46.12344
+    ],
+    [
+     15.44592,
+     46.12367
+    ],
+    [
+     15.44617,
+     46.12389
+    ],
+    [
+     15.44634,
+     46.12455
+    ],
+    [
+     15.44676,
+     46.12478
+    ],
+    [
+     15.44742,
+     46.12543
+    ],
+    [
+     15.44834,
+     46.12497
+    ],
+    [
+     15.44892,
+     46.12486
+    ],
+    [
+     15.45163,
+     46.12501
+    ],
+    [
+     15.45178,
+     46.12462
+    ],
+    [
+     15.45248,
+     46.12387
+    ],
+    [
+     15.45357,
+     46.12322
+    ],
+    [
+     15.45542,
+     46.12295
+    ],
+    [
+     15.45613,
+     46.12299
+    ],
+    [
+     15.45675,
+     46.12347
+    ],
+    [
+     15.4572,
+     46.12355
+    ],
+    [
+     15.45795,
+     46.12335
+    ],
+    [
+     15.45841,
+     46.12342
+    ],
+    [
+     15.46028,
+     46.12289
+    ],
+    [
+     15.46185,
+     46.12271
+    ],
+    [
+     15.463,
+     46.12299
+    ],
+    [
+     15.46407,
+     46.12294
+    ],
+    [
+     15.46525,
+     46.1233
+    ],
+    [
+     15.46652,
+     46.12331
+    ],
+    [
+     15.46712,
+     46.12313
+    ],
+    [
+     15.46786,
+     46.1233
+    ],
+    [
+     15.4682,
+     46.12288
+    ],
+    [
+     15.46899,
+     46.12236
+    ],
+    [
+     15.46898,
+     46.12171
+    ],
+    [
+     15.46927,
+     46.12106
+    ],
+    [
+     15.46901,
+     46.12081
+    ],
+    [
+     15.46902,
+     46.12066
+    ],
+    [
+     15.46921,
+     46.12025
+    ],
+    [
+     15.46929,
+     46.11954
+    ],
+    [
+     15.47008,
+     46.1189
+    ],
+    [
+     15.47045,
+     46.11836
+    ],
+    [
+     15.47151,
+     46.11774
+    ],
+    [
+     15.47221,
+     46.11691
+    ],
+    [
+     15.47194,
+     46.11655
+    ],
+    [
+     15.47159,
+     46.11533
+    ],
+    [
+     15.47129,
+     46.11526
+    ],
+    [
+     15.47126,
+     46.11513
+    ],
+    [
+     15.47224,
+     46.11483
+    ],
+    [
+     15.472,
+     46.11452
+    ],
+    [
+     15.47222,
+     46.11428
+    ],
+    [
+     15.47434,
+     46.11387
+    ],
+    [
+     15.47451,
+     46.11365
+    ],
+    [
+     15.47447,
+     46.11345
+    ],
+    [
+     15.47396,
+     46.11258
+    ],
+    [
+     15.47396,
+     46.11231
+    ],
+    [
+     15.47447,
+     46.11225
+    ],
+    [
+     15.47495,
+     46.11192
+    ],
+    [
+     15.47514,
+     46.11175
+    ],
+    [
+     15.47522,
+     46.11137
+    ],
+    [
+     15.47562,
+     46.11115
+    ],
+    [
+     15.47589,
+     46.11135
+    ],
+    [
+     15.47611,
+     46.11135
+    ],
+    [
+     15.47642,
+     46.11047
+    ],
+    [
+     15.47708,
+     46.11014
+    ],
+    [
+     15.47741,
+     46.10966
+    ],
+    [
+     15.47841,
+     46.10944
+    ],
+    [
+     15.47867,
+     46.10915
+    ],
+    [
+     15.47953,
+     46.10879
+    ],
+    [
+     15.48002,
+     46.10869
+    ],
+    [
+     15.48077,
+     46.10904
+    ],
+    [
+     15.48225,
+     46.10911
+    ],
+    [
+     15.48324,
+     46.1085
+    ],
+    [
+     15.48544,
+     46.10802
+    ],
+    [
+     15.48737,
+     46.10727
+    ],
+    [
+     15.48837,
+     46.10722
+    ],
+    [
+     15.48941,
+     46.10742
+    ],
+    [
+     15.49006,
+     46.1077
+    ],
+    [
+     15.49116,
+     46.10851
+    ],
+    [
+     15.49149,
+     46.10897
+    ],
+    [
+     15.49206,
+     46.10909
+    ],
+    [
+     15.49304,
+     46.10907
+    ],
+    [
+     15.49375,
+     46.10942
+    ],
+    [
+     15.49428,
+     46.10992
+    ],
+    [
+     15.49482,
+     46.11008
+    ],
+    [
+     15.49564,
+     46.11011
+    ],
+    [
+     15.49692,
+     46.10975
+    ],
+    [
+     15.49781,
+     46.10977
+    ],
+    [
+     15.49848,
+     46.10988
+    ],
+    [
+     15.49994,
+     46.11041
+    ],
+    [
+     15.50024,
+     46.11073
+    ],
+    [
+     15.50111,
+     46.11068
+    ],
+    [
+     15.50166,
+     46.11084
+    ],
+    [
+     15.50218,
+     46.11078
+    ],
+    [
+     15.50368,
+     46.11003
+    ],
+    [
+     15.5049,
+     46.11031
+    ],
+    [
+     15.5055,
+     46.11026
+    ],
+    [
+     15.50569,
+     46.11003
+    ],
+    [
+     15.50566,
+     46.10977
+    ],
+    [
+     15.50518,
+     46.10922
+    ],
+    [
+     15.505,
+     46.10848
+    ],
+    [
+     15.50662,
+     46.10826
+    ],
+    [
+     15.50747,
+     46.10754
+    ],
+    [
+     15.50812,
+     46.10746
+    ],
+    [
+     15.50834,
+     46.1073
+    ],
+    [
+     15.50817,
+     46.1068
+    ],
+    [
+     15.5076,
+     46.10589
+    ],
+    [
+     15.50795,
+     46.10532
+    ],
+    [
+     15.50795,
+     46.10484
+    ],
+    [
+     15.50823,
+     46.10456
+    ],
+    [
+     15.5083,
+     46.10401
+    ],
+    [
+     15.50913,
+     46.10352
+    ],
+    [
+     15.50944,
+     46.10312
+    ],
+    [
+     15.50975,
+     46.10321
+    ],
+    [
+     15.51051,
+     46.10378
+    ],
+    [
+     15.51102,
+     46.10373
+    ],
+    [
+     15.51143,
+     46.10243
+    ],
+    [
+     15.51172,
+     46.102
+    ],
+    [
+     15.51169,
+     46.10159
+    ],
+    [
+     15.51212,
+     46.10138
+    ],
+    [
+     15.5127,
+     46.10151
+    ],
+    [
+     15.51295,
+     46.10178
+    ],
+    [
+     15.51325,
+     46.10186
+    ],
+    [
+     15.51415,
+     46.10182
+    ],
+    [
+     15.51462,
+     46.10221
+    ],
+    [
+     15.51497,
+     46.10228
+    ],
+    [
+     15.51822,
+     46.10175
+    ],
+    [
+     15.51975,
+     46.10099
+    ],
+    [
+     15.52045,
+     46.10105
+    ],
+    [
+     15.52076,
+     46.10095
+    ],
+    [
+     15.52266,
+     46.09931
+    ],
+    [
+     15.52255,
+     46.09868
+    ],
+    [
+     15.52211,
+     46.09813
+    ],
+    [
+     15.52259,
+     46.0964
+    ],
+    [
+     15.52289,
+     46.09615
+    ],
+    [
+     15.52405,
+     46.09575
+    ],
+    [
+     15.52673,
+     46.09574
+    ],
+    [
+     15.52813,
+     46.09512
+    ],
+    [
+     15.52865,
+     46.09471
+    ],
+    [
+     15.52869,
+     46.09419
+    ],
+    [
+     15.52854,
+     46.09394
+    ],
+    [
+     15.52918,
+     46.09276
+    ],
+    [
+     15.53091,
+     46.09222
+    ],
+    [
+     15.5318,
+     46.09146
+    ],
+    [
+     15.5336,
+     46.09079
+    ],
+    [
+     15.53433,
+     46.09039
+    ],
+    [
+     15.53436,
+     46.09016
+    ],
+    [
+     15.53418,
+     46.08978
+    ],
+    [
+     15.53421,
+     46.08923
+    ],
+    [
+     15.53395,
+     46.08865
+    ],
+    [
+     15.53396,
+     46.08836
+    ],
+    [
+     15.53777,
+     46.08701
+    ],
+    [
+     15.5378,
+     46.08682
+    ],
+    [
+     15.53763,
+     46.08671
+    ],
+    [
+     15.5359,
+     46.08659
+    ],
+    [
+     15.53575,
+     46.08642
+    ],
+    [
+     15.53582,
+     46.08625
+    ],
+    [
+     15.53659,
+     46.08575
+    ],
+    [
+     15.53768,
+     46.08474
+    ],
+    [
+     15.54981,
+     46.07508
+    ],
+    [
+     15.55932,
+     46.07338
+    ],
+    [
+     15.55993,
+     46.07159
+    ],
+    [
+     15.55967,
+     46.07116
+    ],
+    [
+     15.55959,
+     46.07042
+    ],
+    [
+     15.56108,
+     46.06924
+    ],
+    [
+     15.56228,
+     46.06804
+    ],
+    [
+     15.56315,
+     46.06767
+    ],
+    [
+     15.56385,
+     46.06718
+    ],
+    [
+     15.56401,
+     46.06692
+    ],
+    [
+     15.56474,
+     46.06647
+    ],
+    [
+     15.56505,
+     46.06574
+    ],
+    [
+     15.56502,
+     46.06524
+    ],
+    [
+     15.56474,
+     46.06446
+    ],
+    [
+     15.56486,
+     46.06415
+    ],
+    [
+     15.56868,
+     46.06242
+    ],
+    [
+     15.56884,
+     46.06202
+    ],
+    [
+     15.56886,
+     46.06066
+    ],
+    [
+     15.56762,
+     46.06007
+    ],
+    [
+     15.56739,
+     46.05976
+    ],
+    [
+     15.56773,
+     46.05858
+    ],
+    [
+     15.56835,
+     46.05792
+    ],
+    [
+     15.56915,
+     46.05757
+    ],
+    [
+     15.57238,
+     46.05796
+    ],
+    [
+     15.57393,
+     46.05767
+    ],
+    [
+     15.57416,
+     46.05744
+    ],
+    [
+     15.5743,
+     46.057
+    ],
+    [
+     15.57407,
+     46.05567
+    ],
+    [
+     15.57413,
+     46.05521
+    ],
+    [
+     15.57439,
+     46.05459
+    ],
+    [
+     15.57466,
+     46.05431
+    ],
+    [
+     15.57664,
+     46.05414
+    ],
+    [
+     15.57848,
+     46.05421
+    ],
+    [
+     15.58078,
+     46.05388
+    ],
+    [
+     15.58128,
+     46.05364
+    ],
+    [
+     15.58135,
+     46.05342
+    ],
+    [
+     15.58105,
+     46.05317
+    ],
+    [
+     15.57885,
+     46.05168
+    ],
+    [
+     15.57854,
+     46.05121
+    ],
+    [
+     15.57833,
+     46.05047
+    ],
+    [
+     15.57935,
+     46.05017
+    ],
+    [
+     15.58043,
+     46.04962
+    ],
+    [
+     15.58103,
+     46.04951
+    ],
+    [
+     15.58237,
+     46.04978
+    ],
+    [
+     15.58296,
+     46.0509
+    ],
+    [
+     15.58316,
+     46.05103
+    ],
+    [
+     15.58491,
+     46.0512
+    ],
+    [
+     15.5852,
+     46.05106
+    ],
+    [
+     15.58525,
+     46.05076
+    ],
+    [
+     15.58452,
+     46.04962
+    ],
+    [
+     15.58431,
+     46.04895
+    ],
+    [
+     15.58439,
+     46.04881
+    ],
+    [
+     15.58494,
+     46.04867
+    ],
+    [
+     15.5855,
+     46.04875
+    ],
+    [
+     15.58598,
+     46.04865
+    ],
+    [
+     15.58631,
+     46.04821
+    ],
+    [
+     15.58742,
+     46.04778
+    ],
+    [
+     15.58806,
+     46.04717
+    ],
+    [
+     15.58919,
+     46.04656
+    ],
+    [
+     15.5897,
+     46.04642
+    ],
+    [
+     15.58952,
+     46.04612
+    ],
+    [
+     15.58955,
+     46.04585
+    ],
+    [
+     15.58896,
+     46.04544
+    ],
+    [
+     15.58907,
+     46.04509
+    ],
+    [
+     15.58865,
+     46.04443
+    ],
+    [
+     15.58873,
+     46.04417
+    ],
+    [
+     15.59002,
+     46.04331
+    ],
+    [
+     15.59083,
+     46.04246
+    ],
+    [
+     15.59164,
+     46.04201
+    ],
+    [
+     15.59175,
+     46.04073
+    ],
+    [
+     15.59197,
+     46.04028
+    ],
+    [
+     15.59177,
+     46.03841
+    ],
+    [
+     15.59137,
+     46.03771
+    ],
+    [
+     15.59024,
+     46.03697
+    ],
+    [
+     15.59005,
+     46.03667
+    ],
+    [
+     15.59021,
+     46.03653
+    ],
+    [
+     15.59158,
+     46.03646
+    ],
+    [
+     15.59212,
+     46.03601
+    ],
+    [
+     15.59247,
+     46.03591
+    ],
+    [
+     15.59322,
+     46.03616
+    ],
+    [
+     15.59431,
+     46.03611
+    ],
+    [
+     15.5962,
+     46.03679
+    ],
+    [
+     15.59845,
+     46.036
+    ],
+    [
+     15.59938,
+     46.03582
+    ],
+    [
+     15.60047,
+     46.03531
+    ],
+    [
+     15.60129,
+     46.03601
+    ],
+    [
+     15.60221,
+     46.03633
+    ],
+    [
+     15.6035,
+     46.03635
+    ],
+    [
+     15.6047,
+     46.03656
+    ],
+    [
+     15.60714,
+     46.0364
+    ],
+    [
+     15.60956,
+     46.03749
+    ],
+    [
+     15.60978,
+     46.03778
+    ],
+    [
+     15.61011,
+     46.03795
+    ],
+    [
+     15.61254,
+     46.03808
+    ],
+    [
+     15.61432,
+     46.03784
+    ],
+    [
+     15.61625,
+     46.03793
+    ],
+    [
+     15.61764,
+     46.03738
+    ],
+    [
+     15.6188,
+     46.03728
+    ],
+    [
+     15.61994,
+     46.03739
+    ],
+    [
+     15.62097,
+     46.03771
+    ],
+    [
+     15.62208,
+     46.03769
+    ],
+    [
+     15.62246,
+     46.03728
+    ],
+    [
+     15.62246,
+     46.037
+    ],
+    [
+     15.62143,
+     46.03583
+    ],
+    [
+     15.62165,
+     46.03487
+    ],
+    [
+     15.62204,
+     46.03453
+    ],
+    [
+     15.6225,
+     46.03454
+    ],
+    [
+     15.62323,
+     46.03485
+    ],
+    [
+     15.62509,
+     46.03534
+    ],
+    [
+     15.62731,
+     46.03562
+    ],
+    [
+     15.62858,
+     46.03554
+    ],
+    [
+     15.63116,
+     46.03585
+    ],
+    [
+     15.63179,
+     46.03581
+    ],
+    [
+     15.63299,
+     46.0354
+    ],
+    [
+     15.6335,
+     46.03545
+    ],
+    [
+     15.63414,
+     46.03556
+    ],
+    [
+     15.63434,
+     46.03588
+    ],
+    [
+     15.63468,
+     46.03608
+    ],
+    [
+     15.63487,
+     46.03603
+    ],
+    [
+     15.63548,
+     46.03522
+    ],
+    [
+     15.63578,
+     46.03518
+    ],
+    [
+     15.63674,
+     46.0354
+    ],
+    [
+     15.63794,
+     46.03649
+    ],
+    [
+     15.63863,
+     46.03849
+    ],
+    [
+     15.64089,
+     46.03961
+    ],
+    [
+     15.64177,
+     46.03983
+    ],
+    [
+     15.64381,
+     46.03975
+    ],
+    [
+     15.64416,
+     46.04017
+    ],
+    [
+     15.64415,
+     46.04043
+    ],
+    [
+     15.64502,
+     46.041
+    ],
+    [
+     15.64706,
+     46.04197
+    ],
+    [
+     15.64781,
+     46.04272
+    ],
+    [
+     15.6481,
+     46.04331
+    ],
+    [
+     15.65003,
+     46.04316
+    ],
+    [
+     15.65175,
+     46.04279
+    ],
+    [
+     15.65358,
+     46.04333
+    ],
+    [
+     15.65425,
+     46.04379
+    ],
+    [
+     15.65439,
+     46.04431
+    ],
+    [
+     15.65383,
+     46.04558
+    ],
+    [
+     15.65223,
+     46.046
+    ],
+    [
+     15.65165,
+     46.04635
+    ],
+    [
+     15.65139,
+     46.04712
+    ],
+    [
+     15.65153,
+     46.04857
+    ],
+    [
+     15.65167,
+     46.04894
+    ],
+    [
+     15.65242,
+     46.04968
+    ],
+    [
+     15.6529,
+     46.04993
+    ],
+    [
+     15.65417,
+     46.04985
+    ],
+    [
+     15.65486,
+     46.05059
+    ],
+    [
+     15.65543,
+     46.051
+    ],
+    [
+     15.65654,
+     46.05155
+    ],
+    [
+     15.65701,
+     46.0522
+    ],
+    [
+     15.65712,
+     46.05338
+    ],
+    [
+     15.65745,
+     46.05367
+    ],
+    [
+     15.65791,
+     46.05383
+    ],
+    [
+     15.658,
+     46.05405
+    ],
+    [
+     15.65775,
+     46.05436
+    ],
+    [
+     15.65724,
+     46.05455
+    ],
+    [
+     15.65661,
+     46.05518
+    ],
+    [
+     15.6542,
+     46.05603
+    ],
+    [
+     15.65274,
+     46.05737
+    ],
+    [
+     15.65268,
+     46.05783
+    ],
+    [
+     15.65288,
+     46.05855
+    ],
+    [
+     15.6531,
+     46.05895
+    ],
+    [
+     15.65368,
+     46.05939
+    ],
+    [
+     15.65379,
+     46.05998
+    ],
+    [
+     15.6534,
+     46.0612
+    ],
+    [
+     15.653,
+     46.06145
+    ],
+    [
+     15.65284,
+     46.06172
+    ],
+    [
+     15.65292,
+     46.06209
+    ],
+    [
+     15.65282,
+     46.06244
+    ],
+    [
+     15.65293,
+     46.06306
+    ],
+    [
+     15.65345,
+     46.06341
+    ],
+    [
+     15.65397,
+     46.06414
+    ],
+    [
+     15.65429,
+     46.0654
+    ],
+    [
+     15.65519,
+     46.06641
+    ],
+    [
+     15.65532,
+     46.06681
+    ],
+    [
+     15.65522,
+     46.06737
+    ],
+    [
+     15.65561,
+     46.06764
+    ],
+    [
+     15.65621,
+     46.06857
+    ],
+    [
+     15.65688,
+     46.06903
+    ],
+    [
+     15.65712,
+     46.06956
+    ],
+    [
+     15.65727,
+     46.07042
+    ],
+    [
+     15.6576,
+     46.07071
+    ],
+    [
+     15.65848,
+     46.07113
+    ]
+   ]
+  },
+  "center": [
+   46.06955,
+   15.56068
+  ],
+  "lengthKm": 32.6,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.07368,
+    "lon": 15.55964,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.07535,
+    "lon": 15.55311,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.10248,
+    "lon": 15.51887,
+    "name": null,
+    "distKm": 0.1
+   },
+   {
+    "lat": 46.04293,
+    "lon": 15.59204,
+    "name": null,
+    "distKm": 0.1
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:46.529Z"
+ },
+ {
+  "id": "rd-sotla/mestinjscica-2",
+  "clubSlug": "rd-sotla",
+  "slug": "mestinjscica-2",
+  "code": "Mestinjščica 2",
+  "name": "Reka Mestinjščica",
+  "subtitle": "od vasi Podplade do izliva v Sotlo",
+  "en": {
+   "name": "The river Mestinjščica",
+   "subtitle": " from the village Podplat to the outflow into the Sotla",
+   "description": "The river Mestinjščica ,with its vegetation covered banks, offers excellent shelter to all the fish, but the pikes feel extremely welcome here."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Reka Mestnjiščica s svojimi zaraščenimi bregovi nudi odlično kritje za vse ribe, predvsem dobro se počutijo ščuke.",
+  "waterType": "river",
+  "water": "Mestinjščica",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploscic",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploščič",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/395"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/396"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/mestinjscica-2",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.172877,
+   "lon": 15.601333
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Sotlo"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.608,
+    46.16738
+   ]
+  },
+  "center": [
+   46.16738,
+   15.608
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.16558,
+    "lon": 15.60549,
+    "name": "Parking Aqualuna",
+    "distKm": 0.28
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:17.775Z"
+ },
+ {
+  "id": "rd-sotla/mrtvica-atomske-toplice",
+  "clubSlug": "rd-sotla",
+  "slug": "mrtvica-atomske-toplice",
+  "code": "Mrtvica Atomske toplice",
+  "name": "Mrtvica Atomske toplice",
+  "subtitle": "mrtvica Valek",
+  "en": {
+   "name": "The backwater Atomske toplice",
+   "subtitle": " the backwater Valek",
+   "description": "This former channel of the river Sotla is being managed by the RD Sotla very carefully."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Nekdanji rokav reke Sotle s katerim skrbno gospodari RD Sotla.",
+  "waterType": "pond",
+  "water": "Mrtvica",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploscic",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploščič",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/395"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/396"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/mrtvica-atomske-toplice",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Mrtvica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.67599,
+      46.32514
+     ],
+     [
+      15.67625,
+      46.32456
+     ],
+     [
+      15.67678,
+      46.32444
+     ],
+     [
+      15.67625,
+      46.32468
+     ],
+     [
+      15.67612,
+      46.32516
+     ],
+     [
+      15.67773,
+      46.32581
+     ],
+     [
+      15.67599,
+      46.32514
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.32506,
+   15.67655
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:56.156Z"
+ },
+ {
+  "id": "rd-sotla/ribnikrogaska-slatina-1",
+  "clubSlug": "rd-sotla",
+  "slug": "ribnikrogaska-slatina-1",
+  "code": "Ribnik Rogaška Slatina 1",
+  "name": "Ribnik Rogaška Slatina",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Rogaška Slatina",
+   "subtitle": "",
+   "description": "The way to the ponds from Rogaška Slatina: in Tekačevo we turn right off the main road (after the inn and railway crossing). We drive for two hundred meters and then, at the wooden signpost showing the pond, we turn left to the macadam road that we follow for another hundred meters and we have arrived. We leave the car at the edge of the lower pond."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Pot do ribnika iz smeri Rogaške Slatine: na vrhu naselja Tekačevo zavijemo z glavne ceste desno, takoj za gostiščem in prehodom čez železniško progo. Vožnjo nadaljujemo še dvesto metrov, nato pri lesenem smerokazu, ki označje ribnik, zavijemo levo navzdol na makedamsko cesto. Prevozimo še nekaj sto metrov in že smo na cilju. Avtomobil zapustimo ob rubu spodnjega ribnika.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "jeseter",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploscic",
+   "smuc",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "jeseter",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploščič",
+   "smuč",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/398"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/399"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/ribnikrogaska-slatina-1",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:51.389Z"
+ },
+ {
+  "id": "rd-sotla/ribnik-smarje-pri-jelsah-1",
+  "clubSlug": "rd-sotla",
+  "slug": "ribnik-smarje-pri-jelsah-1",
+  "code": "Ribnik Šmarje pri Jelšah 1",
+  "name": "Ribnik Šmarje pri Jelšah",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Šmarje pri Jelšah",
+   "subtitle": "",
+   "description": "These two ponds are wonderful for float fishing and fishing for predatory fish. The banks are regulated and easily accessible. Tall trees offer plenty of shade during hot summer months. The ponds are situated at the entrance to Šmarje ob Jelšah-from direction Celje."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Dva krasna ribnika za beličarjenje in lov roparic. Bregovi so urejeni in lahko dostopni. Visoka drevesa v okolici nudijo obilo sence tudi v vročih poletnih mesecih. Ribinka se nahajata na začetku naselja Šmarje pri Jelšah iz smeri Celja.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "jeseter",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploscic",
+   "smuc",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "jeseter",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploščič",
+   "smuč",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/400"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/401"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/ribnik-smarje-pri-jelsah-1",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:10.592Z"
+ },
+ {
+  "id": "rd-sotla/ribnik-trepce",
+  "clubSlug": "rd-sotla",
+  "slug": "ribnik-trepce",
+  "code": "Ribnik Trebče",
+  "name": "Ribnik Trebče",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Trebče",
+   "subtitle": "",
+   "description": "The water in this pond is very rich in oxygen due to its inflow and outflow into the river Bistrica. We can float fish or spin fish for predatory fish hiding underneath the water vegetation; both experiences will prove as satisfactory."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Voda v ribniku je izredno bogata s kisikom, zaradi pritoka in odtoka v reko Bistrico. V ribniku lahko doživimo izredno lep ribolov z beličarjenjem ali pa vijačenje na roparice, ki prežijo pod vodnim rastlinjem.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "bolen",
+   "jeseter",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploscic",
+   "smuc",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "jeseter",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploščič",
+   "smuč",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/404"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/405"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/ribnik-trepce",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:17.786Z"
+ },
+ {
+  "id": "rd-sotla/ribnik-vonarje",
+  "clubSlug": "rd-sotla",
+  "slug": "ribnik-vonarje",
+  "code": "Ribnik Vonarje",
+  "name": "Ribnik Vonarje",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Vonarje",
+   "subtitle": "the backwater Valek",
+   "description": "The pond Vonarje is situated near the spa Terme Olimia. The surroundings are very neat and the pond offers plenty of joy to all who like to float fish."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Ribnik Vonarje se nahaja v neposredni bližini Term Olimia, kjer ima zelo urejeno okolico in nudi obilico užitvov vsem, ki radi beličarite.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "platnica",
+   "ploscic",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "klen",
+   "krap",
+   "platnica",
+   "ploščič",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 03. do 19. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/402"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 03. do 19. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/403"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/ribnik-vonarje",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:24.983Z"
+ },
+ {
+  "id": "rd-sotla/sotla-1",
+  "clubSlug": "rd-sotla",
+  "slug": "sotla-1",
+  "code": "Sotla 1",
+  "name": "Reka Sotla",
+  "subtitle": "od izvira do mostu v Orešju",
+  "en": {
+   "name": "The river Sotla",
+   "subtitle": " from the spring to the bridge in Orešje",
+   "description": "The river Sotla springs in three places in the southern foot of the mountain Macelj. Due to its slow current, it offers very comforable living conditions for carps, grass carps, silver carps, barbels, common breams, asps, gibel carps, pikes, zanders, ides and sturgeons ( which are the special feature of this area)."
+  },
+  "club": {
+   "name": "Ribiška družina Sotla",
+   "url": "https://www.ribiskekarte.si/rd-sotla"
+  },
+  "description": "Reka Sotla izvira v južnem vznožju Maclja v treh izvirih. Zaradi svojega počasnega toka nudi dobre življenske pogoje za krape, amurje, linje, tolstolobike, mrene, ploščiče, bolene, babuške, ščuke, smuče, jeze in posebnost jesetre.",
+  "waterType": "river",
+  "water": "Sotla / Sutla",
+  "species": [
+   "amur",
+   "koreselj",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploscic",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "bolen",
+   "jez",
+   "krap",
+   "linj",
+   "mrena",
+   "ploščič",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/395"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-sotla/nakup/396"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/sotla-1",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izvir"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.79444,
+    46.25667
+   ]
+  },
+  "center": [
+   46.25667,
+   15.79444
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:53.799Z"
+ }
+]

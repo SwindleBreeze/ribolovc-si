@@ -81,7 +81,8 @@ jobs:
             -o "$RUNNER_TEMP/slovenia.osm.pbf" https://download.geofabrik.de/europe/slovenia-latest.osm.pbf
           osmium tags-filter "$RUNNER_TEMP/slovenia.osm.pbf" \
             w/waterway=river,stream,canal nwr/natural=water nwr/water nwr/landuse=reservoir,basin \
-            nwr/place nwr/waterway=dam,weir nwr/man_made=bridge nwr/amenity=parking nwr/leisure=fishing \
+            nwr/place nwr/waterway=dam,weir,waterfall nwr/man_made=bridge nwr/amenity=parking nwr/leisure=fishing \
+            nwr/natural=spring,sinkhole,gorge,cave_entrance \
             -o "$RUNNER_TEMP/filtered.osm.pbf" --overwrite
           osmium export "$RUNNER_TEMP/filtered.osm.pbf" -f geojsonseq -o "$RUNNER_TEMP/filtered.geojsonseq" \
             --add-unique-id=type_id --overwrite

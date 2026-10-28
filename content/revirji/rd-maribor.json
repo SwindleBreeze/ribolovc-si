@@ -1,0 +1,1242 @@
+[
+ {
+  "id": "rd-maribor/drava-7",
+  "clubSlug": "rd-maribor",
+  "slug": "drava-7",
+  "code": "Drava 7",
+  "name": "Reka Drava",
+  "subtitle": "Od Mariborskega otoka do jezu v Melju",
+  "en": {
+   "name": "The river Drava",
+   "subtitle": "from Mariborski otok to the dam in Melje",
+   "description": "The water in this district runs slowly all the way from the Kobler's bay to the dam in Melje. You can find numerous large catfish, large barbels and chub is also not hard to find. The places for fishing are on the relatively steep banks. The water's depth varies from 3 to 7 meters. The water's velocity also fluctuates from still, slow to fast, depending on working regime of the power plants on the Drava."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Gre za počasi tekočo vodo od Koblerjevega zaliva do jezu v Melju. V tem revirju je veliko velikih somov, velikih mren, pogost pa je klen. Ribolovna mesta so ob relativno strmi brežinah. Globina vode je od 3 m pa vse do 7 m. Hitrost vode niha od stoječe, počasi tekoče do hitro tekoče, kar pogojujejo Dravske elektrarne s svojim režimom obratovanja.",
+  "waterType": "river",
+  "water": "Drava",
+  "species": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (ujemi in odnesi)",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/108"
+   },
+   {
+    "name": "Salmonidi (roparice)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/110"
+   },
+   {
+    "name": "Salmonidi (ujemi in odnesi)",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/109"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/drava-7",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Melje (jez)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.67343,
+    46.56029
+   ]
+  },
+  "center": [
+   46.56029,
+   15.67343
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.56097,
+    "lon": 15.67338,
+    "name": null,
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.55968,
+    "lon": 15.66848,
+    "name": null,
+    "distKm": 0.38
+   },
+   {
+    "lat": 46.55739,
+    "lon": 15.67681,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:56.097Z"
+ },
+ {
+  "id": "rd-maribor/drava-8",
+  "clubSlug": "rd-maribor",
+  "slug": "drava-8",
+  "code": "Drava 8",
+  "name": "Reka Drava",
+  "subtitle": "Od mostu za Malečnik do Šmartinskega broda",
+  "en": {
+   "name": "The river Drava",
+   "subtitle": " from the bridge in Malečnik to the cable ferry",
+   "description": "This district is the Drava's channel and the Drava runs through it in guaranteed biological minimum. Places to fish have an easy access, numerous parking lots are in direct proximity of the fishing places - with the exception of the area under the bridge in Duplek, where you have to go on foot due to beginning of the landscape park."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Ta revir je struga reke Drave in po njem se pretaka Drava v zagotovljenem biološkem minimumu. Ribolovna mesta so lahko dostopna, v neposredni bližini lovnih mest so številni parkirni prostori, le v predelu pod Mostom v Dupleku je potrebno na lovno mesto peš, ker je začetek krajinskega parka. To je voda v kateri dominirajo ciprinidi, najdejo se pa tudi salmonidi in roparji.",
+  "waterType": "river",
+  "water": "Drava",
+  "species": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "mrena",
+   "ogrica (sivka)",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (ujemi in odnesi)",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/111"
+   },
+   {
+    "name": "Salmonidi (roparice)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/113"
+   },
+   {
+    "name": "Salmonidi (ujemi in odnesi)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/112"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/drava-8",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Malečnik (most)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.691,
+    46.5547
+   ]
+  },
+  "center": [
+   46.5547,
+   15.691
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.55547,
+    "lon": 15.69417,
+    "name": null,
+    "distKm": 0.26
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:58.494Z"
+ },
+ {
+  "id": "rd-maribor/gramoznica-duplek",
+  "clubSlug": "rd-maribor",
+  "slug": "gramoznica-duplek",
+  "code": "Gramoznica Duplek",
+  "name": "Gramoznica Duplek",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Duplek",
+   "subtitle": "",
+   "description": "The gravel pit Duplek is situated in the landscape park and therefore the parking places are at the entrance to the gravel pit. It is home to some large catfish, carps, there is a plenty of common breams and roaches and even some crucian carp ( gibel carp ) or grass carp find themselves here."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Gramoznica Duplek leži v krajinskem parku, zato ima urejeno parkirališče ob vhodu v gramoznico. V njej živijo veliki somi, krapi, mnogo je ploščičev in rdečeok, pa tudi kakšen srebrni koreselj (babuška) in amur se najdeta v njej.",
+  "waterType": "pond",
+  "water": "Gramoznica Duplek",
+  "species": [
+   "americki-somic",
+   "amur",
+   "koreselj",
+   "krap",
+   "ploscic",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "babuška",
+   "krap",
+   "ploščič",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - dnevna",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/868"
+   },
+   {
+    "name": "Ujemi in vzemi - dnevna",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/120"
+   },
+   {
+    "name": "Ujemi in vzemi (roparice)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 02. 05. do 15. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/124"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/gramoznica-duplek",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica Duplek"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.72749,
+      46.50467
+     ],
+     [
+      15.72866,
+      46.50402
+     ],
+     [
+      15.72948,
+      46.50334
+     ],
+     [
+      15.73015,
+      46.50301
+     ],
+     [
+      15.73061,
+      46.50304
+     ],
+     [
+      15.7305,
+      46.5028
+     ],
+     [
+      15.73206,
+      46.50219
+     ],
+     [
+      15.7353,
+      46.50313
+     ],
+     [
+      15.73538,
+      46.50347
+     ],
+     [
+      15.73588,
+      46.50334
+     ],
+     [
+      15.73614,
+      46.50361
+     ],
+     [
+      15.73374,
+      46.50349
+     ],
+     [
+      15.73176,
+      46.50377
+     ],
+     [
+      15.73412,
+      46.50354
+     ],
+     [
+      15.73599,
+      46.50372
+     ],
+     [
+      15.73615,
+      46.50403
+     ],
+     [
+      15.73647,
+      46.50414
+     ],
+     [
+      15.73696,
+      46.50382
+     ],
+     [
+      15.73723,
+      46.50445
+     ],
+     [
+      15.73638,
+      46.50481
+     ],
+     [
+      15.73571,
+      46.50478
+     ],
+     [
+      15.73544,
+      46.50492
+     ],
+     [
+      15.73278,
+      46.50524
+     ],
+     [
+      15.73154,
+      46.50463
+     ],
+     [
+      15.73145,
+      46.50444
+     ],
+     [
+      15.73111,
+      46.50496
+     ],
+     [
+      15.73038,
+      46.50547
+     ],
+     [
+      15.73011,
+      46.50545
+     ],
+     [
+      15.72937,
+      46.50497
+     ],
+     [
+      15.72869,
+      46.50517
+     ],
+     [
+      15.72749,
+      46.50467
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.50405,
+   15.73288
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.50555,
+    "lon": 15.73091,
+    "name": "Wake Park Dooplek",
+    "distKm": 0.04
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:29:22.525Z"
+ },
+ {
+  "id": "rd-maribor/ribnik-betnava",
+  "clubSlug": "rd-maribor",
+  "slug": "ribnik-betnava",
+  "code": "Ribnik Betnava",
+  "name": "Ribnik Betnava",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Betnava",
+   "subtitle": "",
+   "description": "The pond Betnava is situated in the close proximity of the shopping malls in Maribor.Even in the strongest heat you can fish here without worries because hundred years old trees make perfect shadows.The pond is rich in carps but there are some crucian carps as well. The cozy cabin offers great meeting place or a shelter from summer storms."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Ribnik Betnava leži v neposredni bližini nakupovalnih centrov v Mariboru. Tudi v največji vročini in pripeki boste lahko brezskrbno lovili v senci stoletnih dreves. Ribnik je bogato naseljen s krapi, nekaj pa je tudi srebrnega koreslja. V prijetni brunarici je prostor za srečanja, nudi pa tudi varni zavetje ob poletnih nevihtah. Parkirna mesta so ob vstopu k ribniku, jekleni konjički pa v senci.",
+  "waterType": "pond",
+  "water": "Betnavski Ribnik",
+  "species": [
+   "koreselj",
+   "krap"
+  ],
+  "speciesRaw": [
+   "babuška",
+   "krap"
+  ],
+  "methods": [
+   "beličarjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/134"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/ribnik-betnava",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Betnavski Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.64516,
+      46.52907
+     ],
+     [
+      15.64554,
+      46.52829
+     ],
+     [
+      15.64663,
+      46.52721
+     ],
+     [
+      15.64659,
+      46.52769
+     ],
+     [
+      15.6456,
+      46.52941
+     ],
+     [
+      15.64527,
+      46.52949
+     ],
+     [
+      15.64516,
+      46.52907
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.52842,
+   15.64586
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.52862,
+    "lon": 15.6471,
+    "name": null,
+    "distKm": 0.11
+   },
+   {
+    "lat": 46.5323,
+    "lon": 15.64613,
+    "name": null,
+    "distKm": 0.32
+   },
+   {
+    "lat": 46.52496,
+    "lon": 15.65072,
+    "name": null,
+    "distKm": 0.4
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:05.773Z"
+ },
+ {
+  "id": "rd-maribor/ribnik-hoce-gramoznica-stavbargradis",
+  "clubSlug": "rd-maribor",
+  "slug": "ribnik-hoce-gramoznica-stavbargradis",
+  "code": "Ribnik Hoče-gramoznica Stavbar+Gradis",
+  "name": "Gramoznica Hoče",
+  "subtitle": "",
+  "en": {
+   "name": "The gravel pit Hoče",
+   "subtitle": "",
+   "description": "The gravel pit Hoče is watered by a subterranean river, that's why the water is clear and cold, fishermen can take shelter from storms and thundershowers under the bridge of the highway. Driveway is secured to the parking lot near the gravel pit. The gravel pit Hoče is home to some first class carps and grass carps."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Gramoznico Hoče napaja podtalnica, zato je voda čista, hladna pod mostom avtoceste pa najdejo ribiči varno zavetje pred nevihtami in neurji. Dovoz je zagotovljen do parkirnega mesta ob gramoznici .V gramoznici Hoče so naseljeni kapitalni krapi in amurji.",
+  "waterType": "pond",
+  "water": null,
+  "species": [
+   "amur",
+   "koreselj",
+   "krap"
+  ],
+  "speciesRaw": [
+   "amur",
+   "babuška",
+   "krap"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "bojli",
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/125"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/377"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/ribnik-hoce-gramoznica-stavbargradis",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.50405,
+   15.66623
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:36.982Z"
+ },
+ {
+  "id": "rd-maribor/ribnik-hoce-univerza",
+  "clubSlug": "rd-maribor",
+  "slug": "ribnik-hoce-univerza",
+  "code": "Ribnik Hoče-Univerze Pivola",
+  "name": "Ribnik Univerze Pivola",
+  "subtitle": "",
+  "en": {
+   "name": "The pond of the University Pivola",
+   "subtitle": "",
+   "description": "The primary function of the pond was irrigation of the orchards but because it exceeded that capacity , it was made into nice and cozy fishing facility. It is especially charming due to easy access and constantly fresh air. The pond is watered by the creek from the Pohorje mountain and is rich in carps and pikes with plenty of roaches and bleaks."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Po svoji funkciji je bil ribnik prvotno namenjen namakanju sadovnjakov, ker presega te kapacitete je nastal lep in prijeten ribolovni objekt. Lahka dostopnost in vedno svež zrak mu dajezta še posebni čar. Ribnik je napajan iz pohorskega potoka, bogato naseljen s krapi in ščukami, veliko pa je tudi rdečeok in zelenik.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "americki-somic",
+   "koreselj",
+   "krap",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "babuška",
+   "krap",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "bojli",
+   "briketi",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - ciprinidi",
+    "priceEur": 2,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/740"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/823"
+   },
+   {
+    "name": "Ujemi in spusti - roparice",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 06. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/1141"
+   },
+   {
+    "name": "Ujemi in vzemi - roparice",
+    "priceEur": 35,
+    "saleWindow": "Nakup od 02. 05. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/1142"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/ribnik-hoce-univerza",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik",
+   "sidro: središče družine"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.37587,
+      46.26508
+     ],
+     [
+      15.37631,
+      46.26455
+     ],
+     [
+      15.37681,
+      46.26456
+     ],
+     [
+      15.37601,
+      46.26524
+     ],
+     [
+      15.37587,
+      46.26508
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.26481,
+   15.37632
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:39.380Z"
+ },
+ {
+  "id": "rd-maribor/ribnik-radvanje-sv",
+  "clubSlug": "rd-maribor",
+  "slug": "ribnik-radvanje-sv",
+  "code": "Ribnik Radvanje",
+  "name": "Radvanje",
+  "subtitle": "",
+  "en": {
+   "name": "Radvanje pond",
+   "subtitle": "",
+   "description": "The abandoned clay pit in Radvanje is today a very interesting coarse fishing district."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Opuščen glinokop je danes zelo zanimiv beličarski revir.",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "americki-somic",
+   "koreselj",
+   "krap"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "babuška",
+   "krap"
+  ],
+  "methods": [
+   "beličarjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder"
+  ],
+  "baits": [
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 16. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/1338"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/ribnik-radvanje-sv",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "jezero ni v OSM",
+   "kraj Radvanje"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.61548,
+    46.53331
+   ]
+  },
+  "center": [
+   46.53331,
+   15.61548
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.53571,
+    "lon": 15.6197,
+    "name": null,
+    "distKm": 0.42
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:39.385Z"
+ },
+ {
+  "id": "rd-maribor/ribnik-razvanje-transom",
+  "clubSlug": "rd-maribor",
+  "slug": "ribnik-razvanje-transom",
+  "code": "Ribnik Razvanje TRANSOM",
+  "name": "Ribnik Razvanje",
+  "subtitle": "TRANSOM",
+  "en": {
+   "name": "The pond Razvanje",
+   "subtitle": "TRANSOM",
+   "description": "The pond was made while digging for clay for the brickyard. The close proximity of Maribor gives it some special charm , after all the bus stop for the local bus is only few hundred meters away. The fishing places are neatly designed and all the surroundings resemble the city park."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "Ribnik je nastal ob kopanju gline za opekarno. Bližina Maribora mu daje poseben čar, navsezadnje pa je le nekaj sto metrov celo postaja lokalnega avtobusa. Ribolovna mesta so lepo urejena, vsa okolica pa ima podobo mestnega parka. Kapitalni krapi, otočki iz vrbja, znamenitost ribnika, nudijo dovolj izzivov vsakemu športnemu ribiču.",
+  "waterType": "pond",
+  "water": "Ribnik pri transformatorju",
+  "species": [
+   "americki-somic",
+   "koreselj",
+   "krap"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "babuška",
+   "krap"
+  ],
+  "methods": [
+   "beličarjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder"
+  ],
+  "baits": [
+   "briketi",
+   "kompostni črv",
+   "koruza",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 12,
+    "saleWindow": "Nakup od 02. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/130"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/ribnik-razvanje-transom",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik pri transformatorju"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.66511,
+      46.38943
+     ],
+     [
+      15.66565,
+      46.3893
+     ],
+     [
+      15.66644,
+      46.38966
+     ],
+     [
+      15.66634,
+      46.38949
+     ],
+     [
+      15.66645,
+      46.38943
+     ],
+     [
+      15.66625,
+      46.38928
+     ],
+     [
+      15.667,
+      46.38936
+     ],
+     [
+      15.66679,
+      46.3905
+     ],
+     [
+      15.66646,
+      46.3905
+     ],
+     [
+      15.66568,
+      46.39004
+     ],
+     [
+      15.66511,
+      46.38943
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.38967,
+   15.66623
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.3937,
+    "lon": 15.66854,
+    "name": null,
+    "distKm": 0.38
+   },
+   {
+    "lat": 46.39499,
+    "lon": 15.66288,
+    "name": null,
+    "distKm": 0.57
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:44.188Z"
+ },
+ {
+  "id": "rd-maribor/ribniki-slivnica-2",
+  "clubSlug": "rd-maribor",
+  "slug": "ribniki-slivnica-2",
+  "code": "Ribniki Slivnica 2",
+  "name": "Ribnik Slivnica 2",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Slivnica 2",
+   "subtitle": "",
+   "description": "The meteor water from the Pohorje mountain flows into this pond and that's why the water is colder but more genuine, with little or no influence from farms or household sewages.n The pond is dominated by carps and pikes. It is also suitable for older fishermen becauese it can be reached by car directly. And because it is situated between two forests it is almost completely windless and has nice micro-climate."
+  },
+  "club": {
+   "name": "Ribiška družina Maribor",
+   "url": "https://www.ribiskekarte.si/rd-maribor"
+  },
+  "description": "V ribnik se steka meteorna voda iz Pohorja, zato je voda malo hladnejša a tista prava, z malo vplivov kmetijstva in gospodinjskih odplak. V tem ribniku dominirajo krapi in ščuke. Ribnik je primeren za starejše ribiče, saj je dostop omogočen z avtomobilom neposredno do lovnega mesta. Ker je med gozdoma, vlada v njem skoraj brezveterje in prijetna mikroklima.",
+  "waterType": "pond",
+  "water": "Slivniški ribniki",
+  "species": [
+   "americki-somic",
+   "amur",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "babuška",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kompostni črv",
+   "koruza",
+   "kruh",
+   "sadje",
+   "sir",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi - ciprinidi",
+    "priceEur": 23,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/143"
+   },
+   {
+    "name": "Ujemi in odnesi - roparice",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 02. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/117"
+   },
+   {
+    "name": "Ujemi in spusti - ciprinidi",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/986"
+   },
+   {
+    "name": "Ujemi in spusti - talni ribolov (2 palici)",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/1224"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/ribniki-slivnica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Slivniški ribniki"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.64489,
+      46.48445
+     ],
+     [
+      15.64552,
+      46.48442
+     ],
+     [
+      15.64587,
+      46.48415
+     ],
+     [
+      15.6465,
+      46.48441
+     ],
+     [
+      15.64715,
+      46.48543
+     ],
+     [
+      15.64552,
+      46.48584
+     ],
+     [
+      15.64495,
+      46.48541
+     ],
+     [
+      15.64524,
+      46.48523
+     ],
+     [
+      15.64501,
+      46.48518
+     ],
+     [
+      15.64489,
+      46.48445
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.48503,
+   15.64555
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:48.989Z"
+ }
+]

@@ -1,0 +1,232 @@
+[
+ {
+  "id": "rd-ziri/poljanska-sora-1",
+  "clubSlug": "rd-ziri",
+  "slug": "poljanska-sora-1",
+  "code": "Poljanska Sora 1",
+  "name": "Reka Poljanska Sora",
+  "subtitle": "od mlina pri Sopovtu do mostu pri cerkvi Sv. Martina",
+  "en": {
+   "name": "The river Poljanska Sora",
+   "subtitle": "from the mill in Sopovt to the bridge at the church of St. Martin",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Žiri",
+   "url": "https://www.ribiskekarte.si/rd-ziri"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Poljanska Sora",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly"
+  ],
+  "baits": [
+   "sadje",
+   "umetna muha"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Muharjenje",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ziri/nakup/783"
+   },
+   {
+    "name": "Ribolov klena",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ziri/nakup/924"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ziri/poljanska-sora-1",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.153414,
+   "lon": 14.290512
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.21688,
+     46.12772
+    ],
+    [
+     14.23041,
+     46.13193
+    ],
+    [
+     14.23802,
+     46.1339
+    ],
+    [
+     14.24094,
+     46.1339
+    ],
+    [
+     14.24558,
+     46.13341
+    ],
+    [
+     14.24632,
+     46.13353
+    ]
+   ]
+  },
+  "center": [
+   46.15336,
+   14.29066
+  ],
+  "lengthKm": 2.4,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.13017,
+    "lon": 14.22756,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.12644,
+    "lon": 14.21215,
+    "name": null,
+    "distKm": 0.39
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:22.576Z"
+ },
+ {
+  "id": "rd-ziri/poljanska-sora-2",
+  "clubSlug": "rd-ziri",
+  "slug": "poljanska-sora-2",
+  "code": "Poljanska Sora 2",
+  "name": "Reka Poljanska Sora",
+  "subtitle": "od mostu pri cerkvi Sv. Martina do jezu v Hotavljah",
+  "en": {
+   "name": "The river Poljanska Sora",
+   "subtitle": "from the bridge at the church of St. Martin to the dam in Hotavlje",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Žiri",
+   "url": "https://www.ribiskekarte.si/rd-ziri"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Poljanska Sora",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "sadje",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Muharjenje",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ziri/nakup/784"
+   },
+   {
+    "name": "Ribolov klena",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ziri/nakup/923"
+   },
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 64.9,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ziri/nakup/787"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ziri/poljanska-sora-2",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.153414,
+   "lon": 14.290512
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Hotavlje (jez)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.11568,
+    46.10602
+   ]
+  },
+  "center": [
+   46.10602,
+   14.11568
+  ],
+  "lengthKm": null,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.10731,
+    "lon": 14.11762,
+    "name": null,
+    "distKm": 0.21
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:24.984Z"
+ }
+]

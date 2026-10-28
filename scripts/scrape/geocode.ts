@@ -5,7 +5,7 @@
  */
 import { closestOnLine, distKm, lineLengthKm, midpointAlong, simplify, type LonLat } from './geo';
 import type { OsmPoint, OsmRiver, OsmWater } from './osm-extract';
-import { classifyBound, norm, phraseVariants, splitBounds, toponymCandidates, waterName } from './toponyms';
+import { abbreviatedKey, classifyBound, norm, phraseVariants, splitBounds, toponymCandidates, waterName } from './toponyms';
 
 export type Quality = 'segment' | 'partial' | 'water' | 'gauge' | 'place' | 'none';
 
@@ -44,21 +44,50 @@ export class Geocoder {
     for (const r of osm.rivers) {
       for (const n of riverNameKeys(r.name)) push(this.riversByName, n, r);
     }
-    for (const p of osm.places) push(this.placesByName, norm(p.name), p);
+    for (const p of osm.places) {
+      for (const k of riverNameKeys(p.name)) push(this.placesByName, k, p);
+      const abbr = abbreviatedKey(p.name);
+      if (abbr !== norm(p.name)) push(this.placesByName, abbr, p);
+    }
+    // Named dams, weirs, bridges and lakes are also valid boundary landmarks.
+    for (const s of osm.structures) if (s.name) push(this.placesByName, norm(s.name), { ...s, kind: 'locality' });
+    for (const w of osm.waters) push(this.placesByName, norm(w.name), { id: w.id, name: w.name, kind: 'locality', at: w.centroid });
   }
 
-  /** Town of a club ("Ribiška družina Slovenska Bistrica" → Slovenska Bistrica). */
-  clubSeat(clubName: string): LonLat | null {
+  /**
+   * Town of a club. The URL slug is the most specific clue ("rd-ilirska-bistrica" for
+   * "Ribiška družina Bistrica"); then the name, its last word(s) ("Bistrica Domžale" → Domžale).
+   */
+  clubSeat(clubName: string, clubSlug = ''): LonLat | null {
+    if (/zavod|zveza/i.test(clubName)) return null;
+    const fromSlug = clubSlug.replace(/^rd-/, '').replace(/-/g, ' ');
     const rest = clubName.replace(/^(ribiška družina|ribiško društvo|rd)\s+/i, '').trim();
-    if (!rest || /zavod/i.test(clubName)) return null;
     const words = rest.split(/\s+/);
-    // Try the full name, then the last word(s): "Bistrica Domžale" → "Domžale".
-    const tries = [rest, words.slice(-1).join(' '), words.slice(0, 1).join(' '), words.slice(-2).join(' ')];
+    const slugWords = fromSlug.split(' ');
+    const tries = [fromSlug, rest, slugWords.slice(-1).join(' '), words.slice(-1).join(' '), words.slice(-2).join(' '), words[0]];
     for (const t of tries) {
+      if (!t) continue;
       const hits = (this.placesByName.get(norm(t)) ?? []).sort((a, b) => placeRank(a.kind) - placeRank(b.kind));
       if (hits.length) return hits[0].at;
     }
     return null;
+  }
+
+  /** River names in OSM whose words share a stem with `name` ("Kanomljica" ~ "Kanomlja"). */
+  fuzzyRiverNames(name: string, near: LonLat | null, maxKm = 25): string[] {
+    const stems = norm(name)
+      .split(' ')
+      .filter((w) => w.length >= 5)
+      .map((w) => w.slice(0, Math.max(5, w.length - 3)));
+    if (!stems.length) return [];
+    const found = new Map<string, number>();
+    for (const r of this.osm.rivers) {
+      const words = norm(r.name).split(' ');
+      if (!stems.every((st) => words.some((w) => w.startsWith(st)))) continue;
+      const d = near ? Math.min(distKm(near, r.line[0]), distKm(near, r.line[r.line.length - 1]), distKm(near, r.line[Math.floor(r.line.length / 2)])) : 0;
+      if (d <= maxKm) found.set(r.name, Math.min(found.get(r.name) ?? Infinity, d));
+    }
+    return [...found].sort((a, b) => a[1] - b[1]).map(([n]) => n);
   }
 
   private clusters(name: string): Cluster[] {
@@ -90,7 +119,7 @@ export class Geocoder {
           [a[a.length - 1], b[0]],
           [a[a.length - 1], b[b.length - 1]],
         ];
-        if (pairs.some(([x, y]) => distKm(x, y) < 0.06)) parent[find(i)] = find(j);
+        if (pairs.some(([x, y]) => distKm(x, y) < 1.5)) parent[find(i)] = find(j);
       }
     }
     const groups = new Map<number, OsmRiver[]>();
@@ -143,7 +172,7 @@ export class Geocoder {
     for (let i = 0; i < ends.length; i++) {
       for (let j = i + 1; j < ends.length; j++) {
         const d = distKm(ends[i], ends[j]);
-        if (d > 0 && d < 0.06) {
+        if (d > 0 && d < 1.5) {
           push(adj, key(ends[i]), { to: key(ends[j]), km: d });
           push(adj, key(ends[j]), { to: key(ends[i]), km: d });
         }
@@ -217,6 +246,29 @@ export class Geocoder {
     return path.reverse();
   }
 
+  /** The river around a point: walk ~km in both directions along the network. */
+  private stretchAround(c: Cluster, at: LonLat, km: number): LonLat[] | null {
+    const ends = c.vertices.filter((v) => {
+      const d = distKm(v, at);
+      return d > km * 0.8 && d < km * 1.3;
+    });
+    if (ends.length < 2) return null;
+    // Two far-apart vertices on either side of the point.
+    let a = ends[0];
+    let b = ends[0];
+    let best = -1;
+    for (const x of ends) for (const y of ends) {
+      const d = distKm(x, y);
+      if (d > best) {
+        best = d;
+        a = x;
+        b = y;
+      }
+    }
+    const path = this.pathBetween(c, a, b);
+    return path && path.length > 1 ? simplify(path, 0.00008) : null;
+  }
+
   /** Resolve one boundary phrase to a point on the river cluster. */
   private resolveBound(phrase: string, c: Cluster, other: LonLat | null): { point: LonLat; how: string } | null {
     const b = classifyBound(phrase);
@@ -246,7 +298,7 @@ export class Geocoder {
     let best: { score: number; point: LonLat; how: string } | null = null;
     for (const cand of toponymCandidates(phrase)) {
       for (const variant of phraseVariants(cand)) {
-        for (const pl of this.placesByName.get(norm(variant)) ?? []) {
+        for (const pl of this.lookupPlace(variant)) {
           const d = this.distToCluster(pl.at, c);
           if (d.km > 6) continue;
           let point = d.point;
@@ -266,6 +318,15 @@ export class Geocoder {
     return best ? { point: best.point, how: best.how } : null;
   }
 
+  /** Exact name (or abbreviation) matches, else names that start with it ("Ravne" → "Ravne na Koroškem"). */
+  private lookupPlace(variant: string): OsmPoint[] {
+    const k = norm(variant);
+    const exact = [...(this.placesByName.get(k) ?? []), ...(this.placesByName.get(abbreviatedKey(variant)) ?? [])];
+    if (exact.length || k.length < 4) return exact;
+    const prefix = `${k} `;
+    return this.osm.places.filter((p) => norm(p.name).startsWith(prefix));
+  }
+
   private nearestStructure(near: LonLat, c: Cluster, kind: 'dam' | 'bridge'): LonLat | null {
     let best: { km: number; point: LonLat } | null = null;
     for (const s of this.osm.structures) {
@@ -281,12 +342,31 @@ export class Geocoder {
   placeRiver(input: { name: string; subtitle: string; anchor: LonLat | null; gauge: LonLat | null }): Placement {
     const notes: string[] = [];
     const wname = waterName(input.name);
-    let clusters = this.clusters(wname);
-    if (!clusters.length) {
-      // Some sections are named after the place ("Revir Javorniški Rovt"); try the first word too.
-      clusters = this.clusters(wname.split(' ')[0]);
+    const near = input.gauge ?? input.anchor;
+    // Try the name, alternative names in brackets ("Oplotniščica (Oplotnica)"), parts of
+    // compound names ("Rakitnica-Obrh") and finally similar OSM names near the club.
+    const candidates = [wname, ...alternateNames(input.subtitle), ...wname.split(/\s*[-/]\s*/)];
+    let clusters: Cluster[] = [];
+    for (const cand of candidates) {
+      clusters = this.clusters(cand);
+      if (clusters.length) break;
     }
-    if (!clusters.length) return this.placeFallback(input, [`reka »${wname}« ni v OSM`]);
+    if (!clusters.length) {
+      for (const cand of [wname, ...alternateNames(input.subtitle)]) {
+        const fuzzy = this.fuzzyRiverNames(cand, near);
+        if (fuzzy.length) {
+          clusters = this.clusters(fuzzy[0]);
+          notes.push(`ime v OSM: ${fuzzy[0]}`);
+          break;
+        }
+      }
+    }
+    if (!clusters.length) {
+      // Sections named after a lake on the river ("Ptujsko jezero") are matched as lakes.
+      const lake = this.placeStill({ name: input.name, subtitle: '', anchor: input.anchor });
+      if (lake.quality === 'water') return lake;
+      return this.placeFallback(input, [`reka »${wname}« ni v OSM`]);
+    }
 
     const anchor = input.gauge ?? input.anchor;
     const { from, to } = splitBounds(input.subtitle);
@@ -298,7 +378,7 @@ export class Geocoder {
     if (anchor && scored[0].d > 40) notes.push(`reka ${scored[0].d.toFixed(0)} km od sedeža družine`);
 
     let a = from ? this.resolveBound(from, c, null) : null;
-    let b = to ? this.resolveBound(to, c, a?.point ?? null) : null;
+    const b = to ? this.resolveBound(to, c, a?.point ?? null) : null;
     if (!a && from && b) a = this.resolveBound(from, c, b.point);
 
     if (a && b) {
@@ -321,18 +401,25 @@ export class Geocoder {
       notes.push(`samo ena meja: ${one.how}`);
       return { quality: 'partial', geometry: { type: 'Point', coordinates: one.point }, center: one.point, lengthKm: null, matchedWater: c.name, notes };
     }
-    if (input.gauge) {
-      const g = this.distToCluster(input.gauge, c);
-      if (g.km < 3) {
-        notes.push('mesto vodomerne postaje');
-        return { quality: 'gauge', geometry: { type: 'Point', coordinates: g.point }, center: g.point, lengthKm: null, matchedWater: c.name, notes };
-      }
-    }
     const len = lineLengthKm(c.vertices);
     if (!from && !to && len < 40) {
       const line = simplify(this.pathBetween(c, ...longestSpan(c)) ?? c.parts[0].line, 0.00008);
       notes.push('cel vodotok');
       return { quality: 'water', geometry: { type: 'LineString', coordinates: line }, center: midpointAlong(line), lengthKm: round1(lineLengthKm(line)), matchedWater: c.name, notes };
+    }
+    // Long river, no usable boundaries: a ~10 km stretch around the gauge or the club's town.
+    for (const [pt, label, q] of [
+      [input.gauge, 'okoli vodomerne postaje', 'gauge'],
+      [input.anchor, 'okoli sedeža družine', 'place'],
+    ] as const) {
+      if (!pt) continue;
+      const near = this.distToCluster(pt, c);
+      if (near.km > (q === 'gauge' ? 3 : 15)) continue;
+      const stretch = this.stretchAround(c, near.point, 5);
+      if (stretch) {
+        notes.push(`odsek ${label}`);
+        return { quality: q, geometry: { type: 'LineString', coordinates: stretch }, center: near.point, lengthKm: round1(lineLengthKm(stretch)), matchedWater: c.name, notes };
+      }
     }
     if (input.anchor) {
       const p = this.distToCluster(input.anchor, c);
@@ -351,10 +438,21 @@ export class Geocoder {
       const n = norm(w.name);
       return keys.has(n) || [...keys].some((k) => k.length > 5 && (n.includes(k) || k.includes(n)) && n.length > 4);
     });
-    const near = matches
+    let near = matches
       .map((w) => ({ w, d: input.anchor ? distKm(input.anchor, w.centroid) : 0 }))
       .filter((x) => !input.anchor || x.d < 35)
       .sort((x, y) => x.d - y.d || y.w.areaKm2 - x.w.areaKm2);
+    if (!near.length && input.anchor) {
+      // Adjective forms: "Završnica" ~ "Završniško jezero", "Javorniški Rovt" ~ "Javorniško jezero".
+      const stems = [...new Set(names.flatMap((n) => norm(waterName(n)).split(' ')))]
+        .filter((w) => w.length >= 5 && !GENERIC.has(w))
+        .map((w) => w.slice(0, Math.max(5, w.length - 3)));
+      near = this.osm.waters
+        .filter((w) => norm(w.name).split(' ').some((word) => stems.some((st) => word.startsWith(st))))
+        .map((w) => ({ w, d: distKm(input.anchor!, w.centroid) }))
+        .filter((x) => x.d < 20)
+        .sort((x, y) => x.d - y.d);
+    }
     if (near.length) {
       const w = near[0].w;
       return {
@@ -390,6 +488,17 @@ export class Geocoder {
     }
     return { quality: 'none', geometry: null, center: null, lengthKm: null, matchedWater: null, notes };
   }
+}
+
+const GENERIC = new Set(['jezero', 'jezera', 'ribnik', 'ribniki', 'akumulacija', 'akumulacijsko', 'gramoznica', 'mrtvica', 'potok', 'reka', 'kanal', 'struga', 'zadrzevalnik', 'bajer']);
+
+/** Alternative names from a subtitle that is not a boundary description ("Oplotnica", "Sušica/Pirošica"). */
+export function alternateNames(subtitle: string): string[] {
+  if (!subtitle || /\b(od|do)\b/i.test(subtitle)) return [];
+  return subtitle
+    .split(/[,/;]|\s-\s/)
+    .map((x) => x.replace(/\(.*?\)|\d+/g, '').trim())
+    .filter((x) => x.length > 2 && /^[A-ZČŠŽ]/.test(x));
 }
 
 function push<K, V>(m: Map<K, V[]>, k: K, v: V) {

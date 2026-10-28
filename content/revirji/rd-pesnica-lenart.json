@@ -1,0 +1,3926 @@
+[
+ {
+  "id": "rd-pesnica-lenart/globovnica",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "globovnica",
+  "code": "Globovnica",
+  "name": "Potok Globovnica",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Globovnica",
+   "subtitle": "",
+   "description": "The creek Globovnica flows into the lake Radehova and the fish migrate there on the regular basis. It is home to some first class specimens of catfish, carp, grass carp, pike, zander, common bream, silver bream, common roach, bleak and smallfish."
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "Potok Globovnica se izliva v jezero Radehova, kamor ribe tudi migrirajo. Potok Globovnica je naseljen s kapitalnimi primerki soma, krapa, amura, ščuke, smuča, ploščiča, androge, rdečooke, zelenike ter drobiža.",
+  "waterType": "river",
+  "water": "Globovnica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ogrica",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ogrica (sivka)",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 08. do 02. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1336"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/globovnica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.74818,
+     46.65639
+    ],
+    [
+     15.74784,
+     46.65618
+    ],
+    [
+     15.74747,
+     46.65524
+    ],
+    [
+     15.74902,
+     46.65431
+    ],
+    [
+     15.75085,
+     46.65372
+    ],
+    [
+     15.75104,
+     46.65339
+    ],
+    [
+     15.75116,
+     46.65262
+    ],
+    [
+     15.75222,
+     46.65233
+    ],
+    [
+     15.75359,
+     46.6512
+    ],
+    [
+     15.75355,
+     46.65064
+    ],
+    [
+     15.75376,
+     46.65035
+    ],
+    [
+     15.75373,
+     46.65017
+    ],
+    [
+     15.75335,
+     46.64981
+    ],
+    [
+     15.75257,
+     46.6482
+    ],
+    [
+     15.75206,
+     46.64775
+    ],
+    [
+     15.75159,
+     46.64699
+    ],
+    [
+     15.75202,
+     46.64621
+    ],
+    [
+     15.75351,
+     46.64516
+    ],
+    [
+     15.75496,
+     46.64475
+    ],
+    [
+     15.75687,
+     46.64361
+    ],
+    [
+     15.75859,
+     46.64311
+    ],
+    [
+     15.75981,
+     46.64241
+    ],
+    [
+     15.76054,
+     46.64146
+    ],
+    [
+     15.7607,
+     46.64106
+    ],
+    [
+     15.76129,
+     46.64052
+    ],
+    [
+     15.76208,
+     46.64018
+    ],
+    [
+     15.76282,
+     46.63966
+    ],
+    [
+     15.76303,
+     46.63899
+    ],
+    [
+     15.76354,
+     46.6383
+    ],
+    [
+     15.76361,
+     46.638
+    ],
+    [
+     15.76434,
+     46.63709
+    ],
+    [
+     15.76431,
+     46.63691
+    ],
+    [
+     15.76451,
+     46.63693
+    ],
+    [
+     15.76517,
+     46.6365
+    ],
+    [
+     15.76603,
+     46.63624
+    ],
+    [
+     15.76615,
+     46.63606
+    ],
+    [
+     15.76701,
+     46.63585
+    ],
+    [
+     15.76832,
+     46.63485
+    ],
+    [
+     15.76832,
+     46.63462
+    ],
+    [
+     15.76853,
+     46.63466
+    ],
+    [
+     15.76959,
+     46.63429
+    ],
+    [
+     15.77004,
+     46.63392
+    ],
+    [
+     15.76986,
+     46.63343
+    ],
+    [
+     15.77,
+     46.63323
+    ],
+    [
+     15.77094,
+     46.63286
+    ],
+    [
+     15.77124,
+     46.63225
+    ],
+    [
+     15.77095,
+     46.63209
+    ],
+    [
+     15.77101,
+     46.63171
+    ],
+    [
+     15.77204,
+     46.63029
+    ],
+    [
+     15.77172,
+     46.62967
+    ],
+    [
+     15.77186,
+     46.62952
+    ],
+    [
+     15.77212,
+     46.62956
+    ],
+    [
+     15.7725,
+     46.6287
+    ],
+    [
+     15.77284,
+     46.62848
+    ],
+    [
+     15.7729,
+     46.62821
+    ],
+    [
+     15.77327,
+     46.62809
+    ],
+    [
+     15.77279,
+     46.62795
+    ],
+    [
+     15.77254,
+     46.62766
+    ],
+    [
+     15.77269,
+     46.62756
+    ],
+    [
+     15.77315,
+     46.62765
+    ],
+    [
+     15.77357,
+     46.62729
+    ],
+    [
+     15.77424,
+     46.62612
+    ],
+    [
+     15.77426,
+     46.62552
+    ],
+    [
+     15.77507,
+     46.62378
+    ],
+    [
+     15.7744,
+     46.6234
+    ],
+    [
+     15.77424,
+     46.62309
+    ],
+    [
+     15.77448,
+     46.62249
+    ],
+    [
+     15.77487,
+     46.62211
+    ],
+    [
+     15.77479,
+     46.62132
+    ],
+    [
+     15.77498,
+     46.62125
+    ],
+    [
+     15.77471,
+     46.62086
+    ],
+    [
+     15.77506,
+     46.62045
+    ],
+    [
+     15.77536,
+     46.62046
+    ],
+    [
+     15.77552,
+     46.62029
+    ],
+    [
+     15.77555,
+     46.6201
+    ],
+    [
+     15.77493,
+     46.61927
+    ],
+    [
+     15.7752,
+     46.61863
+    ],
+    [
+     15.77564,
+     46.61844
+    ],
+    [
+     15.77625,
+     46.61794
+    ],
+    [
+     15.777,
+     46.61789
+    ],
+    [
+     15.77715,
+     46.61777
+    ],
+    [
+     15.7782,
+     46.61786
+    ],
+    [
+     15.77849,
+     46.61744
+    ],
+    [
+     15.78042,
+     46.6173
+    ],
+    [
+     15.78309,
+     46.61628
+    ],
+    [
+     15.78367,
+     46.61549
+    ],
+    [
+     15.78341,
+     46.61468
+    ],
+    [
+     15.78375,
+     46.614
+    ],
+    [
+     15.78411,
+     46.61396
+    ],
+    [
+     15.78487,
+     46.61313
+    ],
+    [
+     15.7877,
+     46.61127
+    ],
+    [
+     15.78808,
+     46.60963
+    ],
+    [
+     15.78773,
+     46.60948
+    ],
+    [
+     15.78763,
+     46.60923
+    ],
+    [
+     15.78804,
+     46.60899
+    ],
+    [
+     15.78774,
+     46.60863
+    ],
+    [
+     15.78801,
+     46.60706
+    ],
+    [
+     15.78843,
+     46.60586
+    ],
+    [
+     15.7886,
+     46.60485
+    ],
+    [
+     15.7892,
+     46.60347
+    ],
+    [
+     15.78989,
+     46.60292
+    ],
+    [
+     15.79214,
+     46.6017
+    ],
+    [
+     15.79422,
+     46.60136
+    ],
+    [
+     15.79557,
+     46.60079
+    ],
+    [
+     15.79791,
+     46.60061
+    ],
+    [
+     15.79851,
+     46.60032
+    ],
+    [
+     15.7994,
+     46.59892
+    ],
+    [
+     15.80065,
+     46.59749
+    ],
+    [
+     15.80187,
+     46.59544
+    ],
+    [
+     15.80256,
+     46.59496
+    ],
+    [
+     15.80633,
+     46.59346
+    ],
+    [
+     15.80711,
+     46.59301
+    ],
+    [
+     15.80901,
+     46.59132
+    ],
+    [
+     15.81126,
+     46.58779
+    ],
+    [
+     15.81413,
+     46.58627
+    ],
+    [
+     15.8143,
+     46.58595
+    ],
+    [
+     15.81428,
+     46.58479
+    ],
+    [
+     15.81442,
+     46.58428
+    ],
+    [
+     15.81474,
+     46.58387
+    ],
+    [
+     15.8163,
+     46.58259
+    ],
+    [
+     15.81705,
+     46.58169
+    ],
+    [
+     15.81745,
+     46.58093
+    ],
+    [
+     15.81753,
+     46.57972
+    ],
+    [
+     15.81771,
+     46.57928
+    ],
+    [
+     15.82056,
+     46.57646
+    ],
+    [
+     15.82086,
+     46.57592
+    ],
+    [
+     15.82119,
+     46.57353
+    ],
+    [
+     15.82208,
+     46.57267
+    ],
+    [
+     15.82478,
+     46.57135
+    ],
+    [
+     15.82612,
+     46.56861
+    ],
+    [
+     15.82638,
+     46.56833
+    ],
+    [
+     15.82946,
+     46.56727
+    ],
+    [
+     15.83149,
+     46.56719
+    ],
+    [
+     15.83273,
+     46.56682
+    ],
+    [
+     15.83423,
+     46.56605
+    ],
+    [
+     15.83544,
+     46.5649
+    ],
+    [
+     15.83584,
+     46.56468
+    ],
+    [
+     15.84406,
+     46.5623
+    ],
+    [
+     15.85957,
+     46.56593
+    ]
+   ]
+  },
+  "center": [
+   46.60322,
+   15.78951
+  ],
+  "lengthKm": 15.8,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.574,
+    "lon": 15.8225,
+    "name": null,
+    "distKm": 0.1
+   },
+   {
+    "lat": 46.5672,
+    "lon": 15.82539,
+    "name": null,
+    "distKm": 0.15
+   },
+   {
+    "lat": 46.5782,
+    "lon": 15.82387,
+    "name": "Pokopališče",
+    "distKm": 0.32
+   },
+   {
+    "lat": 46.56892,
+    "lon": 15.83687,
+    "name": "Agata parking",
+    "distKm": 0.38
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:24.900Z"
+ },
+ {
+  "id": "rd-pesnica-lenart/jezero-pernica1",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "jezero-pernica1",
+  "code": "Jezero Pernica 1 - revir VII",
+  "name": "Jezero Pernica 1",
+  "subtitle": "",
+  "en": {
+   "name": "Lake Pernica 1",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Perniško jezero",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Smuč in ščuka (samo ujemi in spusti)",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 06. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1326"
+   },
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1324"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna",
+    "priceEur": 8,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1327"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/jezero-pernica1",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Perniško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.72347,
+      46.58777
+     ],
+     [
+      15.72362,
+      46.58717
+     ],
+     [
+      15.72404,
+      46.58694
+     ],
+     [
+      15.72543,
+      46.58669
+     ],
+     [
+      15.72654,
+      46.58625
+     ],
+     [
+      15.72694,
+      46.58671
+     ],
+     [
+      15.72731,
+      46.58681
+     ],
+     [
+      15.72751,
+      46.58656
+     ],
+     [
+      15.72695,
+      46.58615
+     ],
+     [
+      15.72703,
+      46.58603
+     ],
+     [
+      15.72904,
+      46.5856
+     ],
+     [
+      15.72931,
+      46.58526
+     ],
+     [
+      15.7293,
+      46.58496
+     ],
+     [
+      15.7289,
+      46.58494
+     ],
+     [
+      15.72809,
+      46.58543
+     ],
+     [
+      15.72765,
+      46.58536
+     ],
+     [
+      15.72807,
+      46.5851
+     ],
+     [
+      15.72817,
+      46.58487
+     ],
+     [
+      15.72805,
+      46.58474
+     ],
+     [
+      15.72876,
+      46.584
+     ],
+     [
+      15.72761,
+      46.58445
+     ],
+     [
+      15.7277,
+      46.58493
+     ],
+     [
+      15.72741,
+      46.58514
+     ],
+     [
+      15.72599,
+      46.58515
+     ],
+     [
+      15.72621,
+      46.58562
+     ],
+     [
+      15.72666,
+      46.58579
+     ],
+     [
+      15.72497,
+      46.58613
+     ],
+     [
+      15.72475,
+      46.58601
+     ],
+     [
+      15.72606,
+      46.58565
+     ],
+     [
+      15.72594,
+      46.58545
+     ],
+     [
+      15.72492,
+      46.58558
+     ],
+     [
+      15.72656,
+      46.58387
+     ],
+     [
+      15.72892,
+      46.58291
+     ],
+     [
+      15.73135,
+      46.58164
+     ],
+     [
+      15.73277,
+      46.58073
+     ],
+     [
+      15.7337,
+      46.57991
+     ],
+     [
+      15.73389,
+      46.57956
+     ],
+     [
+      15.73443,
+      46.57982
+     ],
+     [
+      15.73416,
+      46.58013
+     ],
+     [
+      15.73439,
+      46.58129
+     ],
+     [
+      15.73511,
+      46.58286
+     ],
+     [
+      15.73492,
+      46.58367
+     ],
+     [
+      15.73436,
+      46.58442
+     ],
+     [
+      15.73194,
+      46.58634
+     ],
+     [
+      15.72968,
+      46.58716
+     ],
+     [
+      15.72957,
+      46.58747
+     ],
+     [
+      15.73007,
+      46.58793
+     ],
+     [
+      15.7298,
+      46.58885
+     ],
+     [
+      15.73018,
+      46.58919
+     ],
+     [
+      15.7301,
+      46.59029
+     ],
+     [
+      15.72825,
+      46.59016
+     ],
+     [
+      15.72784,
+      46.5904
+     ],
+     [
+      15.7278,
+      46.59105
+     ],
+     [
+      15.72792,
+      46.59124
+     ],
+     [
+      15.72774,
+      46.59131
+     ],
+     [
+      15.7237,
+      46.59043
+     ],
+     [
+      15.72358,
+      46.59025
+     ],
+     [
+      15.72399,
+      46.58926
+     ],
+     [
+      15.72402,
+      46.58876
+     ],
+     [
+      15.72347,
+      46.58777
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.58619,
+   15.72833
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.57886,
+    "lon": 15.72708,
+    "name": null,
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:22.531Z"
+ },
+ {
+  "id": "rd-pesnica-lenart/jezero-pernica2",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "jezero-pernica2",
+  "code": "Jezero Pernica 2 - revir VIII",
+  "name": "Jezero Pernica 2",
+  "subtitle": "",
+  "en": {
+   "name": "Lake Pernica 2",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Perniško jezero",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1328"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/jezero-pernica2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Perniško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.72347,
+      46.58777
+     ],
+     [
+      15.72362,
+      46.58717
+     ],
+     [
+      15.72404,
+      46.58694
+     ],
+     [
+      15.72543,
+      46.58669
+     ],
+     [
+      15.72654,
+      46.58625
+     ],
+     [
+      15.72694,
+      46.58671
+     ],
+     [
+      15.72731,
+      46.58681
+     ],
+     [
+      15.72751,
+      46.58656
+     ],
+     [
+      15.72695,
+      46.58615
+     ],
+     [
+      15.72703,
+      46.58603
+     ],
+     [
+      15.72904,
+      46.5856
+     ],
+     [
+      15.72931,
+      46.58526
+     ],
+     [
+      15.7293,
+      46.58496
+     ],
+     [
+      15.7289,
+      46.58494
+     ],
+     [
+      15.72809,
+      46.58543
+     ],
+     [
+      15.72765,
+      46.58536
+     ],
+     [
+      15.72807,
+      46.5851
+     ],
+     [
+      15.72817,
+      46.58487
+     ],
+     [
+      15.72805,
+      46.58474
+     ],
+     [
+      15.72876,
+      46.584
+     ],
+     [
+      15.72761,
+      46.58445
+     ],
+     [
+      15.7277,
+      46.58493
+     ],
+     [
+      15.72741,
+      46.58514
+     ],
+     [
+      15.72599,
+      46.58515
+     ],
+     [
+      15.72621,
+      46.58562
+     ],
+     [
+      15.72666,
+      46.58579
+     ],
+     [
+      15.72497,
+      46.58613
+     ],
+     [
+      15.72475,
+      46.58601
+     ],
+     [
+      15.72606,
+      46.58565
+     ],
+     [
+      15.72594,
+      46.58545
+     ],
+     [
+      15.72492,
+      46.58558
+     ],
+     [
+      15.72656,
+      46.58387
+     ],
+     [
+      15.72892,
+      46.58291
+     ],
+     [
+      15.73135,
+      46.58164
+     ],
+     [
+      15.73277,
+      46.58073
+     ],
+     [
+      15.7337,
+      46.57991
+     ],
+     [
+      15.73389,
+      46.57956
+     ],
+     [
+      15.73443,
+      46.57982
+     ],
+     [
+      15.73416,
+      46.58013
+     ],
+     [
+      15.73439,
+      46.58129
+     ],
+     [
+      15.73511,
+      46.58286
+     ],
+     [
+      15.73492,
+      46.58367
+     ],
+     [
+      15.73436,
+      46.58442
+     ],
+     [
+      15.73194,
+      46.58634
+     ],
+     [
+      15.72968,
+      46.58716
+     ],
+     [
+      15.72957,
+      46.58747
+     ],
+     [
+      15.73007,
+      46.58793
+     ],
+     [
+      15.7298,
+      46.58885
+     ],
+     [
+      15.73018,
+      46.58919
+     ],
+     [
+      15.7301,
+      46.59029
+     ],
+     [
+      15.72825,
+      46.59016
+     ],
+     [
+      15.72784,
+      46.5904
+     ],
+     [
+      15.7278,
+      46.59105
+     ],
+     [
+      15.72792,
+      46.59124
+     ],
+     [
+      15.72774,
+      46.59131
+     ],
+     [
+      15.7237,
+      46.59043
+     ],
+     [
+      15.72358,
+      46.59025
+     ],
+     [
+      15.72399,
+      46.58926
+     ],
+     [
+      15.72402,
+      46.58876
+     ],
+     [
+      15.72347,
+      46.58777
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.58619,
+   15.72833
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.57886,
+    "lon": 15.72708,
+    "name": null,
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:24.929Z"
+ },
+ {
+  "id": "rd-pesnica-lenart/pristava-siker",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "pristava-siker",
+  "code": "Jezero Pristava (Šiker)",
+  "name": "Jezero Pristava",
+  "subtitle": "Šiker",
+  "en": {
+   "name": "Lake Pristava",
+   "subtitle": "Šiker",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Jezero Pristava",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 08. do 02. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1321"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 100,
+    "saleWindow": "Nakup od 01. 08. do 02. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1330"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 170,
+    "saleWindow": "Nakup od 01. 08. do 02. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1331"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna",
+    "priceEur": 8,
+    "saleWindow": "Nakup od 01. 08. do 02. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1323"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/pristava-siker",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Jezero Pristava"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.76136,
+      46.56779
+     ],
+     [
+      15.76156,
+      46.56743
+     ],
+     [
+      15.76153,
+      46.56675
+     ],
+     [
+      15.76169,
+      46.56584
+     ],
+     [
+      15.76203,
+      46.56509
+     ],
+     [
+      15.76192,
+      46.56497
+     ],
+     [
+      15.76237,
+      46.56299
+     ],
+     [
+      15.76286,
+      46.5622
+     ],
+     [
+      15.76318,
+      46.5621
+     ],
+     [
+      15.76316,
+      46.56189
+     ],
+     [
+      15.76358,
+      46.56124
+     ],
+     [
+      15.7637,
+      46.56133
+     ],
+     [
+      15.7633,
+      46.56198
+     ],
+     [
+      15.76356,
+      46.56182
+     ],
+     [
+      15.7641,
+      46.56207
+     ],
+     [
+      15.76567,
+      46.56201
+     ],
+     [
+      15.76616,
+      46.56219
+     ],
+     [
+      15.76696,
+      46.56265
+     ],
+     [
+      15.76862,
+      46.56411
+     ],
+     [
+      15.76893,
+      46.56516
+     ],
+     [
+      15.76869,
+      46.56577
+     ],
+     [
+      15.76794,
+      46.56629
+     ],
+     [
+      15.76774,
+      46.5668
+     ],
+     [
+      15.76728,
+      46.56715
+     ],
+     [
+      15.7673,
+      46.56728
+     ],
+     [
+      15.76696,
+      46.56731
+     ],
+     [
+      15.76691,
+      46.56752
+     ],
+     [
+      15.76666,
+      46.56744
+     ],
+     [
+      15.76664,
+      46.56761
+     ],
+     [
+      15.76624,
+      46.56772
+     ],
+     [
+      15.76572,
+      46.56762
+     ],
+     [
+      15.7655,
+      46.56773
+     ],
+     [
+      15.76552,
+      46.56787
+     ],
+     [
+      15.76524,
+      46.56773
+     ],
+     [
+      15.76505,
+      46.56779
+     ],
+     [
+      15.76522,
+      46.5678
+     ],
+     [
+      15.76495,
+      46.56812
+     ],
+     [
+      15.76427,
+      46.5682
+     ],
+     [
+      15.76136,
+      46.56779
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.56518,
+   15.76518
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.5684,
+    "lon": 15.76813,
+    "name": null,
+    "distKm": 0.14
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:29.735Z"
+ },
+ {
+  "id": "rd-pesnica-lenart/jezero-radehova",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "jezero-radehova",
+  "code": "Jezero Radehova",
+  "name": "Jezero Radehova",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Radehova",
+   "subtitle": "",
+   "description": "The lake Radehova is a cozy lake for recreational fishing. The creek Globovnica flows into it. The lake is inhabited with some first class specimens ( some over 60 kg) of catfish, carp, grass carp, pike, zander, common bream, silver bream, common roach, bleak and smallfish."
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "Jezero Radehova je prijetno jezero za športni ribolov v katerega se steka potok Globovnica. Naseljen je s kapitalnimi primerki soma (tudi preko 60 kg), krapa, amurja, ščuke, smuča, ploščiča, androge, rdečooke, zelenike ter drobiža.",
+  "waterType": "lake",
+  "water": "Jezero Radehova",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 80,
+    "saleWindow": "Nakup od 15. 04. do 13. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/370"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 130,
+    "saleWindow": "Nakup od 15. 04. do 11. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1239"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 15. 04. do 09. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1240"
+   },
+   {
+    "name": "Ujemi in spusti - nočna",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 15. 04. do 15. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/359"
+   },
+   {
+    "name": "Ujemi in spusti - vikend",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 15. 04. do 15. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/358"
+   },
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/357"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 100,
+    "saleWindow": "Nakup od 15. 04. do 13. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1334"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 170,
+    "saleWindow": "Nakup od 15. 04. do 11. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1335"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna",
+    "priceEur": 8,
+    "saleWindow": "Nakup od 15. 04. do 15. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/362"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/jezero-radehova",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Jezero Radehova"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.83619,
+      46.5645
+     ],
+     [
+      15.83684,
+      46.56439
+     ],
+     [
+      15.83733,
+      46.56413
+     ],
+     [
+      15.8377,
+      46.56367
+     ],
+     [
+      15.83803,
+      46.56243
+     ],
+     [
+      15.83861,
+      46.56149
+     ],
+     [
+      15.84038,
+      46.5603
+     ],
+     [
+      15.84126,
+      46.56021
+     ],
+     [
+      15.8422,
+      46.56061
+     ],
+     [
+      15.84375,
+      46.56176
+     ],
+     [
+      15.84415,
+      46.56234
+     ],
+     [
+      15.84394,
+      46.5626
+     ],
+     [
+      15.84397,
+      46.56306
+     ],
+     [
+      15.84381,
+      46.56347
+     ],
+     [
+      15.84314,
+      46.56422
+     ],
+     [
+      15.84313,
+      46.56446
+     ],
+     [
+      15.84255,
+      46.56534
+     ],
+     [
+      15.84204,
+      46.56591
+     ],
+     [
+      15.84132,
+      46.56619
+     ],
+     [
+      15.84112,
+      46.5661
+     ],
+     [
+      15.84038,
+      46.56629
+     ],
+     [
+      15.83947,
+      46.56595
+     ],
+     [
+      15.8378,
+      46.56483
+     ],
+     [
+      15.83619,
+      46.5645
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.56406,
+   15.84063
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.56892,
+    "lon": 15.83687,
+    "name": "Agata parking",
+    "distKm": 0.39
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:32.177Z"
+ },
+ {
+  "id": "rd-pesnica-lenart/jezero-sv-trojica",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "jezero-sv-trojica",
+  "code": "Jezero Sv. Trojica",
+  "name": "Jezero Sveta Trojica",
+  "subtitle": "Gradiško jezero",
+  "en": {
+   "name": "The lake Sveta Trojica",
+   "subtitle": "the lake Gradiško jezero",
+   "description": "The creek Velka flows into the lake Sveta Trojica ( the lake Gradiško jezero). The mouth of the creek is the most ideal place to fish; some first class specimens of catfish, carp, grass carp, pike, zander, common bream, silver bream, common roach, bleak and smallfish swim there."
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "V jezero Sveta Trojica ali Gradiškem jezeru se steka potok Velka. Najbolj loven je ravno izliv potoka v jezero, kjer plavajo številni kapitalnimi primerki soma, krapa, amurja, ščuke, smuča, ploščiča, androge, rdečooke, zelenike ter številne jate ribjega drobiža.",
+  "waterType": "lake",
+  "water": "Jezero Gradišče",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/364"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 100,
+    "saleWindow": "Nakup od 15. 04. do 13. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1332"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 170,
+    "saleWindow": "Nakup od 15. 04. do 11. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1333"
+   },
+   {
+    "name": "Ujemi in vzemi - nočna",
+    "priceEur": 8,
+    "saleWindow": "Nakup od 15. 04. do 15. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/365"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/jezero-sv-trojica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Jezero Gradišče"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.86815,
+      46.57115
+     ],
+     [
+      15.86904,
+      46.56953
+     ],
+     [
+      15.86964,
+      46.56902
+     ],
+     [
+      15.87152,
+      46.56852
+     ],
+     [
+      15.87171,
+      46.56897
+     ],
+     [
+      15.87227,
+      46.56939
+     ],
+     [
+      15.87265,
+      46.57049
+     ],
+     [
+      15.87315,
+      46.57133
+     ],
+     [
+      15.87321,
+      46.57179
+     ],
+     [
+      15.87352,
+      46.57223
+     ],
+     [
+      15.8736,
+      46.57271
+     ],
+     [
+      15.87311,
+      46.57372
+     ],
+     [
+      15.87368,
+      46.57487
+     ],
+     [
+      15.87362,
+      46.57504
+     ],
+     [
+      15.87342,
+      46.57504
+     ],
+     [
+      15.87358,
+      46.57549
+     ],
+     [
+      15.87332,
+      46.57617
+     ],
+     [
+      15.87248,
+      46.57672
+     ],
+     [
+      15.87302,
+      46.57705
+     ],
+     [
+      15.87356,
+      46.57709
+     ],
+     [
+      15.87455,
+      46.57794
+     ],
+     [
+      15.87462,
+      46.57859
+     ],
+     [
+      15.87408,
+      46.57957
+     ],
+     [
+      15.87332,
+      46.5797
+     ],
+     [
+      15.87309,
+      46.57958
+     ],
+     [
+      15.873,
+      46.57926
+     ],
+     [
+      15.87181,
+      46.57957
+     ],
+     [
+      15.87125,
+      46.57954
+     ],
+     [
+      15.87099,
+      46.57937
+     ],
+     [
+      15.86992,
+      46.57725
+     ],
+     [
+      15.86854,
+      46.57306
+     ],
+     [
+      15.86815,
+      46.57115
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.57504,
+   15.87262
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.56853,
+    "lon": 15.87172,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.57446,
+    "lon": 15.8753,
+    "name": null,
+    "distKm": 0.13
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:34.551Z"
+ },
+ {
+  "id": "rd-pesnica-lenart/reka-pesnica-s-pritoki",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "reka-pesnica-s-pritoki",
+  "code": "Pesnica, Svečniški, Dobrenjski, Cirknica, Gačniški, Vrtički, Jakobski",
+  "name": "Reka Pesnica s pritoki",
+  "subtitle": "",
+  "en": {
+   "name": "The river Pesnica with tributaries",
+   "subtitle": "",
+   "description": "The river Pesnica with tributaries is - in its upper part, from the state border in Jurij to the railroad viaduct in Pesnica- a salmonid-cyprinid river meant for recreational fishing and is home to brown trouts, rainbow trouts, common nases, chubs,common daces, common roaches, bleaks and other smallfish."
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "Reka Pesnica s pritoki je v zgornjem delu, od meje v Juriju do železniškega viadukta v Pesnici, salmonidna-ciprinidna športno ribolovna reka naseljena s potočno postrvjo, šarenko, podustjo, klenom, kleničom, rdečeoko, zelenika in drugim ribjim drobižom.",
+  "waterType": "river",
+  "water": "Pesnica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 08. do 02. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/355"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/reka-pesnica-s-pritoki",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.599471,
+   "lon": 15.681656
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.75738,
+     46.57329
+    ],
+    [
+     15.75301,
+     46.57477
+    ],
+    [
+     15.75194,
+     46.57527
+    ],
+    [
+     15.75042,
+     46.57527
+    ],
+    [
+     15.74426,
+     46.57581
+    ],
+    [
+     15.7421,
+     46.57615
+    ],
+    [
+     15.73822,
+     46.57725
+    ],
+    [
+     15.73617,
+     46.57817
+    ],
+    [
+     15.73489,
+     46.57892
+    ],
+    [
+     15.73415,
+     46.57974
+    ],
+    [
+     15.7236,
+     46.58632
+    ],
+    [
+     15.72285,
+     46.58607
+    ],
+    [
+     15.72218,
+     46.58607
+    ],
+    [
+     15.71715,
+     46.58941
+    ],
+    [
+     15.70999,
+     46.59246
+    ],
+    [
+     15.70778,
+     46.59409
+    ],
+    [
+     15.70692,
+     46.59438
+    ],
+    [
+     15.7062,
+     46.59436
+    ],
+    [
+     15.7052,
+     46.59401
+    ],
+    [
+     15.7036,
+     46.59463
+    ],
+    [
+     15.70309,
+     46.59469
+    ],
+    [
+     15.70012,
+     46.59435
+    ],
+    [
+     15.69762,
+     46.59391
+    ],
+    [
+     15.69686,
+     46.59403
+    ],
+    [
+     15.69644,
+     46.59437
+    ],
+    [
+     15.69616,
+     46.59499
+    ],
+    [
+     15.69581,
+     46.59539
+    ],
+    [
+     15.69461,
+     46.59624
+    ],
+    [
+     15.69406,
+     46.59713
+    ],
+    [
+     15.69349,
+     46.59771
+    ],
+    [
+     15.69316,
+     46.59786
+    ],
+    [
+     15.69115,
+     46.59844
+    ],
+    [
+     15.69051,
+     46.59847
+    ],
+    [
+     15.68541,
+     46.59788
+    ],
+    [
+     15.6815,
+     46.59939
+    ],
+    [
+     15.67777,
+     46.60061
+    ],
+    [
+     15.67605,
+     46.60082
+    ],
+    [
+     15.67336,
+     46.60094
+    ],
+    [
+     15.67201,
+     46.60117
+    ],
+    [
+     15.66689,
+     46.60279
+    ],
+    [
+     15.66562,
+     46.60293
+    ],
+    [
+     15.66291,
+     46.60288
+    ],
+    [
+     15.65901,
+     46.60167
+    ],
+    [
+     15.65765,
+     46.60145
+    ],
+    [
+     15.65611,
+     46.60154
+    ],
+    [
+     15.65415,
+     46.6021
+    ],
+    [
+     15.65234,
+     46.60214
+    ],
+    [
+     15.6514,
+     46.60229
+    ],
+    [
+     15.65073,
+     46.60259
+    ],
+    [
+     15.64941,
+     46.60371
+    ],
+    [
+     15.64927,
+     46.60395
+    ],
+    [
+     15.64936,
+     46.60467
+    ],
+    [
+     15.64919,
+     46.60573
+    ],
+    [
+     15.64938,
+     46.60616
+    ],
+    [
+     15.65013,
+     46.60695
+    ],
+    [
+     15.65023,
+     46.60732
+    ],
+    [
+     15.65013,
+     46.60764
+    ],
+    [
+     15.64978,
+     46.60795
+    ],
+    [
+     15.64829,
+     46.60848
+    ],
+    [
+     15.64612,
+     46.6101
+    ],
+    [
+     15.64468,
+     46.61071
+    ],
+    [
+     15.6444,
+     46.61099
+    ],
+    [
+     15.64374,
+     46.61232
+    ],
+    [
+     15.64364,
+     46.61286
+    ],
+    [
+     15.64377,
+     46.61302
+    ],
+    [
+     15.64535,
+     46.61375
+    ],
+    [
+     15.64699,
+     46.61516
+    ],
+    [
+     15.64701,
+     46.61568
+    ],
+    [
+     15.64647,
+     46.61633
+    ],
+    [
+     15.64494,
+     46.61722
+    ],
+    [
+     15.64246,
+     46.61775
+    ],
+    [
+     15.64033,
+     46.6188
+    ],
+    [
+     15.63982,
+     46.61887
+    ],
+    [
+     15.63891,
+     46.61868
+    ],
+    [
+     15.63811,
+     46.61885
+    ],
+    [
+     15.63643,
+     46.61888
+    ],
+    [
+     15.63564,
+     46.61871
+    ],
+    [
+     15.63469,
+     46.61909
+    ],
+    [
+     15.63451,
+     46.6194
+    ],
+    [
+     15.63453,
+     46.61988
+    ],
+    [
+     15.63362,
+     46.62022
+    ],
+    [
+     15.63363,
+     46.62047
+    ],
+    [
+     15.63304,
+     46.62055
+    ],
+    [
+     15.63299,
+     46.62067
+    ],
+    [
+     15.63337,
+     46.62129
+    ],
+    [
+     15.63268,
+     46.62162
+    ],
+    [
+     15.63183,
+     46.62275
+    ],
+    [
+     15.63185,
+     46.62354
+    ],
+    [
+     15.63207,
+     46.62408
+    ],
+    [
+     15.63188,
+     46.62432
+    ],
+    [
+     15.63164,
+     46.62518
+    ],
+    [
+     15.63122,
+     46.62553
+    ],
+    [
+     15.63028,
+     46.62587
+    ],
+    [
+     15.63012,
+     46.62653
+    ],
+    [
+     15.62997,
+     46.62666
+    ],
+    [
+     15.62903,
+     46.62694
+    ],
+    [
+     15.62875,
+     46.62717
+    ],
+    [
+     15.62721,
+     46.62746
+    ],
+    [
+     15.62726,
+     46.62794
+    ],
+    [
+     15.62704,
+     46.6282
+    ],
+    [
+     15.6246,
+     46.62862
+    ],
+    [
+     15.6234,
+     46.62917
+    ],
+    [
+     15.62281,
+     46.62978
+    ],
+    [
+     15.6228,
+     46.63031
+    ],
+    [
+     15.62253,
+     46.63102
+    ],
+    [
+     15.62266,
+     46.63127
+    ],
+    [
+     15.6234,
+     46.63159
+    ],
+    [
+     15.62355,
+     46.63191
+    ],
+    [
+     15.62121,
+     46.63244
+    ],
+    [
+     15.61984,
+     46.6332
+    ],
+    [
+     15.61939,
+     46.63363
+    ],
+    [
+     15.61855,
+     46.63488
+    ],
+    [
+     15.61865,
+     46.63564
+    ],
+    [
+     15.61836,
+     46.63605
+    ],
+    [
+     15.61763,
+     46.63632
+    ],
+    [
+     15.61684,
+     46.63639
+    ]
+   ]
+  },
+  "center": [
+   46.59936,
+   15.68157
+  ],
+  "lengthKm": 15.2,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.60108,
+    "lon": 15.67428,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.60493,
+    "lon": 15.64901,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.59458,
+    "lon": 15.6957,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.63699,
+    "lon": 15.61805,
+    "name": null,
+    "distKm": 0.08
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:08.172Z"
+ },
+ {
+  "id": "rd-pesnica-lenart/potok-velka",
+  "clubSlug": "rd-pesnica-lenart",
+  "slug": "potok-velka",
+  "code": "Potok Velka",
+  "name": "Potok Velka",
+  "subtitle": "",
+  "en": {
+   "name": "The creek Velka",
+   "subtitle": "",
+   "description": "The creek Velka is tributary of the lake Sveta Trojica. Both districts are inhabitated with some first class specimens of catfish, carp, grass carp, pike, zander, common bream, silver bream, common roach, bleak and smallfish."
+  },
+  "club": {
+   "name": "Ribiška družina Pesnica - Lenart",
+   "url": "https://www.ribiskekarte.si/rd-pesnica-lenart"
+  },
+  "description": "Potok Velka je pritok jezera Sveta Trojica oba revirja sta naseljena s kapitalnimi primerki soma, krapa, amurja, ščuke, smuča, ploščiča, androge, rdečooke, zelenike ter drobiža.",
+  "waterType": "river",
+  "water": "Velka",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "ogrica",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ogrica (sivka)",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 08. do 02. 08.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/nakup/1337"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-pesnica-lenart/potok-velka",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.86438,
+     46.55783
+    ],
+    [
+     15.85982,
+     46.56741
+    ],
+    [
+     15.86296,
+     46.5712
+    ],
+    [
+     15.86315,
+     46.57195
+    ],
+    [
+     15.86296,
+     46.57274
+    ],
+    [
+     15.86271,
+     46.57308
+    ],
+    [
+     15.86167,
+     46.57364
+    ],
+    [
+     15.86053,
+     46.57371
+    ],
+    [
+     15.8599,
+     46.57358
+    ],
+    [
+     15.85922,
+     46.57323
+    ],
+    [
+     15.8578,
+     46.57164
+    ],
+    [
+     15.85703,
+     46.57128
+    ],
+    [
+     15.85628,
+     46.57119
+    ],
+    [
+     15.85192,
+     46.57149
+    ],
+    [
+     15.84955,
+     46.57102
+    ],
+    [
+     15.84903,
+     46.57103
+    ],
+    [
+     15.84623,
+     46.57211
+    ],
+    [
+     15.84559,
+     46.57246
+    ],
+    [
+     15.84516,
+     46.5729
+    ],
+    [
+     15.8446,
+     46.57449
+    ],
+    [
+     15.8443,
+     46.57488
+    ],
+    [
+     15.84252,
+     46.57582
+    ],
+    [
+     15.8398,
+     46.57798
+    ],
+    [
+     15.83818,
+     46.58079
+    ],
+    [
+     15.83673,
+     46.58165
+    ],
+    [
+     15.83644,
+     46.582
+    ],
+    [
+     15.83635,
+     46.58294
+    ],
+    [
+     15.83561,
+     46.58377
+    ],
+    [
+     15.83557,
+     46.58411
+    ],
+    [
+     15.83493,
+     46.58437
+    ],
+    [
+     15.83486,
+     46.58497
+    ],
+    [
+     15.83405,
+     46.58508
+    ],
+    [
+     15.83395,
+     46.58566
+    ],
+    [
+     15.83366,
+     46.58591
+    ],
+    [
+     15.83177,
+     46.58627
+    ],
+    [
+     15.83077,
+     46.58617
+    ],
+    [
+     15.83078,
+     46.58636
+    ],
+    [
+     15.83126,
+     46.58695
+    ],
+    [
+     15.83122,
+     46.58713
+    ],
+    [
+     15.82966,
+     46.58746
+    ],
+    [
+     15.82949,
+     46.58714
+    ],
+    [
+     15.82897,
+     46.58697
+    ],
+    [
+     15.82766,
+     46.5871
+    ],
+    [
+     15.82771,
+     46.58758
+    ],
+    [
+     15.82827,
+     46.58779
+    ],
+    [
+     15.82835,
+     46.58796
+    ],
+    [
+     15.82807,
+     46.58817
+    ],
+    [
+     15.82742,
+     46.58811
+    ],
+    [
+     15.82727,
+     46.58849
+    ],
+    [
+     15.82671,
+     46.58865
+    ],
+    [
+     15.82704,
+     46.58897
+    ],
+    [
+     15.82744,
+     46.58885
+    ],
+    [
+     15.82784,
+     46.58925
+    ],
+    [
+     15.82846,
+     46.5893
+    ],
+    [
+     15.82865,
+     46.58966
+    ],
+    [
+     15.82843,
+     46.59011
+    ],
+    [
+     15.82847,
+     46.59044
+    ],
+    [
+     15.82741,
+     46.59108
+    ],
+    [
+     15.82582,
+     46.59132
+    ],
+    [
+     15.82469,
+     46.59283
+    ],
+    [
+     15.82467,
+     46.59305
+    ],
+    [
+     15.82497,
+     46.5934
+    ],
+    [
+     15.82491,
+     46.59351
+    ],
+    [
+     15.82469,
+     46.59362
+    ],
+    [
+     15.8243,
+     46.5935
+    ],
+    [
+     15.82367,
+     46.59391
+    ],
+    [
+     15.82319,
+     46.59398
+    ],
+    [
+     15.82303,
+     46.59446
+    ],
+    [
+     15.82252,
+     46.59503
+    ],
+    [
+     15.82253,
+     46.59521
+    ],
+    [
+     15.82285,
+     46.59527
+    ],
+    [
+     15.82294,
+     46.5954
+    ],
+    [
+     15.82254,
+     46.59589
+    ],
+    [
+     15.82239,
+     46.59662
+    ],
+    [
+     15.8232,
+     46.59711
+    ],
+    [
+     15.82409,
+     46.59698
+    ],
+    [
+     15.82434,
+     46.59714
+    ],
+    [
+     15.8292,
+     46.60139
+    ],
+    [
+     15.83057,
+     46.60152
+    ],
+    [
+     15.83129,
+     46.6012
+    ],
+    [
+     15.83147,
+     46.60126
+    ],
+    [
+     15.83211,
+     46.60181
+    ],
+    [
+     15.83451,
+     46.60298
+    ],
+    [
+     15.83506,
+     46.60337
+    ],
+    [
+     15.83544,
+     46.60396
+    ],
+    [
+     15.83483,
+     46.60415
+    ],
+    [
+     15.83485,
+     46.60433
+    ],
+    [
+     15.83544,
+     46.60487
+    ],
+    [
+     15.83599,
+     46.6057
+    ],
+    [
+     15.8368,
+     46.60588
+    ],
+    [
+     15.83668,
+     46.60617
+    ],
+    [
+     15.83677,
+     46.60641
+    ],
+    [
+     15.83742,
+     46.60649
+    ],
+    [
+     15.83722,
+     46.60678
+    ],
+    [
+     15.83793,
+     46.60736
+    ],
+    [
+     15.83761,
+     46.60763
+    ],
+    [
+     15.83761,
+     46.60781
+    ],
+    [
+     15.83884,
+     46.60802
+    ],
+    [
+     15.83884,
+     46.60825
+    ],
+    [
+     15.83837,
+     46.60849
+    ],
+    [
+     15.83863,
+     46.60903
+    ],
+    [
+     15.83916,
+     46.6093
+    ],
+    [
+     15.83914,
+     46.6098
+    ],
+    [
+     15.83952,
+     46.60995
+    ],
+    [
+     15.83923,
+     46.61034
+    ],
+    [
+     15.83923,
+     46.61058
+    ],
+    [
+     15.84056,
+     46.61074
+    ],
+    [
+     15.84072,
+     46.61099
+    ],
+    [
+     15.84146,
+     46.61113
+    ],
+    [
+     15.84163,
+     46.6113
+    ],
+    [
+     15.84085,
+     46.61296
+    ],
+    [
+     15.84034,
+     46.61335
+    ],
+    [
+     15.83896,
+     46.61337
+    ],
+    [
+     15.83875,
+     46.61371
+    ],
+    [
+     15.83729,
+     46.61387
+    ],
+    [
+     15.83719,
+     46.61435
+    ],
+    [
+     15.83705,
+     46.61439
+    ],
+    [
+     15.8366,
+     46.61418
+    ],
+    [
+     15.83535,
+     46.61426
+    ],
+    [
+     15.83506,
+     46.61439
+    ],
+    [
+     15.835,
+     46.6146
+    ],
+    [
+     15.83322,
+     46.61487
+    ],
+    [
+     15.83303,
+     46.61518
+    ],
+    [
+     15.83252,
+     46.61558
+    ],
+    [
+     15.83153,
+     46.61571
+    ],
+    [
+     15.83121,
+     46.61617
+    ],
+    [
+     15.831,
+     46.61603
+    ],
+    [
+     15.83058,
+     46.61608
+    ],
+    [
+     15.83038,
+     46.61598
+    ],
+    [
+     15.83047,
+     46.6157
+    ],
+    [
+     15.82957,
+     46.615
+    ],
+    [
+     15.82915,
+     46.61501
+    ],
+    [
+     15.82896,
+     46.61481
+    ],
+    [
+     15.82871,
+     46.61483
+    ],
+    [
+     15.82852,
+     46.615
+    ],
+    [
+     15.82807,
+     46.61497
+    ],
+    [
+     15.82773,
+     46.61512
+    ],
+    [
+     15.82742,
+     46.61557
+    ],
+    [
+     15.8271,
+     46.61546
+    ],
+    [
+     15.82654,
+     46.61569
+    ],
+    [
+     15.82647,
+     46.61584
+    ],
+    [
+     15.82508,
+     46.61599
+    ],
+    [
+     15.82439,
+     46.61655
+    ],
+    [
+     15.82357,
+     46.61675
+    ],
+    [
+     15.82312,
+     46.61708
+    ],
+    [
+     15.82248,
+     46.61724
+    ],
+    [
+     15.82239,
+     46.61739
+    ],
+    [
+     15.82171,
+     46.61756
+    ],
+    [
+     15.82121,
+     46.6174
+    ],
+    [
+     15.82075,
+     46.61745
+    ],
+    [
+     15.82076,
+     46.61769
+    ],
+    [
+     15.82059,
+     46.61789
+    ],
+    [
+     15.82146,
+     46.61813
+    ],
+    [
+     15.82155,
+     46.61829
+    ],
+    [
+     15.82075,
+     46.61819
+    ],
+    [
+     15.82047,
+     46.61867
+    ],
+    [
+     15.8198,
+     46.6188
+    ],
+    [
+     15.8196,
+     46.61917
+    ],
+    [
+     15.81898,
+     46.61914
+    ],
+    [
+     15.819,
+     46.61943
+    ],
+    [
+     15.81834,
+     46.6195
+    ],
+    [
+     15.81784,
+     46.61985
+    ],
+    [
+     15.81761,
+     46.61974
+    ],
+    [
+     15.81725,
+     46.61988
+    ],
+    [
+     15.81693,
+     46.61975
+    ],
+    [
+     15.81697,
+     46.61936
+    ],
+    [
+     15.81721,
+     46.61935
+    ],
+    [
+     15.81728,
+     46.61911
+    ],
+    [
+     15.81697,
+     46.61903
+    ],
+    [
+     15.81659,
+     46.61922
+    ],
+    [
+     15.81665,
+     46.61941
+    ],
+    [
+     15.81631,
+     46.61968
+    ],
+    [
+     15.81605,
+     46.61967
+    ],
+    [
+     15.81603,
+     46.61953
+    ],
+    [
+     15.81577,
+     46.61946
+    ],
+    [
+     15.81556,
+     46.61979
+    ],
+    [
+     15.8151,
+     46.61985
+    ],
+    [
+     15.81444,
+     46.61978
+    ],
+    [
+     15.81408,
+     46.6199
+    ],
+    [
+     15.81389,
+     46.61983
+    ],
+    [
+     15.81387,
+     46.61961
+    ],
+    [
+     15.8135,
+     46.61958
+    ],
+    [
+     15.81268,
+     46.61984
+    ],
+    [
+     15.8123,
+     46.61978
+    ],
+    [
+     15.81175,
+     46.6201
+    ],
+    [
+     15.81141,
+     46.6207
+    ],
+    [
+     15.81085,
+     46.62077
+    ],
+    [
+     15.81048,
+     46.62054
+    ],
+    [
+     15.81019,
+     46.62058
+    ],
+    [
+     15.81011,
+     46.62097
+    ],
+    [
+     15.81023,
+     46.62102
+    ],
+    [
+     15.81022,
+     46.62117
+    ],
+    [
+     15.80992,
+     46.62138
+    ],
+    [
+     15.80935,
+     46.62128
+    ],
+    [
+     15.80929,
+     46.6211
+    ],
+    [
+     15.80904,
+     46.62103
+    ],
+    [
+     15.80906,
+     46.62131
+    ],
+    [
+     15.80854,
+     46.62131
+    ],
+    [
+     15.8086,
+     46.62171
+    ],
+    [
+     15.80826,
+     46.62175
+    ],
+    [
+     15.80815,
+     46.62161
+    ],
+    [
+     15.80684,
+     46.62189
+    ],
+    [
+     15.80662,
+     46.62206
+    ],
+    [
+     15.80596,
+     46.62218
+    ],
+    [
+     15.80591,
+     46.62235
+    ],
+    [
+     15.80558,
+     46.6223
+    ],
+    [
+     15.80529,
+     46.62267
+    ],
+    [
+     15.80456,
+     46.62268
+    ],
+    [
+     15.80438,
+     46.62292
+    ],
+    [
+     15.80379,
+     46.62285
+    ],
+    [
+     15.80362,
+     46.62315
+    ],
+    [
+     15.80336,
+     46.62301
+    ],
+    [
+     15.80305,
+     46.62313
+    ],
+    [
+     15.80324,
+     46.62396
+    ],
+    [
+     15.80288,
+     46.62511
+    ],
+    [
+     15.80249,
+     46.62523
+    ],
+    [
+     15.80271,
+     46.62538
+    ],
+    [
+     15.80328,
+     46.62538
+    ],
+    [
+     15.80368,
+     46.62514
+    ],
+    [
+     15.80411,
+     46.6253
+    ],
+    [
+     15.80429,
+     46.62601
+    ],
+    [
+     15.80405,
+     46.62619
+    ],
+    [
+     15.80405,
+     46.62638
+    ],
+    [
+     15.80305,
+     46.62671
+    ],
+    [
+     15.80329,
+     46.62705
+    ],
+    [
+     15.80372,
+     46.62715
+    ],
+    [
+     15.80369,
+     46.62763
+    ],
+    [
+     15.80338,
+     46.62778
+    ],
+    [
+     15.803,
+     46.62757
+    ],
+    [
+     15.80189,
+     46.62804
+    ],
+    [
+     15.80173,
+     46.6283
+    ],
+    [
+     15.8018,
+     46.62881
+    ],
+    [
+     15.80168,
+     46.62918
+    ],
+    [
+     15.80086,
+     46.6295
+    ],
+    [
+     15.79967,
+     46.6297
+    ],
+    [
+     15.79909,
+     46.62999
+    ],
+    [
+     15.79863,
+     46.63076
+    ],
+    [
+     15.79793,
+     46.63113
+    ],
+    [
+     15.79047,
+     46.63653
+    ],
+    [
+     15.78264,
+     46.6456
+    ]
+   ]
+  },
+  "center": [
+   46.60497,
+   15.83551
+  ],
+  "lengthKm": 18,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.58167,
+    "lon": 15.83775,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.57721,
+    "lon": 15.83923,
+    "name": "Unior",
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.5859,
+    "lon": 15.83682,
+    "name": null,
+    "distKm": 0.18
+   },
+   {
+    "lat": 46.57921,
+    "lon": 15.83329,
+    "name": null,
+    "distKm": 0.38
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:36.954Z"
+ }
+]

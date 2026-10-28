@@ -1,0 +1,1557 @@
+[
+ {
+  "id": "rd-ribnica/reka-rakitnisca-ribnica",
+  "clubSlug": "rd-ribnica",
+  "slug": "reka-rakitnisca-ribnica",
+  "code": "Rakitnišca-Obrh",
+  "name": "Potok Rakitnica-Obrh",
+  "subtitle": "od izvira do ponora",
+  "en": {
+   "name": "The creek Rakitnica-Obrh",
+   "subtitle": "from the spring to the place where it goes underground",
+   "description": "The Rakitnica-Obrh is extremely salmonid water in the vicinity of the settlement Rakitnica and is full of brown trouts. The channel flows through the area with no industry at all so the beauty and the purity of water are guaranteed. The great fluctuations of water levels enable it to be very rich in food, which can be proven with beautiful specimens of the caught trouts."
+  },
+  "club": {
+   "name": "Ribiška družina Ribnica",
+   "url": "https://www.ribiskekarte.si/rd-ribnica"
+  },
+  "description": "Rakitnica-Obrh je izrazito salmonidna voda v bližini naselja Rakitnica, naseljena s potočno postrvjo. Sama struga leži v okolju, kjer industrija ni prisotna, tako da je lepota in čistoča vode zajamčena. Velika nihanja vodne gladine omogočajo, da je voda izredno bogata s hrano, kar dokazujejo lepi primerki ujetih postrvi. Vse jezove na potoku je RD pred kratkim obnovila.",
+  "waterType": "river",
+  "water": "Rakitnica",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Salmonidi (ujemi in spusti)",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/79"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ribnica/reka-rakitnisca-ribnica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izvir"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.74418,
+    45.69405
+   ]
+  },
+  "center": [
+   45.69405,
+   14.74418
+  ],
+  "lengthKm": null,
+  "region": "dolenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:22.583Z"
+ },
+ {
+  "id": "rd-ribnica/reka-bistrica-ribnica",
+  "clubSlug": "rd-ribnica",
+  "slug": "reka-bistrica-ribnica",
+  "code": "Reka Bistrica",
+  "name": "Reka Bistrica",
+  "subtitle": "od mostu v Globeli do ponora v Goriči vasi",
+  "en": {
+   "name": "The river Bistrica",
+   "subtitle": "from the bridge in Globel to the place where it goes underground in Goriča vas",
+   "description": "The river Bistrica flows through the city of Ribnica. Its channel follows the walls of the fishing castle and the banks of Gallusovo nabrežje. It also flows under many bridges: the bridge between Škrabčev trg and the fishing castle, the bridge Francoski most ( it was built during the time of illyric provinces), the road bridge as well as under the footbridge in the vicinity of the church of Saint Stephen."
+  },
+  "club": {
+   "name": "Ribiška družina Ribnica",
+   "url": "https://www.ribiskekarte.si/rd-ribnica"
+  },
+  "description": "Reka Bistrica teče skozi mesto Ribnica. Njena struga poteka ob obzidju ribniškega gradu ter Gallusovem nabrežju. Teče tudi skozi nekatere mostove: Most med Škrabčevim trgom in ribniškim gradom, Francoski most (zgrajen je bil v času Ilirskih provinc), cestni most ter skozi brv v bližini cerkve sv. Štefana. V Bistrici prevladujejo lepi primerki potočne postrvi, lipana ter klena.",
+  "waterType": "river",
+  "water": "Bistrica",
+  "species": [
+   "klen",
+   "potocna-postrv"
+  ],
+  "speciesRaw": [
+   "klen",
+   "potočna postrv"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi - ciprinidi (ujemi in odnesi)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/77"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ribnica/reka-bistrica-ribnica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.75972,
+   "lon": 14.639661
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Globel",
+   "do: kraj Goriča vas"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.59831,
+     45.76878
+    ],
+    [
+     14.59919,
+     45.77
+    ],
+    [
+     14.59929,
+     45.77074
+    ],
+    [
+     14.59858,
+     45.77155
+    ],
+    [
+     14.59853,
+     45.77178
+    ],
+    [
+     14.59986,
+     45.77229
+    ],
+    [
+     14.59966,
+     45.77256
+    ],
+    [
+     14.59996,
+     45.77268
+    ],
+    [
+     14.59995,
+     45.77333
+    ],
+    [
+     14.6003,
+     45.77426
+    ],
+    [
+     14.60023,
+     45.77448
+    ],
+    [
+     14.59997,
+     45.77454
+    ],
+    [
+     14.59976,
+     45.7748
+    ],
+    [
+     14.59979,
+     45.77527
+    ],
+    [
+     14.60026,
+     45.77571
+    ],
+    [
+     14.60185,
+     45.77585
+    ],
+    [
+     14.60207,
+     45.77576
+    ],
+    [
+     14.60367,
+     45.77658
+    ],
+    [
+     14.60432,
+     45.77663
+    ],
+    [
+     14.60691,
+     45.77555
+    ],
+    [
+     14.60808,
+     45.77529
+    ],
+    [
+     14.61042,
+     45.77508
+    ],
+    [
+     14.61065,
+     45.77514
+    ],
+    [
+     14.61086,
+     45.77551
+    ],
+    [
+     14.61117,
+     45.77566
+    ],
+    [
+     14.61137,
+     45.77597
+    ],
+    [
+     14.61178,
+     45.77601
+    ],
+    [
+     14.61186,
+     45.77588
+    ],
+    [
+     14.61313,
+     45.77535
+    ],
+    [
+     14.61388,
+     45.77535
+    ],
+    [
+     14.614,
+     45.775
+    ],
+    [
+     14.61496,
+     45.7745
+    ],
+    [
+     14.61691,
+     45.77415
+    ],
+    [
+     14.62599,
+     45.76812
+    ],
+    [
+     14.62643,
+     45.76745
+    ],
+    [
+     14.62687,
+     45.76704
+    ],
+    [
+     14.62967,
+     45.76597
+    ],
+    [
+     14.63289,
+     45.76498
+    ],
+    [
+     14.63738,
+     45.76306
+    ],
+    [
+     14.63844,
+     45.7619
+    ],
+    [
+     14.64084,
+     45.75833
+    ],
+    [
+     14.64138,
+     45.75772
+    ],
+    [
+     14.64205,
+     45.75738
+    ],
+    [
+     14.64458,
+     45.75667
+    ],
+    [
+     14.64513,
+     45.75624
+    ],
+    [
+     14.64546,
+     45.75547
+    ],
+    [
+     14.64603,
+     45.75513
+    ],
+    [
+     14.64776,
+     45.75502
+    ],
+    [
+     14.64853,
+     45.7552
+    ],
+    [
+     14.64974,
+     45.75513
+    ],
+    [
+     14.65063,
+     45.75498
+    ],
+    [
+     14.65104,
+     45.75467
+    ],
+    [
+     14.65163,
+     45.75466
+    ],
+    [
+     14.65208,
+     45.75511
+    ],
+    [
+     14.65243,
+     45.75516
+    ],
+    [
+     14.65274,
+     45.75506
+    ],
+    [
+     14.65298,
+     45.7547
+    ],
+    [
+     14.65398,
+     45.75403
+    ],
+    [
+     14.65395,
+     45.75371
+    ],
+    [
+     14.65413,
+     45.7536
+    ],
+    [
+     14.65458,
+     45.75367
+    ],
+    [
+     14.65532,
+     45.75403
+    ],
+    [
+     14.65544,
+     45.75417
+    ],
+    [
+     14.6554,
+     45.75462
+    ],
+    [
+     14.65563,
+     45.75465
+    ],
+    [
+     14.65616,
+     45.75421
+    ],
+    [
+     14.65658,
+     45.75416
+    ],
+    [
+     14.65672,
+     45.75374
+    ],
+    [
+     14.65745,
+     45.7535
+    ],
+    [
+     14.65752,
+     45.75313
+    ],
+    [
+     14.6581,
+     45.75282
+    ],
+    [
+     14.65885,
+     45.75267
+    ],
+    [
+     14.65987,
+     45.75277
+    ],
+    [
+     14.66084,
+     45.7521
+    ],
+    [
+     14.66427,
+     45.75139
+    ],
+    [
+     14.66511,
+     45.75164
+    ],
+    [
+     14.66565,
+     45.75138
+    ],
+    [
+     14.66551,
+     45.75124
+    ],
+    [
+     14.66567,
+     45.75092
+    ],
+    [
+     14.66578,
+     45.75103
+    ],
+    [
+     14.6663,
+     45.75099
+    ],
+    [
+     14.66669,
+     45.75111
+    ],
+    [
+     14.66693,
+     45.75095
+    ],
+    [
+     14.66771,
+     45.75139
+    ],
+    [
+     14.66806,
+     45.75123
+    ],
+    [
+     14.66817,
+     45.75139
+    ],
+    [
+     14.66771,
+     45.75173
+    ],
+    [
+     14.66753,
+     45.75204
+    ],
+    [
+     14.66811,
+     45.75181
+    ],
+    [
+     14.6686,
+     45.75209
+    ],
+    [
+     14.66866,
+     45.75253
+    ],
+    [
+     14.66915,
+     45.75239
+    ],
+    [
+     14.67021,
+     45.75271
+    ],
+    [
+     14.67054,
+     45.75324
+    ],
+    [
+     14.67109,
+     45.75372
+    ],
+    [
+     14.6713,
+     45.75357
+    ],
+    [
+     14.67137,
+     45.7532
+    ],
+    [
+     14.67168,
+     45.75299
+    ],
+    [
+     14.67213,
+     45.75297
+    ],
+    [
+     14.67238,
+     45.75262
+    ],
+    [
+     14.67324,
+     45.75204
+    ],
+    [
+     14.67385,
+     45.75223
+    ],
+    [
+     14.6738,
+     45.75265
+    ],
+    [
+     14.67397,
+     45.75279
+    ],
+    [
+     14.67433,
+     45.75261
+    ],
+    [
+     14.67425,
+     45.75226
+    ],
+    [
+     14.67457,
+     45.75226
+    ],
+    [
+     14.67468,
+     45.75229
+    ],
+    [
+     14.67469,
+     45.75279
+    ],
+    [
+     14.67521,
+     45.7531
+    ],
+    [
+     14.67628,
+     45.75327
+    ],
+    [
+     14.67679,
+     45.7535
+    ],
+    [
+     14.67727,
+     45.75325
+    ],
+    [
+     14.67745,
+     45.75343
+    ],
+    [
+     14.67733,
+     45.75366
+    ],
+    [
+     14.67741,
+     45.75377
+    ],
+    [
+     14.67791,
+     45.75358
+    ],
+    [
+     14.67876,
+     45.75357
+    ],
+    [
+     14.67888,
+     45.75353
+    ],
+    [
+     14.67877,
+     45.75341
+    ],
+    [
+     14.67891,
+     45.75333
+    ],
+    [
+     14.67957,
+     45.75363
+    ],
+    [
+     14.67981,
+     45.75362
+    ],
+    [
+     14.68046,
+     45.75342
+    ],
+    [
+     14.68051,
+     45.75316
+    ],
+    [
+     14.68033,
+     45.75283
+    ],
+    [
+     14.68062,
+     45.75266
+    ],
+    [
+     14.68194,
+     45.75237
+    ],
+    [
+     14.68216,
+     45.7525
+    ],
+    [
+     14.68205,
+     45.75267
+    ],
+    [
+     14.68213,
+     45.75279
+    ],
+    [
+     14.68239,
+     45.75256
+    ],
+    [
+     14.68242,
+     45.75231
+    ],
+    [
+     14.68222,
+     45.7519
+    ],
+    [
+     14.68229,
+     45.75174
+    ],
+    [
+     14.68278,
+     45.75164
+    ],
+    [
+     14.68316,
+     45.75197
+    ],
+    [
+     14.68616,
+     45.75322
+    ],
+    [
+     14.6885,
+     45.75534
+    ],
+    [
+     14.68969,
+     45.7562
+    ],
+    [
+     14.69265,
+     45.75767
+    ],
+    [
+     14.69361,
+     45.75862
+    ],
+    [
+     14.69468,
+     45.76045
+    ],
+    [
+     14.69559,
+     45.76117
+    ],
+    [
+     14.69639,
+     45.76153
+    ],
+    [
+     14.69784,
+     45.76186
+    ],
+    [
+     14.70059,
+     45.76208
+    ],
+    [
+     14.70207,
+     45.76194
+    ],
+    [
+     14.7056,
+     45.75995
+    ],
+    [
+     14.70584,
+     45.75949
+    ],
+    [
+     14.70637,
+     45.75914
+    ],
+    [
+     14.7071,
+     45.75835
+    ],
+    [
+     14.70769,
+     45.758
+    ],
+    [
+     14.70788,
+     45.75715
+    ],
+    [
+     14.70739,
+     45.75688
+    ],
+    [
+     14.70742,
+     45.75678
+    ],
+    [
+     14.70824,
+     45.75659
+    ],
+    [
+     14.70875,
+     45.75623
+    ],
+    [
+     14.70916,
+     45.75631
+    ],
+    [
+     14.70997,
+     45.75551
+    ],
+    [
+     14.71043,
+     45.75525
+    ],
+    [
+     14.71162,
+     45.75379
+    ],
+    [
+     14.71227,
+     45.75363
+    ],
+    [
+     14.71243,
+     45.75348
+    ],
+    [
+     14.71218,
+     45.75243
+    ],
+    [
+     14.71227,
+     45.75181
+    ],
+    [
+     14.71218,
+     45.75131
+    ],
+    [
+     14.71279,
+     45.75046
+    ],
+    [
+     14.71325,
+     45.75016
+    ],
+    [
+     14.71396,
+     45.74995
+    ],
+    [
+     14.71517,
+     45.74916
+    ],
+    [
+     14.71539,
+     45.74917
+    ],
+    [
+     14.71556,
+     45.74953
+    ],
+    [
+     14.71641,
+     45.74903
+    ],
+    [
+     14.71657,
+     45.74879
+    ],
+    [
+     14.71642,
+     45.74849
+    ],
+    [
+     14.71677,
+     45.74823
+    ],
+    [
+     14.71697,
+     45.74761
+    ],
+    [
+     14.71739,
+     45.74755
+    ],
+    [
+     14.71741,
+     45.74714
+    ],
+    [
+     14.71794,
+     45.74678
+    ],
+    [
+     14.71793,
+     45.74623
+    ],
+    [
+     14.71932,
+     45.7449
+    ],
+    [
+     14.71925,
+     45.74453
+    ],
+    [
+     14.7186,
+     45.74437
+    ],
+    [
+     14.71821,
+     45.74369
+    ],
+    [
+     14.71955,
+     45.74308
+    ],
+    [
+     14.72107,
+     45.74181
+    ],
+    [
+     14.72499,
+     45.73925
+    ],
+    [
+     14.72694,
+     45.73845
+    ],
+    [
+     14.72734,
+     45.73777
+    ],
+    [
+     14.72871,
+     45.73663
+    ],
+    [
+     14.72866,
+     45.73623
+    ],
+    [
+     14.72953,
+     45.73552
+    ],
+    [
+     14.72997,
+     45.73532
+    ],
+    [
+     14.72977,
+     45.73451
+    ],
+    [
+     14.73084,
+     45.73428
+    ],
+    [
+     14.73123,
+     45.7337
+    ],
+    [
+     14.73237,
+     45.73338
+    ],
+    [
+     14.73226,
+     45.73292
+    ],
+    [
+     14.7328,
+     45.73262
+    ],
+    [
+     14.73316,
+     45.73261
+    ],
+    [
+     14.73369,
+     45.73283
+    ],
+    [
+     14.7339,
+     45.73276
+    ],
+    [
+     14.73543,
+     45.73147
+    ],
+    [
+     14.73676,
+     45.73088
+    ],
+    [
+     14.7372,
+     45.73002
+    ],
+    [
+     14.73804,
+     45.72883
+    ],
+    [
+     14.73823,
+     45.7283
+    ],
+    [
+     14.73957,
+     45.72825
+    ],
+    [
+     14.74041,
+     45.72849
+    ],
+    [
+     14.74077,
+     45.72887
+    ]
+   ]
+  },
+  "center": [
+   45.75279,
+   14.67397
+  ],
+  "lengthKm": 17.6,
+  "region": "dolenjska",
+  "parking": [
+   {
+    "lat": 45.7387,
+    "lon": 14.72697,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 45.76178,
+    "lon": 14.6381,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 45.76198,
+    "lon": 14.70341,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 45.7361,
+    "lon": 14.73336,
+    "name": null,
+    "distKm": 0.28
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:29.803Z"
+ },
+ {
+  "id": "rd-ribnica/reka-rasica-ribnica",
+  "clubSlug": "rd-ribnica",
+  "slug": "reka-rasica-ribnica",
+  "code": "Reka Rašica",
+  "name": "Reka Rašica",
+  "subtitle": "od Sotočja Robarke in Kovparce do ponikalnice v Ponikvah",
+  "en": {
+   "name": "The river Rašica",
+   "subtitle": "from the confluence of the Robarka and the Kovparca to the subterranean river in Ponikve",
+   "description": "The river Rašica flows through the city of Rašica, the place that is mostly recognized as the birth place of Primož Trubar."
+  },
+  "club": {
+   "name": "Ribiška družina Ribnica",
+   "url": "https://www.ribiskekarte.si/rd-ribnica"
+  },
+  "description": "Reka Rašica poteka skozi kraj Rašica, ki je najbolj znan kot rojstni kraj Primoža Trubarja. Rašica vključuje dolino potokov Rašica, Robarica, Veliki Graben (Mišja dolina) in Kozmanjka s stranskimi dolinami manjših potočkov (Kobilji curek, Črna voda, Črni graben, Stara voda, Kališki potok, Kozmanjka, Podleščica, Kozarščica itd.), do ponora pri vasi Ponikve.",
+  "waterType": "river",
+  "water": "Rašica",
+  "species": [
+   "klen",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi - ciprinidi (ujemi in odnesi)",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/80"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ribnica/reka-rasica-ribnica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.852076,
+   "lon": 14.633443
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Ponikve"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.65121,
+    45.85716
+   ]
+  },
+  "center": [
+   45.85716,
+   14.65121
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.85718,
+    "lon": 14.64597,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:49.009Z"
+ },
+ {
+  "id": "rd-ribnica/reka-ribnica-ribnica",
+  "clubSlug": "rd-ribnica",
+  "slug": "reka-ribnica-ribnica",
+  "code": "Reka Ribnica",
+  "name": "Reka Ribnica",
+  "subtitle": "od izvira do ponora",
+  "en": {
+   "name": "The river Ribnica",
+   "subtitle": "from the spring to the place where it goes underground",
+   "description": "The river Ribnica springs in two carst springs in the vicinity of the little village Zadolje under the Velika gora mountain. It winds across moist, grass plane , forming great arches. Because this area is mainly carst, the water goes under the ground through little abysses east from Dolenja vas."
+  },
+  "club": {
+   "name": "Ribiška družina Ribnica",
+   "url": "https://www.ribiskekarte.si/rd-ribnica"
+  },
+  "description": "Reka Ribnica izvira v dveh kraških izvirih blizu male vasi Zadolje, pod Veliko goro. Po vlažni travnati ravnini se vije v velikih vijugah. Zaradi zakraselosti območja voda ponika v ponorih vzhodno od Dolenje vasi. Ob visokih vodah Ribnica podaljša svoj tok in teče naprej po fosilni strugi čez dolenjevaško polje do Zadnje Rinže. Na polju je več požiralnikov. Vode se zlivajo v reki Rinžo in Krko.",
+  "waterType": "river",
+  "water": "Ribnica",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kruh",
+   "sadje",
+   "testo",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 50,
+    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/837"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ribnica/reka-ribnica-ribnica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.712602,
+   "lon": 14.742466
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izvir"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.71148,
+    45.71258
+   ]
+  },
+  "center": [
+   45.71258,
+   14.71148
+  ],
+  "lengthKm": null,
+  "region": "dolenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:51.411Z"
+ },
+ {
+  "id": "rd-ribnica/ribnik-glinokop",
+  "clubSlug": "rd-ribnica",
+  "slug": "ribnik-glinokop",
+  "code": "Ribnik Glinokop",
+  "name": "Ribnik Glinokop",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Glinokop",
+   "subtitle": "",
+   "description": "The pond Glinokop is situated behind the settlement Nemška vas. The fishermen of the Ribiška družina Ribnica have made it one of the most attractive water areas in our land, full with white birches and interesting life forms."
+  },
+  "club": {
+   "name": "Ribiška družina Ribnica",
+   "url": "https://www.ribiskekarte.si/rd-ribnica"
+  },
+  "description": "Ribnik Glinokop leži za naseljem Nemška vas. Ribiči Ribiške družine Ribnica so ga uredili v eno najbolj privlačnih vodnih površij na naši zemlji, polno belih brez in zanimivega življa. Krasijo ga štirje lokvanji, ki so jih posadili po celotni dolžini ribnika in ti, skupaj z ostalo naravo, tvorijo prvovrsten prostor za miren oddih. V ribniku prevladujejo pretežno krapi in ščuke.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ribnica/ribnik-glinokop",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.67262,
+      45.93223
+     ],
+     [
+      14.67353,
+      45.93187
+     ],
+     [
+      14.67351,
+      45.93169
+     ],
+     [
+      14.6738,
+      45.93155
+     ],
+     [
+      14.67391,
+      45.93163
+     ],
+     [
+      14.67372,
+      45.93178
+     ],
+     [
+      14.67414,
+      45.9317
+     ],
+     [
+      14.67436,
+      45.932
+     ],
+     [
+      14.67419,
+      45.93224
+     ],
+     [
+      14.67364,
+      45.93236
+     ],
+     [
+      14.6738,
+      45.93268
+     ],
+     [
+      14.67328,
+      45.93294
+     ],
+     [
+      14.6729,
+      45.93273
+     ],
+     [
+      14.67262,
+      45.93223
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.93228,
+   14.67341
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.93226,
+    "lon": 14.67229,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 45.93224,
+    "lon": 14.67351,
+    "name": "Ribnik Boštanj",
+    "distKm": 0.02
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:37:32.188Z"
+ },
+ {
+  "id": "rd-ribnica/ribnik-prigorica",
+  "clubSlug": "rd-ribnica",
+  "slug": "ribnik-prigorica",
+  "code": "Ribnik Prigorica",
+  "name": "Ribnik Prigorica",
+  "subtitle": "",
+  "en": {
+   "name": "Prigorica pond",
+   "subtitle": "",
+   "description": "It is of a commercial character and is an additional place for fishing. The surface of the pond occupies an area of 5600 m2. The depth of the pond is approx. 2.50 m. The pond is inhabited by carps, tenches, rainbow trout, chubs, pike and other fish."
+  },
+  "club": {
+   "name": "Ribiška družina Ribnica",
+   "url": "https://www.ribiskekarte.si/rd-ribnica"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Ribnik Prigorica",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "koruza",
+   "kruh",
+   "sadje",
+   "umetna muha",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + salmonidi",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/932"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ribnica/ribnik-prigorica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Prigorica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.73601,
+      45.71127
+     ],
+     [
+      14.73634,
+      45.71077
+     ],
+     [
+      14.73742,
+      45.71103
+     ],
+     [
+      14.73738,
+      45.71136
+     ],
+     [
+      14.73701,
+      45.71129
+     ],
+     [
+      14.73681,
+      45.71149
+     ],
+     [
+      14.73601,
+      45.71127
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.71125,
+   14.73665
+  ],
+  "lengthKm": null,
+  "region": "dolenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:32.183Z"
+ },
+ {
+  "id": "rd-ribnica/ribnik-smrekovec",
+  "clubSlug": "rd-ribnica",
+  "slug": "ribnik-smrekovec",
+  "code": "Ribnik Smrekovec",
+  "name": "Ribnik Smrekovec",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Smrekovec",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Ribnica",
+   "url": "https://www.ribiskekarte.si/rd-ribnica"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Ribnik Smrekovec",
+  "species": [
+   "klen",
+   "krap",
+   "linj",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "linj",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi + ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/521"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-ribnica/ribnik-smrekovec",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Smrekovec"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.61588,
+      45.76894
+     ],
+     [
+      14.61639,
+      45.76885
+     ],
+     [
+      14.61667,
+      45.769
+     ],
+     [
+      14.61683,
+      45.76936
+     ],
+     [
+      14.61601,
+      45.76947
+     ],
+     [
+      14.61588,
+      45.76894
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.76922,
+   14.61627
+  ],
+  "lengthKm": null,
+  "region": "dolenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:00.983Z"
+ }
+]

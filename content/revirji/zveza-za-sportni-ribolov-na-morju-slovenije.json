@@ -1,0 +1,104 @@
+[
+ {
+  "id": "zveza-za-sportni-ribolov-na-morju-slovenije/morje-slovenije",
+  "clubSlug": "zveza-za-sportni-ribolov-na-morju-slovenije",
+  "slug": "morje-slovenije",
+  "code": "Morje Slovenije",
+  "name": "Morje Slovenije",
+  "subtitle": "morski ribolov",
+  "en": {
+   "name": "The sea of Slovenia",
+   "subtitle": "sea fishing",
+   "description": "The Slovene coast is only approximately 40km long and it belongs to the shortest European coasts. It borders on Italy and Croatia and is bathed by the bays of Koper, Strunjan and Piran. Its territory is divided between municipalities of Koper, Izola and Piran. The structure of the bottom is somewhere covered with sea vegetation and a bit rocky or just covered in silt."
+  },
+  "club": {
+   "name": "Upravljavec Zveza za športni ribolov na morju Slovenije (ZŠRMS)",
+   "url": "https://www.ribiskekarte.si/zveza-za-sportni-ribolov-na-morju-slovenije"
+  },
+  "description": "Slovenska obala meri nekaj preko 40 kilometrov in sodi med najkrajše evropske obale. Meji na Italijo in Hrvaško, oblivajo jo pa Koprski, Strunjanski ter Piranski zaliv, delijo si jo pa občine Koper, Izola in Piran. Struktura dna je ponekod poraščena in skalnata ali prekrita z muljem. Najglobja točka slovenskega morja sega 37m, v povprečju pa je globina okoli 17m.",
+  "waterType": "sea",
+  "water": "morje",
+  "species": [
+   "brancin",
+   "cipelj",
+   "lignji",
+   "orada",
+   "ovcica",
+   "ribon",
+   "salpa",
+   "sipa",
+   "spar",
+   "ugor"
+  ],
+  "speciesRaw": [
+   "brancin",
+   "bukva",
+   "ciplji",
+   "iglica",
+   "krulec (m. lastovka)",
+   "ligenj",
+   "menola",
+   "mol",
+   "orada",
+   "ovčica",
+   "palamida",
+   "ribon",
+   "salpa",
+   "sipa",
+   "skuša",
+   "strelka",
+   "šnjur (šur)",
+   "špar",
+   "ugor"
+  ],
+  "methods": [
+   "ribolov iz čolna"
+  ],
+  "techniques": [],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Dnevna ribolovna dovolilnica za rekreacijski ribolov na morju",
+    "priceEur": 7,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/zveza-za-sportni-ribolov-na-morju-slovenije/nakup/247"
+   },
+   {
+    "name": "Tedenska ribolovna dovolilnica za rekreacijski ribolov na morju",
+    "priceEur": 27,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/zveza-za-sportni-ribolov-na-morju-slovenije/nakup/248"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/zveza-za-sportni-ribolov-na-morju-slovenije/morje-slovenije",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "slovensko morje"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    13.62,
+    45.545
+   ]
+  },
+  "center": [
+   45.545,
+   13.62
+  ],
+  "lengthKm": null,
+  "region": "obala",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:48.953Z"
+ }
+]

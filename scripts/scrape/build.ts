@@ -94,20 +94,80 @@ function excerpt(text: string, max = 420): string {
   return (end > 120 ? cut.slice(0, end + 1) : `${cut.slice(0, cut.lastIndexOf(' '))}…`).trim();
 }
 
+/** Clubs listed on ribiskekarte.si that manage waters in Austria (outside our map data). */
+const FOREIGN_CLUBS = new Set([
+  'bistum-gurk',
+  'gemeinde-keutschach-am-see',
+  'richard-sturzenbecher',
+  'stadtgemeinde-volkermarkt',
+  'familie-hribernig',
+  'forstverwaltung-hollenburg',
+]);
+const SEA_CLUBS = new Set(['zveza-za-sportni-ribolov-na-morju-slovenije']);
+const SEA_CENTER: LonLat = [13.62, 45.545];
+
+const RANK = { segment: 0, water: 1, partial: 2, gauge: 3, place: 4, none: 5 } as const;
+
+/** Flowing or still, from the page or, when missing, from the name. */
+function isFlowing(r: RawRevir): boolean {
+  const t = r.features.waterType ?? r.index?.features.waterType;
+  if (t) return t.startsWith('teko');
+  return /^(reka|potok|kanal|struga|rokav)\b/i.test(r.name) || /\b(potok|reka)\b/i.test(r.name) || /\b(od|do)\b/.test(r.subtitle);
+}
+
+function place(r: RawRevir, anchor: LonLat | null): Placement {
+  const gauge: LonLat | null = r.gauge ? [r.gauge.lon, r.gauge.lat] : null;
+  return isFlowing(r)
+    ? geo.placeRiver({ name: r.name, subtitle: r.subtitle, anchor, gauge })
+    : geo.placeStill({ name: r.name, subtitle: r.subtitle, anchor });
+}
+
+// Pass 1: anchor on the club's town. Pass 2: re-anchor each club on the median of its
+// well-placed sections (fixes towns with ambiguous names, e.g. several villages called Visoko).
+const sections = raw.filter((r) => !FOREIGN_CLUBS.has(r.clubSlug));
+const seats = new Map<string, LonLat | null>();
+const placements = new Map<string, Placement>();
+for (const r of sections) {
+  if (SEA_CLUBS.has(r.clubSlug)) {
+    placements.set(r.url, { quality: 'water', geometry: { type: 'Point', coordinates: SEA_CENTER }, center: SEA_CENTER, lengthKm: null, matchedWater: 'morje', notes: ['slovensko morje'] });
+    continue;
+  }
+  const club = r.club.name || r.index?.clubName || '';
+  if (!seats.has(club)) seats.set(club, geo.clubSeat(club, r.clubSlug));
+  placements.set(r.url, place(r, seats.get(club) ?? null));
+}
+const median = (xs: number[]) => xs.slice().sort((a, b) => a - b)[Math.floor(xs.length / 2)];
+const clubCentre = new Map<string, LonLat>();
+for (const club of new Set(sections.map((r) => r.club.name || r.index?.clubName || ''))) {
+  const good = sections
+    .filter((r) => (r.club.name || r.index?.clubName) === club)
+    .map((r) => placements.get(r.url)!)
+    .filter((p) => p.center && (p.quality === 'segment' || p.quality === 'water'));
+  if (good.length) clubCentre.set(club, [median(good.map((p) => p.center![0])), median(good.map((p) => p.center![1]))]);
+}
+for (const r of sections) {
+  if (SEA_CLUBS.has(r.clubSlug)) continue;
+  const club = r.club.name || r.index?.clubName || '';
+  const before = placements.get(r.url)!;
+  const centre = clubCentre.get(club);
+  if (!centre || RANK[before.quality] <= RANK.water) continue;
+  const retry = place(r, centre);
+  if (RANK[retry.quality] < RANK[before.quality]) placements.set(r.url, { ...retry, notes: [...retry.notes, 'sidro: središče družine'] });
+}
+
 const byClub = new Map<string, unknown[]>();
 const stats = new Map<string, number>();
 const unknownSpecies = new Map<string, number>();
 const unknownMethods = new Map<string, number>();
 const unresolved: string[] = [];
 
-for (const r of raw) {
-  const isRiver = (r.features.waterType ?? r.index?.features.waterType ?? '').startsWith('teko');
+for (const r of sections) {
+  const isRiver = isFlowing(r);
+  const isSea = SEA_CLUBS.has(r.clubSlug);
   const features = r.features.species.length ? r.features : (r.index?.features ?? r.features);
-  const anchor = geo.clubSeat(r.club.name || r.index?.clubName || '');
-  const gauge: LonLat | null = r.gauge ? [r.gauge.lon, r.gauge.lat] : null;
-  const placement = isRiver
-    ? geo.placeRiver({ name: r.name, subtitle: r.subtitle, anchor, gauge })
-    : geo.placeStill({ name: r.name, subtitle: r.subtitle, anchor });
+  const club = r.club.name || r.index?.clubName || '';
+  const anchor = clubCentre.get(club) ?? seats.get(club) ?? null;
+  const placement = placements.get(r.url)!;
 
   stats.set(placement.quality, (stats.get(placement.quality) ?? 0) + 1);
   if (placement.quality === 'none' || placement.quality === 'place') {
@@ -131,7 +191,7 @@ for (const r of raw) {
     en: r.en ? { name: r.en.name, subtitle: r.en.subtitle, description: excerpt(r.en.description) } : null,
     club: { name: r.club.name || r.index?.clubName || '', url: r.club.url || r.index?.clubUrl || '' },
     description: excerpt(r.description),
-    waterType: isRiver ? 'river' : stillKind(`${r.name} ${r.subtitle}`),
+    waterType: isSea ? 'sea' : isRiver ? 'river' : stillKind(`${r.name} ${r.subtitle}`),
     water: placement.matchedWater,
     species: sp.slugs,
     speciesRaw: features.species,
@@ -164,13 +224,13 @@ const dir = path.join(out, 'revirji');
 fs.mkdirSync(dir, { recursive: true });
 for (const [club, list] of byClub) fs.writeFileSync(path.join(dir, `${club}.json`), JSON.stringify(list, null, 1));
 
-const total = raw.length;
+const total = sections.length;
 const pct = (n: number) => `${((n / Math.max(1, total)) * 100).toFixed(0)} %`;
 const order = ['segment', 'water', 'partial', 'gauge', 'place', 'none'];
 const report = [
   `# Section database report`,
   ``,
-  `Generated ${new Date().toISOString()} from ${total} sections in ${byClub.size} clubs.`,
+  `Generated ${new Date().toISOString()} from ${total} sections in ${byClub.size} clubs (${raw.length - total} Austrian sections skipped).`,
   ``,
   `## Placement quality`,
   ``,

@@ -1,0 +1,393 @@
+[
+ {
+  "id": "rd-trbovlje/ribnik-s",
+  "clubSlug": "rd-trbovlje",
+  "slug": "ribnik-s",
+  "code": "Ribnik (s)",
+  "name": "Ribnik",
+  "subtitle": "s",
+  "en": {
+   "name": "Ribnik",
+   "subtitle": "s",
+   "description": "od Ob Trboveljščici do -"
+  },
+  "club": {
+   "name": "Ribiška družina Trbovlje",
+   "url": "https://www.ribiskekarte.si/rd-trbovlje"
+  },
+  "description": "od Ob Trboveljščici do -",
+  "waterType": "pond",
+  "water": "Ribnik Pri Lisjaku",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-trbovlje/ribnik-s",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik Pri Lisjaku"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.02626,
+      46.22468
+     ],
+     [
+      15.02727,
+      46.22503
+     ],
+     [
+      15.02692,
+      46.22514
+     ],
+     [
+      15.02626,
+      46.22468
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.22488,
+   15.02667
+  ],
+  "lengthKm": null,
+  "region": "zasavje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:44:41.798Z"
+ },
+ {
+  "id": "rd-trbovlje/sava-14",
+  "clubSlug": "rd-trbovlje",
+  "slug": "sava-14",
+  "code": "Sava 14",
+  "name": "Sava 14",
+  "subtitle": "",
+  "en": {
+   "name": "Sava 14",
+   "subtitle": "",
+   "description": "od Potiorek do Doležalek"
+  },
+  "club": {
+   "name": "Ribiška družina Trbovlje",
+   "url": "https://www.ribiskekarte.si/rd-trbovlje"
+  },
+  "description": "od Potiorek do Doležalek",
+  "waterType": "lake",
+  "water": "Sava",
+  "species": [],
+  "speciesRaw": [],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [],
+  "online": false,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-trbovlje/sava-14",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Sava"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.98465,
+      46.11617
+     ],
+     [
+      14.98512,
+      46.116
+     ],
+     [
+      14.98623,
+      46.11725
+     ],
+     [
+      14.98908,
+      46.11916
+     ],
+     [
+      14.99041,
+      46.11952
+     ],
+     [
+      14.99271,
+      46.11955
+     ],
+     [
+      14.99359,
+      46.11927
+     ],
+     [
+      14.99729,
+      46.11655
+     ],
+     [
+      14.99854,
+      46.11517
+     ],
+     [
+      14.99954,
+      46.11356
+     ],
+     [
+      15.00159,
+      46.11192
+     ],
+     [
+      15.00235,
+      46.11163
+     ],
+     [
+      15.00336,
+      46.1115
+     ],
+     [
+      15.00601,
+      46.11157
+     ],
+     [
+      15.00829,
+      46.11138
+     ],
+     [
+      15.00956,
+      46.11169
+     ],
+     [
+      15.01198,
+      46.1128
+     ],
+     [
+      15.01792,
+      46.11456
+     ],
+     [
+      15.02178,
+      46.11599
+     ],
+     [
+      15.02264,
+      46.11666
+     ],
+     [
+      15.02385,
+      46.11722
+     ],
+     [
+      15.02477,
+      46.1179
+     ],
+     [
+      15.0254,
+      46.11848
+     ],
+     [
+      15.02574,
+      46.11918
+     ],
+     [
+      15.0277,
+      46.12041
+     ],
+     [
+      15.02871,
+      46.12128
+     ],
+     [
+      15.03704,
+      46.12569
+     ],
+     [
+      15.03931,
+      46.12615
+     ],
+     [
+      15.04357,
+      46.12647
+     ],
+     [
+      15.04639,
+      46.12644
+     ],
+     [
+      15.05126,
+      46.12576
+     ],
+     [
+      15.05629,
+      46.12539
+     ],
+     [
+      15.05797,
+      46.12508
+     ],
+     [
+      15.05826,
+      46.12554
+     ],
+     [
+      15.05512,
+      46.1261
+     ],
+     [
+      15.04633,
+      46.12687
+     ],
+     [
+      15.04224,
+      46.12679
+     ],
+     [
+      15.0371,
+      46.12617
+     ],
+     [
+      15.02845,
+      46.12154
+     ],
+     [
+      15.02667,
+      46.12029
+     ],
+     [
+      15.0255,
+      46.11932
+     ],
+     [
+      15.02491,
+      46.11861
+     ],
+     [
+      15.02337,
+      46.11741
+     ],
+     [
+      15.02263,
+      46.11715
+     ],
+     [
+      15.02112,
+      46.11627
+     ],
+     [
+      15.0192,
+      46.11541
+     ],
+     [
+      15.017,
+      46.11473
+     ],
+     [
+      15.01143,
+      46.11339
+     ],
+     [
+      15.01006,
+      46.1125
+     ],
+     [
+      15.00799,
+      46.11197
+     ],
+     [
+      15.00698,
+      46.11196
+     ],
+     [
+      15.00543,
+      46.1122
+     ],
+     [
+      15.00326,
+      46.11218
+     ],
+     [
+      15.00195,
+      46.11253
+     ],
+     [
+      14.99995,
+      46.11399
+     ],
+     [
+      14.99904,
+      46.11538
+     ],
+     [
+      14.9964,
+      46.11766
+     ],
+     [
+      14.99527,
+      46.11884
+     ],
+     [
+      14.99511,
+      46.11929
+     ],
+     [
+      14.99244,
+      46.12043
+     ],
+     [
+      14.99211,
+      46.12042
+     ],
+     [
+      14.992,
+      46.12019
+     ],
+     [
+      14.99059,
+      46.12029
+     ],
+     [
+      14.98929,
+      46.12
+     ],
+     [
+      14.986,
+      46.11767
+     ],
+     [
+      14.98465,
+      46.11617
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.11867,
+   15.01558
+  ],
+  "lengthKm": null,
+  "region": "zasavje",
+  "parking": [
+   {
+    "lat": 46.12627,
+    "lon": 15.03608,
+    "name": null,
+    "distKm": 0.08
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:45:03.405Z"
+ }
+]

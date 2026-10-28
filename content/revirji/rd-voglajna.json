@@ -1,0 +1,2348 @@
+[
+ {
+  "id": "rd-voglajna/kozarica",
+  "clubSlug": "rd-voglajna",
+  "slug": "kozarica",
+  "code": "Kozarica",
+  "name": "Potok Kozarica",
+  "subtitle": "od Raven do izliva v Voglajno",
+  "en": {
+   "name": "The creek Kozarica",
+   "subtitle": "from Ravne to the outflow into the Voglajna",
+   "description": "The creek Kozarica is the Voglajna's tributary. The fish from the Voglajna come here to spawn regularly. You can fish mostly for chubs, perches, Mediterranean barbels and common roaches here."
+  },
+  "club": {
+   "name": "Ribiška družina Voglajna",
+   "url": "https://www.ribiskekarte.si/rd-voglajna"
+  },
+  "description": "Kozarica je pritok reke Voglajne. Ribe iz Voglajne redno zahajajo v Kozarico na drst. Glavne vrste rib v Kozarici so: klen, ostriž, pohra, in rdečeoka.",
+  "waterType": "river",
+  "water": "Kozarica",
+  "species": [
+   "jez",
+   "klen",
+   "koreselj",
+   "linj",
+   "ostriz",
+   "podust",
+   "pohra",
+   "rdeceoka",
+   "rdeceperka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "jez",
+   "klen",
+   "koreselj",
+   "linj",
+   "ostriž",
+   "podust",
+   "pohra",
+   "rdečeoka",
+   "rdečeperka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/388"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-voglajna/kozarica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Voglajno"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.39132,
+    46.21204
+   ]
+  },
+  "center": [
+   46.21204,
+   15.39132
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.21409,
+    "lon": 15.39048,
+    "name": null,
+    "distKm": 0.24
+   },
+   {
+    "lat": 46.20814,
+    "lon": 15.38989,
+    "name": null,
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:10.550Z"
+ },
+ {
+  "id": "rd-voglajna/potok-pesnica",
+  "clubSlug": "rd-voglajna",
+  "slug": "potok-pesnica",
+  "code": "Pešnica",
+  "name": "Potok Pešnica",
+  "subtitle": "od sotočja z potokom Jesenek do izliva v Voglajno",
+  "en": {
+   "name": "The creek Pešnica",
+   "subtitle": "from the confluence with the creek Jesenek to the outflow into the Voglajna",
+   "description": "The creek Pešnica flows into the Voglajna in Šentjur. The fish that regularly migrate to the Pešnica are: common bream, gibel carp, chub, carp, tench, perch, common nase, Mediterranean barbel, common rudd, common roach, bleak, stone moroko, Danube roach. Some zanders and pikes can be found as well."
+  },
+  "club": {
+   "name": "Ribiška družina Voglajna",
+   "url": "https://www.ribiskekarte.si/rd-voglajna"
+  },
+  "description": "Pešnica priteče v Voglajno v Šentjurju. V Pešničo redno migrirajo ribe kot so: ploščič, babuška, klen, krap, linj, ostriž, podust, pohra, rdečeoka, rdečeperka, zelenika pseudorazbora, platnica. Predstavnik roparic pa sta: smuč in ščuka.",
+  "waterType": "river",
+  "water": "Pešnica",
+  "species": [
+   "androga",
+   "bolen",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "pohra",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "androga",
+   "bolen",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "pohra",
+   "psevdorazbora",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/391"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/394"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-voglajna/potok-pesnica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Voglajno"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.39065,
+    46.21296
+   ]
+  },
+  "center": [
+   46.21296,
+   15.39065
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.21409,
+    "lon": 15.39048,
+    "name": null,
+    "distKm": 0.13
+   },
+   {
+    "lat": 46.21535,
+    "lon": 15.38505,
+    "name": null,
+    "distKm": 0.51
+   },
+   {
+    "lat": 46.20814,
+    "lon": 15.38989,
+    "name": null,
+    "distKm": 0.54
+   },
+   {
+    "lat": 46.21724,
+    "lon": 15.39402,
+    "name": null,
+    "distKm": 0.54
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:10.560Z"
+ },
+ {
+  "id": "rd-voglajna/slivnisko-jezero",
+  "clubSlug": "rd-voglajna",
+  "slug": "slivnisko-jezero",
+  "code": "Slivniško jezero",
+  "name": "Slivniško jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Slivniško jezero",
+   "subtitle": "",
+   "description": "The lake Slivniško jezero was made in 1976 when the barrier Tratna was built. The fishing family Voglajna has started managing the fishlife in the following year. Many different fish species were put in the lake: grass carp, silver bream, gibel carp, asp, ide, chub, crucian carp, carp, tench, perch, common bream, common nase, common roach, common rudd, zander, catfish, pike, silver carp and bleak."
+  },
+  "club": {
+   "name": "Ribiška družina Voglajna",
+   "url": "https://www.ribiskekarte.si/rd-voglajna"
+  },
+  "description": "Slivniško jezero je nastalo kot posledica izgradnje pregrade Tratna leta 1976. Že v naslednjem letu je ribji živelj postal pod upravljanjem ribiške družinje Voglajna. V jezero so naselili razne ribe: amur, androga, babuška, bolen, jez, klen, koreselj, krap, linj, ostriž, ploščič, podust, rdečeoka, rdečeperka, smuč, som, ščuka, tolstolobik in zelenika.",
+  "waterType": "lake",
+  "water": "Slivniško jezero",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "jez",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "drobovina",
+   "kos ribe",
+   "kostni črv",
+   "mrtva riba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi, 3x dan + 2x noč (C&R)",
+    "priceEur": 90,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/387"
+   },
+   {
+    "name": "Ciprinidi, 5x dan + 4x noč (C&R)",
+    "priceEur": 150,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/1242"
+   },
+   {
+    "name": "Ciprinidi, dnevna (C&R)",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/874"
+   },
+   {
+    "name": "Ciprinidi, dnevna (ujemi in vzemi)",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/374"
+   },
+   {
+    "name": "Ciprinidi, nočna (C&R)",
+    "priceEur": 7,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/375"
+   },
+   {
+    "name": "Ribolov soma - nočna",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 07. do 30. 04.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/378"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/376"
+   },
+   {
+    "name": "Za otroke do 12 leta",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/1243"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-voglajna/slivnisko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Slivniško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.43742,
+      46.19694
+     ],
+     [
+      15.43759,
+      46.19652
+     ],
+     [
+      15.43869,
+      46.19586
+     ],
+     [
+      15.43887,
+      46.19466
+     ],
+     [
+      15.43987,
+      46.19431
+     ],
+     [
+      15.44089,
+      46.19347
+     ],
+     [
+      15.44024,
+      46.19283
+     ],
+     [
+      15.43909,
+      46.19247
+     ],
+     [
+      15.43839,
+      46.19164
+     ],
+     [
+      15.43859,
+      46.19131
+     ],
+     [
+      15.43822,
+      46.19083
+     ],
+     [
+      15.43822,
+      46.18921
+     ],
+     [
+      15.4387,
+      46.18862
+     ],
+     [
+      15.43838,
+      46.18847
+     ],
+     [
+      15.43831,
+      46.18823
+     ],
+     [
+      15.43951,
+      46.18832
+     ],
+     [
+      15.44007,
+      46.18812
+     ],
+     [
+      15.44024,
+      46.18732
+     ],
+     [
+      15.44041,
+      46.18759
+     ],
+     [
+      15.44122,
+      46.18765
+     ],
+     [
+      15.44155,
+      46.18734
+     ],
+     [
+      15.44196,
+      46.18766
+     ],
+     [
+      15.44241,
+      46.18775
+     ],
+     [
+      15.44805,
+      46.18736
+     ],
+     [
+      15.45092,
+      46.18854
+     ],
+     [
+      15.45247,
+      46.18869
+     ],
+     [
+      15.45281,
+      46.18889
+     ],
+     [
+      15.45328,
+      46.18882
+     ],
+     [
+      15.45371,
+      46.18904
+     ],
+     [
+      15.45407,
+      46.18886
+     ],
+     [
+      15.45499,
+      46.18884
+     ],
+     [
+      15.45601,
+      46.1892
+     ],
+     [
+      15.45727,
+      46.18895
+     ],
+     [
+      15.45847,
+      46.18891
+     ],
+     [
+      15.45766,
+      46.18924
+     ],
+     [
+      15.45808,
+      46.18955
+     ],
+     [
+      15.45873,
+      46.18931
+     ],
+     [
+      15.45921,
+      46.1896
+     ],
+     [
+      15.46012,
+      46.18965
+     ],
+     [
+      15.45997,
+      46.1894
+     ],
+     [
+      15.46006,
+      46.18925
+     ],
+     [
+      15.46135,
+      46.18876
+     ],
+     [
+      15.46167,
+      46.18918
+     ],
+     [
+      15.46046,
+      46.19003
+     ],
+     [
+      15.45937,
+      46.19192
+     ],
+     [
+      15.45864,
+      46.19234
+     ],
+     [
+      15.45829,
+      46.19298
+     ],
+     [
+      15.4579,
+      46.19251
+     ],
+     [
+      15.45733,
+      46.19237
+     ],
+     [
+      15.45676,
+      46.19198
+     ],
+     [
+      15.45674,
+      46.19166
+     ],
+     [
+      15.45629,
+      46.1917
+     ],
+     [
+      15.45586,
+      46.19198
+     ],
+     [
+      15.45459,
+      46.19219
+     ],
+     [
+      15.45417,
+      46.19199
+     ],
+     [
+      15.45275,
+      46.19027
+     ],
+     [
+      15.45113,
+      46.19037
+     ],
+     [
+      15.45045,
+      46.19015
+     ],
+     [
+      15.44907,
+      46.19023
+     ],
+     [
+      15.44802,
+      46.18988
+     ],
+     [
+      15.44711,
+      46.18905
+     ],
+     [
+      15.44672,
+      46.18895
+     ],
+     [
+      15.44598,
+      46.18901
+     ],
+     [
+      15.44542,
+      46.18918
+     ],
+     [
+      15.44508,
+      46.18949
+     ],
+     [
+      15.44431,
+      46.18965
+     ],
+     [
+      15.44167,
+      46.18976
+     ],
+     [
+      15.44008,
+      46.19013
+     ],
+     [
+      15.44049,
+      46.19067
+     ],
+     [
+      15.44212,
+      46.19138
+     ],
+     [
+      15.44245,
+      46.1917
+     ],
+     [
+      15.44388,
+      46.19218
+     ],
+     [
+      15.44397,
+      46.19248
+     ],
+     [
+      15.44297,
+      46.19391
+     ],
+     [
+      15.44187,
+      46.19399
+     ],
+     [
+      15.44047,
+      46.19447
+     ],
+     [
+      15.43931,
+      46.1952
+     ],
+     [
+      15.43921,
+      46.1954
+     ],
+     [
+      15.43934,
+      46.19594
+     ],
+     [
+      15.43917,
+      46.19624
+     ],
+     [
+      15.43807,
+      46.19707
+     ],
+     [
+      15.43742,
+      46.19694
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.19043,
+   15.44778
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.18716,
+    "lon": 15.44335,
+    "name": null,
+    "distKm": 0.1
+   },
+   {
+    "lat": 46.19418,
+    "lon": 15.44426,
+    "name": null,
+    "distKm": 0.1
+   },
+   {
+    "lat": 46.18666,
+    "lon": 15.43191,
+    "name": null,
+    "distKm": 0.52
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:27.428Z"
+ },
+ {
+  "id": "rd-voglajna/slomski-potok",
+  "clubSlug": "rd-voglajna",
+  "slug": "slomski-potok",
+  "code": "Slomski potok",
+  "name": "Slomski potok",
+  "subtitle": "od sotočja z Zagrajskim potokom do izliva v Voglajno",
+  "en": {
+   "name": "The creek Slomski potok",
+   "subtitle": "from the confluence with the creek Zagrajski potok to the outflow into the Voglajna",
+   "description": "The fish from the Voglajna migrate to the creek Slomski potok on regular basis. You can successfully fish for common breams, gibel carps, chubs, Danube roaches, carps, tenches, perches, common nases, Mediterranean barbels, common rudds, common roaches and bleaks here. You may catch some predatory fish as well, mostly zanders and pikes."
+  },
+  "club": {
+   "name": "Ribiška družina Voglajna",
+   "url": "https://www.ribiskekarte.si/rd-voglajna"
+  },
+  "description": "V Slomski potok redno migrirajo ribe iz reke Voglajne. Tako v Slomskem potoku lahko uspešno lovite :ploščič, babuška, klen, platnica, krap, linj, ostriž, podust, pohra, rdečeoka, rdečeperka, smuč, ščuka, zelenika Seveda ne manjkajo niti roparice: smuč in ščuka.",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "androga",
+   "bolen",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "pohra",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "androga",
+   "bolen",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "pohra",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/389"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/392"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-voglajna/slomski-potok",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "reka »Slomski potok« ni v OSM",
+   "kraj Voglajna"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.42797,
+    46.18227
+   ]
+  },
+  "center": [
+   46.18227,
+   15.42797
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.18666,
+    "lon": 15.43191,
+    "name": null,
+    "distKm": 0.57
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:29.796Z"
+ },
+ {
+  "id": "rd-voglajna/voglajna",
+  "clubSlug": "rd-voglajna",
+  "slug": "voglajna",
+  "code": "Voglajna",
+  "name": "Reka Voglajna",
+  "subtitle": "Od mostu Tratna do izliva v Savinjo",
+  "en": {
+   "name": "The river Voglajna",
+   "subtitle": "from the bridge Tratna to the outflow into the Savinja",
+   "description": "The river Voglajna flows down from the lake Slivniško jezero and runs its 35km long journey to the outflow into the Savinja in a very slow current. Its many tributaries and windings hide many different fish species."
+  },
+  "club": {
+   "name": "Ribiška družina Voglajna",
+   "url": "https://www.ribiskekarte.si/rd-voglajna"
+  },
+  "description": "Reka Voglajna se steka iz Slivniškega jezera in se v svojem počasnem toku vije dolgih 35 km vse do izliva v Savinjo. V svojih številnih pritokih ter vijugah skriva veliko različnih vrst rib. Ribiči v Voglajni pogosto ujamejo: ameriški somič, androga, babuška, jez, klen, koreselj, krap, linj, mrena, ostriž, podust, pohra, rdečeoka, rdečeperka, ščuka, zelenika, pseudorazbora.",
+  "waterType": "river",
+  "water": "Voglajna",
+  "species": [
+   "androga",
+   "koreselj",
+   "bolen",
+   "jez",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "pohra",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "androga",
+   "babuška",
+   "bolen",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "pohra",
+   "psevdorazbora",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "potezanka",
+   "silikonska vaba",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/372"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/373"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-voglajna/voglajna",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.199824,
+   "lon": 15.422925
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Tratna pri Grobelnem",
+   "do: sotočje Savinjo"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.43676,
+     46.19849
+    ],
+    [
+     15.43614,
+     46.1988
+    ],
+    [
+     15.43588,
+     46.19872
+    ],
+    [
+     15.43587,
+     46.19843
+    ],
+    [
+     15.43534,
+     46.19822
+    ],
+    [
+     15.43487,
+     46.1984
+    ],
+    [
+     15.43387,
+     46.19805
+    ],
+    [
+     15.43332,
+     46.19803
+    ],
+    [
+     15.43274,
+     46.19826
+    ],
+    [
+     15.43192,
+     46.19817
+    ],
+    [
+     15.43123,
+     46.19825
+    ],
+    [
+     15.43111,
+     46.19809
+    ],
+    [
+     15.43123,
+     46.1978
+    ],
+    [
+     15.43113,
+     46.19751
+    ],
+    [
+     15.43059,
+     46.19748
+    ],
+    [
+     15.43059,
+     46.19729
+    ],
+    [
+     15.43037,
+     46.19704
+    ],
+    [
+     15.43003,
+     46.197
+    ],
+    [
+     15.42973,
+     46.19677
+    ],
+    [
+     15.4299,
+     46.19648
+    ],
+    [
+     15.42946,
+     46.19632
+    ],
+    [
+     15.42897,
+     46.19562
+    ],
+    [
+     15.42843,
+     46.19556
+    ],
+    [
+     15.42852,
+     46.19538
+    ],
+    [
+     15.42823,
+     46.19529
+    ],
+    [
+     15.42829,
+     46.19502
+    ],
+    [
+     15.42811,
+     46.19485
+    ],
+    [
+     15.4277,
+     46.19486
+    ],
+    [
+     15.42774,
+     46.19462
+    ],
+    [
+     15.42792,
+     46.19451
+    ],
+    [
+     15.42777,
+     46.19421
+    ],
+    [
+     15.42806,
+     46.19405
+    ],
+    [
+     15.42793,
+     46.19379
+    ],
+    [
+     15.42827,
+     46.19362
+    ],
+    [
+     15.42885,
+     46.19366
+    ],
+    [
+     15.42898,
+     46.19352
+    ],
+    [
+     15.4287,
+     46.19319
+    ],
+    [
+     15.42836,
+     46.19312
+    ],
+    [
+     15.42836,
+     46.19228
+    ],
+    [
+     15.42857,
+     46.19209
+    ],
+    [
+     15.42859,
+     46.19187
+    ],
+    [
+     15.42887,
+     46.1917
+    ],
+    [
+     15.42866,
+     46.19133
+    ],
+    [
+     15.42837,
+     46.19116
+    ],
+    [
+     15.42862,
+     46.19087
+    ],
+    [
+     15.42876,
+     46.19027
+    ],
+    [
+     15.42894,
+     46.1901
+    ],
+    [
+     15.42948,
+     46.19006
+    ],
+    [
+     15.42976,
+     46.18979
+    ],
+    [
+     15.42979,
+     46.18951
+    ],
+    [
+     15.43018,
+     46.1896
+    ],
+    [
+     15.43042,
+     46.18922
+    ],
+    [
+     15.43012,
+     46.18849
+    ],
+    [
+     15.43048,
+     46.1882
+    ],
+    [
+     15.42971,
+     46.18687
+    ],
+    [
+     15.42975,
+     46.1866
+    ],
+    [
+     15.4296,
+     46.18628
+    ],
+    [
+     15.42983,
+     46.186
+    ],
+    [
+     15.42935,
+     46.18552
+    ],
+    [
+     15.425,
+     46.18544
+    ],
+    [
+     15.42496,
+     46.18576
+    ],
+    [
+     15.42431,
+     46.18553
+    ],
+    [
+     15.42446,
+     46.18599
+    ],
+    [
+     15.42426,
+     46.1864
+    ],
+    [
+     15.42381,
+     46.18631
+    ],
+    [
+     15.42355,
+     46.18642
+    ],
+    [
+     15.42318,
+     46.18633
+    ],
+    [
+     15.42263,
+     46.18557
+    ],
+    [
+     15.42209,
+     46.18548
+    ],
+    [
+     15.42175,
+     46.18572
+    ],
+    [
+     15.42151,
+     46.18572
+    ],
+    [
+     15.42091,
+     46.1855
+    ],
+    [
+     15.42067,
+     46.18567
+    ],
+    [
+     15.42071,
+     46.18595
+    ],
+    [
+     15.42013,
+     46.18675
+    ],
+    [
+     15.41964,
+     46.18712
+    ],
+    [
+     15.41908,
+     46.18673
+    ],
+    [
+     15.41851,
+     46.18676
+    ],
+    [
+     15.41822,
+     46.18661
+    ],
+    [
+     15.41797,
+     46.18684
+    ],
+    [
+     15.41747,
+     46.18684
+    ],
+    [
+     15.41725,
+     46.18647
+    ],
+    [
+     15.417,
+     46.18648
+    ],
+    [
+     15.41667,
+     46.18629
+    ],
+    [
+     15.41633,
+     46.18668
+    ],
+    [
+     15.41636,
+     46.18701
+    ],
+    [
+     15.41606,
+     46.18729
+    ],
+    [
+     15.41565,
+     46.18706
+    ],
+    [
+     15.4156,
+     46.18679
+    ],
+    [
+     15.41534,
+     46.18674
+    ],
+    [
+     15.41502,
+     46.18696
+    ],
+    [
+     15.415,
+     46.18725
+    ],
+    [
+     15.4147,
+     46.18743
+    ],
+    [
+     15.41439,
+     46.18735
+    ],
+    [
+     15.41434,
+     46.18784
+    ],
+    [
+     15.41415,
+     46.18786
+    ],
+    [
+     15.4139,
+     46.18763
+    ],
+    [
+     15.41357,
+     46.1877
+    ],
+    [
+     15.41352,
+     46.18747
+    ],
+    [
+     15.41327,
+     46.18757
+    ],
+    [
+     15.41324,
+     46.18773
+    ],
+    [
+     15.41296,
+     46.18773
+    ],
+    [
+     15.41317,
+     46.18793
+    ],
+    [
+     15.41323,
+     46.18829
+    ],
+    [
+     15.41387,
+     46.18839
+    ],
+    [
+     15.41379,
+     46.18873
+    ],
+    [
+     15.4134,
+     46.18869
+    ],
+    [
+     15.41345,
+     46.1888
+    ],
+    [
+     15.41332,
+     46.18886
+    ],
+    [
+     15.4127,
+     46.18892
+    ],
+    [
+     15.41247,
+     46.18857
+    ],
+    [
+     15.41194,
+     46.18842
+    ],
+    [
+     15.41194,
+     46.18902
+    ],
+    [
+     15.4121,
+     46.18913
+    ],
+    [
+     15.41218,
+     46.18949
+    ],
+    [
+     15.41206,
+     46.18961
+    ],
+    [
+     15.41213,
+     46.18984
+    ],
+    [
+     15.4119,
+     46.19053
+    ],
+    [
+     15.41146,
+     46.19107
+    ],
+    [
+     15.41139,
+     46.19192
+    ],
+    [
+     15.41122,
+     46.19213
+    ],
+    [
+     15.41124,
+     46.19263
+    ],
+    [
+     15.41158,
+     46.19297
+    ],
+    [
+     15.41224,
+     46.19287
+    ],
+    [
+     15.41324,
+     46.1947
+    ],
+    [
+     15.41397,
+     46.19557
+    ],
+    [
+     15.41451,
+     46.19688
+    ],
+    [
+     15.41446,
+     46.19778
+    ],
+    [
+     15.41461,
+     46.19814
+    ],
+    [
+     15.41495,
+     46.19843
+    ],
+    [
+     15.41644,
+     46.19912
+    ],
+    [
+     15.41695,
+     46.1992
+    ],
+    [
+     15.4175,
+     46.19918
+    ],
+    [
+     15.4207,
+     46.19847
+    ],
+    [
+     15.42153,
+     46.19862
+    ],
+    [
+     15.42245,
+     46.19841
+    ],
+    [
+     15.42283,
+     46.19845
+    ],
+    [
+     15.423,
+     46.19855
+    ],
+    [
+     15.42292,
+     46.19868
+    ],
+    [
+     15.4223,
+     46.19876
+    ],
+    [
+     15.42229,
+     46.19899
+    ],
+    [
+     15.42284,
+     46.1992
+    ],
+    [
+     15.42291,
+     46.19942
+    ],
+    [
+     15.42271,
+     46.19963
+    ],
+    [
+     15.42288,
+     46.20006
+    ],
+    [
+     15.4237,
+     46.20084
+    ],
+    [
+     15.42442,
+     46.20092
+    ],
+    [
+     15.42459,
+     46.20109
+    ],
+    [
+     15.42456,
+     46.20225
+    ],
+    [
+     15.42265,
+     46.20358
+    ],
+    [
+     15.42218,
+     46.20412
+    ],
+    [
+     15.42115,
+     46.20438
+    ],
+    [
+     15.42063,
+     46.20482
+    ],
+    [
+     15.42097,
+     46.2061
+    ],
+    [
+     15.42033,
+     46.20727
+    ],
+    [
+     15.42067,
+     46.2081
+    ],
+    [
+     15.41986,
+     46.20891
+    ],
+    [
+     15.41926,
+     46.20917
+    ],
+    [
+     15.41865,
+     46.20964
+    ],
+    [
+     15.4177,
+     46.21005
+    ],
+    [
+     15.41628,
+     46.21104
+    ],
+    [
+     15.41558,
+     46.21123
+    ],
+    [
+     15.41248,
+     46.21155
+    ],
+    [
+     15.41086,
+     46.21155
+    ],
+    [
+     15.41059,
+     46.21172
+    ],
+    [
+     15.4104,
+     46.21219
+    ],
+    [
+     15.40989,
+     46.21229
+    ],
+    [
+     15.40923,
+     46.21215
+    ],
+    [
+     15.40911,
+     46.21259
+    ],
+    [
+     15.40706,
+     46.21358
+    ],
+    [
+     15.40495,
+     46.21374
+    ],
+    [
+     15.40373,
+     46.21355
+    ],
+    [
+     15.40204,
+     46.21298
+    ],
+    [
+     15.40174,
+     46.21275
+    ],
+    [
+     15.4016,
+     46.21223
+    ],
+    [
+     15.40129,
+     46.21177
+    ],
+    [
+     15.40039,
+     46.21133
+    ],
+    [
+     15.40036,
+     46.21102
+    ],
+    [
+     15.39966,
+     46.21064
+    ],
+    [
+     15.39836,
+     46.2105
+    ],
+    [
+     15.39811,
+     46.21041
+    ],
+    [
+     15.3981,
+     46.21023
+    ],
+    [
+     15.39739,
+     46.21007
+    ],
+    [
+     15.39715,
+     46.21021
+    ],
+    [
+     15.39718,
+     46.21083
+    ],
+    [
+     15.39709,
+     46.21087
+    ],
+    [
+     15.39682,
+     46.21074
+    ],
+    [
+     15.39675,
+     46.21026
+    ],
+    [
+     15.39657,
+     46.21018
+    ],
+    [
+     15.39552,
+     46.21017
+    ],
+    [
+     15.39496,
+     46.2103
+    ],
+    [
+     15.39462,
+     46.21044
+    ],
+    [
+     15.39434,
+     46.21122
+    ],
+    [
+     15.39338,
+     46.2112
+    ],
+    [
+     15.39307,
+     46.21135
+    ],
+    [
+     15.39298,
+     46.2117
+    ],
+    [
+     15.39275,
+     46.21186
+    ],
+    [
+     15.39182,
+     46.21178
+    ],
+    [
+     15.39149,
+     46.21202
+    ],
+    [
+     15.39088,
+     46.21282
+    ],
+    [
+     15.38978,
+     46.21315
+    ],
+    [
+     15.38895,
+     46.21305
+    ],
+    [
+     15.3876,
+     46.21252
+    ],
+    [
+     15.38564,
+     46.21251
+    ],
+    [
+     15.38473,
+     46.21209
+    ],
+    [
+     15.38367,
+     46.21214
+    ],
+    [
+     15.383,
+     46.21163
+    ],
+    [
+     15.3826,
+     46.21157
+    ],
+    [
+     15.38085,
+     46.21194
+    ],
+    [
+     15.37998,
+     46.21143
+    ],
+    [
+     15.37959,
+     46.21145
+    ],
+    [
+     15.37871,
+     46.21195
+    ],
+    [
+     15.37805,
+     46.21211
+    ],
+    [
+     15.37788,
+     46.21205
+    ],
+    [
+     15.37756,
+     46.21159
+    ],
+    [
+     15.3767,
+     46.21155
+    ],
+    [
+     15.37528,
+     46.21242
+    ],
+    [
+     15.37446,
+     46.21227
+    ],
+    [
+     15.37329,
+     46.2124
+    ],
+    [
+     15.37189,
+     46.21224
+    ],
+    [
+     15.3703,
+     46.21272
+    ],
+    [
+     15.36922,
+     46.21236
+    ],
+    [
+     15.36886,
+     46.21237
+    ],
+    [
+     15.36601,
+     46.21322
+    ],
+    [
+     15.36523,
+     46.21402
+    ],
+    [
+     15.36502,
+     46.21409
+    ],
+    [
+     15.36364,
+     46.21331
+    ],
+    [
+     15.36315,
+     46.2133
+    ],
+    [
+     15.36246,
+     46.21353
+    ],
+    [
+     15.3622,
+     46.21392
+    ],
+    [
+     15.36264,
+     46.2145
+    ],
+    [
+     15.36251,
+     46.21469
+    ],
+    [
+     15.36198,
+     46.21486
+    ],
+    [
+     15.36103,
+     46.21461
+    ],
+    [
+     15.36024,
+     46.21419
+    ],
+    [
+     15.35598,
+     46.21564
+    ],
+    [
+     15.35558,
+     46.21562
+    ],
+    [
+     15.35489,
+     46.21623
+    ],
+    [
+     15.35416,
+     46.21631
+    ],
+    [
+     15.35385,
+     46.21655
+    ],
+    [
+     15.35346,
+     46.21718
+    ],
+    [
+     15.35288,
+     46.21707
+    ],
+    [
+     15.35243,
+     46.21669
+    ],
+    [
+     15.35211,
+     46.2166
+    ],
+    [
+     15.35111,
+     46.21682
+    ],
+    [
+     15.3509,
+     46.21696
+    ],
+    [
+     15.35048,
+     46.21773
+    ],
+    [
+     15.34983,
+     46.21812
+    ],
+    [
+     15.34899,
+     46.21833
+    ],
+    [
+     15.34459,
+     46.21871
+    ],
+    [
+     15.33599,
+     46.21899
+    ],
+    [
+     15.33445,
+     46.21893
+    ],
+    [
+     15.33229,
+     46.21954
+    ],
+    [
+     15.32786,
+     46.22108
+    ],
+    [
+     15.32677,
+     46.22121
+    ],
+    [
+     15.32485,
+     46.22109
+    ],
+    [
+     15.32216,
+     46.22066
+    ],
+    [
+     15.32127,
+     46.22066
+    ],
+    [
+     15.31936,
+     46.22167
+    ],
+    [
+     15.31845,
+     46.22192
+    ],
+    [
+     15.3171,
+     46.22197
+    ],
+    [
+     15.31547,
+     46.22253
+    ],
+    [
+     15.31451,
+     46.22267
+    ],
+    [
+     15.31349,
+     46.22273
+    ],
+    [
+     15.31301,
+     46.22263
+    ],
+    [
+     15.31211,
+     46.22312
+    ],
+    [
+     15.30938,
+     46.2237
+    ],
+    [
+     15.30771,
+     46.22346
+    ],
+    [
+     15.30618,
+     46.22267
+    ],
+    [
+     15.30556,
+     46.22257
+    ],
+    [
+     15.30405,
+     46.22286
+    ],
+    [
+     15.30167,
+     46.22286
+    ],
+    [
+     15.29856,
+     46.22357
+    ],
+    [
+     15.2978,
+     46.22391
+    ],
+    [
+     15.29754,
+     46.22426
+    ],
+    [
+     15.29626,
+     46.22825
+    ],
+    [
+     15.29611,
+     46.23001
+    ],
+    [
+     15.29562,
+     46.2306
+    ],
+    [
+     15.29456,
+     46.2312
+    ],
+    [
+     15.29271,
+     46.23166
+    ],
+    [
+     15.2809,
+     46.23231
+    ],
+    [
+     15.27863,
+     46.23238
+    ],
+    [
+     15.27754,
+     46.23229
+    ],
+    [
+     15.27187,
+     46.23113
+    ],
+    [
+     15.27121,
+     46.23079
+    ],
+    [
+     15.27075,
+     46.2303
+    ],
+    [
+     15.26928,
+     46.22802
+    ],
+    [
+     15.26895,
+     46.22727
+    ],
+    [
+     15.26869,
+     46.22612
+    ],
+    [
+     15.26871,
+     46.2253
+    ],
+    [
+     15.26894,
+     46.22459
+    ],
+    [
+     15.26981,
+     46.22343
+    ],
+    [
+     15.26988,
+     46.22291
+    ],
+    [
+     15.26973,
+     46.22227
+    ],
+    [
+     15.26925,
+     46.22185
+    ],
+    [
+     15.26855,
+     46.2215
+    ],
+    [
+     15.26763,
+     46.22121
+    ],
+    [
+     15.26595,
+     46.22104
+    ]
+   ]
+  },
+  "center": [
+   46.21212,
+   15.38407
+  ],
+  "lengthKm": 23.3,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.18792,
+    "lon": 15.42997,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.2321,
+    "lon": 15.27877,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.22078,
+    "lon": 15.26707,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.22761,
+    "lon": 15.26852,
+    "name": null,
+    "distKm": 0.04
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:17.831Z"
+ },
+ {
+  "id": "rd-voglajna/voglajna-mrtvice",
+  "clubSlug": "rd-voglajna",
+  "slug": "voglajna-mrtvice",
+  "code": "Voglajna-mrtvice",
+  "name": "Mrtvica Voglajne",
+  "subtitle": "Od Prožniške vasi do izliva v Voglajno",
+  "en": {
+   "name": "The Voglajna's backwaters",
+   "subtitle": "from Prožniška vas to the outflow into the Voglajna",
+   "description": "The Voglajna's backwaters in Prožniška vas offer plenty of food and good hiding places for the fish from the river."
+  },
+  "club": {
+   "name": "Ribiška družina Voglajna",
+   "url": "https://www.ribiskekarte.si/rd-voglajna"
+  },
+  "description": "Mrtvica reke Voglajne v Prožniški vasi nudi ribam iz reke obilo hrane in dobro skrivališče.",
+  "waterType": "river",
+  "water": "Voglajna",
+  "species": [
+   "androga",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "androga",
+   "bolen",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 12,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/390"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-voglajna/nakup/393"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-voglajna/voglajna-mrtvice",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izliv"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.26595,
+    46.22104
+   ]
+  },
+  "center": [
+   46.22104,
+   15.26595
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.22078,
+    "lon": 15.26707,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.22462,
+    "lon": 15.26508,
+    "name": null,
+    "distKm": 0.4
+   },
+   {
+    "lat": 46.21914,
+    "lon": 15.27323,
+    "name": null,
+    "distKm": 0.6
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:20.210Z"
+ }
+]

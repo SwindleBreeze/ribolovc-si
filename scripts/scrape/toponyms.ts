@@ -5,6 +5,7 @@
 
 export function norm(s: string): string {
   return s
+    .replace(/\./g, ' ')
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
@@ -43,20 +44,40 @@ export function classifyBound(phrase: string): { kind: BoundKind; other?: string
 
 const STOP = new Set(['Reka', 'Reke', 'Potok', 'Potoka', 'HE', 'RD', 'Republike', 'Hrvaško', 'Italijo', 'Avstrijo', 'Madžarsko']);
 
-/** Capitalised word runs in a phrase: candidate toponyms ("Šmartinskega broda" → ["Šmartinskega"]). */
+const CONNECTORS = new Set(['ob', 'pri', 'na', 'nad', 'pod', 'v', 'pod', 'pred']);
+const isCap = (w: string) => /^[A-ZČŠŽĆĐ][\p{L}-]+$/u.test(w) && !STOP.has(w);
+
+/**
+ * Candidate toponyms in a phrase: runs of capitalised words, runs joined by short
+ * connectors ("Središče ob Dravi"), and a capitalised word with the lowercase word after it
+ * ("Zidanem mostu", "Mršeče vasi", "Cajhnovega jezu").
+ */
 export function toponymCandidates(phrase: string): string[] {
-  const words = phrase.split(/[\s,()]+/);
-  const runs: string[] = [];
+  const words = expandAbbreviations(phrase)
+    .replace(/\./g, ' ')
+    .split(/[\s,()]+/)
+    .filter(Boolean);
+  const out: string[] = [];
+  const add = (s: string) => {
+    if (s && !out.includes(s)) out.push(s);
+  };
   let cur: string[] = [];
   for (const w of words) {
-    if (/^[A-ZČŠŽĆĐ][\p{L}-]+$/u.test(w) && !STOP.has(w)) cur.push(w);
+    if (isCap(w)) cur.push(w);
     else if (cur.length) {
-      runs.push(cur.join(' '));
+      add(cur.join(' '));
       cur = [];
     }
   }
-  if (cur.length) runs.push(cur.join(' '));
-  return runs;
+  if (cur.length) add(cur.join(' '));
+  for (let i = 0; i < words.length; i++) {
+    if (!isCap(words[i])) continue;
+    const next = words[i + 1];
+    const after = words[i + 2];
+    if (next && CONNECTORS.has(next) && after && isCap(after)) add(`${words[i]} ${next} ${after}`);
+    if (next && /^[a-zčšž]{3,}$/u.test(next) && !CONNECTORS.has(next)) add(`${words[i]} ${next}`);
+  }
+  return out;
 }
 
 /** Plausible nominative forms of an inflected Slovenian word (locative/genitive/instrumental). */
@@ -77,6 +98,20 @@ export function nominativeVariants(word: string): string[] {
     [/e$/, 'a'], // do Tržiške Bistrice → Tržiška Bistrica
     [/e$/, 'i'],
     [/ega$/, 'i'], // Šmartinskega → Šmartinski
+    [/ega$/, ''], // Cajhnovega → Cajhnov
+    [/ami$/, 'e'], // pod Brjami → Brje
+    [/ami$/, 'a'],
+    [/mi$/, ''],
+    [/ju$/, 'je'], // v Melju → Melje
+    [/cu$/, 'ec'], // v Zagradcu → Zagradec (fleeting e)
+    [/ca$/, 'ec'],
+    [/ku$/, 'ek'],
+    [/ka$/, 'ek'],
+    [/nu$/, 'en'], // v Tacnu → Tacen
+    [/lu$/, 'el'],
+    [/em$/, 'o'], // v Šmartnem → Šmartno
+    [/em$/, 'i'], // v Zidanem → Zidani
+    [/u$/, 'o'], // v Velenju? → handled by ju; v Mostu → Most covered by u→''
     [/ega$/, 'o'],
     [/em$/, ''],
     [/om$/, ''],
@@ -106,6 +141,29 @@ export function waterName(name: string): string {
       /^(reka|potok|kanal|odvodni kanal|dovodni kanal|akumulacijsko jezero|akumulacija|jezero|ribnik[ia]?|gramoznica|bajer|mrtvica|struga|revir)\s+/i,
       '',
     )
-    .replace(/\s+\d+$/, '')
+    .replace(/\s+(s|z)\s+pritok.*$/i, '')
+    .replace(/\s+in\s+mrtvic.*$/i, '')
+    .replace(/\s*\+.*$/, '')
+    .replace(/\s+(R\s*)?[\dIVX]+[.\s].*$/, '')
+    .replace(/\s+(R\s*)?[\dIVX]+$/, '')
+    .replace(/\s+-\s+\p{L}+\s+del$/iu, '')
     .trim();
+}
+
+/** Common abbreviations in boundary descriptions. */
+export function expandAbbreviations(s: string): string {
+  return s.replace(/\bpri SG\b/g, 'pri Slovenj Gradcu').replace(/\bSG\b/g, 'Slovenj Gradec');
+}
+
+/** Abbreviated key for a place name ("Zgornji Dolič" → "zg dolic"), matching "Zg. Doliču" queries. */
+export function abbreviatedKey(name: string): string {
+  return norm(name)
+    .replace(/\b(zgornj[aei]|zgornji)\b/g, 'zg')
+    .replace(/\b(spodnj[aei])\b/g, 'sp')
+    .replace(/\b(srednj[aei])\b/g, 'sr')
+    .replace(/\b(doln?j[aei]|dolenj[aei])\b/g, 'dol')
+    .replace(/\b(gorenj[aei]|gornj[aei])\b/g, 'gor')
+    .replace(/\b(svet[aieo])\b/g, 'sv')
+    .replace(/\b(velik[aieo])\b/g, 'vel')
+    .replace(/\b(mal[aieo])\b/g, 'm');
 }

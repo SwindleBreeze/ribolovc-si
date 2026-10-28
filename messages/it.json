@@ -11,18 +11,28 @@
     "lureFinder": "Quale esca?",
     "support": "Sostieni",
     "about": "Info",
-    "language": "Lingua"
+    "language": "Lingua",
+    "sections": "Tratti di pesca",
+    "main": "Menu principale"
   },
   "home": {
-    "heroTitle": "Dove, cosa e come pescare in Slovenia",
-    "heroText": "Una mappa di {count} spot di pesca con specie, regole, accesso e previsioni a 4 giorni. Per principianti e pescatori esperti.",
+    "heroTitle": "Dove abboccano oggi?",
+    "heroText": "Tutti i tratti con permesso su un’unica mappa – con pesci, regole, accesso e previsioni a quattro giorni.",
     "newHere": "Prima volta? Inizia qui",
     "spotsTitle": "Spot",
     "results": "{count, plural, one {# spot} other {# spot}}",
     "noResults": "Nessuno spot corrisponde ai filtri.",
     "nearMe": "Vicino a me",
     "nearMeError": "Impossibile determinare la posizione.",
-    "kmAway": "{km} km"
+    "kmAway": "{km} km",
+    "listTitle": "Tratti nella mappa",
+    "onlinePermit": "permesso online",
+    "zoomIn": "e altri {count} – ingrandisci la mappa",
+    "eyebrow": "Guida da campo per pescatori · Slovenia",
+    "statSections": "Tratti",
+    "statClubs": "Società di pesca",
+    "statSpecies": "Specie",
+    "startTitle": "La prima volta in acqua"
   },
   "filters": {
     "title": "Filtri",
@@ -34,7 +44,9 @@
     "any": "Tutti",
     "reset": "Azzera",
     "search": "Cerca spot…",
-    "depthLayer": "Profondità del mare (EMODnet)"
+    "depthLayer": "Profondità del mare (EMODnet)",
+    "club": "Società",
+    "online": "Permesso online"
   },
   "waterType": {
     "river": "Fiume",
@@ -103,7 +115,16 @@
     "links": "Link",
     "lastUpdated": "Ultimo aggiornamento: {date}",
     "reportIssue": "Segnala un errore",
-    "nearby": "Spot vicini"
+    "nearby": "Spot vicini",
+    "lures": "Esche",
+    "water": "Acqua",
+    "method": "Metodo",
+    "from": "da {price}",
+    "perDay": "/ giorno",
+    "flowing": "Corrente",
+    "still": "Ferma",
+    "salmonid": "salmonidi",
+    "coarse": "ciprinidi"
   },
   "conditions": {
     "loading": "Caricamento previsioni…",
@@ -181,7 +202,9 @@
       "waning-gibbous": "Gibbosa calante",
       "last-quarter": "Ultimo quarto",
       "waning-crescent": "Falce calante"
-    }
+    },
+    "whyScore": "Perché {score}?",
+    "heading": "Condizioni per quattro giorni"
   },
   "species": {
     "title": "Pesci della Slovenia",
@@ -199,7 +222,11 @@
     "protected": "Specie protetta / sensibile",
     "generalRule": "Periodi di divieto e misure minime in acqua dolce sono fissati dal regolamento di ogni tratto.",
     "where": "Dove pescarlo",
-    "waterTemp": "Temp. dell'acqua ideale: {min}–{max} °C"
+    "waterTemp": "Temp. dell'acqua ideale: {min}–{max} °C",
+    "protectedShort": "protetta",
+    "waterTempShort": "Temp. acqua",
+    "minSizeShort": "Misura min.",
+    "places": "Tratti e spot"
   },
   "guides": {
     "title": "Guide",
@@ -258,5 +285,43 @@
     "seeAll": "Vedi tutti",
     "km": "km",
     "offline": "Offline – mostriamo una versione salvata."
+  },
+  "footer": {
+    "sources": "Dati: ribiskekarte.si, OpenStreetMap, ARSO, Open-Meteo"
+  },
+  "legend": {
+    "salmonid": "Acque a salmonidi",
+    "coarse": "Acque a ciprinidi",
+    "curated": "Spot consigliato",
+    "approx": "Tratto (posizione approssimativa)"
+  },
+  "revir": {
+    "indexTitle": "Tutti i tratti di pesca",
+    "indexLede": "Tratti con permessi online, raggruppati per società di pesca.",
+    "empty": "I dati dei tratti non sono ancora disponibili.",
+    "about": "Il tratto",
+    "moreAtSource": "Di più su ribiskekarte.si",
+    "speciesSource": "Secondo la società di pesca",
+    "allListed": "Tutte le specie elencate",
+    "permitOnline": "{club} vende i permessi per questo tratto su ribiskekarte.si.",
+    "permitClub": "I permessi sono venduti da {club}.",
+    "buyAtSource": "Acquista su ribiskekarte.si",
+    "rulesNote": "Riepilogo da ribiskekarte.si · valgono le regole del permesso.",
+    "baits": "Esche consentite",
+    "length": "Lunghezza",
+    "mapPdf": "Mappa del tratto (PDF)",
+    "source": "Fonte: ribiskekarte.si, OSM · {date}",
+    "quality": {
+      "segment": "Il tratto è ricavato dai confini e dai fiumi di OpenStreetMap.",
+      "water": "È mostrato l’intero specchio d’acqua da OpenStreetMap.",
+      "partial": "È noto un solo confine – la posizione è approssimativa.",
+      "gauge": "Posizione presso l’idrometro – approssimativa.",
+      "place": "Posizione in base al luogo nel nome – approssimativa.",
+      "none": "Il tratto non è ancora sulla mappa."
+    }
+  },
+  "notFound": {
+    "title": "Qui non abbocca niente.",
+    "text": "Pagina non trovata."
   }
 }

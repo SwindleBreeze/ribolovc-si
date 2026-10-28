@@ -3,6 +3,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { getAllSpecies, getGuide, getLures } from '@/lib/content';
 import { loc } from '@/lib/text';
+import { PageHeader } from '@/components/ui/PageHeader';
 import { LureFinder, type FinderLure, type FinderSpecies } from '@/components/LureFinder';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }): Promise<Metadata> {
@@ -43,10 +44,11 @@ export default async function LureFinderPage({ params }: { params: Promise<{ loc
   });
 
   return (
-    <div className="mx-auto max-w-4xl px-4 py-6">
-      <h1 className="text-2xl font-extrabold md:text-3xl">{t('title')}</h1>
-      <p className="muted mt-1">{t('intro')}</p>
-      <LureFinder species={species} lures={lures} />
-    </div>
+    <>
+      <PageHeader title={t('title')} lede={t('intro')} />
+      <div className="mx-auto max-w-[1100px] px-4 pb-16 pt-8 md:px-8">
+        <LureFinder species={species} lures={lures} />
+      </div>
+    </>
   );
 }

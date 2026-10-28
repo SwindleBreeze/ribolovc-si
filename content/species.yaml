@@ -885,3 +885,299 @@
   techniques: [eging]
   rigs: [eging]
   tempRange: [12, 20]
+
+# --- Additional species listed by fishing clubs on ribiskekarte.si ---------------------
+- slug: androga
+  name: { sl: Androga, en: White bream, de: Güster, it: Blicca }
+  latin: Blicca bjoerkna
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Ploščiču podobna, a manjša jatna riba z rdečkastimi parnimi plavutmi. Pogost ulov na feederju.
+    en: Like a common bream but smaller, with reddish paired fins. A frequent feeder catch.
+  habitat:
+    sl: Počasne nižinske reke, mrtvice in jezera.
+    en: Slow lowland rivers, backwaters and lakes.
+  baits:
+    sl: Ličinke, črvi, koruza z vabilno mešanico.
+    en: Maggots, worms, sweetcorn with groundbait.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Večer in jutro.
+    en: Evening and morning.
+  techniques: [feeder, float]
+  rigs: [feeder-rig, float-rig]
+  tempRange: [14, 24]
+
+- slug: platnica
+  name: { sl: Platnica, en: Danube roach, de: Frauennerfling, it: Pigo }
+  latin: Rutilus virgo
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Velika sorodnica rdečeoke iz porečja Donave, z izrazito rdečimi plavutmi. Varovana vrsta v več revirjih.
+    en: A large relative of the roach from the Danube basin with bright red fins. Protected in several districts.
+  habitat:
+    sl: Hitrejši globoki deli Save, Savinje, Krke, Kolpe in Mure.
+    en: Faster, deeper stretches of the Sava, Savinja, Krka, Kolpa and Mura.
+  baits:
+    sl: Ličinke, črvi, kruh; feeder ali plovec v toku.
+    en: Maggots, worms, bread; feeder or trotted float.
+  bestMonths: [5, 6, 9, 10]
+  bestTime:
+    sl: Jutro, rahlo motna voda.
+    en: Morning, slightly coloured water.
+  techniques: [feeder, float]
+  rigs: [feeder-rig, float-rig]
+  tempRange: [10, 20]
+  rules:
+    note:
+      sl: Ponekod zaščitena ali z omejitvijo – preverite ribolovni red.
+      en: Protected or restricted in some districts – check the rules.
+
+- slug: ogrica
+  name: { sl: Ogrica (sivka), en: Vimba bream, de: Zährte, it: Vimba }
+  latin: Vimba vimba
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Ploščiču podobna riba z značilnim podaljšanim gobčkom, ki ob drstenju potemni.
+    en: A bream-like fish with a protruding snout that turns dark during spawning.
+  habitat:
+    sl: Večje nižinske reke (Drava, Mura, Sava) in akumulacije.
+    en: Large lowland rivers (Drava, Mura, Sava) and reservoirs.
+  baits:
+    sl: Ličinke, črvi na feederju.
+    en: Maggots and worms on the feeder.
+  bestMonths: [4, 5, 9, 10]
+  bestTime:
+    sl: Jutro in večer.
+    en: Morning and evening.
+  techniques: [feeder, bottom]
+  rigs: [feeder-rig]
+  tempRange: [10, 20]
+
+- slug: tolstolobik
+  name: { sl: Tolstolobik, en: Silver carp, de: Silberkarpfen, it: Carpa argentata }
+  latin: Hypophthalmichthys molitrix / H. nobilis
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Velika vložena azijska riba, ki se hrani s planktonom; težko jo zavedemo, a je izjemno močna.
+    en: A large stocked Asian carp that filters plankton; hard to tempt but extremely powerful.
+  habitat:
+    sl: Topla jezera in akumulacije.
+    en: Warm lakes and reservoirs.
+  baits:
+    sl: Plavajoče testo, "planktonske" vabe, pena iz kruha.
+    en: Floating paste, "plankton" baits, bread flake.
+  bestMonths: [6, 7, 8]
+  bestTime:
+    sl: Vroči poletni dnevi.
+    en: Hot summer days.
+  techniques: [float, carp]
+  rigs: [float-rig]
+  tempRange: [20, 30]
+
+- slug: americki-somic
+  name: { sl: Črni ameriški somič, en: Black bullhead, de: Schwarzer Zwergwels, it: Pesce gatto }
+  latin: Ameiurus melas
+  water: fresh
+  group: catfish
+  description:
+    sl: Majhen invaziven som iz Severne Amerike; pogosto prijemlje ponoči.
+    en: A small invasive catfish from North America that bites readily at night.
+  habitat:
+    sl: Mirne, blatne vode, mrtvice in ribniki.
+    en: Calm, muddy waters, backwaters and ponds.
+  baits:
+    sl: Črvi, koščki rib.
+    en: Worms, fish pieces.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Mrak in noč.
+    en: Dusk and night.
+  techniques: [bottom, float]
+  rigs: [feeder-rig, float-rig]
+  tempRange: [16, 28]
+  rules:
+    note:
+      sl: Invazivna vrsta – ulovljenih rib ne vračajte v vodo, če to določa revir.
+      en: Invasive – do not return fish to the water where the district requires it.
+
+- slug: pohra
+  name: { sl: Pohra, en: Balkan barbel, de: Balkanbarbe, it: Barbo balcanico }
+  latin: Barbus balcanicus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Manjša, pegasta sorodnica mrene v hitrih potokih in manjših rekah.
+    en: A smaller, spotted relative of the barbel in fast brooks and small rivers.
+  habitat:
+    sl: Prodnati potoki in manjše reke.
+    en: Gravelly brooks and small rivers.
+  baits:
+    sl: Ličinke, črvi, nimfe.
+    en: Maggots, worms, nymphs.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float, fly]
+  rigs: [float-rig, euro-nymphing]
+  tempRange: [10, 20]
+
+- slug: jez
+  name: { sl: Jez, en: Ide, de: Aland, it: Ido }
+  latin: Leuciscus idus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Klenu podobna, a višja riba velikih rek; jemlje tudi umetne vabe in muhe.
+    en: Similar to chub but deeper-bodied, found in big rivers; takes lures and flies too.
+  habitat:
+    sl: Drava, Mura in Sava ter njihove mrtvice.
+    en: The Drava, Mura and Sava and their backwaters.
+  baits:
+    sl: Ličinke, kruh, majhne vrtilke.
+    en: Maggots, bread, small spinners.
+  bestMonths: [4, 5, 6, 9]
+  bestTime:
+    sl: Jutro in večer.
+    en: Morning and evening.
+  techniques: [float, spin, feeder]
+  rigs: [float-rig, spinning]
+  tempRange: [10, 22]
+
+- slug: krizanec
+  name: { sl: Križanec (postrv), en: Hybrid trout, de: Hybridforelle, it: Trota ibrida }
+  latin: Salmo marmoratus × S. trutta
+  water: fresh
+  group: salmonid
+  description:
+    sl: Križanec soške in potočne postrvi, pogost v Posočju. Revirji ga pogosto obravnavajo kot soško postrv.
+    en: A cross between marble and brown trout, common in the Soča basin. Districts often treat it like marble trout.
+  habitat:
+    sl: Soča in pritoki.
+    en: The Soča and its tributaries.
+  baits:
+    sl: Nimfe, streamerji, suhe muhe.
+    en: Nymphs, streamers, dry flies.
+  bestMonths: [4, 5, 6, 9, 10]
+  bestTime:
+    sl: Jutro, mrak, oblačni dnevi.
+    en: Morning, dusk, overcast days.
+  techniques: [fly]
+  rigs: [euro-nymphing, dry-fly]
+  tempRange: [6, 15]
+
+- slug: klenic
+  name: { sl: Klenič, en: Common dace, de: Hasel, it: Leucisco }
+  latin: Leuciscus leuciscus
+  water: fresh
+  group: cyprinid
+  description:
+    sl: Vitek, hiter manjši sorodnik klena v čistih tekočih vodah.
+    en: A slim, fast relative of the chub in clean running water.
+  habitat:
+    sl: Čiste reke s prodnatim dnom.
+    en: Clean rivers with gravel beds.
+  baits:
+    sl: Ličinke, drobne suhe muhe.
+    en: Maggots, small dry flies.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Čez dan.
+    en: During the day.
+  techniques: [float, fly]
+  rigs: [float-rig, dry-fly]
+  tempRange: [8, 20]
+
+- slug: menek
+  name: { sl: Menek, en: Burbot, de: Quappe, it: Bottatrice }
+  latin: Lota lota
+  water: fresh
+  group: catfish
+  description:
+    sl: Edina sladkovodna trska; aktivna pozimi in ponoči. V Sloveniji redka in pogosto zaščitena.
+    en: The only freshwater cod; active in winter and at night. Rare in Slovenia and often protected.
+  habitat:
+    sl: Hladne, globoke reke in jezera, pod kamni.
+    en: Cold, deep rivers and lakes, under stones.
+  baits:
+    sl: Črvi, ribice na dnu.
+    en: Worms, small fish on the bottom.
+  bestMonths: [11, 12, 1, 2]
+  bestTime:
+    sl: Mrzle noči.
+    en: Cold nights.
+  techniques: [bottom]
+  rigs: [feeder-rig]
+  tempRange: [2, 10]
+  protected: true
+
+- slug: postrvji-ostriz
+  name: { sl: Postrvji ostriž, en: Largemouth bass, de: Forellenbarsch, it: Persico trota }
+  latin: Micropterus salmoides
+  water: fresh
+  group: predator
+  description:
+    sl: Ameriški plenilec, vložen v nekatera jezera; odličen za lov z umetnimi vabami.
+    en: An American predator stocked in some lakes; great sport on lures.
+  habitat:
+    sl: Topla jezera z rastlinjem in podvodnimi ovirami.
+    en: Warm lakes with weed beds and sunken cover.
+  baits:
+    sl: Gumijaste vabe, površinske vabe, vrtilke.
+    en: Soft plastics, topwater lures, spinners.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Jutro in večer.
+    en: Morning and evening.
+  techniques: [spin]
+  rigs: [spinning, drop-shot]
+  tempRange: [16, 27]
+
+- slug: jezerska-postrv
+  name: { sl: Jezerska postrv, en: Lake trout (brown), de: Seeforelle, it: Trota lacustre }
+  latin: Salmo trutta lacustris
+  water: fresh
+  group: salmonid
+  description:
+    sl: Jezerska oblika potočne postrvi, ki zraste precej večja. Lovi se z vrtenjem ali vlečenjem vab s čolna.
+    en: The lake form of brown trout, growing much larger. Caught spinning or trolling from a boat.
+  habitat:
+    sl: Globoka hladna jezera in akumulacije.
+    en: Deep, cold lakes and reservoirs.
+  baits:
+    sl: Žlice, voblerji, streamerji.
+    en: Spoons, minnow plugs, streamers.
+  bestMonths: [4, 5, 10, 11]
+  bestTime:
+    sl: Jutro, oblačno vreme.
+    en: Morning, overcast weather.
+  techniques: [spin, fly]
+  rigs: [spinning]
+  tempRange: [5, 14]
+
+- slug: jeseter
+  name: { sl: Jeseter, en: Sturgeon, de: Stör, it: Storione }
+  latin: Acipenser spp.
+  water: fresh
+  group: other
+  description:
+    sl: Prastara riba z ostmi namesto lusk; v Sloveniji le v nekaterih ribnikih za športni ribolov.
+    en: An ancient fish with bony plates instead of scales; in Slovenia only in some put-and-take ponds.
+  habitat:
+    sl: Ribniki in jezera s posebno ponudbo.
+    en: Selected ponds and lakes.
+  baits:
+    sl: Pelete, črvi, koščki rib na dnu.
+    en: Pellets, worms, fish pieces on the bottom.
+  bestMonths: [5, 6, 7, 8, 9]
+  bestTime:
+    sl: Jutro.
+    en: Morning.
+  techniques: [bottom, carp]
+  rigs: [feeder-rig]
+  tempRange: [14, 24]

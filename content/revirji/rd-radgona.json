@@ -1,0 +1,4715 @@
+[
+ {
+  "id": "rd-radgona/blagusko-jezero",
+  "clubSlug": "rd-radgona",
+  "slug": "blagusko-jezero",
+  "code": "Blaguško jezero (096)",
+  "name": "Jezero Blaguš",
+  "subtitle": "Blaguško 096",
+  "en": {
+   "name": "The lake Blaguš",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Blaguško jezero",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1419"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 60,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1420"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 90,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1421"
+   },
+   {
+    "name": "Ciprinidi",
+    "priceEur": 6,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/605"
+   },
+   {
+    "name": "Ciprinidi (nočna)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/606"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/632"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/873"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/blagusko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Blaguško jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.99064,
+      46.56449
+     ],
+     [
+      15.99078,
+      46.56443
+     ],
+     [
+      15.99105,
+      46.56462
+     ],
+     [
+      15.99183,
+      46.56449
+     ],
+     [
+      15.99471,
+      46.5648
+     ],
+     [
+      15.99521,
+      46.56474
+     ],
+     [
+      15.99689,
+      46.56415
+     ],
+     [
+      15.9975,
+      46.56349
+     ],
+     [
+      15.99791,
+      46.56328
+     ],
+     [
+      15.99808,
+      46.5634
+     ],
+     [
+      15.99831,
+      46.56444
+     ],
+     [
+      15.99899,
+      46.56508
+     ],
+     [
+      16.00167,
+      46.56639
+     ],
+     [
+      16.00292,
+      46.56714
+     ],
+     [
+      16.00297,
+      46.56735
+     ],
+     [
+      16.00139,
+      46.56802
+     ],
+     [
+      16.00057,
+      46.56743
+     ],
+     [
+      16.00029,
+      46.56703
+     ],
+     [
+      15.99864,
+      46.56632
+     ],
+     [
+      15.99715,
+      46.56546
+     ],
+     [
+      15.99461,
+      46.56555
+     ],
+     [
+      15.99198,
+      46.56522
+     ],
+     [
+      15.99155,
+      46.56514
+     ],
+     [
+      15.99145,
+      46.56473
+     ],
+     [
+      15.99107,
+      46.56478
+     ],
+     [
+      15.99064,
+      46.56449
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.56539,
+   15.99693
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [
+   {
+    "lat": 46.5675,
+    "lon": 16.00284,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:26:58.527Z"
+ },
+ {
+  "id": "rd-radgona/desna-okrogla",
+  "clubSlug": "rd-radgona",
+  "slug": "desna-okrogla",
+  "code": "Desna okrogla (063)",
+  "name": "Desna okrogla",
+  "subtitle": "063",
+  "en": {
+   "name": "Desna okrogla",
+   "subtitle": "063",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "Revir je namenjen ljubiteljem beličarjenja. V gramoznici prevladujejo krap, srebrni koreselj, ploščič, androga in zelenika.",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "androga",
+   "koreselj",
+   "krap",
+   "ploscic",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "androga",
+   "babuška",
+   "krap",
+   "ploščič",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1146"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/desna-okrogla",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:24.908Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-gradisce-komercialna",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-gradisce-komercialna",
+  "code": "Gradišče - komercialna (090.2)",
+  "name": "Gramoznica Gradišče komercialna",
+  "subtitle": "090.2",
+  "en": {
+   "name": "The gravel pit Gradišče-commercial",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 6,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/582"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1280"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-gradisce-komercialna",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:32.124Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-gradisce-desno",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-gradisce-desno",
+  "code": "Gradišče desno (087)",
+  "name": "Gramoznica Gradišče desno",
+  "subtitle": "087",
+  "en": {
+   "name": "The gravel pit Gradišče desno",
+   "subtitle": "",
+   "description": "-"
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/589"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1288"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-gradisce-desno",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:34.515Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-gradisce-levo",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-gradisce-levo",
+  "code": "Gradišče levo (090.1)",
+  "name": "Gramoznica Gradišče levo",
+  "subtitle": "090.1",
+  "en": {
+   "name": "Gramoznica Gradišče levo",
+   "subtitle": "090.1",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 5,
+    "saleWindow": "Nakup od 29. 02. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1287"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-gradisce-levo",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:36.912Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-gradisce-pri-domu-rd",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-gradisce-pri-domu-rd",
+  "code": "Gradišče pri domu RD (088)",
+  "name": "Gramoznica Gradišče desno dom",
+  "subtitle": "088",
+  "en": {
+   "name": "The gravel pit Gradišče-right, at the lodge",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1437"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 60,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1455"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 90,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1473"
+   },
+   {
+    "name": "Ciprinidi",
+    "priceEur": 6,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/587"
+   },
+   {
+    "name": "Ciprinidi (nočna)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/601"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1279"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1499"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-gradisce-pri-domu-rd",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:39.342Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-gradisce-skrajno-desno",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-gradisce-skrajno-desno",
+  "code": "Gradišče skrajno desno (086)",
+  "name": "Gramoznica Gradišče skrajno desno",
+  "subtitle": "086",
+  "en": {
+   "name": "The gravel pit Gradišče skrajno desno",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/591"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/641"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-gradisce-skrajno-desno",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:41.711Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-karavla-v-slatinsica",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-karavla-v-slatinsica",
+  "code": "Karavla V. slatinšica (075)",
+  "name": "Gramoznica Karavla V. slatinšica",
+  "subtitle": "075",
+  "en": {
+   "name": "The gravel pit Karavla V. Slatinšica",
+   "subtitle": "",
+   "description": "o"
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "mrtva riba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1439"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 50,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1457"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 70,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1475"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/622"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-karavla-v-slatinsica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:46.557Z"
+ },
+ {
+  "id": "rd-radgona/levo-ob-gozdu-hrastje-mota",
+  "clubSlug": "rd-radgona",
+  "slug": "levo-ob-gozdu-hrastje-mota",
+  "code": "Levo ob gozdu Hrastje Mota (119)",
+  "name": "Levo ob gozdu Hrastje Mota",
+  "subtitle": "119",
+  "en": {
+   "name": "Levo ob gozdu Hrastje Mota",
+   "subtitle": "119",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "americki-somic",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1310"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1311"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/levo-ob-gozdu-hrastje-mota",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "jezero ni v OSM",
+   "kraj Hrastje-Mota"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    16.07551,
+    46.61643
+   ]
+  },
+  "center": [
+   46.61643,
+   16.07551
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:39.354Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-504-linj",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-504-linj",
+  "code": "Linj (036)",
+  "name": "Gramoznica Linj",
+  "subtitle": "036",
+  "en": {
+   "name": "The gravel pit Linj",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1441"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 60,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1459"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 90,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1477"
+   },
+   {
+    "name": "Ciprinidi",
+    "priceEur": 6,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/524"
+   },
+   {
+    "name": "Ciprinidi (nočna)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/633"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1274"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1275"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-504-linj",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:41.767Z"
+ },
+ {
+  "id": "rd-radgona/mrtvica-lesjakova-del",
+  "clubSlug": "rd-radgona",
+  "slug": "mrtvica-lesjakova-del",
+  "code": "Lisjakova struga (144)",
+  "name": "Lisjakova struga",
+  "subtitle": "144",
+  "en": {
+   "name": "The channel Lisjakova struga",
+   "subtitle": "",
+   "description": "-"
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/536"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/537"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/mrtvica-lesjakova-del",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:46.555Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-lutverci-del",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-lutverci-del",
+  "code": "Lutverci (146)",
+  "name": "Gramoznica Lutverci",
+  "subtitle": "146",
+  "en": {
+   "name": "The gravel pit Lutverci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "ploscic",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "ploščič",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/534"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/535"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-lutverci-del",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:08.153Z"
+ },
+ {
+  "id": "rd-radgona/mura",
+  "clubSlug": "rd-radgona",
+  "slug": "mura",
+  "code": "Mura (001)",
+  "name": "Reka Mura",
+  "subtitle": "001",
+  "en": {
+   "name": "The river Mura",
+   "subtitle": "from the bridge in Trate to the cable ferry Krog",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Mura",
+  "species": [
+   "androga",
+   "bolen",
+   "klen",
+   "klenic",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica",
+   "ploscic",
+   "podust",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "androga",
+   "bolen",
+   "klen",
+   "klenič",
+   "krap",
+   "linj",
+   "mrena",
+   "ogrica (sivka)",
+   "ploščič",
+   "podust",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/550"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/551"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/mura",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.68151,
+   "lon": 16.000253
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.06361,
+     46.64254
+    ],
+    [
+     16.06258,
+     46.64368
+    ],
+    [
+     16.06141,
+     46.64462
+    ],
+    [
+     16.05899,
+     46.64623
+    ],
+    [
+     16.05696,
+     46.64717
+    ],
+    [
+     16.05015,
+     46.64947
+    ],
+    [
+     16.04448,
+     46.65119
+    ],
+    [
+     16.04274,
+     46.65213
+    ],
+    [
+     16.04157,
+     46.65302
+    ],
+    [
+     16.03343,
+     46.65788
+    ],
+    [
+     16.02941,
+     46.65915
+    ],
+    [
+     16.02769,
+     46.66001
+    ],
+    [
+     16.02611,
+     46.66161
+    ],
+    [
+     16.02552,
+     46.66195
+    ],
+    [
+     16.02368,
+     46.66241
+    ],
+    [
+     16.02245,
+     46.6624
+    ],
+    [
+     16.02019,
+     46.6627
+    ],
+    [
+     16.01615,
+     46.66292
+    ],
+    [
+     16.01441,
+     46.66331
+    ],
+    [
+     16.01283,
+     46.66385
+    ],
+    [
+     16.01039,
+     46.66514
+    ],
+    [
+     16.00924,
+     46.66597
+    ],
+    [
+     16.00817,
+     46.66698
+    ],
+    [
+     16.00726,
+     46.66807
+    ],
+    [
+     16.00625,
+     46.66993
+    ],
+    [
+     16.00471,
+     46.67466
+    ],
+    [
+     16.00356,
+     46.67653
+    ],
+    [
+     16.00174,
+     46.67844
+    ],
+    [
+     15.99994,
+     46.67973
+    ],
+    [
+     15.99835,
+     46.68057
+    ],
+    [
+     15.99619,
+     46.68138
+    ],
+    [
+     15.99416,
+     46.68197
+    ],
+    [
+     15.98533,
+     46.68425
+    ],
+    [
+     15.98307,
+     46.68467
+    ],
+    [
+     15.96554,
+     46.68666
+    ],
+    [
+     15.96008,
+     46.68699
+    ],
+    [
+     15.94706,
+     46.68905
+    ],
+    [
+     15.94307,
+     46.69062
+    ],
+    [
+     15.94114,
+     46.69167
+    ],
+    [
+     15.93852,
+     46.69338
+    ],
+    [
+     15.92778,
+     46.70096
+    ]
+   ]
+  },
+  "center": [
+   46.68028,
+   15.99889
+  ],
+  "lengthKm": 13,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.68217,
+    "lon": 15.99005,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.66197,
+    "lon": 16.01592,
+    "name": null,
+    "distKm": 0.11
+   },
+   {
+    "lat": 46.68666,
+    "lon": 15.9788,
+    "name": null,
+    "distKm": 0.17
+   },
+   {
+    "lat": 46.68588,
+    "lon": 15.98526,
+    "name": null,
+    "distKm": 0.17
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:20.213Z"
+ },
+ {
+  "id": "rd-radgona/murski-crnci",
+  "clubSlug": "rd-radgona",
+  "slug": "murski-crnci",
+  "code": "Murski Črnci (091)",
+  "name": "Gramoznica Murski Črnci",
+  "subtitle": "091",
+  "en": {
+   "name": "Gramoznica Murski Črnci",
+   "subtitle": "091",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1306"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1307"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/murski-crnci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:32.169Z"
+ },
+ {
+  "id": "rd-radgona/negova-jezero-del",
+  "clubSlug": "rd-radgona",
+  "slug": "negova-jezero-del",
+  "code": "Negova jezero-del (148)",
+  "name": "Negovsko jezero",
+  "subtitle": "148",
+  "en": {
+   "name": "The lake Negovsko jezero",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": "Negovsko jezero",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1443"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 60,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1461"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 90,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1479"
+   },
+   {
+    "name": "Ciprinidi",
+    "priceEur": 6,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/539"
+   },
+   {
+    "name": "Ciprinidi (nočna)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/540"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/541"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/872"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/negova-jezero-del",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Negovsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.95941,
+      46.5966
+     ],
+     [
+      15.96024,
+      46.59584
+     ],
+     [
+      15.96063,
+      46.59526
+     ],
+     [
+      15.96068,
+      46.59469
+     ],
+     [
+      15.96047,
+      46.59429
+     ],
+     [
+      15.96004,
+      46.59395
+     ],
+     [
+      15.96005,
+      46.59363
+     ],
+     [
+      15.96033,
+      46.59333
+     ],
+     [
+      15.9612,
+      46.59367
+     ],
+     [
+      15.96224,
+      46.59452
+     ],
+     [
+      15.96407,
+      46.59431
+     ],
+     [
+      15.96453,
+      46.59443
+     ],
+     [
+      15.96459,
+      46.59559
+     ],
+     [
+      15.9622,
+      46.59612
+     ],
+     [
+      15.9615,
+      46.59656
+     ],
+     [
+      15.9606,
+      46.59678
+     ],
+     [
+      15.95981,
+      46.59735
+     ],
+     [
+      15.95965,
+      46.59726
+     ],
+     [
+      15.95984,
+      46.59686
+     ],
+     [
+      15.95941,
+      46.5966
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.59537,
+   15.96164
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:41.782Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-podgrad",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-podgrad",
+  "code": "Podgrad (047)",
+  "name": "Gramoznica Podgrad",
+  "subtitle": "047",
+  "en": {
+   "name": "The gravel pit Podgrad",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "koreselj",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "koreselj",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/532"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/533"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-podgrad",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:20.170Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-pri-barnu-del",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-pri-barnu-del",
+  "code": "Pri Barnu-del (147)",
+  "name": "Gramoznica Pri Barnu",
+  "subtitle": "147",
+  "en": {
+   "name": "The gravel pit Pri Barnu",
+   "subtitle": "the cave Okrogla jama",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "amur",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "jez",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 19. 10. do 14. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1445"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 60,
+    "saleWindow": "Nakup od 19. 10. do 14. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1463"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 19. 10. do 14. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1481"
+   },
+   {
+    "name": "Ciprinidi C&R",
+    "priceEur": 6,
+    "saleWindow": "Nakup od 19. 10. do 14. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/552"
+   },
+   {
+    "name": "Roparice C&R",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 19. 10. do 14. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1278"
+   },
+   {
+    "name": "Roparice C&R (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 19. 10. do 14. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1500"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-pri-barnu-del",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:39.393Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-508-pri-karavli",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-508-pri-karavli",
+  "code": "Pri karavli (040)",
+  "name": "Ribnik pri Karavli",
+  "subtitle": "040",
+  "en": {
+   "name": "The pond at Karavla",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 31. 12. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1447"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 60,
+    "saleWindow": "Nakup od 31. 12. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1465"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 31. 12. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1483"
+   },
+   {
+    "name": "Ciprinidi",
+    "priceEur": 6,
+    "saleWindow": "Nakup od 31. 12. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/527"
+   },
+   {
+    "name": "Ciprinidi (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 31. 12. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1271"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/528"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1273"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-508-pri-karavli",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.49518,
+      46.0047
+     ],
+     [
+      15.49579,
+      46.00431
+     ],
+     [
+      15.49651,
+      46.00445
+     ],
+     [
+      15.49682,
+      46.00471
+     ],
+     [
+      15.497,
+      46.00516
+     ],
+     [
+      15.4968,
+      46.00549
+     ],
+     [
+      15.49698,
+      46.00609
+     ],
+     [
+      15.49686,
+      46.00655
+     ],
+     [
+      15.49715,
+      46.00715
+     ],
+     [
+      15.49675,
+      46.00733
+     ],
+     [
+      15.49633,
+      46.00707
+     ],
+     [
+      15.49612,
+      46.00681
+     ],
+     [
+      15.49618,
+      46.00608
+     ],
+     [
+      15.49592,
+      46.00603
+     ],
+     [
+      15.49602,
+      46.0059
+     ],
+     [
+      15.49576,
+      46.00563
+     ],
+     [
+      15.49582,
+      46.00544
+     ],
+     [
+      15.49518,
+      46.0047
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.00584,
+   15.49632
+  ],
+  "lengthKm": null,
+  "region": "posavje",
+  "parking": [
+   {
+    "lat": 46.00494,
+    "lon": 15.4977,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:41.791Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-pri-nasipu-petanjci",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-pri-nasipu-petanjci",
+  "code": "Pri nasipu Petanjci (073)",
+  "name": "Gramoznica pri nasipu Petanjci",
+  "subtitle": "073",
+  "en": {
+   "name": "The gravel pit at the embankment Petanjci",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/625"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/626"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-pri-nasipu-petanjci",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:44.168Z"
+ },
+ {
+  "id": "rd-radgona/rankovci-velika",
+  "clubSlug": "rd-radgona",
+  "slug": "rankovci-velika",
+  "code": "Rankovci velika (082)",
+  "name": "Rankovci velika",
+  "subtitle": "082",
+  "en": {
+   "name": "Rankovci velika",
+   "subtitle": "082",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "americki-somic",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1308"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1309"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/rankovci-velika",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "jezero ni v OSM",
+   "kraj Rankovci"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    16.08467,
+    46.67235
+   ]
+  },
+  "center": [
+   46.67235,
+   16.08467
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:24.974Z"
+ },
+ {
+  "id": "rd-radgona/rogoz",
+  "clubSlug": "rd-radgona",
+  "slug": "rogoz",
+  "code": "Rogoz (145)",
+  "name": "Rogoz",
+  "subtitle": "145",
+  "en": {
+   "name": "Rogoz",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "americki-somic",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "androga",
+   "koreselj",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1304"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1305"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/rogoz",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:56.193Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-som-2",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-som-2",
+  "code": "Som II (142)",
+  "name": "Gramoznica Som II",
+  "subtitle": "142",
+  "en": {
+   "name": "The gravel pit Som II",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Gramoznica",
+  "species": [
+   "americki-somic",
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "ameriški somič",
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1449"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 50,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1467"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 70,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1485"
+   },
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/638"
+   },
+   {
+    "name": "Ciprinidi (nočna)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/640"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 28. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/639"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1270"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-som-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Gramoznica"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.21582,
+      46.55725
+     ],
+     [
+      16.21642,
+      46.55671
+     ],
+     [
+      16.21695,
+      46.557
+     ],
+     [
+      16.2191,
+      46.55654
+     ],
+     [
+      16.21956,
+      46.55659
+     ],
+     [
+      16.21969,
+      46.55674
+     ],
+     [
+      16.21925,
+      46.55712
+     ],
+     [
+      16.21895,
+      46.55716
+     ],
+     [
+      16.21882,
+      46.55702
+     ],
+     [
+      16.21795,
+      46.55721
+     ],
+     [
+      16.21837,
+      46.55762
+     ],
+     [
+      16.21854,
+      46.5576
+     ],
+     [
+      16.21854,
+      46.55732
+     ],
+     [
+      16.2193,
+      46.55722
+     ],
+     [
+      16.21876,
+      46.55844
+     ],
+     [
+      16.21809,
+      46.55874
+     ],
+     [
+      16.21582,
+      46.55725
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.55751,
+   16.21787
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:44.219Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-506-stara-jama",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-506-stara-jama",
+  "code": "Stara jama (038)",
+  "name": "Jezero Stara jama",
+  "subtitle": "038",
+  "en": {
+   "name": "The lake Stara jama",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "V revirju je dovoljen le ribolov po načelu ujemi in spusti!",
+  "waterType": "lake",
+  "water": "Stara",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1451"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 50,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1469"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 70,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1487"
+   },
+   {
+    "name": "Ujemi in spusti - roparice",
+    "priceEur": 7,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1267"
+   },
+   {
+    "name": "Ujemi in spusti - roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1268"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-506-stara-jama",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Stara"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.14407,
+      46.61009
+     ],
+     [
+      16.14415,
+      46.60956
+     ],
+     [
+      16.14521,
+      46.60935
+     ],
+     [
+      16.14538,
+      46.60915
+     ],
+     [
+      16.14555,
+      46.60916
+     ],
+     [
+      16.1459,
+      46.60993
+     ],
+     [
+      16.14488,
+      46.6102
+     ],
+     [
+      16.14488,
+      46.61048
+     ],
+     [
+      16.14422,
+      46.61063
+     ],
+     [
+      16.14424,
+      46.61018
+     ],
+     [
+      16.14407,
+      46.61009
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.60988,
+   16.14484
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.61097,
+    "lon": 16.14709,
+    "name": null,
+    "distKm": 0.15
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:58.614Z"
+ },
+ {
+  "id": "rd-radgona/scavnica-2",
+  "clubSlug": "rd-radgona",
+  "slug": "scavnica-2",
+  "code": "Ščavnica 2 (044)",
+  "name": "Reka Ščavnica",
+  "subtitle": "044",
+  "en": {
+   "name": "The river Ščavnica",
+   "subtitle": "from the bridge in Sp.Ščavnica to the bridge in Okoslavci",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "river",
+  "water": "Ščavnica",
+  "species": [
+   "klen",
+   "klenic",
+   "koreselj",
+   "krap",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "klenič",
+   "koreselj",
+   "krap",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/546"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/547"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/scavnica-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "odsek okoli sedeža družine",
+   "sidro: središče družine"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     16.29381,
+     46.52205
+    ],
+    [
+     16.29319,
+     46.52211
+    ],
+    [
+     16.29241,
+     46.52252
+    ],
+    [
+     16.29195,
+     46.52258
+    ],
+    [
+     16.28715,
+     46.52205
+    ],
+    [
+     16.28442,
+     46.5229
+    ],
+    [
+     16.28379,
+     46.5227
+    ],
+    [
+     16.28224,
+     46.52182
+    ],
+    [
+     16.28126,
+     46.52162
+    ],
+    [
+     16.28033,
+     46.52168
+    ],
+    [
+     16.27901,
+     46.52254
+    ],
+    [
+     16.27847,
+     46.52257
+    ],
+    [
+     16.27711,
+     46.52204
+    ],
+    [
+     16.27546,
+     46.52095
+    ],
+    [
+     16.27436,
+     46.52065
+    ],
+    [
+     16.27168,
+     46.52052
+    ],
+    [
+     16.26954,
+     46.52082
+    ],
+    [
+     16.26821,
+     46.52059
+    ],
+    [
+     16.26588,
+     46.52091
+    ],
+    [
+     16.26539,
+     46.52086
+    ],
+    [
+     16.26225,
+     46.51974
+    ],
+    [
+     16.25867,
+     46.519
+    ],
+    [
+     16.2582,
+     46.51865
+    ],
+    [
+     16.25692,
+     46.51715
+    ],
+    [
+     16.25573,
+     46.51643
+    ],
+    [
+     16.25323,
+     46.51601
+    ],
+    [
+     16.25143,
+     46.51637
+    ],
+    [
+     16.24858,
+     46.51651
+    ],
+    [
+     16.24793,
+     46.51644
+    ],
+    [
+     16.24718,
+     46.51606
+    ],
+    [
+     16.24612,
+     46.51513
+    ],
+    [
+     16.2451,
+     46.51485
+    ],
+    [
+     16.24436,
+     46.51495
+    ],
+    [
+     16.23915,
+     46.51689
+    ],
+    [
+     16.23475,
+     46.51762
+    ],
+    [
+     16.23232,
+     46.5183
+    ],
+    [
+     16.23177,
+     46.51856
+    ],
+    [
+     16.23043,
+     46.51966
+    ],
+    [
+     16.2292,
+     46.52016
+    ],
+    [
+     16.22633,
+     46.5204
+    ],
+    [
+     16.2238,
+     46.51951
+    ],
+    [
+     16.22283,
+     46.51945
+    ],
+    [
+     16.22218,
+     46.51958
+    ],
+    [
+     16.22131,
+     46.52005
+    ],
+    [
+     16.22059,
+     46.52105
+    ],
+    [
+     16.22,
+     46.52154
+    ],
+    [
+     16.21895,
+     46.52178
+    ],
+    [
+     16.21663,
+     46.52144
+    ],
+    [
+     16.21548,
+     46.52156
+    ],
+    [
+     16.21461,
+     46.522
+    ],
+    [
+     16.21332,
+     46.52332
+    ],
+    [
+     16.21276,
+     46.52368
+    ],
+    [
+     16.21075,
+     46.5237
+    ],
+    [
+     16.20986,
+     46.52359
+    ],
+    [
+     16.20899,
+     46.52328
+    ],
+    [
+     16.20679,
+     46.52209
+    ],
+    [
+     16.20505,
+     46.52169
+    ],
+    [
+     16.20354,
+     46.52168
+    ],
+    [
+     16.201,
+     46.5223
+    ],
+    [
+     16.19977,
+     46.52228
+    ],
+    [
+     16.19878,
+     46.52199
+    ],
+    [
+     16.19785,
+     46.52151
+    ],
+    [
+     16.19662,
+     46.52132
+    ],
+    [
+     16.19484,
+     46.52069
+    ],
+    [
+     16.19397,
+     46.52059
+    ],
+    [
+     16.19345,
+     46.51996
+    ],
+    [
+     16.19295,
+     46.5196
+    ],
+    [
+     16.19118,
+     46.51926
+    ],
+    [
+     16.18439,
+     46.51989
+    ],
+    [
+     16.18281,
+     46.52017
+    ],
+    [
+     16.18159,
+     46.52064
+    ],
+    [
+     16.17982,
+     46.52173
+    ],
+    [
+     16.179,
+     46.52181
+    ],
+    [
+     16.17388,
+     46.52294
+    ],
+    [
+     16.17086,
+     46.52475
+    ],
+    [
+     16.16975,
+     46.52512
+    ],
+    [
+     16.16853,
+     46.52531
+    ],
+    [
+     16.16729,
+     46.52528
+    ],
+    [
+     16.16321,
+     46.52478
+    ],
+    [
+     16.16146,
+     46.52503
+    ],
+    [
+     16.15985,
+     46.52566
+    ],
+    [
+     16.15893,
+     46.52588
+    ],
+    [
+     16.15773,
+     46.52598
+    ],
+    [
+     16.15659,
+     46.52591
+    ],
+    [
+     16.15494,
+     46.52548
+    ],
+    [
+     16.15402,
+     46.52499
+    ],
+    [
+     16.15244,
+     46.52341
+    ],
+    [
+     16.1514,
+     46.52276
+    ],
+    [
+     16.14982,
+     46.52231
+    ],
+    [
+     16.14773,
+     46.52224
+    ],
+    [
+     16.14631,
+     46.52249
+    ],
+    [
+     16.14465,
+     46.52317
+    ],
+    [
+     16.14379,
+     46.5238
+    ],
+    [
+     16.14264,
+     46.5251
+    ],
+    [
+     16.14154,
+     46.52583
+    ],
+    [
+     16.13286,
+     46.5278
+    ],
+    [
+     16.12973,
+     46.52909
+    ]
+   ]
+  },
+  "center": [
+   46.52368,
+   16.21276
+  ],
+  "lengthKm": 14.2,
+  "region": "pomurje",
+  "parking": [
+   {
+    "lat": 46.52038,
+    "lon": 16.19401,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.52204,
+    "lon": 16.28161,
+    "name": "Razkrižki kot",
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.52033,
+    "lon": 16.2653,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.51852,
+    "lon": 16.23371,
+    "name": "Filipič",
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:10.605Z"
+ },
+ {
+  "id": "rd-radgona/gramozinca-tekmovalna",
+  "clubSlug": "rd-radgona",
+  "slug": "gramozinca-tekmovalna",
+  "code": "Tekmovalna - dolga (134)",
+  "name": "Gramoznica Tekmovalna",
+  "subtitle": "Dolga jama 134",
+  "en": {
+   "name": "The gravel pit Tekmovalna",
+   "subtitle": "competition cave",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Ribnik tekmovalna trasa 2",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R - 3-dnevna",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1453"
+   },
+   {
+    "name": "C&R - 5-dnevna",
+    "priceEur": 50,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1471"
+   },
+   {
+    "name": "C&R - 7-dnevna",
+    "priceEur": 70,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/1489"
+   },
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/576"
+   },
+   {
+    "name": "Ciprinidi (nočna)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/634"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/577"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/645"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramozinca-tekmovalna",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik tekmovalna trasa 2"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.6645,
+      46.38583
+     ],
+     [
+      15.66583,
+      46.38458
+     ],
+     [
+      15.6674,
+      46.38496
+     ],
+     [
+      15.66827,
+      46.38466
+     ],
+     [
+      15.66891,
+      46.38493
+     ],
+     [
+      15.66754,
+      46.38743
+     ],
+     [
+      15.66723,
+      46.38706
+     ],
+     [
+      15.66725,
+      46.38652
+     ],
+     [
+      15.66597,
+      46.38653
+     ],
+     [
+      15.6645,
+      46.38583
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.386,
+   15.66674
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:22.615Z"
+ },
+ {
+  "id": "rd-radgona/gramoznica-v-pasnikih",
+  "clubSlug": "rd-radgona",
+  "slug": "gramoznica-v-pasnikih",
+  "code": "V pašnikih H. Mota (136)",
+  "name": "V pašnikih H. Mota",
+  "subtitle": "136",
+  "en": {
+   "name": "The gravel pit on the pastures",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Radgona",
+   "url": "https://www.ribiskekarte.si/rd-radgona"
+  },
+  "description": "",
+  "waterType": "lake",
+  "water": null,
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "rdeceperka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "rdečeperka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "mrtva riba",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/578"
+   },
+   {
+    "name": "Nočni ribolov",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/629"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/579"
+   },
+   {
+    "name": "Roparice (nočna)",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-radgona/nakup/644"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-radgona/gramoznica-v-pasnikih",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "jezero ni v OSM",
+   "kraj Hrastje-Mota"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    16.07551,
+    46.61643
+   ]
+  },
+  "center": [
+   46.61643,
+   16.07551
+  ],
+  "lengthKm": null,
+  "region": "pomurje",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:56.215Z"
+ }
+]

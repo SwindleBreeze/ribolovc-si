@@ -11,18 +11,28 @@
     "lureFinder": "Which lure?",
     "support": "Support",
     "about": "About",
-    "language": "Language"
+    "language": "Language",
+    "sections": "Sections",
+    "main": "Main menu"
   },
   "home": {
-    "heroTitle": "Where, what and how to fish in Slovenia",
-    "heroText": "A map of {count} fishing spots with species, rules, access and a 4-day conditions forecast. For beginners and seasoned anglers.",
+    "heroTitle": "Where are they biting today?",
+    "heroText": "Every fishing section with a permit on one map – with fish, rules, access and a four-day forecast.",
     "newHere": "New to fishing? Start here",
     "spotsTitle": "Spots",
     "results": "{count, plural, one {# spot} other {# spots}}",
     "noResults": "No spots match these filters.",
     "nearMe": "Near me",
     "nearMeError": "Could not get your location.",
-    "kmAway": "{km} km"
+    "kmAway": "{km} km",
+    "listTitle": "Sections in view",
+    "onlinePermit": "online permit",
+    "zoomIn": "and {count} more – zoom in on the map",
+    "eyebrow": "A field guide for anglers · Slovenia",
+    "statSections": "Sections",
+    "statClubs": "Fishing clubs",
+    "statSpecies": "Fish species",
+    "startTitle": "First time at the water"
   },
   "filters": {
     "title": "Filters",
@@ -34,7 +44,9 @@
     "any": "Any",
     "reset": "Reset",
     "search": "Search spots…",
-    "depthLayer": "Sea depth (EMODnet)"
+    "depthLayer": "Sea depth (EMODnet)",
+    "club": "Club",
+    "online": "Online permit"
   },
   "waterType": {
     "river": "River",
@@ -103,7 +115,16 @@
     "links": "Links",
     "lastUpdated": "Last updated: {date}",
     "reportIssue": "Report wrong information",
-    "nearby": "Nearby spots"
+    "nearby": "Nearby spots",
+    "lures": "Lures",
+    "water": "Water",
+    "method": "Method",
+    "from": "from {price}",
+    "perDay": "/ day",
+    "flowing": "Flowing",
+    "still": "Still",
+    "salmonid": "trout & grayling",
+    "coarse": "coarse fish"
   },
   "conditions": {
     "loading": "Loading forecast…",
@@ -181,7 +202,9 @@
       "waning-gibbous": "Waning gibbous",
       "last-quarter": "Last quarter",
       "waning-crescent": "Waning crescent"
-    }
+    },
+    "whyScore": "Why {score}?",
+    "heading": "Conditions for the next four days"
   },
   "species": {
     "title": "Fish of Slovenia",
@@ -199,7 +222,11 @@
     "protected": "Protected / sensitive species",
     "generalRule": "Freshwater closed seasons and minimum sizes are set by each fishing district's rules.",
     "where": "Where to catch it",
-    "waterTemp": "Preferred water temp.: {min}–{max} °C"
+    "waterTemp": "Preferred water temp.: {min}–{max} °C",
+    "protectedShort": "protected",
+    "waterTempShort": "Water temp.",
+    "minSizeShort": "Min. size",
+    "places": "Sections & spots"
   },
   "guides": {
     "title": "Guides",
@@ -258,5 +285,43 @@
     "seeAll": "See all",
     "km": "km",
     "offline": "Offline – showing a saved version."
+  },
+  "footer": {
+    "sources": "Data: ribiskekarte.si, OpenStreetMap, ARSO, Open-Meteo"
+  },
+  "legend": {
+    "salmonid": "Trout & grayling water",
+    "coarse": "Coarse-fish water",
+    "curated": "Featured spot",
+    "approx": "Section (approximate position)"
+  },
+  "revir": {
+    "indexTitle": "All fishing sections",
+    "indexLede": "Sections with online permits, grouped by fishing club.",
+    "empty": "Section data is not available yet.",
+    "about": "About this section",
+    "moreAtSource": "More on ribiskekarte.si",
+    "speciesSource": "According to the fishing club",
+    "allListed": "All listed species",
+    "permitOnline": "{club} sells permits for this section on ribiskekarte.si.",
+    "permitClub": "Permits are sold by {club}.",
+    "buyAtSource": "Buy on ribiskekarte.si",
+    "rulesNote": "Summary from ribiskekarte.si · the rules on your permit apply.",
+    "baits": "Allowed baits",
+    "length": "Length",
+    "mapPdf": "Section map (PDF)",
+    "source": "Source: ribiskekarte.si, OSM · {date}",
+    "quality": {
+      "segment": "The stretch is drawn from the section boundaries and OpenStreetMap rivers.",
+      "water": "The whole water body from OpenStreetMap is shown.",
+      "partial": "Only one boundary is known – the position is approximate.",
+      "gauge": "Positioned at the gauging station – approximate.",
+      "place": "Positioned by the place in the section name – approximate.",
+      "none": "The section has not been placed on the map yet."
+    }
+  },
+  "notFound": {
+    "title": "Nothing biting here.",
+    "text": "This page could not be found."
   }
 }

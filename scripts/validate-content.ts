@@ -5,7 +5,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { getAllSpecies, getGuideSlugs, getLures, getSpots } from '../lib/content';
+import { getAllSpecies, getGuideSlugs, getLures, getRevirji, getSpots } from '../lib/content';
 
 const problems: string[] = [];
 const fail = (msg: string) => problems.push(msg);
@@ -22,10 +22,12 @@ function unique(kind: string, slugs: string[]) {
 let spots: ReturnType<typeof getSpots> = [];
 let species: ReturnType<typeof getAllSpecies> = [];
 let lures: ReturnType<typeof getLures> = [];
+let revirji: ReturnType<typeof getRevirji> = [];
 try {
   spots = getSpots();
   species = getAllSpecies();
   lures = getLures();
+  revirji = getRevirji();
 } catch (e) {
   console.error((e as Error).message);
   process.exit(1);
@@ -56,6 +58,11 @@ for (const l of lures) {
   if (l.guide && !guideSlugs.has(l.guide)) fail(`lure ${l.slug}: unknown guide "${l.guide}"`);
 }
 
+unique('revir', revirji.map((r) => r.id));
+for (const r of revirji) {
+  for (const s of r.species) if (!speciesSlugs.has(s)) fail(`revir ${r.id}: unknown species "${s}" (add it to species.yaml)`);
+}
+
 // Internal links inside guides: /<locale>/guides/<slug>
 for (const g of guideSlugs) {
   for (const file of fs.readdirSync(path.join('content/guides', g))) {
@@ -71,5 +78,5 @@ if (problems.length) {
   process.exit(1);
 }
 console.log(
-  `Content OK: ${spots.length} spots, ${species.length} species, ${lures.length} lures, ${guideSlugs.size} guides.`,
+  `Content OK: ${spots.length} spots, ${revirji.length} sections, ${species.length} species, ${lures.length} lures, ${guideSlugs.size} guides.`,
 );

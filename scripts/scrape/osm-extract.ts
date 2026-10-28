@@ -51,7 +51,8 @@ function ringAreaKm2(ring: LonLat[]): number {
   return Math.abs(a / 2);
 }
 
-const PLACE_KINDS = new Set(['city', 'town', 'village', 'hamlet', 'suburb', 'locality', 'isolated_dwelling', 'neighbourhood', 'quarter']);
+const PLACE_KINDS = new Set(['city', 'town', 'village', 'hamlet', 'suburb', 'locality', 'isolated_dwelling', 'neighbourhood', 'quarter', 'island', 'islet', 'farm', 'square']);
+const NATURAL_LANDMARKS = new Set(['spring', 'sinkhole', 'gorge', 'cave_entrance', 'waterfall', 'rapids']);
 
 async function main() {
   const [input, outDir] = process.argv.slice(2);
@@ -92,6 +93,8 @@ async function main() {
       places.push({ id, name, kind: p.place, at: centroidOf(g) });
     } else if (p.waterway === 'dam' || p.waterway === 'weir' || p.man_made === 'bridge') {
       structures.push({ id, name, kind: p.waterway ?? 'bridge', at: centroidOf(g) });
+    } else if ((p.natural && NATURAL_LANDMARKS.has(p.natural)) || (p.waterway === 'waterfall' && name)) {
+      if (name) structures.push({ id, name, kind: p.natural ?? 'waterfall', at: centroidOf(g) });
     } else if (p.amenity === 'parking' && p.access !== 'private' && p.access !== 'no' && p.access !== 'customers') {
       parking.push({ id, name, kind: p.parking ?? 'surface', at: centroidOf(g) });
     } else if (p.leisure === 'fishing') {

@@ -1,0 +1,81 @@
+[
+ {
+  "id": "rd-visoko/poljanska-sora-3",
+  "clubSlug": "rd-visoko",
+  "slug": "poljanska-sora-3",
+  "code": "Poljanska Sora 3",
+  "name": "Poljanska Sora",
+  "subtitle": "od jezu na Hotavljah do mostu na Logu nad Škofjo Loko",
+  "en": {
+   "name": "Poljanska Sora",
+   "subtitle": "from the dam in Hotavlje to the bridge at the Log nad Škofjo Loko",
+   "description": "Here, below Blegoš, the world lies like on a palm of your hand, about which the famous Slovene author dr. Ivan Tavčar already wrote. Here is nature, where one can breathe fully and relax while looking at the picturesque landscape, full of beauty and greenery. Here is the river Poljanska Sora with many pools and rapids, which adorns the valley with its flow and rich fish life."
+  },
+  "club": {
+   "name": "Ribiška družina Visoko",
+   "url": "https://www.ribiskekarte.si/rd-visoko"
+  },
+  "description": "Tu, pod Blegošem, se razprostira svet, o katerem je že pred 100 leti s posebno ljubeznijo pisal pisatelj dr. Ivan Tavčar. Tu je narava, kjer lahko človek polno zadiha in se spočije ob pogledih na slikovito pokrajino, polno lepot in zelenja. Tu je reka Poljanska Sora s številnimi tolmuni in brzicami, ki s svojim tokom in bogatim ribjim življem krasi dolino.",
+  "waterType": "river",
+  "water": "Poljanska Sora",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi - 1-dnevna",
+    "priceEur": 45,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-visoko/nakup/1120"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 120,
+    "saleWindow": "Nakup od 01. 04. do 29. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-visoko/nakup/1121"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 175,
+    "saleWindow": "Nakup od 01. 04. do 28. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-visoko/nakup/1122"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-visoko/poljanska-sora-3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "meje niso razrešene"
+  ],
+  "geometry": null,
+  "center": [
+   45.88468,
+   14.57682
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:27.354Z"
+ }
+]

@@ -1,0 +1,757 @@
+[
+ {
+  "id": "rd-koper/rizana-a",
+  "clubSlug": "rd-koper",
+  "slug": "rizana-a",
+  "code": "Rižana A+B",
+  "name": "Reka Rižana",
+  "subtitle": "",
+  "en": {
+   "name": "The river Rižana",
+   "subtitle": "",
+   "description": "Do you want to know where to fish? Where to leave your car? What kind of of a fly do you need? Just click here and read for free the guide for the river Rižana. The river Rižana is a very characteristic river because it flows in slovenian territory from the spring to the outflow into the sea."
+  },
+  "club": {
+   "name": "Ribiška družina Koper",
+   "url": "https://www.ribiskekarte.si/rd-koper"
+  },
+  "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšno muho potrebujete? Kliknite tukaj in preberite brezplačen vodič po reki Rižani. Reka Rižana je značilna reka, ki teče od izvira do izliva v morje po slovenskem ozemlju. Izvira izpod kraško slavniške planote v bližini znamenite vasi Hrastovlje, znane po srednjeveških freskah. Rižana je dolga 14 km . V Rižani je avtohtona potočna postrv jadranskega fenotipa.",
+  "waterType": "river",
+  "water": "Rižana - Risano",
+  "species": [
+   "mrena",
+   "krizanec",
+   "potocna-postrv",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "križanec",
+   "potočna postrv",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 40,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-koper/nakup/27"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-koper/rizana-a",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.74599,
+     45.55851
+    ],
+    [
+     13.75255,
+     45.55845
+    ],
+    [
+     13.75456,
+     45.55806
+    ],
+    [
+     13.75729,
+     45.55709
+    ],
+    [
+     13.75781,
+     45.55705
+    ],
+    [
+     13.76118,
+     45.55805
+    ],
+    [
+     13.76246,
+     45.55916
+    ],
+    [
+     13.76419,
+     45.56112
+    ],
+    [
+     13.76491,
+     45.56144
+    ],
+    [
+     13.76727,
+     45.56198
+    ],
+    [
+     13.76901,
+     45.56256
+    ],
+    [
+     13.76946,
+     45.56302
+    ],
+    [
+     13.77128,
+     45.56394
+    ],
+    [
+     13.77154,
+     45.56398
+    ],
+    [
+     13.77229,
+     45.56377
+    ],
+    [
+     13.77313,
+     45.56381
+    ],
+    [
+     13.77446,
+     45.56312
+    ],
+    [
+     13.77626,
+     45.563
+    ],
+    [
+     13.77781,
+     45.56198
+    ],
+    [
+     13.77925,
+     45.56036
+    ],
+    [
+     13.77965,
+     45.5601
+    ],
+    [
+     13.78203,
+     45.55934
+    ],
+    [
+     13.78211,
+     45.5591
+    ],
+    [
+     13.78193,
+     45.55809
+    ],
+    [
+     13.78213,
+     45.55793
+    ],
+    [
+     13.78264,
+     45.55776
+    ],
+    [
+     13.78335,
+     45.55774
+    ],
+    [
+     13.7843,
+     45.5573
+    ],
+    [
+     13.78508,
+     45.55728
+    ],
+    [
+     13.78539,
+     45.55712
+    ],
+    [
+     13.78585,
+     45.55642
+    ],
+    [
+     13.78655,
+     45.5558
+    ],
+    [
+     13.78786,
+     45.55232
+    ],
+    [
+     13.78787,
+     45.55075
+    ],
+    [
+     13.78809,
+     45.55039
+    ],
+    [
+     13.78954,
+     45.54985
+    ],
+    [
+     13.79074,
+     45.5487
+    ],
+    [
+     13.79197,
+     45.54825
+    ],
+    [
+     13.79248,
+     45.54793
+    ],
+    [
+     13.79312,
+     45.54749
+    ],
+    [
+     13.79423,
+     45.54638
+    ],
+    [
+     13.79493,
+     45.54596
+    ],
+    [
+     13.79599,
+     45.54583
+    ],
+    [
+     13.79827,
+     45.54614
+    ],
+    [
+     13.79885,
+     45.54606
+    ],
+    [
+     13.7999,
+     45.54531
+    ],
+    [
+     13.80053,
+     45.54426
+    ],
+    [
+     13.80232,
+     45.5437
+    ],
+    [
+     13.8041,
+     45.54292
+    ],
+    [
+     13.80537,
+     45.54289
+    ],
+    [
+     13.80807,
+     45.54255
+    ],
+    [
+     13.80875,
+     45.54278
+    ],
+    [
+     13.81101,
+     45.54226
+    ],
+    [
+     13.81188,
+     45.54237
+    ],
+    [
+     13.81306,
+     45.54298
+    ],
+    [
+     13.81669,
+     45.54341
+    ],
+    [
+     13.81887,
+     45.54327
+    ],
+    [
+     13.8198,
+     45.54281
+    ],
+    [
+     13.82147,
+     45.54332
+    ],
+    [
+     13.82194,
+     45.54324
+    ],
+    [
+     13.82248,
+     45.54288
+    ],
+    [
+     13.82272,
+     45.54289
+    ],
+    [
+     13.82299,
+     45.54304
+    ],
+    [
+     13.82357,
+     45.54398
+    ],
+    [
+     13.82396,
+     45.54426
+    ],
+    [
+     13.82474,
+     45.54444
+    ],
+    [
+     13.82652,
+     45.54439
+    ],
+    [
+     13.83155,
+     45.54328
+    ],
+    [
+     13.83285,
+     45.54239
+    ],
+    [
+     13.83343,
+     45.54216
+    ],
+    [
+     13.83486,
+     45.54188
+    ],
+    [
+     13.83638,
+     45.54239
+    ],
+    [
+     13.83687,
+     45.54237
+    ],
+    [
+     13.8387,
+     45.54186
+    ],
+    [
+     13.8395,
+     45.54177
+    ],
+    [
+     13.84053,
+     45.54258
+    ],
+    [
+     13.8419,
+     45.54338
+    ],
+    [
+     13.84488,
+     45.54425
+    ],
+    [
+     13.8462,
+     45.54431
+    ],
+    [
+     13.84717,
+     45.54407
+    ],
+    [
+     13.84797,
+     45.54339
+    ],
+    [
+     13.84944,
+     45.54264
+    ],
+    [
+     13.85125,
+     45.54209
+    ],
+    [
+     13.85223,
+     45.54228
+    ],
+    [
+     13.85315,
+     45.54187
+    ],
+    [
+     13.85365,
+     45.54178
+    ],
+    [
+     13.85419,
+     45.54185
+    ],
+    [
+     13.8554,
+     45.54232
+    ],
+    [
+     13.85702,
+     45.54241
+    ],
+    [
+     13.85954,
+     45.54135
+    ],
+    [
+     13.85979,
+     45.54084
+    ],
+    [
+     13.85989,
+     45.53944
+    ],
+    [
+     13.86038,
+     45.53843
+    ],
+    [
+     13.86138,
+     45.53749
+    ],
+    [
+     13.86253,
+     45.53664
+    ],
+    [
+     13.86587,
+     45.53524
+    ],
+    [
+     13.86674,
+     45.53523
+    ],
+    [
+     13.86857,
+     45.53561
+    ],
+    [
+     13.86917,
+     45.53562
+    ],
+    [
+     13.87086,
+     45.53488
+    ],
+    [
+     13.87098,
+     45.53439
+    ],
+    [
+     13.8709,
+     45.53365
+    ],
+    [
+     13.87153,
+     45.53312
+    ],
+    [
+     13.87262,
+     45.53275
+    ],
+    [
+     13.87302,
+     45.53276
+    ],
+    [
+     13.87443,
+     45.53318
+    ],
+    [
+     13.87514,
+     45.53317
+    ],
+    [
+     13.87574,
+     45.53298
+    ],
+    [
+     13.87645,
+     45.53256
+    ],
+    [
+     13.87737,
+     45.5317
+    ],
+    [
+     13.87913,
+     45.53136
+    ],
+    [
+     13.87949,
+     45.53119
+    ],
+    [
+     13.88006,
+     45.53046
+    ],
+    [
+     13.88125,
+     45.52976
+    ],
+    [
+     13.8815,
+     45.5292
+    ],
+    [
+     13.88294,
+     45.52834
+    ],
+    [
+     13.88386,
+     45.52811
+    ],
+    [
+     13.88433,
+     45.52812
+    ],
+    [
+     13.88493,
+     45.52832
+    ],
+    [
+     13.88529,
+     45.52821
+    ]
+   ]
+  },
+  "center": [
+   45.54301,
+   13.8133
+  ],
+  "lengthKm": 13.9,
+  "region": "obala",
+  "parking": [
+   {
+    "lat": 45.54369,
+    "lon": 13.84805,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 45.55064,
+    "lon": 13.78743,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 45.55686,
+    "lon": 13.76181,
+    "name": null,
+    "distKm": 0.14
+   },
+   {
+    "lat": 45.54337,
+    "lon": 13.83906,
+    "name": null,
+    "distKm": 0.14
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:53.839Z"
+ },
+ {
+  "id": "rd-koper/vanganelsko-jezero",
+  "clubSlug": "rd-koper",
+  "slug": "vanganelsko-jezero",
+  "code": "Vanganelsko jezero",
+  "name": "Vanganelsko jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Vanganelsko jezero",
+   "subtitle": "",
+   "description": "The Vanganelsko jezero measures approximately 2,5 ha and reaches the depth of 18 m and is home to some royal specimen of catfish. Carps, grass carps, catfish, pikes, zander, chubs and percoidei all live in it. From Koper we drive in the direction of Pula. At the roundabout near the hypermarket Mercator we turn left in the direction of Marezige. After approximately 4 km we arrive to the settlement Vanganel."
+  },
+  "club": {
+   "name": "Ribiška družina Koper",
+   "url": "https://www.ribiskekarte.si/rd-koper"
+  },
+  "description": "Vanganelsko jezero meri cca 2,5 ha in doseže globino 18 m, kjer kraljujejo veliki somi. Jezero je naseljeno s krapi, amurji, somi, ščukami, smuči, kleni in ostriži. Iz Kopra se peljemo v smeri Pula. Na krožišču pri hipermarketu Mercator, zavijemo levo za Marezige. Po 4 km vožnje prispemo v naselje Vanganel. Samo še 500 m ceste v hrib in že smo pri čudovitem zajetju - Vanganelsko jezero.",
+  "waterType": "lake",
+  "water": "Vanganelsko jezero",
+  "species": [
+   "amur",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi (beličarjenje, talni ribolov)",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-koper/nakup/26"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-koper/nakup/25"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-koper/vanganelsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Vanganelsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      13.7773,
+      45.50837
+     ],
+     [
+      13.77836,
+      45.50875
+     ],
+     [
+      13.77916,
+      45.50882
+     ],
+     [
+      13.78046,
+      45.50835
+     ],
+     [
+      13.78053,
+      45.50805
+     ],
+     [
+      13.78071,
+      45.50801
+     ],
+     [
+      13.78075,
+      45.5085
+     ],
+     [
+      13.78029,
+      45.50883
+     ],
+     [
+      13.78012,
+      45.50924
+     ],
+     [
+      13.7797,
+      45.50945
+     ],
+     [
+      13.77969,
+      45.50994
+     ],
+     [
+      13.78027,
+      45.51013
+     ],
+     [
+      13.77994,
+      45.51033
+     ],
+     [
+      13.77841,
+      45.51044
+     ],
+     [
+      13.77807,
+      45.50919
+     ],
+     [
+      13.77737,
+      45.50866
+     ],
+     [
+      13.7773,
+      45.50837
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.5092,
+   13.77936
+  ],
+  "lengthKm": null,
+  "region": "obala",
+  "parking": [
+   {
+    "lat": 45.50843,
+    "lon": 13.77662,
+    "name": null,
+    "distKm": 0.05
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:58.600Z"
+ }
+]

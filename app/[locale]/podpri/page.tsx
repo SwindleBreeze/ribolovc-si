@@ -1,7 +1,9 @@
 import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
+import { ArrowUpRight } from 'lucide-react';
 import type { Locale } from '@/i18n/routing';
 import { site } from '@/lib/site';
+import { PageHeader } from '@/components/ui/PageHeader';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -15,29 +17,28 @@ export default async function SupportPage({ params }: { params: Promise<{ locale
   const t = await getTranslations('support');
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-10 text-center">
-      <p className="text-5xl" aria-hidden="true">
-        ☕🎣
-      </p>
-      <h1 className="mt-4 text-2xl font-extrabold md:text-3xl">{t('title')}</h1>
-      <p className="mt-4 text-lg">{t('text')}</p>
-      {site.donateUrl ? (
-        <a href={site.donateUrl} className="btn btn-primary mt-6 !px-6 !py-3 text-lg" target="_blank" rel="noopener" data-testid="donate-link">
-          ☕ {t('button')}
-        </a>
-      ) : (
-        <p className="muted mt-6" data-testid="donate-missing">
-          {t('notConfigured')}
-        </p>
-      )}
-      <section className="card mt-10 p-5 text-left">
-        <h2 className="font-bold">{t('uses')}</h2>
-        <ul className="mt-2 list-disc pl-5 text-sm leading-7">
-          <li>{t('use1')}</li>
-          <li>{t('use2')}</li>
-          <li>{t('use3')}</li>
-        </ul>
-      </section>
-    </div>
+    <>
+      <PageHeader title={t('title')} lede={t('text')} />
+      <div className="mx-auto max-w-[720px] px-4 pb-16 pt-8 md:px-0">
+        {site.donateUrl ? (
+          <a href={site.donateUrl} className="btn btn-cta" target="_blank" rel="noopener" data-testid="donate-link">
+            {t('button')} <ArrowUpRight aria-hidden="true" size={18} />
+          </a>
+        ) : (
+          <p className="text-muted" data-testid="donate-missing">
+            {t('notConfigured')}
+          </p>
+        )}
+        <h2 className="mt-10 border-t border-ink pt-3 text-[22px] font-semibold">{t('uses')}</h2>
+        <ol className="mt-2">
+          {[t('use1'), t('use2'), t('use3')].map((u, i) => (
+            <li key={u} className="flex gap-3 border-b border-rule-2 py-2.5">
+              <span className="num text-muted">0{i + 1}</span>
+              {u}
+            </li>
+          ))}
+        </ol>
+      </div>
+    </>
   );
 }

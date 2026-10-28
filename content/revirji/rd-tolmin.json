@@ -1,0 +1,7273 @@
+[
+ {
+  "id": "rd-tolmin/baca-3",
+  "clubSlug": "rd-tolmin",
+  "slug": "baca-3",
+  "code": "Bača BA",
+  "name": "Bača",
+  "subtitle": "od iztoka v Podbrdu do izliva",
+  "en": {
+   "name": "The river Bača",
+   "subtitle": "from the outflow of the creek Mačji potok to the dam Kusterlov jez",
+   "description": "The Bača winds through the narrow Baška Grapa valley, from below the mountains of Slatnik and Lajnar towards the Idrijca, all the while accompanied and crossed by the road and railroad. At the village of Bača pri Modreju, the river joins the Idrijca. It covers the distance of 21.4 km."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Bača se izpod Slatnika in Lajnarja odpravi na dolgo pot proti Idrijci po ozki Baški grapi, kjer jo ves čas spremljata in prečkata cesta in železnica. V Bači pri Modreju se reka Bača pridruži Idrijci. Pot reke Bače je dolga 21,4-kilometra. Prvi trije kilometri Bače so gojitvena voda za soško postrv, preostali del pa ribolovna voda.",
+  "waterType": "river",
+  "water": "Bača",
+  "species": [
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/baca-3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Podbrdo",
+   "do: izliv"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.97267,
+     46.21387
+    ],
+    [
+     13.95641,
+     46.20423
+    ],
+    [
+     13.95374,
+     46.20324
+    ],
+    [
+     13.95228,
+     46.20301
+    ],
+    [
+     13.95098,
+     46.20176
+    ],
+    [
+     13.94956,
+     46.2016
+    ],
+    [
+     13.94912,
+     46.20131
+    ],
+    [
+     13.94848,
+     46.20061
+    ],
+    [
+     13.94692,
+     46.20005
+    ],
+    [
+     13.9451,
+     46.199
+    ],
+    [
+     13.94342,
+     46.19865
+    ],
+    [
+     13.94122,
+     46.19857
+    ],
+    [
+     13.94077,
+     46.19877
+    ],
+    [
+     13.94024,
+     46.19866
+    ],
+    [
+     13.93979,
+     46.19835
+    ],
+    [
+     13.93943,
+     46.19764
+    ],
+    [
+     13.93872,
+     46.19709
+    ],
+    [
+     13.93714,
+     46.19628
+    ],
+    [
+     13.93589,
+     46.19607
+    ],
+    [
+     13.9348,
+     46.19565
+    ],
+    [
+     13.93198,
+     46.19343
+    ],
+    [
+     13.93027,
+     46.1929
+    ],
+    [
+     13.92908,
+     46.1923
+    ],
+    [
+     13.92831,
+     46.19154
+    ],
+    [
+     13.92844,
+     46.19065
+    ],
+    [
+     13.92812,
+     46.19008
+    ],
+    [
+     13.92711,
+     46.18964
+    ],
+    [
+     13.92689,
+     46.18897
+    ],
+    [
+     13.92526,
+     46.18744
+    ],
+    [
+     13.925,
+     46.18697
+    ],
+    [
+     13.92528,
+     46.18631
+    ],
+    [
+     13.92526,
+     46.18599
+    ],
+    [
+     13.924,
+     46.18516
+    ],
+    [
+     13.92332,
+     46.18453
+    ],
+    [
+     13.92319,
+     46.18352
+    ],
+    [
+     13.92265,
+     46.18273
+    ],
+    [
+     13.92077,
+     46.18131
+    ],
+    [
+     13.9199,
+     46.18096
+    ],
+    [
+     13.91915,
+     46.1802
+    ],
+    [
+     13.91901,
+     46.17983
+    ],
+    [
+     13.91911,
+     46.17849
+    ],
+    [
+     13.91855,
+     46.17651
+    ],
+    [
+     13.91787,
+     46.17626
+    ],
+    [
+     13.91759,
+     46.17631
+    ],
+    [
+     13.91723,
+     46.17661
+    ],
+    [
+     13.91677,
+     46.17647
+    ],
+    [
+     13.91608,
+     46.17543
+    ],
+    [
+     13.91478,
+     46.17467
+    ],
+    [
+     13.91438,
+     46.17386
+    ],
+    [
+     13.91376,
+     46.17351
+    ],
+    [
+     13.91277,
+     46.17323
+    ],
+    [
+     13.9123,
+     46.17276
+    ],
+    [
+     13.91169,
+     46.17277
+    ],
+    [
+     13.91161,
+     46.17229
+    ],
+    [
+     13.91119,
+     46.17207
+    ],
+    [
+     13.91025,
+     46.17119
+    ],
+    [
+     13.90925,
+     46.17099
+    ],
+    [
+     13.90831,
+     46.17113
+    ],
+    [
+     13.90741,
+     46.17108
+    ],
+    [
+     13.90676,
+     46.17071
+    ],
+    [
+     13.90483,
+     46.17013
+    ],
+    [
+     13.90422,
+     46.16973
+    ],
+    [
+     13.90372,
+     46.16919
+    ],
+    [
+     13.90419,
+     46.16848
+    ],
+    [
+     13.9039,
+     46.16792
+    ],
+    [
+     13.90363,
+     46.16776
+    ],
+    [
+     13.90311,
+     46.16775
+    ],
+    [
+     13.90262,
+     46.16748
+    ],
+    [
+     13.90123,
+     46.16736
+    ],
+    [
+     13.90123,
+     46.16703
+    ],
+    [
+     13.90104,
+     46.16665
+    ],
+    [
+     13.90066,
+     46.16643
+    ],
+    [
+     13.90001,
+     46.16629
+    ],
+    [
+     13.89962,
+     46.16598
+    ],
+    [
+     13.89988,
+     46.16467
+    ],
+    [
+     13.89899,
+     46.16438
+    ],
+    [
+     13.89815,
+     46.16344
+    ],
+    [
+     13.89657,
+     46.16359
+    ],
+    [
+     13.89576,
+     46.16312
+    ],
+    [
+     13.89466,
+     46.16277
+    ],
+    [
+     13.89391,
+     46.1628
+    ],
+    [
+     13.89327,
+     46.1633
+    ],
+    [
+     13.89196,
+     46.16326
+    ],
+    [
+     13.89058,
+     46.16286
+    ],
+    [
+     13.88907,
+     46.16308
+    ],
+    [
+     13.88834,
+     46.16285
+    ],
+    [
+     13.88771,
+     46.16231
+    ],
+    [
+     13.88717,
+     46.16226
+    ],
+    [
+     13.88681,
+     46.16187
+    ],
+    [
+     13.88635,
+     46.16165
+    ],
+    [
+     13.88472,
+     46.16165
+    ],
+    [
+     13.88367,
+     46.16146
+    ],
+    [
+     13.8824,
+     46.16152
+    ],
+    [
+     13.88086,
+     46.16199
+    ],
+    [
+     13.88029,
+     46.16263
+    ],
+    [
+     13.88,
+     46.16269
+    ],
+    [
+     13.87924,
+     46.16258
+    ],
+    [
+     13.87778,
+     46.16198
+    ],
+    [
+     13.87737,
+     46.16193
+    ],
+    [
+     13.8767,
+     46.16208
+    ],
+    [
+     13.876,
+     46.16268
+    ],
+    [
+     13.87518,
+     46.1631
+    ],
+    [
+     13.8735,
+     46.16272
+    ],
+    [
+     13.87147,
+     46.16282
+    ],
+    [
+     13.87083,
+     46.16272
+    ],
+    [
+     13.86909,
+     46.16182
+    ],
+    [
+     13.86875,
+     46.16139
+    ],
+    [
+     13.86856,
+     46.16065
+    ],
+    [
+     13.86863,
+     46.1594
+    ],
+    [
+     13.86976,
+     46.15739
+    ],
+    [
+     13.86983,
+     46.15662
+    ],
+    [
+     13.86961,
+     46.15628
+    ],
+    [
+     13.86905,
+     46.156
+    ],
+    [
+     13.86681,
+     46.15558
+    ],
+    [
+     13.86542,
+     46.15464
+    ],
+    [
+     13.86377,
+     46.15412
+    ],
+    [
+     13.86147,
+     46.15229
+    ],
+    [
+     13.86069,
+     46.15236
+    ],
+    [
+     13.85855,
+     46.15208
+    ],
+    [
+     13.85439,
+     46.15238
+    ],
+    [
+     13.85284,
+     46.15207
+    ],
+    [
+     13.85189,
+     46.15214
+    ],
+    [
+     13.85107,
+     46.15251
+    ],
+    [
+     13.84948,
+     46.15363
+    ],
+    [
+     13.84821,
+     46.15369
+    ],
+    [
+     13.84644,
+     46.15457
+    ],
+    [
+     13.84542,
+     46.15533
+    ],
+    [
+     13.84504,
+     46.15591
+    ],
+    [
+     13.84479,
+     46.15605
+    ],
+    [
+     13.84323,
+     46.15592
+    ],
+    [
+     13.84135,
+     46.15601
+    ],
+    [
+     13.84001,
+     46.15552
+    ],
+    [
+     13.83948,
+     46.15548
+    ],
+    [
+     13.839,
+     46.1556
+    ],
+    [
+     13.83829,
+     46.15614
+    ],
+    [
+     13.83716,
+     46.15649
+    ],
+    [
+     13.835,
+     46.15664
+    ],
+    [
+     13.83462,
+     46.15699
+    ],
+    [
+     13.83464,
+     46.15746
+    ],
+    [
+     13.83314,
+     46.1577
+    ],
+    [
+     13.83213,
+     46.15775
+    ],
+    [
+     13.83093,
+     46.15744
+    ],
+    [
+     13.83044,
+     46.15744
+    ],
+    [
+     13.82913,
+     46.15782
+    ],
+    [
+     13.82793,
+     46.15763
+    ],
+    [
+     13.82683,
+     46.15774
+    ],
+    [
+     13.82468,
+     46.15761
+    ],
+    [
+     13.82136,
+     46.1586
+    ],
+    [
+     13.82053,
+     46.15855
+    ],
+    [
+     13.8195,
+     46.15879
+    ],
+    [
+     13.81874,
+     46.15867
+    ],
+    [
+     13.81804,
+     46.15835
+    ],
+    [
+     13.81753,
+     46.15786
+    ],
+    [
+     13.8171,
+     46.15767
+    ],
+    [
+     13.81669,
+     46.15765
+    ],
+    [
+     13.81644,
+     46.15794
+    ],
+    [
+     13.81573,
+     46.15833
+    ],
+    [
+     13.81548,
+     46.15933
+    ],
+    [
+     13.81513,
+     46.1598
+    ],
+    [
+     13.81475,
+     46.16007
+    ],
+    [
+     13.81432,
+     46.16018
+    ],
+    [
+     13.81324,
+     46.16001
+    ],
+    [
+     13.80925,
+     46.16022
+    ],
+    [
+     13.80792,
+     46.15977
+    ],
+    [
+     13.80652,
+     46.15958
+    ],
+    [
+     13.80433,
+     46.15991
+    ],
+    [
+     13.80198,
+     46.16047
+    ],
+    [
+     13.80097,
+     46.15949
+    ],
+    [
+     13.80065,
+     46.15938
+    ],
+    [
+     13.79957,
+     46.1595
+    ],
+    [
+     13.79607,
+     46.15901
+    ],
+    [
+     13.79356,
+     46.15946
+    ],
+    [
+     13.79287,
+     46.15971
+    ],
+    [
+     13.79114,
+     46.16072
+    ],
+    [
+     13.79036,
+     46.16088
+    ],
+    [
+     13.7867,
+     46.15897
+    ],
+    [
+     13.78603,
+     46.15885
+    ],
+    [
+     13.78542,
+     46.15891
+    ],
+    [
+     13.78427,
+     46.15924
+    ],
+    [
+     13.78203,
+     46.15951
+    ],
+    [
+     13.78044,
+     46.1593
+    ],
+    [
+     13.77962,
+     46.15888
+    ],
+    [
+     13.77337,
+     46.15357
+    ],
+    [
+     13.77274,
+     46.15234
+    ],
+    [
+     13.77186,
+     46.15002
+    ],
+    [
+     13.76995,
+     46.14766
+    ],
+    [
+     13.76906,
+     46.14687
+    ],
+    [
+     13.76869,
+     46.14602
+    ],
+    [
+     13.7674,
+     46.14504
+    ],
+    [
+     13.76622,
+     46.1446
+    ]
+   ]
+  },
+  "center": [
+   46.16288,
+   13.87421
+  ],
+  "lengthKm": 22,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.21352,
+    "lon": 13.97204,
+    "name": null,
+    "distKm": 0
+   },
+   {
+    "lat": 46.1988,
+    "lon": 13.94348,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.16762,
+    "lon": 13.90173,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.189,
+    "lon": 13.92653,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:34.586Z"
+ },
+ {
+  "id": "rd-tolmin/bela",
+  "clubSlug": "rd-tolmin",
+  "slug": "bela",
+  "code": "Bela BL",
+  "name": "Bela",
+  "subtitle": "od mostu v Breginju do izliva",
+  "en": {
+   "name": "The river Bela",
+   "subtitle": "from the bridge in Breginje to the outflow",
+   "description": "Its source is at the foot of the hill of Stol, above the village of Breginj, and it covers the distance of 4.7 km before entering the Nadiža at the village of Podbela. Its bed was almost completely regulated in the 1930s – it was split up by numerous barriers. Deep pools formed below these barriers, while above them, gravel banks appeared."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Bela izvira pod Stolom nad Breginjem in se po 4,7-kilometra dolgi poti pri Podbeli izliva v Nadižo. Njena struga je bila v tridesetih letih tega stoletja skoraj v celoti regulirana in pregrajena z različno visokimi pregradami. Pod njimi so se oblikovali globoki tolmuni, nad njimi pa prodnate plitvine. Prvi kilometer Bele je gojitvena voda, preostalo pa ribolovna voda.",
+  "waterType": "river",
+  "water": "Bela",
+  "species": [
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/bela",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Breginj / Bergogna",
+   "do: izliv"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.42652,
+     46.2624
+    ],
+    [
+     13.42725,
+     46.26142
+    ],
+    [
+     13.42769,
+     46.2614
+    ],
+    [
+     13.42825,
+     46.26092
+    ],
+    [
+     13.43011,
+     46.26016
+    ],
+    [
+     13.43045,
+     46.25937
+    ],
+    [
+     13.43137,
+     46.25828
+    ],
+    [
+     13.43146,
+     46.25796
+    ],
+    [
+     13.43107,
+     46.25745
+    ],
+    [
+     13.43122,
+     46.25724
+    ],
+    [
+     13.4325,
+     46.25698
+    ],
+    [
+     13.43317,
+     46.25671
+    ],
+    [
+     13.43406,
+     46.25699
+    ],
+    [
+     13.43552,
+     46.25711
+    ],
+    [
+     13.43627,
+     46.2574
+    ],
+    [
+     13.43715,
+     46.25708
+    ],
+    [
+     13.43722,
+     46.25676
+    ],
+    [
+     13.43752,
+     46.25653
+    ],
+    [
+     13.43765,
+     46.25585
+    ],
+    [
+     13.43809,
+     46.25548
+    ],
+    [
+     13.43811,
+     46.25522
+    ],
+    [
+     13.43741,
+     46.25468
+    ],
+    [
+     13.43676,
+     46.25379
+    ],
+    [
+     13.43629,
+     46.25368
+    ],
+    [
+     13.43568,
+     46.25319
+    ],
+    [
+     13.43523,
+     46.25309
+    ],
+    [
+     13.43492,
+     46.25286
+    ],
+    [
+     13.43496,
+     46.2527
+    ],
+    [
+     13.43479,
+     46.25251
+    ],
+    [
+     13.43385,
+     46.25189
+    ],
+    [
+     13.43477,
+     46.25121
+    ],
+    [
+     13.43425,
+     46.25078
+    ],
+    [
+     13.4344,
+     46.25064
+    ],
+    [
+     13.43499,
+     46.25059
+    ],
+    [
+     13.43522,
+     46.25035
+    ],
+    [
+     13.43512,
+     46.24995
+    ],
+    [
+     13.43448,
+     46.24943
+    ],
+    [
+     13.4346,
+     46.24926
+    ],
+    [
+     13.4363,
+     46.24924
+    ],
+    [
+     13.43647,
+     46.24902
+    ],
+    [
+     13.43603,
+     46.24864
+    ],
+    [
+     13.43605,
+     46.24843
+    ],
+    [
+     13.43725,
+     46.24804
+    ],
+    [
+     13.43765,
+     46.24741
+    ],
+    [
+     13.43883,
+     46.24721
+    ],
+    [
+     13.43933,
+     46.24688
+    ],
+    [
+     13.45584,
+     46.24164
+    ]
+   ]
+  },
+  "center": [
+   46.25064,
+   13.43444
+  ],
+  "lengthKm": 4.4,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.26209,
+    "lon": 13.42601,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.2661,
+    "lon": 13.42084,
+    "name": null,
+    "distKm": 0.6
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:39.388Z"
+ },
+ {
+  "id": "rd-tolmin/idrijca-5",
+  "clubSlug": "rd-tolmin",
+  "slug": "idrijca-5",
+  "code": "Idrijca D",
+  "name": "Idrijca",
+  "subtitle": "od mostu v Stopniku do izliva Bače",
+  "en": {
+   "name": "The river Idrijca",
+   "subtitle": "from the bridge in Stopnik to the outflow of the Bača",
+   "description": "It is a river with a more pronounced karst character and typical greenish colour. Its waters are one of the most attractive flyfishing destinations in Europe. The Idrijca enters the Tolmin fishing district in the village of Stopnik. Until it reaches the village of Trebuša, it runs between heavily forested banks, through deep pools, rapids and straits. At Trebuša, its current slows down and gravel deposits appear."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Reka Idrijca ima poudarjen značaj kraške reke z značilno zelenkasto barvo in je ena muharsko najbolj zanimivih rek v Evropi. Idrijca vstopa v Tolminski ribiški okoliš v vasi Stopnik. Do Trebuše teče med bregovi, ki so do vode poraščeni z drevjem, skozi globoke tolmune in preko hitrih brzic in prelivov. Pri Trebuši se tok nekoliko umiri, pojavijo se manjša prodišča.",
+  "waterType": "river",
+  "water": "Idrijca",
+  "species": [
+   "mrena",
+   "krizanec",
+   "linj",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "križanec",
+   "linj",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom"
+  ],
+  "baits": [
+   "češnje",
+   "grozdje",
+   "koruza",
+   "kruh",
+   "sir",
+   "umetna muha"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Beličarjenje",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 07. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1380"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/idrijca-5",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Stopnik",
+   "do: sotočje Bače"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.88424,
+     46.09252
+    ],
+    [
+     13.88315,
+     46.09422
+    ],
+    [
+     13.88119,
+     46.09515
+    ],
+    [
+     13.87809,
+     46.09576
+    ],
+    [
+     13.87724,
+     46.09601
+    ],
+    [
+     13.87632,
+     46.0965
+    ],
+    [
+     13.87617,
+     46.09665
+    ],
+    [
+     13.87616,
+     46.09748
+    ],
+    [
+     13.87539,
+     46.09863
+    ],
+    [
+     13.8747,
+     46.09924
+    ],
+    [
+     13.87296,
+     46.09989
+    ],
+    [
+     13.87213,
+     46.10053
+    ],
+    [
+     13.86983,
+     46.10154
+    ],
+    [
+     13.86778,
+     46.10168
+    ],
+    [
+     13.86571,
+     46.1021
+    ],
+    [
+     13.86358,
+     46.10175
+    ],
+    [
+     13.86255,
+     46.10135
+    ],
+    [
+     13.86147,
+     46.10141
+    ],
+    [
+     13.85826,
+     46.10101
+    ],
+    [
+     13.8563,
+     46.10057
+    ],
+    [
+     13.85378,
+     46.09942
+    ],
+    [
+     13.85117,
+     46.09916
+    ],
+    [
+     13.84898,
+     46.09847
+    ],
+    [
+     13.84568,
+     46.09795
+    ],
+    [
+     13.83847,
+     46.09589
+    ],
+    [
+     13.83813,
+     46.09597
+    ],
+    [
+     13.8377,
+     46.0963
+    ],
+    [
+     13.83616,
+     46.09817
+    ],
+    [
+     13.83486,
+     46.09915
+    ],
+    [
+     13.83297,
+     46.10048
+    ],
+    [
+     13.83239,
+     46.1007
+    ],
+    [
+     13.83157,
+     46.10075
+    ],
+    [
+     13.83115,
+     46.10041
+    ],
+    [
+     13.831,
+     46.09998
+    ],
+    [
+     13.82972,
+     46.09818
+    ],
+    [
+     13.82883,
+     46.09748
+    ],
+    [
+     13.82836,
+     46.09726
+    ],
+    [
+     13.82775,
+     46.09737
+    ],
+    [
+     13.82755,
+     46.09769
+    ],
+    [
+     13.82751,
+     46.09939
+    ],
+    [
+     13.82599,
+     46.1004
+    ],
+    [
+     13.82494,
+     46.10259
+    ],
+    [
+     13.8244,
+     46.10285
+    ],
+    [
+     13.82089,
+     46.10237
+    ],
+    [
+     13.82008,
+     46.10246
+    ],
+    [
+     13.8163,
+     46.10554
+    ],
+    [
+     13.81506,
+     46.10705
+    ],
+    [
+     13.81476,
+     46.10821
+    ],
+    [
+     13.8143,
+     46.10883
+    ],
+    [
+     13.8119,
+     46.11024
+    ],
+    [
+     13.8099,
+     46.11115
+    ],
+    [
+     13.80907,
+     46.11207
+    ],
+    [
+     13.80794,
+     46.11416
+    ],
+    [
+     13.8072,
+     46.11483
+    ],
+    [
+     13.80678,
+     46.11549
+    ],
+    [
+     13.80667,
+     46.11596
+    ],
+    [
+     13.80604,
+     46.11667
+    ],
+    [
+     13.80494,
+     46.11872
+    ],
+    [
+     13.80434,
+     46.11923
+    ],
+    [
+     13.80205,
+     46.12035
+    ],
+    [
+     13.80097,
+     46.12119
+    ],
+    [
+     13.80002,
+     46.12256
+    ],
+    [
+     13.79808,
+     46.12385
+    ],
+    [
+     13.79665,
+     46.12503
+    ],
+    [
+     13.79645,
+     46.12534
+    ],
+    [
+     13.79625,
+     46.12613
+    ],
+    [
+     13.79501,
+     46.12755
+    ],
+    [
+     13.79401,
+     46.1285
+    ],
+    [
+     13.79136,
+     46.13063
+    ],
+    [
+     13.78868,
+     46.13222
+    ],
+    [
+     13.78662,
+     46.13318
+    ],
+    [
+     13.78364,
+     46.13396
+    ],
+    [
+     13.78085,
+     46.13429
+    ],
+    [
+     13.78027,
+     46.13464
+    ],
+    [
+     13.7786,
+     46.13627
+    ],
+    [
+     13.77631,
+     46.13812
+    ],
+    [
+     13.7756,
+     46.13896
+    ],
+    [
+     13.77569,
+     46.14106
+    ],
+    [
+     13.77529,
+     46.1416
+    ],
+    [
+     13.77387,
+     46.1423
+    ],
+    [
+     13.77289,
+     46.14253
+    ],
+    [
+     13.77044,
+     46.14271
+    ],
+    [
+     13.76849,
+     46.143
+    ],
+    [
+     13.76759,
+     46.14327
+    ],
+    [
+     13.76705,
+     46.14367
+    ],
+    [
+     13.76622,
+     46.1446
+    ]
+   ]
+  },
+  "center": [
+   46.10291,
+   13.81953
+  ],
+  "lengthKm": 13.2,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.10033,
+    "lon": 13.83092,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.1172,
+    "lon": 13.80635,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.14446,
+    "lon": 13.76847,
+    "name": null,
+    "distKm": 0.14
+   },
+   {
+    "lat": 46.09434,
+    "lon": 13.83852,
+    "name": null,
+    "distKm": 0.17
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:05.809Z"
+ },
+ {
+  "id": "rd-tolmin/kneza",
+  "clubSlug": "rd-tolmin",
+  "slug": "kneza",
+  "code": "Kneža KN",
+  "name": "Kneža",
+  "subtitle": "",
+  "en": {
+   "name": "The river Kneža",
+   "subtitle": "from the spring to the outflow",
+   "description": "The Kneža is a typical alpine stream, which collects its waters between the mountains of Vogel and Rodica and courses its way down a narrow valley towards the Bača river, which it joins between Kneža and Klavže. It runs for 8.3 km. It is suitable for fishing throughout its course, and inhabited by all species of trout except for rainbow trout. It is also home to Cottus gobio."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Kneža je tipična alpska rečica, ki zbira svoje vode med Voglom in Rodico ter se po ozki dolini, skozi soteske prebija v dolino Bače, ki se ji med Knežo in Klavžami tudi pridruži. Njena pot je dolga 8,3-kilometra. Kneža je ves svoj tok ribolovna voda z vsemi vrstami postrvi razen šarenke, prisoten je tudi glavač.",
+  "waterType": "river",
+  "water": "Kneža",
+  "species": [
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/kneza",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.82014,
+     46.15869
+    ],
+    [
+     13.8203,
+     46.15894
+    ],
+    [
+     13.82029,
+     46.1592
+    ],
+    [
+     13.82109,
+     46.15949
+    ],
+    [
+     13.82141,
+     46.15999
+    ],
+    [
+     13.82181,
+     46.16018
+    ],
+    [
+     13.82275,
+     46.16018
+    ],
+    [
+     13.82529,
+     46.16073
+    ],
+    [
+     13.8265,
+     46.16069
+    ],
+    [
+     13.82689,
+     46.16094
+    ],
+    [
+     13.82767,
+     46.16234
+    ],
+    [
+     13.82884,
+     46.16357
+    ],
+    [
+     13.82888,
+     46.1638
+    ],
+    [
+     13.82819,
+     46.16473
+    ],
+    [
+     13.82801,
+     46.16546
+    ],
+    [
+     13.82818,
+     46.16579
+    ],
+    [
+     13.82897,
+     46.16622
+    ],
+    [
+     13.82893,
+     46.16649
+    ],
+    [
+     13.82856,
+     46.16682
+    ],
+    [
+     13.82857,
+     46.1672
+    ],
+    [
+     13.82967,
+     46.16822
+    ],
+    [
+     13.8308,
+     46.16893
+    ],
+    [
+     13.8313,
+     46.16946
+    ],
+    [
+     13.83151,
+     46.16989
+    ],
+    [
+     13.8331,
+     46.17163
+    ],
+    [
+     13.83321,
+     46.17264
+    ],
+    [
+     13.83302,
+     46.17304
+    ],
+    [
+     13.83301,
+     46.17339
+    ],
+    [
+     13.83334,
+     46.17388
+    ],
+    [
+     13.83316,
+     46.17429
+    ],
+    [
+     13.8326,
+     46.17475
+    ],
+    [
+     13.83334,
+     46.17612
+    ],
+    [
+     13.83457,
+     46.17615
+    ],
+    [
+     13.83554,
+     46.17707
+    ],
+    [
+     13.8366,
+     46.17743
+    ],
+    [
+     13.83753,
+     46.178
+    ],
+    [
+     13.83869,
+     46.17926
+    ],
+    [
+     13.84018,
+     46.17983
+    ],
+    [
+     13.8408,
+     46.18079
+    ],
+    [
+     13.84359,
+     46.18241
+    ],
+    [
+     13.84349,
+     46.18318
+    ],
+    [
+     13.84373,
+     46.1837
+    ],
+    [
+     13.84347,
+     46.18426
+    ],
+    [
+     13.84274,
+     46.18502
+    ],
+    [
+     13.8427,
+     46.18524
+    ],
+    [
+     13.84296,
+     46.18584
+    ],
+    [
+     13.84265,
+     46.18633
+    ],
+    [
+     13.84264,
+     46.18674
+    ],
+    [
+     13.84227,
+     46.18727
+    ],
+    [
+     13.84115,
+     46.18805
+    ],
+    [
+     13.83973,
+     46.18952
+    ],
+    [
+     13.83946,
+     46.18959
+    ],
+    [
+     13.83877,
+     46.18942
+    ],
+    [
+     13.83855,
+     46.1895
+    ],
+    [
+     13.8377,
+     46.19031
+    ],
+    [
+     13.83703,
+     46.19076
+    ],
+    [
+     13.83616,
+     46.1909
+    ],
+    [
+     13.83422,
+     46.19185
+    ],
+    [
+     13.83367,
+     46.19186
+    ],
+    [
+     13.83334,
+     46.19201
+    ],
+    [
+     13.83315,
+     46.19303
+    ],
+    [
+     13.83244,
+     46.19328
+    ],
+    [
+     13.83163,
+     46.19395
+    ],
+    [
+     13.83046,
+     46.19415
+    ],
+    [
+     13.82939,
+     46.19482
+    ],
+    [
+     13.82824,
+     46.19488
+    ],
+    [
+     13.82741,
+     46.19519
+    ],
+    [
+     13.82654,
+     46.1952
+    ],
+    [
+     13.82575,
+     46.19561
+    ],
+    [
+     13.82551,
+     46.1959
+    ],
+    [
+     13.82547,
+     46.19644
+    ],
+    [
+     13.82496,
+     46.1968
+    ],
+    [
+     13.82381,
+     46.19673
+    ],
+    [
+     13.82264,
+     46.19708
+    ],
+    [
+     13.8219,
+     46.19747
+    ],
+    [
+     13.8209,
+     46.19826
+    ],
+    [
+     13.81967,
+     46.19879
+    ],
+    [
+     13.8196,
+     46.19975
+    ],
+    [
+     13.82012,
+     46.20077
+    ],
+    [
+     13.81996,
+     46.2016
+    ],
+    [
+     13.81947,
+     46.20179
+    ],
+    [
+     13.81938,
+     46.20224
+    ],
+    [
+     13.82018,
+     46.20278
+    ],
+    [
+     13.82086,
+     46.20344
+    ],
+    [
+     13.82125,
+     46.20437
+    ],
+    [
+     13.82125,
+     46.20489
+    ],
+    [
+     13.82192,
+     46.20561
+    ],
+    [
+     13.82234,
+     46.20649
+    ],
+    [
+     13.82283,
+     46.20694
+    ],
+    [
+     13.8236,
+     46.20738
+    ],
+    [
+     13.82597,
+     46.2093
+    ],
+    [
+     13.82613,
+     46.20962
+    ],
+    [
+     13.82753,
+     46.21051
+    ],
+    [
+     13.8283,
+     46.21031
+    ],
+    [
+     13.82892,
+     46.21053
+    ],
+    [
+     13.82951,
+     46.21103
+    ],
+    [
+     13.8302,
+     46.21128
+    ],
+    [
+     13.83026,
+     46.21169
+    ],
+    [
+     13.83124,
+     46.21222
+    ],
+    [
+     13.83125,
+     46.21238
+    ],
+    [
+     13.83102,
+     46.21252
+    ],
+    [
+     13.83103,
+     46.21263
+    ],
+    [
+     13.83134,
+     46.21301
+    ],
+    [
+     13.83193,
+     46.2132
+    ],
+    [
+     13.83228,
+     46.21347
+    ],
+    [
+     13.83313,
+     46.21453
+    ],
+    [
+     13.85002,
+     46.22048
+    ]
+   ]
+  },
+  "center": [
+   46.19195,
+   13.83347
+  ],
+  "lengthKm": 10.3,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.16066,
+    "lon": 13.82751,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.16115,
+    "lon": 13.81632,
+    "name": null,
+    "distKm": 0.37
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:49.017Z"
+ },
+ {
+  "id": "rd-tolmin/koritnica",
+  "clubSlug": "rd-tolmin",
+  "slug": "koritnica",
+  "code": "Koritnica KO",
+  "name": "Koritnica",
+  "subtitle": "od sotočja Žventarske in Hude grape do izliva",
+  "en": {
+   "name": "The Koritnica",
+   "subtitle": "from the confluence of the Žventarska and Huda grapa to the outflow",
+   "description": "This is a small river that forms from several streams below the village of Rut and runs for 4.7 km before entering the Bača in the village of Koritnica. Its banks are heavily wooded and its current is very swift. Just above the village of Koritnica, it drops steeply into the Bača valley. It is inhabited by Cottus gobio and all species of trout except for rainbow trout."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Koritnica je majhna rečica, ki nastane z združitvijo potokov pod vasjo Rut in se po 4,7-kilometra dolgi poti v vasi Koritnica izliva v Bačo, ki teče po Baški grapi. Bregovi Koritnice so gosto porasli z drevjem, njej tok je hiter, tik nad vasjo Koritnica se strmo spusti v dolino Bače. Koritnico naseljujejo vse postrvi razen šarenke in glavač.",
+  "waterType": "river",
+  "water": "Koritnica",
+  "species": [
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/koritnica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izliv"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    13.87083,
+    46.16272
+   ]
+  },
+  "center": [
+   46.16272,
+   13.87083
+  ],
+  "lengthKm": null,
+  "region": "goriska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:05.820Z"
+ },
+ {
+  "id": "rd-tolmin/nadiza",
+  "clubSlug": "rd-tolmin",
+  "slug": "nadiza",
+  "code": "Nadiža N",
+  "name": "Nadiža",
+  "subtitle": "po območju republike Slovenije",
+  "en": {
+   "name": "The river Nadiža",
+   "subtitle": "within Slovenia",
+   "description": "The source of the Nadiža is in Italy. The river makes an almost 12-km loop through Slovenia before returning there. Until it reaches the village of Sedlo, it is hidden in a narrow valley full of rapids and deep pools. From that point onwards, however, it enters a widening gravelly valley and almost disappears in its own deep gravel deposits below the village of Robič."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Nadiža izvira v Italiji in se po 11,9-kilometra dolgem toku vanjo tudi vrne. Do pod Sedla je skrita v ozki dolini polni brzic in globokih tolmunov. Od tu dalje pa začne teči po vedno širši in prodnati dolini in se pod Robičem skoraj izgubi v širokih prodnih nanosih.",
+  "waterType": "river",
+  "water": "Natisone / Nadiža / il Nadison",
+  "species": [
+   "mrena",
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/nadiza",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.39839,
+     46.2532
+    ],
+    [
+     13.40031,
+     46.25314
+    ],
+    [
+     13.40176,
+     46.2524
+    ],
+    [
+     13.40214,
+     46.25123
+    ],
+    [
+     13.40267,
+     46.25095
+    ],
+    [
+     13.40287,
+     46.25062
+    ],
+    [
+     13.40294,
+     46.25037
+    ],
+    [
+     13.40272,
+     46.24985
+    ],
+    [
+     13.40275,
+     46.2496
+    ],
+    [
+     13.40327,
+     46.24932
+    ],
+    [
+     13.40332,
+     46.24904
+    ],
+    [
+     13.40363,
+     46.24872
+    ],
+    [
+     13.40433,
+     46.24832
+    ],
+    [
+     13.40471,
+     46.24726
+    ],
+    [
+     13.40473,
+     46.24607
+    ],
+    [
+     13.40504,
+     46.24565
+    ],
+    [
+     13.40571,
+     46.24519
+    ],
+    [
+     13.40575,
+     46.24497
+    ],
+    [
+     13.40551,
+     46.24461
+    ],
+    [
+     13.40547,
+     46.24421
+    ],
+    [
+     13.40561,
+     46.24384
+    ],
+    [
+     13.40677,
+     46.24327
+    ],
+    [
+     13.40691,
+     46.24303
+    ],
+    [
+     13.4068,
+     46.24265
+    ],
+    [
+     13.40717,
+     46.24215
+    ],
+    [
+     13.40869,
+     46.24176
+    ],
+    [
+     13.40906,
+     46.24134
+    ],
+    [
+     13.4093,
+     46.24074
+    ],
+    [
+     13.40995,
+     46.23981
+    ],
+    [
+     13.41035,
+     46.23953
+    ],
+    [
+     13.41162,
+     46.23895
+    ],
+    [
+     13.41201,
+     46.2389
+    ],
+    [
+     13.4124,
+     46.239
+    ],
+    [
+     13.41301,
+     46.23939
+    ],
+    [
+     13.41344,
+     46.23923
+    ],
+    [
+     13.41452,
+     46.23841
+    ],
+    [
+     13.4153,
+     46.23812
+    ],
+    [
+     13.41677,
+     46.23791
+    ],
+    [
+     13.41695,
+     46.23762
+    ],
+    [
+     13.41673,
+     46.23736
+    ],
+    [
+     13.41682,
+     46.23715
+    ],
+    [
+     13.41757,
+     46.23672
+    ],
+    [
+     13.41932,
+     46.23622
+    ],
+    [
+     13.41962,
+     46.23588
+    ],
+    [
+     13.42114,
+     46.23502
+    ],
+    [
+     13.42254,
+     46.23472
+    ],
+    [
+     13.4228,
+     46.23456
+    ],
+    [
+     13.42281,
+     46.23393
+    ],
+    [
+     13.44122,
+     46.2309
+    ],
+    [
+     13.44344,
+     46.23375
+    ],
+    [
+     13.44345,
+     46.23417
+    ],
+    [
+     13.44306,
+     46.23508
+    ],
+    [
+     13.44323,
+     46.23625
+    ],
+    [
+     13.44384,
+     46.23693
+    ],
+    [
+     13.4461,
+     46.23804
+    ],
+    [
+     13.44622,
+     46.23821
+    ],
+    [
+     13.44572,
+     46.23901
+    ],
+    [
+     13.44597,
+     46.23972
+    ],
+    [
+     13.44756,
+     46.2413
+    ],
+    [
+     13.44787,
+     46.24176
+    ],
+    [
+     13.44784,
+     46.24207
+    ],
+    [
+     13.44809,
+     46.2423
+    ],
+    [
+     13.44874,
+     46.24241
+    ],
+    [
+     13.45191,
+     46.2417
+    ],
+    [
+     13.45358,
+     46.24188
+    ],
+    [
+     13.45584,
+     46.24164
+    ],
+    [
+     13.45733,
+     46.24179
+    ],
+    [
+     13.45881,
+     46.24244
+    ],
+    [
+     13.46107,
+     46.24416
+    ],
+    [
+     13.46243,
+     46.2449
+    ],
+    [
+     13.4639,
+     46.24546
+    ],
+    [
+     13.4664,
+     46.24573
+    ],
+    [
+     13.46726,
+     46.24652
+    ],
+    [
+     13.46785,
+     46.24744
+    ],
+    [
+     13.46859,
+     46.24803
+    ],
+    [
+     13.46928,
+     46.24805
+    ],
+    [
+     13.47029,
+     46.24771
+    ],
+    [
+     13.47121,
+     46.24771
+    ],
+    [
+     13.47315,
+     46.24857
+    ],
+    [
+     13.4738,
+     46.24864
+    ],
+    [
+     13.4745,
+     46.24858
+    ],
+    [
+     13.47597,
+     46.24817
+    ],
+    [
+     13.47669,
+     46.24857
+    ],
+    [
+     13.47735,
+     46.2493
+    ],
+    [
+     13.4788,
+     46.24984
+    ],
+    [
+     13.47948,
+     46.24989
+    ],
+    [
+     13.48102,
+     46.24927
+    ],
+    [
+     13.48369,
+     46.24997
+    ],
+    [
+     13.48493,
+     46.25004
+    ],
+    [
+     13.48687,
+     46.2508
+    ],
+    [
+     13.48943,
+     46.25107
+    ],
+    [
+     13.49187,
+     46.25101
+    ],
+    [
+     13.49256,
+     46.25064
+    ],
+    [
+     13.49297,
+     46.24995
+    ],
+    [
+     13.4934,
+     46.24957
+    ],
+    [
+     13.49392,
+     46.2496
+    ],
+    [
+     13.4952,
+     46.25015
+    ],
+    [
+     13.49554,
+     46.24984
+    ],
+    [
+     13.49635,
+     46.2498
+    ],
+    [
+     13.49702,
+     46.24958
+    ],
+    [
+     13.49789,
+     46.24898
+    ],
+    [
+     13.49805,
+     46.24867
+    ],
+    [
+     13.50141,
+     46.24867
+    ],
+    [
+     13.50299,
+     46.24839
+    ],
+    [
+     13.50414,
+     46.24788
+    ],
+    [
+     13.50439,
+     46.24755
+    ],
+    [
+     13.50544,
+     46.2468
+    ],
+    [
+     13.50599,
+     46.24671
+    ],
+    [
+     13.50684,
+     46.24683
+    ],
+    [
+     13.50854,
+     46.24627
+    ],
+    [
+     13.50881,
+     46.24592
+    ],
+    [
+     13.50873,
+     46.24539
+    ],
+    [
+     13.5081,
+     46.24487
+    ],
+    [
+     13.50805,
+     46.24406
+    ],
+    [
+     13.50791,
+     46.24378
+    ],
+    [
+     13.50663,
+     46.24231
+    ],
+    [
+     13.50533,
+     46.24141
+    ],
+    [
+     13.5041,
+     46.24111
+    ],
+    [
+     13.50318,
+     46.24068
+    ],
+    [
+     13.50242,
+     46.24007
+    ],
+    [
+     13.50202,
+     46.23935
+    ],
+    [
+     13.50051,
+     46.23839
+    ],
+    [
+     13.50064,
+     46.23813
+    ],
+    [
+     13.50063,
+     46.23643
+    ],
+    [
+     13.50085,
+     46.23601
+    ],
+    [
+     13.50051,
+     46.23385
+    ],
+    [
+     13.50132,
+     46.23255
+    ],
+    [
+     13.50132,
+     46.23205
+    ],
+    [
+     13.49996,
+     46.23016
+    ],
+    [
+     13.49853,
+     46.22882
+    ],
+    [
+     13.49854,
+     46.22835
+    ],
+    [
+     13.49903,
+     46.22661
+    ],
+    [
+     13.49883,
+     46.22561
+    ],
+    [
+     13.49839,
+     46.2249
+    ],
+    [
+     13.49887,
+     46.22393
+    ],
+    [
+     13.49945,
+     46.22321
+    ],
+    [
+     13.50078,
+     46.22232
+    ],
+    [
+     13.50106,
+     46.22185
+    ],
+    [
+     13.501,
+     46.22153
+    ],
+    [
+     13.50083,
+     46.22144
+    ],
+    [
+     13.50063,
+     46.22048
+    ],
+    [
+     13.49912,
+     46.21908
+    ]
+   ]
+  },
+  "center": [
+   46.24524,
+   13.46331
+  ],
+  "lengthKm": 15.2,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.24353,
+    "lon": 13.5087,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.22973,
+    "lon": 13.44071,
+    "name": null,
+    "distKm": 0.14
+   },
+   {
+    "lat": 46.21793,
+    "lon": 13.49801,
+    "name": null,
+    "distKm": 0.15
+   },
+   {
+    "lat": 46.23404,
+    "lon": 13.43347,
+    "name": null,
+    "distKm": 0.2
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:34:34.635Z"
+ },
+ {
+  "id": "rd-tolmin/soca-5",
+  "clubSlug": "rd-tolmin",
+  "slug": "soca-5",
+  "code": "Soča A",
+  "name": "Reka Soča",
+  "subtitle": "od mostu v vasi Čezsoča do izliva Tolminke",
+  "en": {
+   "name": "The river Soča",
+   "subtitle": "from the bridge in Čezsoča to the outflow of the Tolminka",
+   "description": "The Soča is one of the most beautiful rivers in Europe and it is a true pearl of nature. It is famous for its clear waters and dazzling emerald colour. The source of the river is in the heart of the Triglav National Park, the Trenta valley, at the altitude of 990 m. After it covers the distance of 138 km, it enters the Adriatic Sea at the Gulf of Trieste."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Soča sodi med najlepše evropske reke in je prepoznana kot naravni biser. Slovi kot zelo čista reka s čudovito izrazito smaragdno barvo. Izvira v Trenti na nadmorski višini 990 metrov v Triglavskem narodnem parku in se po 138 kilometrih v Tržaškem zalivu izlije v Jadransko morje. RDT upravlja njen del od mostu v Čezsoči do vtoka potoka Vogrščka pod jezom za HE Doblar.",
+  "waterType": "river",
+  "water": "Soča",
+  "species": [
+   "mrena",
+   "krizanec",
+   "linj",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "križanec",
+   "linj",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/soca-5",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Čezsoča",
+   "do: sotočje Tolminke"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.5466,
+     46.32421
+    ],
+    [
+     13.54487,
+     46.32423
+    ],
+    [
+     13.54311,
+     46.32442
+    ],
+    [
+     13.54249,
+     46.3247
+    ],
+    [
+     13.54182,
+     46.32481
+    ],
+    [
+     13.53958,
+     46.32481
+    ],
+    [
+     13.53857,
+     46.32465
+    ],
+    [
+     13.53779,
+     46.32432
+    ],
+    [
+     13.5368,
+     46.32368
+    ],
+    [
+     13.53659,
+     46.32334
+    ],
+    [
+     13.53667,
+     46.32309
+    ],
+    [
+     13.53693,
+     46.32292
+    ],
+    [
+     13.53781,
+     46.32262
+    ],
+    [
+     13.5379,
+     46.32238
+    ],
+    [
+     13.53782,
+     46.32204
+    ],
+    [
+     13.53734,
+     46.32139
+    ],
+    [
+     13.53633,
+     46.32071
+    ],
+    [
+     13.53468,
+     46.32027
+    ],
+    [
+     13.53377,
+     46.32036
+    ],
+    [
+     13.53217,
+     46.3211
+    ],
+    [
+     13.53098,
+     46.32189
+    ],
+    [
+     13.53014,
+     46.32214
+    ],
+    [
+     13.52699,
+     46.32269
+    ],
+    [
+     13.5254,
+     46.32267
+    ],
+    [
+     13.52467,
+     46.3225
+    ],
+    [
+     13.52399,
+     46.3219
+    ],
+    [
+     13.52342,
+     46.32168
+    ],
+    [
+     13.52176,
+     46.32132
+    ],
+    [
+     13.5211,
+     46.32097
+    ],
+    [
+     13.51999,
+     46.32006
+    ],
+    [
+     13.51907,
+     46.31973
+    ],
+    [
+     13.51817,
+     46.31962
+    ],
+    [
+     13.51502,
+     46.32017
+    ],
+    [
+     13.51244,
+     46.32011
+    ],
+    [
+     13.51068,
+     46.31968
+    ],
+    [
+     13.50971,
+     46.31884
+    ],
+    [
+     13.50638,
+     46.31852
+    ],
+    [
+     13.50535,
+     46.31796
+    ],
+    [
+     13.49747,
+     46.31611
+    ],
+    [
+     13.49546,
+     46.31528
+    ],
+    [
+     13.48853,
+     46.31435
+    ],
+    [
+     13.48717,
+     46.31347
+    ],
+    [
+     13.48698,
+     46.31307
+    ],
+    [
+     13.48626,
+     46.3124
+    ],
+    [
+     13.48624,
+     46.31142
+    ],
+    [
+     13.48545,
+     46.30992
+    ],
+    [
+     13.48545,
+     46.30859
+    ],
+    [
+     13.48673,
+     46.30642
+    ],
+    [
+     13.48879,
+     46.30429
+    ],
+    [
+     13.48964,
+     46.3012
+    ],
+    [
+     13.49036,
+     46.30048
+    ],
+    [
+     13.49121,
+     46.29993
+    ],
+    [
+     13.49207,
+     46.29969
+    ],
+    [
+     13.49264,
+     46.29971
+    ],
+    [
+     13.49327,
+     46.29991
+    ],
+    [
+     13.49545,
+     46.29936
+    ],
+    [
+     13.49604,
+     46.29907
+    ],
+    [
+     13.49825,
+     46.29757
+    ],
+    [
+     13.508,
+     46.29243
+    ],
+    [
+     13.51956,
+     46.28562
+    ],
+    [
+     13.51995,
+     46.28617
+    ],
+    [
+     13.52003,
+     46.28668
+    ],
+    [
+     13.52035,
+     46.28728
+    ],
+    [
+     13.52102,
+     46.28797
+    ],
+    [
+     13.52155,
+     46.28822
+    ],
+    [
+     13.52357,
+     46.28831
+    ],
+    [
+     13.52533,
+     46.28797
+    ],
+    [
+     13.5276,
+     46.28807
+    ],
+    [
+     13.52902,
+     46.28772
+    ],
+    [
+     13.53102,
+     46.28798
+    ],
+    [
+     13.53222,
+     46.28782
+    ],
+    [
+     13.53503,
+     46.28569
+    ],
+    [
+     13.53703,
+     46.28472
+    ],
+    [
+     13.5384,
+     46.28349
+    ],
+    [
+     13.53899,
+     46.28341
+    ],
+    [
+     13.54019,
+     46.28378
+    ],
+    [
+     13.54124,
+     46.28446
+    ],
+    [
+     13.54372,
+     46.28432
+    ],
+    [
+     13.54541,
+     46.28452
+    ],
+    [
+     13.54755,
+     46.2854
+    ],
+    [
+     13.54823,
+     46.28535
+    ],
+    [
+     13.54917,
+     46.28502
+    ],
+    [
+     13.55074,
+     46.28555
+    ],
+    [
+     13.55253,
+     46.2851
+    ],
+    [
+     13.55341,
+     46.28467
+    ],
+    [
+     13.55489,
+     46.2835
+    ],
+    [
+     13.55667,
+     46.28163
+    ],
+    [
+     13.55785,
+     46.28112
+    ],
+    [
+     13.56163,
+     46.27879
+    ],
+    [
+     13.56643,
+     46.2781
+    ],
+    [
+     13.56688,
+     46.27794
+    ],
+    [
+     13.56719,
+     46.27759
+    ],
+    [
+     13.56742,
+     46.27695
+    ],
+    [
+     13.56785,
+     46.27655
+    ],
+    [
+     13.5701,
+     46.27555
+    ],
+    [
+     13.57154,
+     46.2752
+    ],
+    [
+     13.57237,
+     46.27458
+    ],
+    [
+     13.57358,
+     46.27448
+    ],
+    [
+     13.5738,
+     46.27423
+    ],
+    [
+     13.57369,
+     46.27399
+    ],
+    [
+     13.57389,
+     46.2736
+    ],
+    [
+     13.57407,
+     46.27353
+    ],
+    [
+     13.5741,
+     46.27333
+    ],
+    [
+     13.57371,
+     46.27301
+    ],
+    [
+     13.57376,
+     46.27271
+    ],
+    [
+     13.57362,
+     46.27258
+    ],
+    [
+     13.57371,
+     46.27221
+    ],
+    [
+     13.57343,
+     46.27158
+    ],
+    [
+     13.5732,
+     46.27147
+    ],
+    [
+     13.57313,
+     46.27111
+    ],
+    [
+     13.57411,
+     46.26964
+    ],
+    [
+     13.57482,
+     46.26906
+    ],
+    [
+     13.57677,
+     46.26796
+    ],
+    [
+     13.57776,
+     46.26642
+    ],
+    [
+     13.57908,
+     46.26552
+    ],
+    [
+     13.5793,
+     46.2651
+    ],
+    [
+     13.5796,
+     46.26486
+    ],
+    [
+     13.58112,
+     46.26378
+    ],
+    [
+     13.58136,
+     46.26376
+    ],
+    [
+     13.58305,
+     46.26265
+    ],
+    [
+     13.58337,
+     46.26231
+    ],
+    [
+     13.58381,
+     46.26023
+    ],
+    [
+     13.58447,
+     46.25919
+    ],
+    [
+     13.58657,
+     46.25736
+    ],
+    [
+     13.58713,
+     46.25625
+    ],
+    [
+     13.58775,
+     46.25581
+    ],
+    [
+     13.58795,
+     46.25551
+    ],
+    [
+     13.58801,
+     46.25501
+    ],
+    [
+     13.58776,
+     46.25452
+    ],
+    [
+     13.58666,
+     46.25409
+    ],
+    [
+     13.58639,
+     46.25384
+    ],
+    [
+     13.5861,
+     46.25333
+    ],
+    [
+     13.58586,
+     46.25194
+    ],
+    [
+     13.58589,
+     46.25149
+    ],
+    [
+     13.58641,
+     46.25013
+    ],
+    [
+     13.58644,
+     46.24951
+    ],
+    [
+     13.58612,
+     46.24823
+    ],
+    [
+     13.5868,
+     46.24681
+    ],
+    [
+     13.58729,
+     46.24632
+    ],
+    [
+     13.5882,
+     46.24581
+    ],
+    [
+     13.59032,
+     46.24315
+    ],
+    [
+     13.5915,
+     46.24217
+    ],
+    [
+     13.59284,
+     46.2414
+    ],
+    [
+     13.59567,
+     46.24071
+    ],
+    [
+     13.59761,
+     46.23947
+    ],
+    [
+     13.59852,
+     46.23825
+    ],
+    [
+     13.59875,
+     46.2372
+    ],
+    [
+     13.59916,
+     46.23639
+    ],
+    [
+     13.60016,
+     46.23507
+    ],
+    [
+     13.60091,
+     46.23347
+    ],
+    [
+     13.60376,
+     46.22954
+    ],
+    [
+     13.60543,
+     46.22795
+    ],
+    [
+     13.60792,
+     46.22681
+    ],
+    [
+     13.60935,
+     46.22649
+    ],
+    [
+     13.61178,
+     46.22622
+    ],
+    [
+     13.61249,
+     46.22569
+    ],
+    [
+     13.61291,
+     46.22511
+    ],
+    [
+     13.61295,
+     46.22427
+    ],
+    [
+     13.61274,
+     46.22336
+    ],
+    [
+     13.61288,
+     46.22155
+    ],
+    [
+     13.61329,
+     46.22023
+    ],
+    [
+     13.6144,
+     46.21822
+    ],
+    [
+     13.61607,
+     46.21691
+    ],
+    [
+     13.61778,
+     46.21628
+    ],
+    [
+     13.61831,
+     46.21623
+    ],
+    [
+     13.61872,
+     46.21596
+    ],
+    [
+     13.61925,
+     46.21434
+    ],
+    [
+     13.61925,
+     46.21375
+    ],
+    [
+     13.61974,
+     46.21294
+    ],
+    [
+     13.62117,
+     46.21218
+    ],
+    [
+     13.62482,
+     46.21104
+    ],
+    [
+     13.62999,
+     46.21079
+    ],
+    [
+     13.63171,
+     46.21089
+    ],
+    [
+     13.63311,
+     46.21118
+    ],
+    [
+     13.63786,
+     46.21058
+    ],
+    [
+     13.63999,
+     46.21001
+    ],
+    [
+     13.6432,
+     46.20864
+    ],
+    [
+     13.64468,
+     46.20765
+    ],
+    [
+     13.64717,
+     46.20661
+    ],
+    [
+     13.65087,
+     46.20593
+    ],
+    [
+     13.65268,
+     46.20583
+    ],
+    [
+     13.65592,
+     46.20509
+    ],
+    [
+     13.65668,
+     46.20461
+    ],
+    [
+     13.65892,
+     46.20463
+    ],
+    [
+     13.66768,
+     46.20593
+    ],
+    [
+     13.67377,
+     46.20655
+    ],
+    [
+     13.67847,
+     46.20577
+    ],
+    [
+     13.68179,
+     46.2055
+    ],
+    [
+     13.68357,
+     46.20493
+    ],
+    [
+     13.68518,
+     46.204
+    ],
+    [
+     13.68552,
+     46.20361
+    ],
+    [
+     13.68915,
+     46.20109
+    ],
+    [
+     13.69078,
+     46.19957
+    ],
+    [
+     13.69149,
+     46.19858
+    ],
+    [
+     13.69295,
+     46.19766
+    ],
+    [
+     13.69356,
+     46.19686
+    ],
+    [
+     13.6946,
+     46.1961
+    ],
+    [
+     13.69741,
+     46.19538
+    ],
+    [
+     13.69817,
+     46.19479
+    ],
+    [
+     13.70537,
+     46.19179
+    ],
+    [
+     13.70665,
+     46.19114
+    ],
+    [
+     13.70948,
+     46.19052
+    ],
+    [
+     13.71116,
+     46.18992
+    ],
+    [
+     13.71193,
+     46.18946
+    ],
+    [
+     13.71265,
+     46.1889
+    ],
+    [
+     13.71491,
+     46.18657
+    ],
+    [
+     13.71521,
+     46.18598
+    ],
+    [
+     13.71575,
+     46.18417
+    ],
+    [
+     13.7165,
+     46.18304
+    ],
+    [
+     13.71782,
+     46.18219
+    ],
+    [
+     13.72104,
+     46.18117
+    ],
+    [
+     13.72279,
+     46.18023
+    ],
+    [
+     13.72392,
+     46.17879
+    ],
+    [
+     13.72444,
+     46.17686
+    ],
+    [
+     13.72486,
+     46.17627
+    ],
+    [
+     13.7256,
+     46.17566
+    ],
+    [
+     13.72717,
+     46.1753
+    ],
+    [
+     13.7315,
+     46.17481
+    ],
+    [
+     13.73361,
+     46.17374
+    ],
+    [
+     13.73618,
+     46.17382
+    ],
+    [
+     13.7392,
+     46.1732
+    ],
+    [
+     13.74023,
+     46.17324
+    ]
+   ]
+  },
+  "center": [
+   46.25702,
+   13.58674
+  ],
+  "lengthKm": 34.7,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.21051,
+    "lon": 13.63001,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.21164,
+    "lon": 13.62179,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.24899,
+    "lon": 13.58562,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.28269,
+    "lon": 13.55477,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:37.080Z"
+ },
+ {
+  "id": "rd-tolmin/soca-6",
+  "clubSlug": "rd-tolmin",
+  "slug": "soca-6",
+  "code": "Soča J",
+  "name": "Reka Soča - jezero",
+  "subtitle": "od izliva Tolminke in Bače do jezu v Podselu",
+  "en": {
+   "name": "The Soča River - lake",
+   "subtitle": "from the confluence of the Tolminka and Bača rivers to the dam in Podselo",
+   "description": "The Soča is one of the most beautiful rivers in Europe and it is a true pearl of nature. It is famous for its clear waters and dazzling emerald colour. The source of the river is in the heart of the Triglav National Park, the Trenta valley, at the altitude of 990 m. After it covers the distance of 138 km, it enters the Adriatic Sea at the Gulf of Trieste."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Soča sodi med najlepše evropske reke in je prepoznana kot naravni biser. Slovi kot zelo čista reka s čudovito izrazito smaragdno barvo. Izvira v Trenti na nadmorski višini 990 metrov v Triglavskem narodnem parku in se po 138 kilometrih v Tržaškem zalivu izlije v Jadransko morje. RDT upravlja njen del od mostu v Čezsoči do vtoka potoka Vogrščka pod jezom za HE Doblar.",
+  "waterType": "river",
+  "water": "Soča",
+  "species": [
+   "mrena",
+   "krizanec",
+   "linj",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "križanec",
+   "linj",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom"
+  ],
+  "baits": [
+   "češnje",
+   "grozdje",
+   "koruza",
+   "kruh",
+   "sir",
+   "umetna muha"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Beličarjenje",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 07. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1380"
+   },
+   {
+    "name": "Jezero - ujemi in vzemi",
+    "priceEur": 45,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1377"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/soca-6",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: sotočje Tolminke"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    13.74023,
+    46.17324
+   ]
+  },
+  "center": [
+   46.17324,
+   13.74023
+  ],
+  "lengthKm": null,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.17529,
+    "lon": 13.73747,
+    "name": null,
+    "distKm": 0.31
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:39.475Z"
+ },
+ {
+  "id": "rd-tolmin/soca-7",
+  "clubSlug": "rd-tolmin",
+  "slug": "soca-7",
+  "code": "Soča PJ",
+  "name": "Reka Soča",
+  "subtitle": "od jezu v Podselu do pritoka Vogršček",
+  "en": {
+   "name": "The river Soča",
+   "subtitle": "from the dam in Podsel to the tributary Vogršček",
+   "description": "The Soča is one of the most beautiful rivers in Europe and it is a true pearl of nature. It is famous for its clear waters and dazzling emerald colour. The source of the river is in the heart of the Triglav National Park, the Trenta valley, at the altitude of 990 m. After it covers the distance of 138 km, it enters the Adriatic Sea at the Gulf of Trieste."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Soča sodi med najlepše evropske reke in je prepoznana kot naravni biser. Slovi kot zelo čista reka s čudovito izrazito smaragdno barvo. Izvira v Trenti na nadmorski višini 990 metrov v Triglavskem narodnem parku in se po 138 kilometrih v Tržaškem zalivu izlije v Jadransko morje. RDT upravlja njen del od mostu v Čezsoči do vtoka potoka Vogrščka pod jezom za HE Doblar.",
+  "waterType": "river",
+  "water": "Soča",
+  "species": [
+   "mrena",
+   "krizanec",
+   "linj",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "grba (mrena)",
+   "križanec",
+   "linj",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/soca-7",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "odsek okoli sedeža družine"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.65087,
+     46.20593
+    ],
+    [
+     13.65268,
+     46.20583
+    ],
+    [
+     13.65592,
+     46.20509
+    ],
+    [
+     13.65668,
+     46.20461
+    ],
+    [
+     13.65795,
+     46.20458
+    ],
+    [
+     13.66108,
+     46.20491
+    ],
+    [
+     13.66768,
+     46.20593
+    ],
+    [
+     13.67377,
+     46.20655
+    ],
+    [
+     13.67847,
+     46.20577
+    ],
+    [
+     13.68179,
+     46.2055
+    ],
+    [
+     13.68357,
+     46.20493
+    ],
+    [
+     13.68518,
+     46.204
+    ],
+    [
+     13.68552,
+     46.20361
+    ],
+    [
+     13.68915,
+     46.20109
+    ],
+    [
+     13.69078,
+     46.19957
+    ],
+    [
+     13.69149,
+     46.19858
+    ],
+    [
+     13.69295,
+     46.19766
+    ],
+    [
+     13.69356,
+     46.19686
+    ],
+    [
+     13.6946,
+     46.1961
+    ],
+    [
+     13.69741,
+     46.19538
+    ],
+    [
+     13.69817,
+     46.19479
+    ],
+    [
+     13.70537,
+     46.19179
+    ],
+    [
+     13.70665,
+     46.19114
+    ],
+    [
+     13.70948,
+     46.19052
+    ],
+    [
+     13.71116,
+     46.18992
+    ],
+    [
+     13.71193,
+     46.18946
+    ],
+    [
+     13.71265,
+     46.1889
+    ],
+    [
+     13.71491,
+     46.18657
+    ],
+    [
+     13.71521,
+     46.18598
+    ],
+    [
+     13.71575,
+     46.18417
+    ],
+    [
+     13.7165,
+     46.18304
+    ],
+    [
+     13.71782,
+     46.18219
+    ],
+    [
+     13.72104,
+     46.18117
+    ],
+    [
+     13.72279,
+     46.18023
+    ],
+    [
+     13.72392,
+     46.17879
+    ],
+    [
+     13.72444,
+     46.17686
+    ],
+    [
+     13.72486,
+     46.17627
+    ],
+    [
+     13.7256,
+     46.17566
+    ],
+    [
+     13.72717,
+     46.1753
+    ],
+    [
+     13.7315,
+     46.17481
+    ],
+    [
+     13.73361,
+     46.17374
+    ],
+    [
+     13.73618,
+     46.17382
+    ],
+    [
+     13.7392,
+     46.1732
+    ],
+    [
+     13.74023,
+     46.17324
+    ],
+    [
+     13.74147,
+     46.173
+    ],
+    [
+     13.74223,
+     46.17278
+    ],
+    [
+     13.7429,
+     46.1724
+    ],
+    [
+     13.74537,
+     46.17043
+    ],
+    [
+     13.74612,
+     46.17014
+    ],
+    [
+     13.74942,
+     46.16972
+    ],
+    [
+     13.75048,
+     46.16979
+    ],
+    [
+     13.75136,
+     46.17
+    ],
+    [
+     13.7522,
+     46.16996
+    ],
+    [
+     13.75274,
+     46.16985
+    ],
+    [
+     13.75343,
+     46.16951
+    ],
+    [
+     13.75401,
+     46.16873
+    ],
+    [
+     13.75408,
+     46.16815
+    ],
+    [
+     13.75277,
+     46.16591
+    ],
+    [
+     13.75197,
+     46.16391
+    ],
+    [
+     13.7508,
+     46.16289
+    ],
+    [
+     13.74871,
+     46.16162
+    ],
+    [
+     13.74521,
+     46.15974
+    ],
+    [
+     13.74435,
+     46.1591
+    ],
+    [
+     13.74423,
+     46.15847
+    ],
+    [
+     13.74504,
+     46.15537
+    ],
+    [
+     13.74461,
+     46.15489
+    ],
+    [
+     13.74397,
+     46.15459
+    ],
+    [
+     13.7411,
+     46.15405
+    ],
+    [
+     13.74011,
+     46.1533
+    ],
+    [
+     13.7399,
+     46.15236
+    ],
+    [
+     13.73992,
+     46.15201
+    ],
+    [
+     13.74019,
+     46.15158
+    ],
+    [
+     13.74025,
+     46.15118
+    ],
+    [
+     13.74008,
+     46.15062
+    ],
+    [
+     13.7397,
+     46.14986
+    ],
+    [
+     13.73922,
+     46.14966
+    ],
+    [
+     13.7388,
+     46.14926
+    ],
+    [
+     13.73829,
+     46.1484
+    ],
+    [
+     13.73825,
+     46.14796
+    ],
+    [
+     13.73709,
+     46.14676
+    ],
+    [
+     13.73575,
+     46.14648
+    ],
+    [
+     13.73548,
+     46.14625
+    ],
+    [
+     13.73534,
+     46.14585
+    ],
+    [
+     13.73393,
+     46.14453
+    ],
+    [
+     13.73357,
+     46.14378
+    ],
+    [
+     13.73238,
+     46.14305
+    ],
+    [
+     13.73069,
+     46.14236
+    ],
+    [
+     13.72855,
+     46.14115
+    ],
+    [
+     13.7269,
+     46.13996
+    ],
+    [
+     13.72455,
+     46.13907
+    ],
+    [
+     13.72417,
+     46.13732
+    ],
+    [
+     13.72342,
+     46.13667
+    ],
+    [
+     13.72039,
+     46.1358
+    ],
+    [
+     13.71964,
+     46.13478
+    ],
+    [
+     13.71941,
+     46.13403
+    ],
+    [
+     13.71893,
+     46.13368
+    ],
+    [
+     13.71761,
+     46.13306
+    ],
+    [
+     13.71674,
+     46.13171
+    ],
+    [
+     13.71596,
+     46.13098
+    ],
+    [
+     13.71568,
+     46.13037
+    ],
+    [
+     13.71365,
+     46.12881
+    ],
+    [
+     13.71219,
+     46.12635
+    ]
+   ]
+  },
+  "center": [
+   46.17921,
+   13.72367
+  ],
+  "lengthKm": 16,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.13197,
+    "lon": 13.71622,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.18209,
+    "lon": 13.7168,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.20696,
+    "lon": 13.67209,
+    "name": null,
+    "distKm": 0.06
+   },
+   {
+    "lat": 46.19758,
+    "lon": 13.6941,
+    "name": null,
+    "distKm": 0.07
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:41.874Z"
+ },
+ {
+  "id": "rd-tolmin/tolminka",
+  "clubSlug": "rd-tolmin",
+  "slug": "tolminka",
+  "code": "Tolminka TO",
+  "name": "Tolminka",
+  "subtitle": "",
+  "en": {
+   "name": "The river Tolminka",
+   "subtitle": "from the spring to the outflow",
+   "description": "Its source is in the Polog mountain above the Tolminka valley, an alpine valley below Bogatin in the Triglav National Park. It is a 10.2-km long river flowing through the Soča valley with a large volume of water, making it one of the major rivers in the Tolmin area."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Reka Tolminka izvira v Pologu v dolini Tolminke, alpski dolini pod Bogatinom v Triglavskem narodnem parku. Tolminka je 10,2-kilometra dolga reka v Posočju, ki s svojo količino vode predstavlja enega glavnih vodotokov na Tolminskem. Pot proti Soči si je utrla skozi ozko dolino, včasih divjo sotesko, ki je najlepša v predelu znamenitih Tolminskih korit.",
+  "waterType": "river",
+  "water": "Tolminka",
+  "species": [
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/tolminka",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.74023,
+     46.17324
+    ],
+    [
+     13.74077,
+     46.17408
+    ],
+    [
+     13.74087,
+     46.17446
+    ],
+    [
+     13.73975,
+     46.17532
+    ],
+    [
+     13.73951,
+     46.1761
+    ],
+    [
+     13.73977,
+     46.17674
+    ],
+    [
+     13.7391,
+     46.17753
+    ],
+    [
+     13.73731,
+     46.17899
+    ],
+    [
+     13.73687,
+     46.17959
+    ],
+    [
+     13.73688,
+     46.1809
+    ],
+    [
+     13.73724,
+     46.18156
+    ],
+    [
+     13.73819,
+     46.18227
+    ],
+    [
+     13.73935,
+     46.18276
+    ],
+    [
+     13.74,
+     46.18326
+    ],
+    [
+     13.74036,
+     46.18393
+    ],
+    [
+     13.74031,
+     46.18463
+    ],
+    [
+     13.73988,
+     46.18507
+    ],
+    [
+     13.73893,
+     46.18518
+    ],
+    [
+     13.738,
+     46.18577
+    ],
+    [
+     13.73661,
+     46.18638
+    ],
+    [
+     13.73517,
+     46.18805
+    ],
+    [
+     13.73432,
+     46.18866
+    ],
+    [
+     13.73432,
+     46.189
+    ],
+    [
+     13.73448,
+     46.18944
+    ],
+    [
+     13.73485,
+     46.18988
+    ],
+    [
+     13.73575,
+     46.19027
+    ],
+    [
+     13.73612,
+     46.19063
+    ],
+    [
+     13.73813,
+     46.19323
+    ],
+    [
+     13.73933,
+     46.19583
+    ],
+    [
+     13.73991,
+     46.19639
+    ],
+    [
+     13.74024,
+     46.1972
+    ],
+    [
+     13.74088,
+     46.19766
+    ],
+    [
+     13.74221,
+     46.20003
+    ],
+    [
+     13.74197,
+     46.20162
+    ],
+    [
+     13.74152,
+     46.20256
+    ],
+    [
+     13.74039,
+     46.20346
+    ],
+    [
+     13.74057,
+     46.20431
+    ],
+    [
+     13.74022,
+     46.20474
+    ],
+    [
+     13.73967,
+     46.20512
+    ],
+    [
+     13.7382,
+     46.20673
+    ],
+    [
+     13.73777,
+     46.20688
+    ],
+    [
+     13.73756,
+     46.20789
+    ],
+    [
+     13.73666,
+     46.20865
+    ],
+    [
+     13.73577,
+     46.20909
+    ],
+    [
+     13.73569,
+     46.20927
+    ],
+    [
+     13.73582,
+     46.20991
+    ],
+    [
+     13.73558,
+     46.21054
+    ],
+    [
+     13.73529,
+     46.21091
+    ],
+    [
+     13.7343,
+     46.21153
+    ],
+    [
+     13.73452,
+     46.21208
+    ],
+    [
+     13.73438,
+     46.21263
+    ],
+    [
+     13.73459,
+     46.21279
+    ],
+    [
+     13.73393,
+     46.21358
+    ],
+    [
+     13.73394,
+     46.21421
+    ],
+    [
+     13.73261,
+     46.21476
+    ],
+    [
+     13.73234,
+     46.21505
+    ],
+    [
+     13.73197,
+     46.21519
+    ],
+    [
+     13.73055,
+     46.21532
+    ],
+    [
+     13.73016,
+     46.21548
+    ],
+    [
+     13.72925,
+     46.21691
+    ],
+    [
+     13.72723,
+     46.2183
+    ],
+    [
+     13.72496,
+     46.21934
+    ],
+    [
+     13.72478,
+     46.21961
+    ],
+    [
+     13.72476,
+     46.22029
+    ],
+    [
+     13.72377,
+     46.22116
+    ],
+    [
+     13.72354,
+     46.22188
+    ],
+    [
+     13.72289,
+     46.22253
+    ],
+    [
+     13.72289,
+     46.22274
+    ],
+    [
+     13.72325,
+     46.22331
+    ],
+    [
+     13.72313,
+     46.22425
+    ],
+    [
+     13.72368,
+     46.2253
+    ],
+    [
+     13.72366,
+     46.22582
+    ],
+    [
+     13.72431,
+     46.22764
+    ],
+    [
+     13.72416,
+     46.22805
+    ],
+    [
+     13.7242,
+     46.22849
+    ],
+    [
+     13.72451,
+     46.22882
+    ],
+    [
+     13.72479,
+     46.22966
+    ],
+    [
+     13.72432,
+     46.23013
+    ],
+    [
+     13.7245,
+     46.23081
+    ],
+    [
+     13.72406,
+     46.23161
+    ],
+    [
+     13.72369,
+     46.23195
+    ],
+    [
+     13.72362,
+     46.23227
+    ],
+    [
+     13.72423,
+     46.23294
+    ],
+    [
+     13.72431,
+     46.23396
+    ],
+    [
+     13.72461,
+     46.23429
+    ],
+    [
+     13.72474,
+     46.23532
+    ],
+    [
+     13.72453,
+     46.23618
+    ],
+    [
+     13.72553,
+     46.23697
+    ],
+    [
+     13.72584,
+     46.23738
+    ],
+    [
+     13.72597,
+     46.23776
+    ],
+    [
+     13.72592,
+     46.2387
+    ],
+    [
+     13.7261,
+     46.23957
+    ],
+    [
+     13.72686,
+     46.24038
+    ],
+    [
+     13.7277,
+     46.24181
+    ],
+    [
+     13.72755,
+     46.24218
+    ],
+    [
+     13.72677,
+     46.24281
+    ],
+    [
+     13.72671,
+     46.24428
+    ],
+    [
+     13.72629,
+     46.24488
+    ],
+    [
+     13.7262,
+     46.24621
+    ],
+    [
+     13.726,
+     46.24646
+    ],
+    [
+     13.72596,
+     46.24692
+    ],
+    [
+     13.72555,
+     46.24727
+    ],
+    [
+     13.72539,
+     46.24765
+    ],
+    [
+     13.72591,
+     46.24852
+    ],
+    [
+     13.72627,
+     46.2506
+    ],
+    [
+     13.72658,
+     46.25129
+    ],
+    [
+     13.72741,
+     46.2518
+    ],
+    [
+     13.72763,
+     46.25224
+    ],
+    [
+     13.72976,
+     46.25287
+    ],
+    [
+     13.72993,
+     46.25305
+    ],
+    [
+     13.73048,
+     46.25306
+    ],
+    [
+     13.73087,
+     46.25328
+    ],
+    [
+     13.73101,
+     46.25406
+    ],
+    [
+     13.73144,
+     46.25415
+    ],
+    [
+     13.73151,
+     46.25427
+    ],
+    [
+     13.73153,
+     46.25503
+    ],
+    [
+     13.73097,
+     46.25587
+    ],
+    [
+     13.7308,
+     46.25652
+    ],
+    [
+     13.7302,
+     46.25709
+    ],
+    [
+     13.72874,
+     46.25763
+    ],
+    [
+     13.72845,
+     46.25801
+    ],
+    [
+     13.72814,
+     46.25814
+    ],
+    [
+     13.72686,
+     46.25844
+    ],
+    [
+     13.72579,
+     46.25894
+    ],
+    [
+     13.72518,
+     46.25902
+    ],
+    [
+     13.7242,
+     46.25956
+    ],
+    [
+     13.72348,
+     46.26013
+    ],
+    [
+     13.70933,
+     46.26153
+    ]
+   ]
+  },
+  "center": [
+   46.2197,
+   13.72478
+  ],
+  "lengthKm": 12.8,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.18496,
+    "lon": 13.73658,
+    "name": null,
+    "distKm": 0.13
+   },
+   {
+    "lat": 46.17529,
+    "lon": 13.73747,
+    "name": null,
+    "distKm": 0.17
+   },
+   {
+    "lat": 46.18005,
+    "lon": 13.73435,
+    "name": null,
+    "distKm": 0.19
+   },
+   {
+    "lat": 46.18136,
+    "lon": 13.74098,
+    "name": null,
+    "distKm": 0.2
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:41.888Z"
+ },
+ {
+  "id": "rd-tolmin/trebuscica-3",
+  "clubSlug": "rd-tolmin",
+  "slug": "trebuscica-3",
+  "code": "Trebuščica TR",
+  "name": "Trebuščica",
+  "subtitle": "od mostu v Gorenji Trebuši do izliva",
+  "en": {
+   "name": "The creek Trebuščica",
+   "subtitle": "from the bridge in Gorenja Trebuša to the outflow",
+   "description": "Its source is at the foot of Mrzla Rupa and from there it covers 14 km before entering the Idrijca at the village of Trebuša. The upper stretch of the river - the first 5.7 km - is a reserve and is used as breeding waters for the marble trout. The remaining sections of the river are open to anglers."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Trebuščica izvira pod Mrzlo rupo in se po 14 kilometrov dolgi poti pri Trebuši izliva v Idrijco. Izvirnih 5,7-kilometra vode je rezervat in gojitvena voda za soško postrv, preostali del pa je ribolovna voda. Dolina, po kateri teče je ozka, a številna manjša prodišča omogočajo prehod ob globokih tolmunih in mimo kaskad in brzic. Je ena najlepših rek v RDT. Trebuščico naseljujejo vse vrste postrvi.",
+  "waterType": "river",
+  "water": "Trebuščica",
+  "species": [
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka",
+   "klen"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka",
+   "štrkavec (klen)"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/trebuscica-3",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Gorenja Trebuša",
+   "do: izliv"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.83221,
+     46.02712
+    ],
+    [
+     13.83165,
+     46.02755
+    ],
+    [
+     13.83128,
+     46.02828
+    ],
+    [
+     13.83072,
+     46.02856
+    ],
+    [
+     13.83062,
+     46.02896
+    ],
+    [
+     13.8299,
+     46.02983
+    ],
+    [
+     13.82916,
+     46.0315
+    ],
+    [
+     13.82872,
+     46.03208
+    ],
+    [
+     13.82881,
+     46.03314
+    ],
+    [
+     13.82893,
+     46.03338
+    ],
+    [
+     13.82964,
+     46.03383
+    ],
+    [
+     13.83016,
+     46.03476
+    ],
+    [
+     13.83021,
+     46.03617
+    ],
+    [
+     13.83146,
+     46.03634
+    ],
+    [
+     13.83172,
+     46.03675
+    ],
+    [
+     13.83128,
+     46.03854
+    ],
+    [
+     13.83068,
+     46.03988
+    ],
+    [
+     13.83053,
+     46.0408
+    ],
+    [
+     13.83021,
+     46.04148
+    ],
+    [
+     13.82932,
+     46.04248
+    ],
+    [
+     13.82902,
+     46.04304
+    ],
+    [
+     13.82787,
+     46.04353
+    ],
+    [
+     13.82752,
+     46.04405
+    ],
+    [
+     13.82754,
+     46.04442
+    ],
+    [
+     13.8283,
+     46.04504
+    ],
+    [
+     13.82794,
+     46.04591
+    ],
+    [
+     13.82814,
+     46.04651
+    ],
+    [
+     13.8281,
+     46.04682
+    ],
+    [
+     13.82764,
+     46.04754
+    ],
+    [
+     13.82748,
+     46.0483
+    ],
+    [
+     13.8282,
+     46.04935
+    ],
+    [
+     13.82805,
+     46.0496
+    ],
+    [
+     13.82729,
+     46.05016
+    ],
+    [
+     13.82743,
+     46.05068
+    ],
+    [
+     13.82727,
+     46.05181
+    ],
+    [
+     13.82668,
+     46.05261
+    ],
+    [
+     13.82651,
+     46.05322
+    ],
+    [
+     13.82722,
+     46.05395
+    ],
+    [
+     13.8273,
+     46.05422
+    ],
+    [
+     13.82585,
+     46.05746
+    ],
+    [
+     13.82604,
+     46.05782
+    ],
+    [
+     13.82699,
+     46.05845
+    ],
+    [
+     13.82732,
+     46.05894
+    ],
+    [
+     13.82696,
+     46.05992
+    ],
+    [
+     13.82729,
+     46.06043
+    ],
+    [
+     13.82735,
+     46.06167
+    ],
+    [
+     13.82803,
+     46.06242
+    ],
+    [
+     13.82811,
+     46.06273
+    ],
+    [
+     13.82794,
+     46.06299
+    ],
+    [
+     13.82795,
+     46.06333
+    ],
+    [
+     13.82861,
+     46.06422
+    ],
+    [
+     13.82864,
+     46.06447
+    ],
+    [
+     13.82805,
+     46.06503
+    ],
+    [
+     13.82836,
+     46.06578
+    ],
+    [
+     13.82825,
+     46.06622
+    ],
+    [
+     13.8276,
+     46.06638
+    ],
+    [
+     13.82705,
+     46.06668
+    ],
+    [
+     13.82709,
+     46.06703
+    ],
+    [
+     13.82747,
+     46.06746
+    ],
+    [
+     13.82706,
+     46.0683
+    ],
+    [
+     13.82752,
+     46.06872
+    ],
+    [
+     13.82929,
+     46.0691
+    ],
+    [
+     13.83022,
+     46.06961
+    ],
+    [
+     13.83024,
+     46.06992
+    ],
+    [
+     13.8299,
+     46.07044
+    ],
+    [
+     13.82992,
+     46.07059
+    ],
+    [
+     13.83051,
+     46.07092
+    ],
+    [
+     13.83166,
+     46.07208
+    ],
+    [
+     13.83208,
+     46.07228
+    ],
+    [
+     13.83228,
+     46.07267
+    ],
+    [
+     13.83218,
+     46.07325
+    ],
+    [
+     13.83169,
+     46.0736
+    ],
+    [
+     13.83146,
+     46.07408
+    ],
+    [
+     13.83167,
+     46.07498
+    ],
+    [
+     13.83265,
+     46.07669
+    ],
+    [
+     13.83183,
+     46.07782
+    ],
+    [
+     13.83147,
+     46.07894
+    ],
+    [
+     13.83184,
+     46.08002
+    ],
+    [
+     13.8319,
+     46.08111
+    ],
+    [
+     13.83153,
+     46.08161
+    ],
+    [
+     13.83003,
+     46.08247
+    ],
+    [
+     13.82905,
+     46.08326
+    ],
+    [
+     13.82869,
+     46.08402
+    ],
+    [
+     13.82875,
+     46.08443
+    ],
+    [
+     13.82921,
+     46.08491
+    ],
+    [
+     13.82962,
+     46.08574
+    ],
+    [
+     13.82981,
+     46.08665
+    ],
+    [
+     13.82974,
+     46.08683
+    ],
+    [
+     13.82913,
+     46.08731
+    ],
+    [
+     13.82898,
+     46.08767
+    ],
+    [
+     13.82949,
+     46.08832
+    ],
+    [
+     13.83008,
+     46.0888
+    ],
+    [
+     13.83009,
+     46.08895
+    ],
+    [
+     13.82969,
+     46.09026
+    ],
+    [
+     13.82916,
+     46.09079
+    ],
+    [
+     13.82903,
+     46.09117
+    ],
+    [
+     13.82916,
+     46.09147
+    ],
+    [
+     13.82995,
+     46.09177
+    ],
+    [
+     13.83022,
+     46.09202
+    ],
+    [
+     13.83077,
+     46.09304
+    ],
+    [
+     13.83221,
+     46.09358
+    ],
+    [
+     13.83226,
+     46.09378
+    ],
+    [
+     13.83203,
+     46.09449
+    ],
+    [
+     13.83248,
+     46.09454
+    ],
+    [
+     13.83301,
+     46.09501
+    ],
+    [
+     13.83361,
+     46.0952
+    ],
+    [
+     13.8343,
+     46.09521
+    ],
+    [
+     13.83615,
+     46.09486
+    ],
+    [
+     13.83709,
+     46.09487
+    ],
+    [
+     13.83758,
+     46.09511
+    ],
+    [
+     13.83777,
+     46.09559
+    ],
+    [
+     13.83813,
+     46.09597
+    ]
+   ]
+  },
+  "center": [
+   46.06419,
+   13.82859
+  ],
+  "lengthKm": 9.3,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.07645,
+    "lon": 13.83311,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.09421,
+    "lon": 13.83342,
+    "name": null,
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.09432,
+    "lon": 13.83896,
+    "name": null,
+    "distKm": 0.14
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:46.636Z"
+ },
+ {
+  "id": "rd-tolmin/ucja",
+  "clubSlug": "rd-tolmin",
+  "slug": "ucja",
+  "code": "Učja U",
+  "name": "Učja",
+  "subtitle": "od državne meje do izliva",
+  "en": {
+   "name": "The river Učja",
+   "subtitle": "from the state border with Italy to the outflow into the Soča",
+   "description": "The Učja comes from Italy and covers a distance of 6.1 km before it enters the Soča. It is a swift alpine river, but very inaccessible. Access is somewhat easier only at the country border and near its confluence with the Soča, below the village of Žaga. Its waters are inhabited by trout and Cottus gobio, while in the downstream parts of the river, grayling can also be found."
+  },
+  "club": {
+   "name": "Ribiška družina Tolmin",
+   "url": "https://www.ribiskekarte.si/rd-tolmin"
+  },
+  "description": "Učja priteče iz Italije in do izliva v Sočo naredi 6,1-kilometra dolgo pot. Je hitra alpska reka, a zelo težko dostopna. Nekoliko lažje dostopna je le tik ob državni meji in v izlivnem delu pod vasjo Žaga. Učjo naseljujejo postrvi, glavač, v spodnjem toku tudi lipan.",
+  "waterType": "river",
+  "water": "Učja",
+  "species": [
+   "krizanec",
+   "lipan",
+   "soska-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "križanec",
+   "lipan",
+   "soška postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 75,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1373"
+   },
+   {
+    "name": "Ujemi in spusti - 10-dnevna",
+    "priceEur": 600,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1413"
+   },
+   {
+    "name": "Ujemi in spusti - 2-dnevna",
+    "priceEur": 150,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1405"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 200,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1406"
+   },
+   {
+    "name": "Ujemi in spusti - 4-dnevna",
+    "priceEur": 270,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1407"
+   },
+   {
+    "name": "Ujemi in spusti - 5-dnevna",
+    "priceEur": 300,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1408"
+   },
+   {
+    "name": "Ujemi in spusti - 6-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1409"
+   },
+   {
+    "name": "Ujemi in spusti - 7-dnevna",
+    "priceEur": 420,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1410"
+   },
+   {
+    "name": "Ujemi in spusti - 8-dnevna",
+    "priceEur": 480,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1411"
+   },
+   {
+    "name": "Ujemi in spusti - 9-dnevni",
+    "priceEur": 540,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1412"
+   },
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 90,
+    "saleWindow": "Nakup od 28. 03. do 01. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1375"
+   },
+   {
+    "name": "Ujemi in vzemi - 10-dnevna",
+    "priceEur": 720,
+    "saleWindow": "Nakup od 28. 03. do 23. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1399"
+   },
+   {
+    "name": "Ujemi in vzemi - 2-dnevna",
+    "priceEur": 180,
+    "saleWindow": "Nakup od 28. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1391"
+   },
+   {
+    "name": "Ujemi in vzemi - 3-dnevna",
+    "priceEur": 243,
+    "saleWindow": "Nakup od 28. 03. do 30. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1392"
+   },
+   {
+    "name": "Ujemi in vzemi - 4-dnevna",
+    "priceEur": 324,
+    "saleWindow": "Nakup od 28. 03. do 29. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1393"
+   },
+   {
+    "name": "Ujemi in vzemi - 5-dnevna",
+    "priceEur": 360,
+    "saleWindow": "Nakup od 28. 03. do 28. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1394"
+   },
+   {
+    "name": "Ujemi in vzemi - 6-dnevna",
+    "priceEur": 432,
+    "saleWindow": "Nakup od 28. 03. do 27. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1395"
+   },
+   {
+    "name": "Ujemi in vzemi - 7-dnevna",
+    "priceEur": 504,
+    "saleWindow": "Nakup od 28. 03. do 26. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1396"
+   },
+   {
+    "name": "Ujemi in vzemi - 8-dnevna",
+    "priceEur": 576,
+    "saleWindow": "Nakup od 28. 03. do 25. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1397"
+   },
+   {
+    "name": "Ujemi in vzemi - 9-dnevna",
+    "priceEur": 648,
+    "saleWindow": "Nakup od 28. 03. do 24. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-tolmin/nakup/1398"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-tolmin/ucja",
+  "mapPdfUrl": "https://www.ribiskekarte.si/districts_files/ucja/flyfishing-map-rd-tolmin-soca-slovenia.pdf",
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: meja",
+   "do: izliv"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     13.40563,
+     46.305
+    ],
+    [
+     13.41831,
+     46.30579
+    ],
+    [
+     13.42074,
+     46.30573
+    ],
+    [
+     13.42296,
+     46.306
+    ],
+    [
+     13.42358,
+     46.30587
+    ],
+    [
+     13.42464,
+     46.30504
+    ],
+    [
+     13.42605,
+     46.30491
+    ],
+    [
+     13.42759,
+     46.30428
+    ],
+    [
+     13.42806,
+     46.30425
+    ],
+    [
+     13.42965,
+     46.30467
+    ],
+    [
+     13.43111,
+     46.30482
+    ],
+    [
+     13.43324,
+     46.30428
+    ],
+    [
+     13.4343,
+     46.30438
+    ],
+    [
+     13.435,
+     46.30401
+    ],
+    [
+     13.4357,
+     46.30406
+    ],
+    [
+     13.43687,
+     46.30383
+    ],
+    [
+     13.43737,
+     46.30368
+    ],
+    [
+     13.43766,
+     46.3034
+    ],
+    [
+     13.43851,
+     46.303
+    ],
+    [
+     13.43917,
+     46.30325
+    ],
+    [
+     13.43921,
+     46.30353
+    ],
+    [
+     13.44052,
+     46.30406
+    ],
+    [
+     13.44076,
+     46.3041
+    ],
+    [
+     13.44201,
+     46.30367
+    ],
+    [
+     13.44282,
+     46.30378
+    ],
+    [
+     13.44402,
+     46.30465
+    ],
+    [
+     13.44564,
+     46.30464
+    ],
+    [
+     13.44645,
+     46.30492
+    ],
+    [
+     13.44708,
+     46.30467
+    ],
+    [
+     13.45054,
+     46.30491
+    ],
+    [
+     13.45204,
+     46.30552
+    ],
+    [
+     13.4549,
+     46.30527
+    ],
+    [
+     13.45528,
+     46.3054
+    ],
+    [
+     13.45558,
+     46.30585
+    ],
+    [
+     13.45656,
+     46.30629
+    ],
+    [
+     13.45766,
+     46.30643
+    ],
+    [
+     13.45953,
+     46.30642
+    ],
+    [
+     13.46005,
+     46.3075
+    ],
+    [
+     13.46077,
+     46.30797
+    ],
+    [
+     13.46154,
+     46.3082
+    ],
+    [
+     13.46248,
+     46.30825
+    ],
+    [
+     13.46369,
+     46.30859
+    ],
+    [
+     13.46392,
+     46.30898
+    ],
+    [
+     13.46838,
+     46.3102
+    ],
+    [
+     13.4688,
+     46.31067
+    ],
+    [
+     13.46913,
+     46.31076
+    ],
+    [
+     13.47039,
+     46.31044
+    ],
+    [
+     13.47139,
+     46.31068
+    ],
+    [
+     13.47234,
+     46.31067
+    ],
+    [
+     13.47305,
+     46.3102
+    ],
+    [
+     13.474,
+     46.30995
+    ],
+    [
+     13.47543,
+     46.31032
+    ],
+    [
+     13.47718,
+     46.31022
+    ],
+    [
+     13.47805,
+     46.30978
+    ],
+    [
+     13.47935,
+     46.30986
+    ],
+    [
+     13.48086,
+     46.3095
+    ],
+    [
+     13.48375,
+     46.30767
+    ],
+    [
+     13.48471,
+     46.3072
+    ],
+    [
+     13.4864,
+     46.30689
+    ]
+   ]
+  },
+  "center": [
+   46.30468,
+   13.44721
+  ],
+  "lengthKm": 6.9,
+  "region": "goriska",
+  "parking": [
+   {
+    "lat": 46.3069,
+    "lon": 13.40271,
+    "name": null,
+    "distKm": 0.31
+   },
+   {
+    "lat": 46.30322,
+    "lon": 13.48257,
+    "name": null,
+    "distKm": 0.47
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:49.080Z"
+ }
+]

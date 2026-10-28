@@ -1,0 +1,1363 @@
+[
+ {
+  "id": "rd-kranj/jezero-crnava",
+  "clubSlug": "rd-kranj",
+  "slug": "jezero-crnava",
+  "code": "Jezero Črnava",
+  "name": "Jezero Črnava",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Črnava",
+   "subtitle": "",
+   "description": "The lake Črnava is only a few kilometers away from the city of Kranj, in the little village called Preddvor.You can also find hotel Bor and Hrib castle there. The place offers a lot of peace, long walks, starting points for mountain trips as well as different sport activities."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Jezero Črnava se nahaja le nekaj kilometrov od samega mesta Kranj pri vasi Preddvor. Poleg jezera se nahaja tudi hotel Bor in Grad Hrib. Sam kraj nudi obiskovalcem mir, sprehode, izhodišče za planinske ture in različne športne dejavnosti. V samem jezeru Črnava se nahaja plemenska jata lipana, zato je ribolov na to vrsto v jezeru prepovedan in je potrebno dosledno upoštevati navodila o dovoljenem načinu ribolova.",
+  "waterType": "lake",
+  "water": "Črnava",
+  "species": [
+   "klen",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "ribolov iz čolna",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "potezanka",
+   "silikonska vaba",
+   "umetna muha",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi",
+    "priceEur": 12.5,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/61"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/jezero-crnava",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Črnava"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.42514,
+      46.30312
+     ],
+     [
+      14.42605,
+      46.30257
+     ],
+     [
+      14.42675,
+      46.30258
+     ],
+     [
+      14.42689,
+      46.30299
+     ],
+     [
+      14.42683,
+      46.30367
+     ],
+     [
+      14.42637,
+      46.30399
+     ],
+     [
+      14.42637,
+      46.30425
+     ],
+     [
+      14.42618,
+      46.30434
+     ],
+     [
+      14.426,
+      46.30497
+     ],
+     [
+      14.42578,
+      46.30519
+     ],
+     [
+      14.42538,
+      46.3052
+     ],
+     [
+      14.42549,
+      46.30439
+     ],
+     [
+      14.42594,
+      46.30446
+     ],
+     [
+      14.4254,
+      46.30417
+     ],
+     [
+      14.4253,
+      46.30327
+     ],
+     [
+      14.42514,
+      46.30312
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.30386,
+   14.42601
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.30254,
+    "lon": 14.42785,
+    "name": null,
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.30335,
+    "lon": 14.42086,
+    "name": null,
+    "distKm": 0.33
+   },
+   {
+    "lat": 46.30565,
+    "lon": 14.43186,
+    "name": null,
+    "distKm": 0.44
+   },
+   {
+    "lat": 46.3005,
+    "lon": 14.43216,
+    "name": null,
+    "distKm": 0.48
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:12.947Z"
+ },
+ {
+  "id": "rd-kranj/kokra",
+  "clubSlug": "rd-kranj",
+  "slug": "kokra",
+  "code": "Kokra",
+  "name": "Reka Kokra",
+  "subtitle": "",
+  "en": {
+   "name": "The river Kokra",
+   "subtitle": "",
+   "description": "The Kokra is true alpine river.Its spring is between 1100 and 1300 m altutude. In Spodnje Jezersko it unites with the Jezernica, which flows in from the Planšarsko jezero. Up to Preddvor is the Kokra a wild torrent."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Kokra je prava alpska reka, ki izvira na višini med 1100 in 1300m. V Spodnjem Jezerskem se združi z Jezernico, ki priteče iz Planšarskega jezera. Do Preddvora ima Kokra izrazito hudourniški značaj. V spodnjem delu reke, nekako do betonskega jezu pri Oljarici v vasi Britof, žive lipani, potočnice, šarenke in kleni, navzgor od Britofa pa se kleni ne pojavljajo, lipana pa zasledimo do jezu v Preddvoru.",
+  "waterType": "river",
+  "water": "Kokra",
+  "species": [
+   "klen",
+   "lipan",
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Kokra spodnji del",
+    "priceEur": 17.5,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/58"
+   },
+   {
+    "name": "Kokra zgornji del (pritoki)",
+    "priceEur": 27.5,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/59"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/kokra",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.243083,
+   "lon": 14.359658
+  },
+  "quality": "gauge",
+  "qualityNotes": [
+   "odsek okoli vodomerne postaje"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.41821,
+     46.28432
+    ],
+    [
+     14.41814,
+     46.28352
+    ],
+    [
+     14.41773,
+     46.28256
+    ],
+    [
+     14.41765,
+     46.28085
+    ],
+    [
+     14.41632,
+     46.27759
+    ],
+    [
+     14.4163,
+     46.27733
+    ],
+    [
+     14.41667,
+     46.27624
+    ],
+    [
+     14.41637,
+     46.27563
+    ],
+    [
+     14.4153,
+     46.27465
+    ],
+    [
+     14.41498,
+     46.27407
+    ],
+    [
+     14.41509,
+     46.27362
+    ],
+    [
+     14.4162,
+     46.27239
+    ],
+    [
+     14.41627,
+     46.2721
+    ],
+    [
+     14.41584,
+     46.27127
+    ],
+    [
+     14.41481,
+     46.27104
+    ],
+    [
+     14.41378,
+     46.27128
+    ],
+    [
+     14.41341,
+     46.27159
+    ],
+    [
+     14.41265,
+     46.27174
+    ],
+    [
+     14.41105,
+     46.27148
+    ],
+    [
+     14.40943,
+     46.27096
+    ],
+    [
+     14.40729,
+     46.27093
+    ],
+    [
+     14.40659,
+     46.27103
+    ],
+    [
+     14.40531,
+     46.27192
+    ],
+    [
+     14.40492,
+     46.27199
+    ],
+    [
+     14.40485,
+     46.2718
+    ],
+    [
+     14.40517,
+     46.27053
+    ],
+    [
+     14.40506,
+     46.2699
+    ],
+    [
+     14.40475,
+     46.26945
+    ],
+    [
+     14.40454,
+     46.26932
+    ],
+    [
+     14.4041,
+     46.26941
+    ],
+    [
+     14.4036,
+     46.26978
+    ],
+    [
+     14.40281,
+     46.27001
+    ],
+    [
+     14.40226,
+     46.27
+    ],
+    [
+     14.40169,
+     46.26976
+    ],
+    [
+     14.40158,
+     46.26922
+    ],
+    [
+     14.40174,
+     46.26882
+    ],
+    [
+     14.40228,
+     46.26826
+    ],
+    [
+     14.40228,
+     46.26751
+    ],
+    [
+     14.40171,
+     46.267
+    ],
+    [
+     14.4004,
+     46.26623
+    ]
+   ]
+  },
+  "center": [
+   46.24306,
+   14.35973
+  ],
+  "lengthKm": 3.5,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.26968,
+    "lon": 14.40245,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 46.27609,
+    "lon": 14.41773,
+    "name": null,
+    "distKm": 0.08
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:31:51.386Z"
+ },
+ {
+  "id": "rd-kranj/plansarsko-jezero",
+  "clubSlug": "rd-kranj",
+  "slug": "plansarsko-jezero",
+  "code": "Planšarsko jezero",
+  "name": "Planšarsko jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Planšarsko jezero",
+   "subtitle": "",
+   "description": "The lake Planšarsko lake was made by sinking the swampy meadows and then stemming it. The little lake is protected from the Jezernica with a dam and a reservoir, because this creek can bring a lot of pebbles from the mountains in the flood period."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Planšarsko jezero je nastalo s poglobitvijo močvirnatega travnika in zajezitvijo. Jezerce pred zasipavanjem Jezernice ščiti jez in vodni zadrževalnik, saj hudourniški potok v času poplav nanaša izpod gora obilo proda. Jezerce je nastalo zaradi turistične izrabe in ima največjo globino okoli 2 m, naraven živelj v njem pa so majhne potočnice, ki se pozimi, ko jezerce na debelo prekrije led, umaknejo po potoku navzgor.",
+  "waterType": "lake",
+  "water": "Planšarsko jezero",
+  "species": [
+   "potocna-postrv",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "potočna postrv",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi",
+    "priceEur": 12.5,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/62"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/plansarsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Planšarsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.51455,
+      46.40284
+     ],
+     [
+      14.51506,
+      46.40249
+     ],
+     [
+      14.51615,
+      46.40228
+     ],
+     [
+      14.51704,
+      46.40263
+     ],
+     [
+      14.51759,
+      46.40252
+     ],
+     [
+      14.51766,
+      46.40265
+     ],
+     [
+      14.51697,
+      46.4028
+     ],
+     [
+      14.51649,
+      46.40383
+     ],
+     [
+      14.51614,
+      46.40393
+     ],
+     [
+      14.5159,
+      46.40388
+     ],
+     [
+      14.51567,
+      46.40343
+     ],
+     [
+      14.515,
+      46.40329
+     ],
+     [
+      14.51455,
+      46.40284
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.40307,
+   14.51603
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.40415,
+    "lon": 14.51585,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.40144,
+    "lon": 14.52101,
+    "name": null,
+    "distKm": 0.29
+   },
+   {
+    "lat": 46.40787,
+    "lon": 14.5178,
+    "name": null,
+    "distKm": 0.46
+   },
+   {
+    "lat": 46.40266,
+    "lon": 14.50727,
+    "name": null,
+    "distKm": 0.56
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:17.760Z"
+ },
+ {
+  "id": "rd-kranj/racnik-ribnik",
+  "clubSlug": "rd-kranj",
+  "slug": "racnik-ribnik",
+  "code": "Ribnik Račnik",
+  "name": "Ribnik Račnik",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Račnik",
+   "subtitle": "",
+   "description": "The little lake is of artificial origin, made by stemming of the Želinjski breeding stream: this stream springs in the middle of the Udenboršt plateau and outflows into the Parovnica-Rupovščica at Tenetiše, after approximately 5 km. Fish in the lake: the main fish species, before we put in carps and tenches, were little chubs and chubs as well as the brown trouts, roaches and common rudds."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Jezerce je umetnega nastanka, nastalo je z zajezitvijo gojitvenega Želinjskega potoka, ki izvira v osrednjem delu nizke planote Udenboršt in se pri Tenetišah, po približno 5 km izliva v Parovnico - Rupovščico. Ribe v jezeru: pred vlaganjem krapov in tudi linjev so v vodi prevladali kleniči in kleni, pa tudi potočnice, rdečooke in perke. V jezeru je tudi nekaj amurjev in ščuk.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "klen",
+   "krap",
+   "rdeceoka",
+   "rdeceperka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "rdečeoka",
+   "rdečeperka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/66"
+   },
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/1357"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/racnik-ribnik",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.4221,
+      46.28622
+     ],
+     [
+      14.42231,
+      46.28622
+     ],
+     [
+      14.4221,
+      46.28622
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.28621,
+   14.4222
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.28991,
+    "lon": 14.42156,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:38:37.000Z"
+ },
+ {
+  "id": "rd-kranj/straziski-ribnik",
+  "clubSlug": "rd-kranj",
+  "slug": "straziski-ribnik",
+  "code": "Ribnik Stražišče",
+  "name": "Ribnik Stražišče",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Stražišče",
+   "subtitle": "",
+   "description": "The Stražišče pond was overgrown by water plants but the pond was cleaned in 2009. The shore is very well arranged so the fishermen with disabilities can have access, too. RD Kranj has great hopes for the pond although it is not a big one, but in the future the fishermen for carps will absolutely love it."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Stražiški ribnik je sčasoma zaraslo vodno rastlinje, zato je bil ribnik leta 2009 saniran. Na delu jezera je urejena tudi obala, tako da je mogoč dostop tudi ribičem invalidom. RD Kranj v ribnik vlaga velike upe, da bo, čeprav ni velik, v prihodnje nudil veliko užitkov predvsem kraparjem, saj so v njem pogoji za dobro razmnoževanje in rast vrst, kot so krap, linj, ostriži in ostalih ciprinidnih vrst.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "krap"
+  ],
+  "speciesRaw": [
+   "krap"
+  ],
+  "methods": [],
+  "techniques": [],
+  "baits": [],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "C&R",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/1364"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/straziski-ribnik",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.4221,
+      46.28622
+     ],
+     [
+      14.42231,
+      46.28622
+     ],
+     [
+      14.4221,
+      46.28622
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.28621,
+   14.4222
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [
+   {
+    "lat": 46.28991,
+    "lon": 14.42156,
+    "name": null,
+    "distKm": 0.41
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:08.188Z"
+ },
+ {
+  "id": "rd-kranj/rupovscica",
+  "clubSlug": "rd-kranj",
+  "slug": "rupovscica",
+  "code": "Rupovščica",
+  "name": "Reka Rupovščica",
+  "subtitle": "",
+  "en": {
+   "name": "The river Rupovščica",
+   "subtitle": "",
+   "description": "The little river Rupovščica collects its waters from the west side of the Storžiško hribovje hills. The springs are on the 600 to 1000 m altitude. The biggest water inflows come from the Milka, the Stražnica and the Goričnica from the left side of the Storžiško hribovje hills, from the right side the ones that contribute the water are the Želinski stream and the Novaki, from the Udenboršt plateau."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Rečica Rupovščica zbira svoje povirne vode izpod zahodnega dela Storžiškega hribovja. izviri so na višinah od 600 do 1000 m/nadmorske višine. Največji pritoki, z leve strani izpod Storžiškega pogorja so Milka, Stražnica in Goričnica, z desne strani iz planote Udenboršt pa Želinski potok in Novaki.",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "klen",
+   "lipan",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in odnesi (muharjenje)",
+    "priceEur": 27.5,
+    "saleWindow": "Nakup od 01. 03. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/60"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/rupovscica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "reka »Rupovščica« ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.28621,
+   14.42601
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:08.205Z"
+ },
+ {
+  "id": "rd-kranj/sava-6",
+  "clubSlug": "rd-kranj",
+  "slug": "sava-6",
+  "code": "Sava 6",
+  "name": "Reka Sava",
+  "subtitle": "Od Majdičevega jezu do pregrade HE Mavčiče, Trbojsko jezero, Mavčiče), reka Kokra",
+  "en": {
+   "name": "The river Sava",
+   "subtitle": "from the dam Majdičev jez to the barrier of the HEP Mavčiče,the lake Trbojsko jezero), and the river Kokra",
+   "description": "The river Sava comes from the north- west of Slovenia. The fly fishing district Sava, which is managed by RD Kranj, begins at the Majdičev dam in Kranj and ends at the bridge near the Planika factory, 2 km away. This district includes the river Kokra, too- from the dam of the hydropower plant Standard to the confluence with the Sava-200m."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Reka Sava priteče iz SZ dela Slovenije. Muharski del Save, s katerim upravlja RD Kranj se začenja pri Majdičevem jezu v Kranju in se konča pri mostu čez reko Savo pri tovarni Planika, 2 km nižje. V revir je vključena tudi reka Kokra od jezu HE Standard do sotočja s Savo v dolžini 200m. Revir je pravi raj za ribolov na salmonide, kjer si posebno mesto zaslužijo veliki lipani in postrvi.",
+  "waterType": "river",
+  "water": "Sava",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "ostriz",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "sulec",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "ostriž",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "sulec",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje",
+   "vijačenje z vodno kroglico"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "bojli",
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kos ribe",
+   "mrtva riba",
+   "pasta za postrvi",
+   "potezanka",
+   "silikonska vaba",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Krapolov C&R",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/1365"
+   },
+   {
+    "name": "Ribolov Sulca",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/74"
+   },
+   {
+    "name": "Salmonidi + roparice",
+    "priceEur": 12.5,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/70"
+   },
+   {
+    "name": "Ujemi in odnesi (ciprinidi)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/71"
+   },
+   {
+    "name": "Ujemi in odnesi (muharjenje)",
+    "priceEur": 12.5,
+    "saleWindow": "Nakup od 01. 03. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/68"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/sava-6",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Mavčiče (jez)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.40852,
+    46.1838
+   ]
+  },
+  "center": [
+   46.1838,
+   14.40852
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.18437,
+    "lon": 14.40625,
+    "name": null,
+    "distKm": 0.19
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:34.606Z"
+ },
+ {
+  "id": "rd-kranj/sava-7",
+  "clubSlug": "rd-kranj",
+  "slug": "sava-7",
+  "code": "Sava 7",
+  "name": "Reka Sava - Zbiljsko jezero",
+  "subtitle": "Od pregrade HE Mavčiče do pregrade HE Medvode",
+  "en": {
+   "name": "The lake Zbiljsko jezero",
+   "subtitle": " the river Sava",
+   "description": "Soon after the hydropower plant Mavčiče the Sava's current gets stronger again, but it soon slows down because a reservoir Zbiljsko jezero stops it. The lake is a very nice tourist place to visit, especially in the summertime- on its left bank there is the camp Dragočajna, on its right bank you can find the boathouse with all the accompanying tourist objects."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Po hidro centrali Mavčiče se tok Save ponovno nekoliko okrepi, vendar ga kmalu zaustavi drugo akumulacijsko jezero – Zbiljsko jezero. Jezero je še posebej v poletnih mesecih tudi lep turistični kraj, kjer je na levem bregu kamp Dragočajna, na desni pa čolnarna s spremljajočimi turističnimi objekti. Revir je znan predvsem po lovu ščuk, saj so bili tu ujeti rekordni primerki.",
+  "waterType": "river",
+  "water": "Sava",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "ostriz",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "sulec",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "ostriž",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "sulec",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "blestivka",
+   "bojli",
+   "deževnik",
+   "drobovina",
+   "kompostni črv",
+   "kos ribe",
+   "kostni črv",
+   "pasta za postrvi",
+   "silikonska vaba",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora",
+   "vobler"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Krapolov C&R",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/1366"
+   },
+   {
+    "name": "Ribolov Sulca",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/74"
+   },
+   {
+    "name": "Salmonidi + roparice",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/56"
+   },
+   {
+    "name": "Ujemi in odnesi (ciprinidi)",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/69"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/sava-7",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Mavčiče (jez)",
+   "do: kraj Medvode (jez)"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.40854,
+     46.18392
+    ],
+    [
+     14.40842,
+     46.18213
+    ],
+    [
+     14.4085,
+     46.18119
+    ],
+    [
+     14.41057,
+     46.17963
+    ],
+    [
+     14.41219,
+     46.17787
+    ],
+    [
+     14.41329,
+     46.17644
+    ],
+    [
+     14.41356,
+     46.17499
+    ],
+    [
+     14.41433,
+     46.17307
+    ],
+    [
+     14.41566,
+     46.17162
+    ],
+    [
+     14.41757,
+     46.17102
+    ],
+    [
+     14.41864,
+     46.16999
+    ],
+    [
+     14.4232,
+     46.16697
+    ],
+    [
+     14.42555,
+     46.16516
+    ],
+    [
+     14.42606,
+     46.16463
+    ],
+    [
+     14.42712,
+     46.16282
+    ],
+    [
+     14.42739,
+     46.16196
+    ],
+    [
+     14.42758,
+     46.16036
+    ],
+    [
+     14.42711,
+     46.15892
+    ],
+    [
+     14.42595,
+     46.15751
+    ],
+    [
+     14.42559,
+     46.15725
+    ],
+    [
+     14.4241,
+     46.15651
+    ],
+    [
+     14.42262,
+     46.15596
+    ],
+    [
+     14.42149,
+     46.15569
+    ],
+    [
+     14.41474,
+     46.15507
+    ],
+    [
+     14.41403,
+     46.15475
+    ],
+    [
+     14.41383,
+     46.15447
+    ],
+    [
+     14.41348,
+     46.15313
+    ],
+    [
+     14.41335,
+     46.1519
+    ],
+    [
+     14.4136,
+     46.1492
+    ],
+    [
+     14.41436,
+     46.14632
+    ],
+    [
+     14.41427,
+     46.1435
+    ],
+    [
+     14.41453,
+     46.14227
+    ],
+    [
+     14.41539,
+     46.14018
+    ]
+   ]
+  },
+  "center": [
+   46.16112,
+   14.42749
+  ],
+  "lengthKm": 6.1,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.14037,
+    "lon": 14.41435,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 46.14589,
+    "lon": 14.41322,
+    "name": null,
+    "distKm": 0.09
+   },
+   {
+    "lat": 46.16933,
+    "lon": 14.42182,
+    "name": "Hotel Kanu",
+    "distKm": 0.12
+   },
+   {
+    "lat": 46.15767,
+    "lon": 14.4232,
+    "name": null,
+    "distKm": 0.15
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:40:37.009Z"
+ },
+ {
+  "id": "rd-kranj/zadrzevalnik-srednja-vas",
+  "clubSlug": "rd-kranj",
+  "slug": "zadrzevalnik-srednja-vas",
+  "code": "Zadrževalnik Srednja Vas",
+  "name": "Zadrževalnik Srednja Vas",
+  "subtitle": "",
+  "en": {
+   "name": "The reservoir Srednja Vas",
+   "subtitle": "",
+   "description": "This little lake is of artificial origin and works as a reservoir of the torrent waters of the Olševnica creek. The reservoir itself is built from two parts: the lttle reservoir, where it is possible to fish and the big reservoir which is in fact a subterranean river. Due to the smallness of the lake only \" catch and release\" is possible."
+  },
+  "club": {
+   "name": "Ribiška družina Kranj",
+   "url": "https://www.ribiskekarte.si/rd-kranj"
+  },
+  "description": "Jezerce je umetnega nastanka in služi kot zadrževalnik hudourniških voda potoka Olševnica. Sam zadrževalnik ima dva dela in sicer mali zadrževalnik, kjer je ribolov mogoč, sledi pa mu večji zadrževalnik, ki služi kot ponikalnica. Ker je jezero majhno je v njem mogoč le ribolov \"Ujemi in spusti\".",
+  "waterType": "reservoir",
+  "water": null,
+  "species": [
+   "klen",
+   "krap",
+   "rdeceoka",
+   "rdeceperka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "rdečeoka",
+   "rdečeperka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "sir",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 6,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-kranj/nakup/67"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/zadrzevalnik-srednja-vas",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "jezero ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.28621,
+   14.42601
+  ],
+  "lengthKm": null,
+  "region": "gorenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:29.818Z"
+ }
+]

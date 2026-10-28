@@ -1,0 +1,1341 @@
+[
+ {
+  "id": "rd-velenje/paka-2",
+  "clubSlug": "rd-velenje",
+  "slug": "paka-2",
+  "code": "Paka 2",
+  "name": "Reka Paka",
+  "subtitle": "od mostu v Zg. Doliču do mostu za Šalek",
+  "en": {
+   "name": "The river Paka",
+   "subtitle": "from the bridge in Zg. Dolič to the bridge for Šalek",
+   "description": "The upper part of the river Paka offers fly fishing challenges when fishing for indigenous brown trouts. It is a smaller river with smaller fish."
+  },
+  "club": {
+   "name": "Ribiška družina Velenje",
+   "url": "https://www.ribiskekarte.si/rd-velenje"
+  },
+  "description": "Zgornji del reke Pake ponuja muharske izzive pri lovi na avtohtone potočne postrvi. Gre za manjšo reko z manjšimi ribami.",
+  "waterType": "river",
+  "water": "Paka",
+  "species": [
+   "lipan",
+   "potocna-postrv"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Muharjenje",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/474"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-velenje/paka-2",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: kraj Šalek (most)"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    15.12954,
+    46.36605
+   ]
+  },
+  "center": [
+   46.36605,
+   15.12954
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.36664,
+    "lon": 15.12893,
+    "name": null,
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.36258,
+    "lon": 15.1267,
+    "name": null,
+    "distKm": 0.44
+   },
+   {
+    "lat": 46.36993,
+    "lon": 15.1311,
+    "name": null,
+    "distKm": 0.45
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:00.945Z"
+ },
+ {
+  "id": "rd-velenje/paka-4",
+  "clubSlug": "rd-velenje",
+  "slug": "paka-4",
+  "code": "Paka 4",
+  "name": "Reka Paka",
+  "subtitle": "od mosta na cesti talcev do mosta v Prelogah",
+  "en": {
+   "name": "The river Paka",
+   "subtitle": "from the bridge on the street Cesta talcev to the bridge in Preloge",
+   "description": "The middle part of the river Paka offers fly fishing challenges when fishing for indigenous brown trouts."
+  },
+  "club": {
+   "name": "Ribiška družina Velenje",
+   "url": "https://www.ribiskekarte.si/rd-velenje"
+  },
+  "description": "Srednji del reke Pake ponuja muharske izzive pri lovu na avtohtone potočne postrvi.",
+  "waterType": "river",
+  "water": "Paka",
+  "species": [
+   "lipan",
+   "potocna-postrv"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Muharjenje",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/474"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-velenje/paka-4",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "place",
+  "qualityNotes": [
+   "odsek okoli sedeža družine"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.0355,
+     46.3806
+    ],
+    [
+     15.03778,
+     46.37985
+    ],
+    [
+     15.03864,
+     46.3798
+    ],
+    [
+     15.03952,
+     46.37992
+    ],
+    [
+     15.04232,
+     46.38071
+    ],
+    [
+     15.04303,
+     46.38077
+    ],
+    [
+     15.04408,
+     46.38059
+    ],
+    [
+     15.04471,
+     46.38
+    ],
+    [
+     15.04487,
+     46.37906
+    ],
+    [
+     15.04518,
+     46.37866
+    ],
+    [
+     15.04565,
+     46.37832
+    ],
+    [
+     15.04697,
+     46.37773
+    ],
+    [
+     15.04747,
+     46.37654
+    ],
+    [
+     15.04779,
+     46.37623
+    ],
+    [
+     15.04928,
+     46.37546
+    ],
+    [
+     15.05215,
+     46.37477
+    ],
+    [
+     15.05719,
+     46.37329
+    ],
+    [
+     15.05769,
+     46.37291
+    ],
+    [
+     15.05803,
+     46.37201
+    ],
+    [
+     15.05854,
+     46.37136
+    ],
+    [
+     15.06011,
+     46.37033
+    ],
+    [
+     15.06104,
+     46.36991
+    ],
+    [
+     15.06491,
+     46.36924
+    ],
+    [
+     15.06766,
+     46.36916
+    ],
+    [
+     15.06829,
+     46.36899
+    ],
+    [
+     15.06906,
+     46.36853
+    ],
+    [
+     15.07,
+     46.3683
+    ],
+    [
+     15.0709,
+     46.3684
+    ],
+    [
+     15.07453,
+     46.36946
+    ],
+    [
+     15.07575,
+     46.36951
+    ],
+    [
+     15.07923,
+     46.36916
+    ],
+    [
+     15.08323,
+     46.3683
+    ],
+    [
+     15.08386,
+     46.36826
+    ],
+    [
+     15.08495,
+     46.36845
+    ],
+    [
+     15.08628,
+     46.36798
+    ],
+    [
+     15.08748,
+     46.36802
+    ],
+    [
+     15.0881,
+     46.36764
+    ],
+    [
+     15.08878,
+     46.3653
+    ],
+    [
+     15.08927,
+     46.36467
+    ],
+    [
+     15.08981,
+     46.36428
+    ],
+    [
+     15.09139,
+     46.36352
+    ],
+    [
+     15.0936,
+     46.36203
+    ],
+    [
+     15.09641,
+     46.36082
+    ],
+    [
+     15.09871,
+     46.36009
+    ],
+    [
+     15.10158,
+     46.35955
+    ],
+    [
+     15.1041,
+     46.35936
+    ],
+    [
+     15.10552,
+     46.35953
+    ],
+    [
+     15.10661,
+     46.35986
+    ],
+    [
+     15.10825,
+     46.36077
+    ],
+    [
+     15.10886,
+     46.36091
+    ],
+    [
+     15.10974,
+     46.36076
+    ],
+    [
+     15.11185,
+     46.36007
+    ],
+    [
+     15.11359,
+     46.36003
+    ],
+    [
+     15.11507,
+     46.36039
+    ],
+    [
+     15.11787,
+     46.36165
+    ],
+    [
+     15.11936,
+     46.36216
+    ],
+    [
+     15.12124,
+     46.36226
+    ],
+    [
+     15.12275,
+     46.36201
+    ],
+    [
+     15.1243,
+     46.36194
+    ],
+    [
+     15.1262,
+     46.36217
+    ],
+    [
+     15.12791,
+     46.36273
+    ],
+    [
+     15.12858,
+     46.36314
+    ],
+    [
+     15.12925,
+     46.36404
+    ],
+    [
+     15.12953,
+     46.36603
+    ],
+    [
+     15.1298,
+     46.36652
+    ],
+    [
+     15.13127,
+     46.36747
+    ],
+    [
+     15.13214,
+     46.36848
+    ],
+    [
+     15.13399,
+     46.37014
+    ],
+    [
+     15.13467,
+     46.37029
+    ],
+    [
+     15.13612,
+     46.37026
+    ],
+    [
+     15.13896,
+     46.36947
+    ],
+    [
+     15.13955,
+     46.36947
+    ],
+    [
+     15.14207,
+     46.37
+    ],
+    [
+     15.14242,
+     46.37069
+    ],
+    [
+     15.14251,
+     46.37204
+    ],
+    [
+     15.14086,
+     46.3749
+    ],
+    [
+     15.14119,
+     46.37664
+    ],
+    [
+     15.14154,
+     46.3777
+    ],
+    [
+     15.1416,
+     46.37843
+    ],
+    [
+     15.14198,
+     46.37919
+    ],
+    [
+     15.14265,
+     46.37992
+    ],
+    [
+     15.14401,
+     46.3809
+    ],
+    [
+     15.14551,
+     46.38167
+    ],
+    [
+     15.14621,
+     46.38184
+    ],
+    [
+     15.14722,
+     46.3817
+    ],
+    [
+     15.14776,
+     46.38176
+    ],
+    [
+     15.15378,
+     46.38334
+    ],
+    [
+     15.15676,
+     46.38342
+    ],
+    [
+     15.1582,
+     46.38411
+    ],
+    [
+     15.15893,
+     46.38405
+    ],
+    [
+     15.1607,
+     46.38483
+    ],
+    [
+     15.16139,
+     46.38535
+    ],
+    [
+     15.16131,
+     46.3857
+    ],
+    [
+     15.1611,
+     46.38591
+    ],
+    [
+     15.16184,
+     46.38692
+    ],
+    [
+     15.16334,
+     46.38716
+    ],
+    [
+     15.16363,
+     46.38771
+    ],
+    [
+     15.1645,
+     46.38794
+    ],
+    [
+     15.16443,
+     46.38898
+    ],
+    [
+     15.16561,
+     46.38992
+    ],
+    [
+     15.16572,
+     46.39093
+    ],
+    [
+     15.16588,
+     46.39129
+    ],
+    [
+     15.16646,
+     46.39188
+    ],
+    [
+     15.16695,
+     46.39217
+    ],
+    [
+     15.16717,
+     46.39304
+    ],
+    [
+     15.16931,
+     46.39421
+    ],
+    [
+     15.16965,
+     46.39551
+    ],
+    [
+     15.16993,
+     46.39585
+    ],
+    [
+     15.17032,
+     46.39615
+    ],
+    [
+     15.17089,
+     46.39627
+    ],
+    [
+     15.17134,
+     46.39575
+    ],
+    [
+     15.17205,
+     46.3957
+    ],
+    [
+     15.17252,
+     46.39619
+    ],
+    [
+     15.17334,
+     46.39649
+    ],
+    [
+     15.17474,
+     46.39746
+    ],
+    [
+     15.17569,
+     46.39779
+    ],
+    [
+     15.17691,
+     46.39872
+    ]
+   ]
+  },
+  "center": [
+   46.36022,
+   15.11447
+  ],
+  "lengthKm": 15,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.36206,
+    "lon": 15.11956,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.37659,
+    "lon": 15.141,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.37766,
+    "lon": 15.04678,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.36248,
+    "lon": 15.12652,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:35:03.345Z"
+ },
+ {
+  "id": "rd-velenje/skalsko-jezero",
+  "clubSlug": "rd-velenje",
+  "slug": "skalsko-jezero",
+  "code": "Škalsko jezero",
+  "name": "Škalsko jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Škalsko jezero",
+   "subtitle": "",
+   "description": "The lake is home mostly to carps, zanders and pikes. But it is also well known for its first class specimens of catfish-some over 2m long- and carps."
+  },
+  "club": {
+   "name": "Ribiška družina Velenje",
+   "url": "https://www.ribiskekarte.si/rd-velenje"
+  },
+  "description": "V jezeru prevladuje krap, smuč ter ščuka. Jezero pa je znano po kapitalnih somih dolžine nad 2 m in kapitalni krapih.",
+  "waterType": "lake",
+  "water": "Škalsko jezero",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "jezerska-postrv",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "jezerska postrv",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "drobovina",
+   "kos ribe",
+   "mrtva riba",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/471"
+   },
+   {
+    "name": "Krapolov C&R - dnevna",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/1383"
+   },
+   {
+    "name": "Krapolov C&R - nočna",
+    "priceEur": 10,
+    "saleWindow": "Nakup od 01. 07. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/1384"
+   },
+   {
+    "name": "Nočni ribolov - som",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 07. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/472"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/476"
+   },
+   {
+    "name": "Roparice C&R",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/1385"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-velenje/skalsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Škalsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.10124,
+      46.37698
+     ],
+     [
+      15.10152,
+      46.37651
+     ],
+     [
+      15.10262,
+      46.37598
+     ],
+     [
+      15.10255,
+      46.37576
+     ],
+     [
+      15.10191,
+      46.37545
+     ],
+     [
+      15.10223,
+      46.37466
+     ],
+     [
+      15.10303,
+      46.37441
+     ],
+     [
+      15.10304,
+      46.37415
+     ],
+     [
+      15.10346,
+      46.37395
+     ],
+     [
+      15.10596,
+      46.37424
+     ],
+     [
+      15.10719,
+      46.37412
+     ],
+     [
+      15.10743,
+      46.37379
+     ],
+     [
+      15.10797,
+      46.37381
+     ],
+     [
+      15.10953,
+      46.37412
+     ],
+     [
+      15.10969,
+      46.37434
+     ],
+     [
+      15.10955,
+      46.37542
+     ],
+     [
+      15.10986,
+      46.37621
+     ],
+     [
+      15.10959,
+      46.37605
+     ],
+     [
+      15.10947,
+      46.37608
+     ],
+     [
+      15.1095,
+      46.37631
+     ],
+     [
+      15.10912,
+      46.37624
+     ],
+     [
+      15.10886,
+      46.37598
+     ],
+     [
+      15.1082,
+      46.37577
+     ],
+     [
+      15.10812,
+      46.3759
+     ],
+     [
+      15.10768,
+      46.37591
+     ],
+     [
+      15.10684,
+      46.37574
+     ],
+     [
+      15.10515,
+      46.37654
+     ],
+     [
+      15.10488,
+      46.37685
+     ],
+     [
+      15.10225,
+      46.3776
+     ],
+     [
+      15.10149,
+      46.37769
+     ],
+     [
+      15.10124,
+      46.37698
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.37533,
+   15.10465
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.37319,
+    "lon": 15.10527,
+    "name": null,
+    "distKm": 0.13
+   },
+   {
+    "lat": 46.3794,
+    "lon": 15.10821,
+    "name": null,
+    "distKm": 0.36
+   },
+   {
+    "lat": 46.37133,
+    "lon": 15.09891,
+    "name": null,
+    "distKm": 0.45
+   },
+   {
+    "lat": 46.36949,
+    "lon": 15.1042,
+    "name": null,
+    "distKm": 0.5
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:42:15.394Z"
+ },
+ {
+  "id": "rd-velenje/velenjsko-jezero",
+  "clubSlug": "rd-velenje",
+  "slug": "velenjsko-jezero",
+  "code": "Velenjsko jezero",
+  "name": "Velenjsko jezero",
+  "subtitle": "",
+  "en": {
+   "name": "The lake Velenjsko jezero",
+   "subtitle": "",
+   "description": "The lake is situated in the valley Šaleška dolina near the city of Velenje and was formed as a consequence of hundreds of years of coal mining in this area. The water in this lake is crystal clear and rich in various fish.The main catches are some first class predatory fish (zander, pike, catfish) and some huge wild carps."
+  },
+  "club": {
+   "name": "Ribiška družina Velenje",
+   "url": "https://www.ribiskekarte.si/rd-velenje"
+  },
+  "description": "Jezero se nahaja v Šaleški dolini ob mestu Velenje in je nastalo kot posledica stoletne rudarske dejavnosti na tem območju. Voda v jezeru je izredno čista ter bogata z raznovrstnimi ribami. Pogosti so ulovi kapitalnih predatorjev (smuč, ščuka in som) in pa velikih divjih krapov.",
+  "waterType": "lake",
+  "water": "Velenjsko jezero",
+  "species": [
+   "amur",
+   "androga",
+   "koreselj",
+   "bolen",
+   "jezerska-postrv",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "androga",
+   "babuška",
+   "bolen",
+   "jezerska postrv",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "kos ribe",
+   "mrtva riba",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/473"
+   },
+   {
+    "name": "Krapolov C&R - dnevna",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/1381"
+   },
+   {
+    "name": "Roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/477"
+   },
+   {
+    "name": "Roparice C&R",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-velenje/nakup/1382"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-velenje/velenjsko-jezero",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Velenjsko jezero"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.0777,
+      46.37672
+     ],
+     [
+      15.07875,
+      46.37383
+     ],
+     [
+      15.07946,
+      46.37328
+     ],
+     [
+      15.07928,
+      46.3721
+     ],
+     [
+      15.07959,
+      46.37177
+     ],
+     [
+      15.08078,
+      46.37145
+     ],
+     [
+      15.08071,
+      46.37133
+     ],
+     [
+      15.07952,
+      46.37159
+     ],
+     [
+      15.0811,
+      46.37099
+     ],
+     [
+      15.08189,
+      46.3709
+     ],
+     [
+      15.08278,
+      46.37047
+     ],
+     [
+      15.08601,
+      46.37011
+     ],
+     [
+      15.08848,
+      46.37048
+     ],
+     [
+      15.08901,
+      46.37045
+     ],
+     [
+      15.08936,
+      46.37026
+     ],
+     [
+      15.09082,
+      46.37073
+     ],
+     [
+      15.09133,
+      46.37174
+     ],
+     [
+      15.09262,
+      46.37234
+     ],
+     [
+      15.0934,
+      46.37232
+     ],
+     [
+      15.09414,
+      46.37289
+     ],
+     [
+      15.09468,
+      46.37348
+     ],
+     [
+      15.09464,
+      46.37384
+     ],
+     [
+      15.09486,
+      46.3741
+     ],
+     [
+      15.09679,
+      46.3743
+     ],
+     [
+      15.09717,
+      46.37471
+     ],
+     [
+      15.09822,
+      46.37466
+     ],
+     [
+      15.09842,
+      46.37634
+     ],
+     [
+      15.09924,
+      46.37654
+     ],
+     [
+      15.09942,
+      46.37681
+     ],
+     [
+      15.09993,
+      46.37694
+     ],
+     [
+      15.10015,
+      46.37744
+     ],
+     [
+      15.10003,
+      46.37783
+     ],
+     [
+      15.09938,
+      46.3779
+     ],
+     [
+      15.09885,
+      46.37817
+     ],
+     [
+      15.09862,
+      46.37834
+     ],
+     [
+      15.09889,
+      46.37861
+     ],
+     [
+      15.09692,
+      46.37951
+     ],
+     [
+      15.09624,
+      46.38017
+     ],
+     [
+      15.09452,
+      46.38077
+     ],
+     [
+      15.09426,
+      46.38103
+     ],
+     [
+      15.09381,
+      46.38092
+     ],
+     [
+      15.09312,
+      46.38101
+     ],
+     [
+      15.08937,
+      46.38227
+     ],
+     [
+      15.08856,
+      46.38211
+     ],
+     [
+      15.08838,
+      46.38187
+     ],
+     [
+      15.08794,
+      46.38176
+     ],
+     [
+      15.08798,
+      46.3815
+     ],
+     [
+      15.08754,
+      46.38147
+     ],
+     [
+      15.08682,
+      46.38112
+     ],
+     [
+      15.0864,
+      46.38105
+     ],
+     [
+      15.0861,
+      46.38125
+     ],
+     [
+      15.08489,
+      46.38095
+     ],
+     [
+      15.08467,
+      46.38011
+     ],
+     [
+      15.08349,
+      46.37866
+     ],
+     [
+      15.08301,
+      46.37886
+     ],
+     [
+      15.08071,
+      46.37806
+     ],
+     [
+      15.07969,
+      46.3779
+     ],
+     [
+      15.07806,
+      46.37725
+     ],
+     [
+      15.0777,
+      46.37672
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.37565,
+   15.08983
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [
+   {
+    "lat": 46.36975,
+    "lon": 15.08822,
+    "name": null,
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.3711,
+    "lon": 15.09646,
+    "name": null,
+    "distKm": 0.27
+   },
+   {
+    "lat": 46.36763,
+    "lon": 15.08264,
+    "name": null,
+    "distKm": 0.32
+   },
+   {
+    "lat": 46.37276,
+    "lon": 15.10148,
+    "name": null,
+    "distKm": 0.33
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:43:01.012Z"
+ }
+]

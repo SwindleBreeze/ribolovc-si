@@ -11,18 +11,28 @@
     "lureFinder": "Welcher Köder?",
     "support": "Unterstützen",
     "about": "Über uns",
-    "language": "Sprache"
+    "language": "Sprache",
+    "sections": "Reviere",
+    "main": "Hauptmenü"
   },
   "home": {
-    "heroTitle": "Wo, was und wie man in Slowenien angelt",
-    "heroText": "Eine Karte mit {count} Angelplätzen mit Fischarten, Regeln, Zufahrt und 4-Tage-Prognose. Für Einsteiger und erfahrene Angler.",
+    "heroTitle": "Wo beißt es heute?",
+    "heroText": "Alle Reviere mit Angelkarte auf einer Karte – mit Fischen, Regeln, Zufahrt und Vier-Tage-Prognose.",
     "newHere": "Neu beim Angeln? Hier starten",
     "spotsTitle": "Angelplätze",
     "results": "{count, plural, one {# Angelplatz} other {# Angelplätze}}",
     "noResults": "Kein Angelplatz entspricht den Filtern.",
     "nearMe": "In meiner Nähe",
     "nearMeError": "Standort konnte nicht ermittelt werden.",
-    "kmAway": "{km} km"
+    "kmAway": "{km} km",
+    "listTitle": "Reviere im Kartenausschnitt",
+    "onlinePermit": "Online-Karte",
+    "zoomIn": "und {count} weitere – Karte vergrößern",
+    "eyebrow": "Ein Feldführer für Angler · Slowenien",
+    "statSections": "Reviere",
+    "statClubs": "Angelvereine",
+    "statSpecies": "Fischarten",
+    "startTitle": "Zum ersten Mal am Wasser"
   },
   "filters": {
     "title": "Filter",
@@ -34,7 +44,9 @@
     "any": "Alle",
     "reset": "Zurücksetzen",
     "search": "Angelplatz suchen…",
-    "depthLayer": "Meerestiefe (EMODnet)"
+    "depthLayer": "Meerestiefe (EMODnet)",
+    "club": "Verein",
+    "online": "Online-Karte"
   },
   "waterType": {
     "river": "Fluss",
@@ -103,7 +115,16 @@
     "links": "Links",
     "lastUpdated": "Zuletzt aktualisiert: {date}",
     "reportIssue": "Fehler melden",
-    "nearby": "Angelplätze in der Nähe"
+    "nearby": "Angelplätze in der Nähe",
+    "lures": "Köder",
+    "water": "Gewässer",
+    "method": "Methode",
+    "from": "ab {price}",
+    "perDay": "/ Tag",
+    "flowing": "Fließend",
+    "still": "Stehend",
+    "salmonid": "Salmoniden",
+    "coarse": "Weißfische"
   },
   "conditions": {
     "loading": "Prognose wird geladen…",
@@ -181,7 +202,9 @@
       "waning-gibbous": "Abnehmender Mond",
       "last-quarter": "Letztes Viertel",
       "waning-crescent": "Abnehmende Sichel"
-    }
+    },
+    "whyScore": "Warum {score}?",
+    "heading": "Bedingungen für vier Tage"
   },
   "species": {
     "title": "Fische Sloweniens",
@@ -199,7 +222,11 @@
     "protected": "Geschützte / empfindliche Art",
     "generalRule": "Schonzeiten und Mindestmaße im Süßwasser legt die Ordnung des jeweiligen Reviers fest.",
     "where": "Wo man ihn fängt",
-    "waterTemp": "Bevorzugte Wassertemp.: {min}–{max} °C"
+    "waterTemp": "Bevorzugte Wassertemp.: {min}–{max} °C",
+    "protectedShort": "geschützt",
+    "waterTempShort": "Wassertemp.",
+    "minSizeShort": "Mindestmaß",
+    "places": "Reviere & Plätze"
   },
   "guides": {
     "title": "Ratgeber",
@@ -258,5 +285,43 @@
     "seeAll": "Alle ansehen",
     "km": "km",
     "offline": "Offline – gespeicherte Version wird angezeigt."
+  },
+  "footer": {
+    "sources": "Daten: ribiskekarte.si, OpenStreetMap, ARSO, Open-Meteo"
+  },
+  "legend": {
+    "salmonid": "Salmonidenrevier",
+    "coarse": "Weißfischrevier",
+    "curated": "Empfohlener Platz",
+    "approx": "Revier (ungefähre Lage)"
+  },
+  "revir": {
+    "indexTitle": "Alle Angelreviere",
+    "indexLede": "Reviere mit Online-Angelkarten, nach Vereinen sortiert.",
+    "empty": "Reviersdaten sind noch nicht verfügbar.",
+    "about": "Über das Revier",
+    "moreAtSource": "Mehr auf ribiskekarte.si",
+    "speciesSource": "Laut Angelverein",
+    "allListed": "Alle genannten Arten",
+    "permitOnline": "{club} verkauft Angelkarten für dieses Revier auf ribiskekarte.si.",
+    "permitClub": "Angelkarten verkauft {club}.",
+    "buyAtSource": "Auf ribiskekarte.si kaufen",
+    "rulesNote": "Zusammenfassung von ribiskekarte.si · es gilt die Ordnung auf der Angelkarte.",
+    "baits": "Erlaubte Köder",
+    "length": "Länge",
+    "mapPdf": "Revierkarte (PDF)",
+    "source": "Quelle: ribiskekarte.si, OSM · {date}",
+    "quality": {
+      "segment": "Der Abschnitt wurde aus den Reviergrenzen und OpenStreetMap-Flüssen bestimmt.",
+      "water": "Das gesamte Gewässer aus OpenStreetMap wird angezeigt.",
+      "partial": "Nur eine Grenze ist bekannt – die Lage ist ungefähr.",
+      "gauge": "Lage am Pegel – ungefähr.",
+      "place": "Lage nach dem Ort im Reviernamen – ungefähr.",
+      "none": "Das Revier ist noch nicht verortet."
+    }
+  },
+  "notFound": {
+    "title": "Hier beißt nichts.",
+    "text": "Diese Seite wurde nicht gefunden."
   }
 }

@@ -1,0 +1,1189 @@
+[
+ {
+  "id": "rd-majsperk/dravinja-3",
+  "clubSlug": "rd-majsperk",
+  "slug": "dravinja-3",
+  "code": "Dravinja 3",
+  "name": "Dravinja",
+  "subtitle": "od mostu v Makolah do mostu v Doleni",
+  "en": {
+   "name": "Dravinja",
+   "subtitle": "from the bridge in Makole to the bridge in Dolena",
+   "description": "The mixed district offers interesting sport fishing for carp and predators, taking into account the protection periods, throughout the whole year."
+  },
+  "club": {
+   "name": "Ribiška družina Majšperk",
+   "url": "https://www.ribiskekarte.si/rd-majsperk"
+  },
+  "description": "Mešani revir ponuja zanimiv športni ribolov krapovcev in plenilk, upoštevajoč varstvene dobe, skozi celo leto.",
+  "waterType": "river",
+  "water": "Dravinja",
+  "species": [
+   "amur",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "platnica",
+   "ploscic",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "platnica",
+   "ploščič",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-majsperk/nakup/1124"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-majsperk/dravinja-3",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.319582,
+   "lon": 15.675295
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Makole",
+   "do: kraj Dolena"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     15.66826,
+     46.31903
+    ],
+    [
+     15.66973,
+     46.31913
+    ],
+    [
+     15.67115,
+     46.31951
+    ],
+    [
+     15.67247,
+     46.32005
+    ],
+    [
+     15.67298,
+     46.32001
+    ],
+    [
+     15.67427,
+     46.31954
+    ],
+    [
+     15.6759,
+     46.31952
+    ],
+    [
+     15.67765,
+     46.32037
+    ],
+    [
+     15.67779,
+     46.32086
+    ],
+    [
+     15.67841,
+     46.32155
+    ],
+    [
+     15.67839,
+     46.32227
+    ],
+    [
+     15.67801,
+     46.32295
+    ],
+    [
+     15.67811,
+     46.32334
+    ],
+    [
+     15.67793,
+     46.32368
+    ],
+    [
+     15.67839,
+     46.32398
+    ],
+    [
+     15.67848,
+     46.32441
+    ],
+    [
+     15.67874,
+     46.32477
+    ],
+    [
+     15.67906,
+     46.3249
+    ],
+    [
+     15.67939,
+     46.32472
+    ],
+    [
+     15.67985,
+     46.32486
+    ],
+    [
+     15.67982,
+     46.32623
+    ],
+    [
+     15.68067,
+     46.32675
+    ],
+    [
+     15.68078,
+     46.32697
+    ],
+    [
+     15.68123,
+     46.32729
+    ],
+    [
+     15.68151,
+     46.32781
+    ],
+    [
+     15.68182,
+     46.3279
+    ],
+    [
+     15.6831,
+     46.32786
+    ],
+    [
+     15.68453,
+     46.32863
+    ],
+    [
+     15.68465,
+     46.32885
+    ],
+    [
+     15.68459,
+     46.32944
+    ],
+    [
+     15.68485,
+     46.3303
+    ],
+    [
+     15.68536,
+     46.3308
+    ],
+    [
+     15.6865,
+     46.33118
+    ],
+    [
+     15.687,
+     46.33183
+    ],
+    [
+     15.68856,
+     46.33178
+    ],
+    [
+     15.68876,
+     46.33131
+    ],
+    [
+     15.68939,
+     46.33102
+    ],
+    [
+     15.69021,
+     46.33103
+    ],
+    [
+     15.69264,
+     46.3305
+    ],
+    [
+     15.69341,
+     46.33074
+    ],
+    [
+     15.69484,
+     46.3319
+    ],
+    [
+     15.69612,
+     46.33221
+    ],
+    [
+     15.69874,
+     46.33172
+    ],
+    [
+     15.6996,
+     46.33178
+    ],
+    [
+     15.70045,
+     46.33151
+    ],
+    [
+     15.70116,
+     46.33106
+    ],
+    [
+     15.70172,
+     46.33103
+    ],
+    [
+     15.70283,
+     46.33178
+    ],
+    [
+     15.70346,
+     46.33199
+    ],
+    [
+     15.70474,
+     46.33298
+    ],
+    [
+     15.70584,
+     46.33346
+    ],
+    [
+     15.70653,
+     46.33394
+    ],
+    [
+     15.70653,
+     46.33416
+    ],
+    [
+     15.70558,
+     46.33439
+    ],
+    [
+     15.70534,
+     46.33461
+    ],
+    [
+     15.70549,
+     46.33486
+    ],
+    [
+     15.70597,
+     46.33489
+    ],
+    [
+     15.70636,
+     46.33531
+    ],
+    [
+     15.70647,
+     46.33565
+    ],
+    [
+     15.70744,
+     46.3359
+    ],
+    [
+     15.70914,
+     46.33552
+    ],
+    [
+     15.70952,
+     46.33555
+    ],
+    [
+     15.71032,
+     46.33602
+    ],
+    [
+     15.71074,
+     46.33684
+    ],
+    [
+     15.71103,
+     46.33703
+    ],
+    [
+     15.71118,
+     46.33731
+    ],
+    [
+     15.71151,
+     46.33743
+    ],
+    [
+     15.71238,
+     46.33737
+    ],
+    [
+     15.71349,
+     46.33702
+    ],
+    [
+     15.71427,
+     46.33707
+    ],
+    [
+     15.71433,
+     46.33681
+    ],
+    [
+     15.71384,
+     46.33657
+    ],
+    [
+     15.71391,
+     46.33637
+    ],
+    [
+     15.71436,
+     46.33645
+    ],
+    [
+     15.71488,
+     46.33685
+    ],
+    [
+     15.71627,
+     46.33707
+    ],
+    [
+     15.71699,
+     46.33756
+    ],
+    [
+     15.71769,
+     46.33783
+    ],
+    [
+     15.71807,
+     46.33781
+    ],
+    [
+     15.71823,
+     46.33768
+    ],
+    [
+     15.71826,
+     46.33753
+    ],
+    [
+     15.71798,
+     46.33701
+    ],
+    [
+     15.71838,
+     46.33679
+    ],
+    [
+     15.71923,
+     46.33685
+    ],
+    [
+     15.72091,
+     46.33722
+    ],
+    [
+     15.72178,
+     46.33785
+    ],
+    [
+     15.72221,
+     46.33792
+    ],
+    [
+     15.7226,
+     46.33784
+    ],
+    [
+     15.7229,
+     46.33756
+    ],
+    [
+     15.72286,
+     46.33726
+    ],
+    [
+     15.72242,
+     46.33645
+    ],
+    [
+     15.723,
+     46.33606
+    ],
+    [
+     15.72391,
+     46.33596
+    ],
+    [
+     15.72503,
+     46.33611
+    ],
+    [
+     15.72625,
+     46.33608
+    ],
+    [
+     15.72739,
+     46.33634
+    ],
+    [
+     15.73018,
+     46.33743
+    ],
+    [
+     15.73164,
+     46.33861
+    ],
+    [
+     15.73248,
+     46.33913
+    ],
+    [
+     15.73324,
+     46.33941
+    ],
+    [
+     15.73418,
+     46.34009
+    ],
+    [
+     15.73589,
+     46.3405
+    ],
+    [
+     15.7361,
+     46.34073
+    ],
+    [
+     15.73616,
+     46.34152
+    ],
+    [
+     15.73947,
+     46.34281
+    ],
+    [
+     15.73982,
+     46.34317
+    ],
+    [
+     15.73956,
+     46.34359
+    ],
+    [
+     15.73973,
+     46.34397
+    ],
+    [
+     15.74225,
+     46.34491
+    ],
+    [
+     15.74277,
+     46.34487
+    ],
+    [
+     15.74355,
+     46.34458
+    ],
+    [
+     15.74377,
+     46.34407
+    ],
+    [
+     15.74371,
+     46.34342
+    ],
+    [
+     15.74329,
+     46.34239
+    ],
+    [
+     15.74212,
+     46.34138
+    ],
+    [
+     15.74211,
+     46.34117
+    ],
+    [
+     15.74261,
+     46.34001
+    ],
+    [
+     15.74245,
+     46.33963
+    ],
+    [
+     15.74184,
+     46.33915
+    ],
+    [
+     15.74075,
+     46.33865
+    ],
+    [
+     15.74073,
+     46.33846
+    ],
+    [
+     15.74143,
+     46.33763
+    ],
+    [
+     15.74427,
+     46.33563
+    ],
+    [
+     15.74548,
+     46.33539
+    ],
+    [
+     15.74705,
+     46.3357
+    ],
+    [
+     15.74812,
+     46.33627
+    ],
+    [
+     15.74953,
+     46.33677
+    ],
+    [
+     15.75122,
+     46.33697
+    ],
+    [
+     15.75297,
+     46.33814
+    ],
+    [
+     15.75556,
+     46.33868
+    ],
+    [
+     15.75628,
+     46.33906
+    ],
+    [
+     15.75707,
+     46.33968
+    ],
+    [
+     15.75889,
+     46.33971
+    ],
+    [
+     15.75946,
+     46.34011
+    ],
+    [
+     15.7598,
+     46.34013
+    ],
+    [
+     15.76044,
+     46.33968
+    ],
+    [
+     15.7612,
+     46.33953
+    ],
+    [
+     15.76202,
+     46.33894
+    ],
+    [
+     15.7634,
+     46.33949
+    ],
+    [
+     15.76428,
+     46.34006
+    ],
+    [
+     15.76509,
+     46.34023
+    ],
+    [
+     15.76575,
+     46.34102
+    ],
+    [
+     15.7699,
+     46.34068
+    ],
+    [
+     15.77052,
+     46.34041
+    ],
+    [
+     15.77162,
+     46.33959
+    ],
+    [
+     15.77365,
+     46.33846
+    ],
+    [
+     15.77441,
+     46.33848
+    ],
+    [
+     15.77537,
+     46.33895
+    ],
+    [
+     15.77595,
+     46.33941
+    ],
+    [
+     15.77654,
+     46.34128
+    ],
+    [
+     15.77651,
+     46.34181
+    ],
+    [
+     15.77763,
+     46.34275
+    ],
+    [
+     15.78028,
+     46.34386
+    ],
+    [
+     15.7818,
+     46.34431
+    ],
+    [
+     15.78283,
+     46.34429
+    ],
+    [
+     15.78416,
+     46.34377
+    ],
+    [
+     15.78525,
+     46.34366
+    ],
+    [
+     15.7886,
+     46.34478
+    ],
+    [
+     15.7902,
+     46.34477
+    ],
+    [
+     15.79142,
+     46.34457
+    ],
+    [
+     15.79376,
+     46.34365
+    ],
+    [
+     15.79578,
+     46.34324
+    ],
+    [
+     15.79805,
+     46.3435
+    ],
+    [
+     15.79989,
+     46.34411
+    ],
+    [
+     15.80181,
+     46.34446
+    ],
+    [
+     15.80386,
+     46.34466
+    ],
+    [
+     15.80793,
+     46.34464
+    ],
+    [
+     15.80891,
+     46.34484
+    ]
+   ]
+  },
+  "center": [
+   46.34156,
+   15.73627
+  ],
+  "lengthKm": 15.7,
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.31915,
+    "lon": 15.67093,
+    "name": null,
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.34028,
+    "lon": 15.7365,
+    "name": null,
+    "distKm": 0.05
+   },
+   {
+    "lat": 46.34685,
+    "lon": 15.73881,
+    "name": null,
+    "distKm": 0.32
+   },
+   {
+    "lat": 46.33643,
+    "lon": 15.69521,
+    "name": null,
+    "distKm": 0.47
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:10.517Z"
+ },
+ {
+  "id": "rd-majsperk/ribnik-stanecka-vas",
+  "clubSlug": "rd-majsperk",
+  "slug": "ribnik-stanecka-vas",
+  "code": "Ribnik Stanečka vas",
+  "name": "Ribnik Stanečka vas",
+  "subtitle": "",
+  "en": {
+   "name": "Pond Stanečka vas",
+   "subtitle": "",
+   "description": "The pond is inhabited by many fish species interesting for sport fishing. Only catch and release sport fishing is allowed."
+  },
+  "club": {
+   "name": "Ribiška družina Majšperk",
+   "url": "https://www.ribiskekarte.si/rd-majsperk"
+  },
+  "description": "Ribnik poseljujejo številne ribje vrste, zanimive za športni ribolov. Dovoljen je le športni ribolov po načelu ujemi in spusti.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "koreselj",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 8,
+    "saleWindow": "Nakup od 01. 04. do 30. 11.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-majsperk/nakup/1126"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-majsperk/ribnik-stanecka-vas",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.37587,
+      46.26508
+     ],
+     [
+      15.37631,
+      46.26455
+     ],
+     [
+      15.37681,
+      46.26456
+     ],
+     [
+      15.37601,
+      46.26524
+     ],
+     [
+      15.37587,
+      46.26508
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.26481,
+   15.37632
+  ],
+  "lengthKm": null,
+  "region": "savinjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:03.383Z"
+ },
+ {
+  "id": "rd-majsperk/ribnik-zg-pristava",
+  "clubSlug": "rd-majsperk",
+  "slug": "ribnik-zg-pristava",
+  "code": "Ribnik Zg. Pristava",
+  "name": "Ribnik Zgornja Pristava",
+  "subtitle": "",
+  "en": {
+   "name": "Pond Zgornja Pristava",
+   "subtitle": "",
+   "description": "The pond in Zgornja Pristava, which spreads over 3.5 ha of water and lies under the picturesque Haloze hills, is attractive to guests due to its location and fish richness. In addition to carp and grass carp of exceptional size (specimens weighing more than 30 kg are also caught), the pond is inhabited by many species of freshwater fish."
+  },
+  "club": {
+   "name": "Ribiška družina Majšperk",
+   "url": "https://www.ribiskekarte.si/rd-majsperk"
+  },
+  "description": "Ribnik v Zgornji Pristavi, ki se razprostira na 3,5 ha vodne površine in leži pod slikovitim haloškim hribovjem, je vabljiv za goste zaradi svoje lege in ribjega bogastva. Poleg krapov in amurjev izjemnih velikosti (ujeti tudi primerki težji od 30 kg) je ribnik naseljen s številnimi vrstami sladkovodnih rib.",
+  "waterType": "pond",
+  "water": "Zgornja Pristava",
+  "species": [
+   "amur",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "platnica",
+   "ploscic",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "platnica",
+   "ploščič",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "tolstolobik",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 14,
+    "saleWindow": "Nakup od 01. 03. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-majsperk/nakup/1125"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-majsperk/ribnik-zg-pristava",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Zgornja Pristava"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.82788,
+      46.34558
+     ],
+     [
+      15.82827,
+      46.34535
+     ],
+     [
+      15.82955,
+      46.3455
+     ],
+     [
+      15.83005,
+      46.34616
+     ],
+     [
+      15.83014,
+      46.34661
+     ],
+     [
+      15.82989,
+      46.34742
+     ],
+     [
+      15.82962,
+      46.3476
+     ],
+     [
+      15.82904,
+      46.34754
+     ],
+     [
+      15.82874,
+      46.34712
+     ],
+     [
+      15.82889,
+      46.34707
+     ],
+     [
+      15.82884,
+      46.34691
+     ],
+     [
+      15.82788,
+      46.34603
+     ],
+     [
+      15.82788,
+      46.34558
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.34642,
+   15.82901
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:29.780Z"
+ },
+ {
+  "id": "rd-majsperk/skrabska",
+  "clubSlug": "rd-majsperk",
+  "slug": "skrabska",
+  "code": "Skrabska",
+  "name": "Potok Skrabska",
+  "subtitle": "",
+  "en": {
+   "name": "Brook Skrabska",
+   "subtitle": "",
+   "description": "The mixed district offers interesting sport fishing for cyprinids and predators, taking into account the protection periods, throughout the year."
+  },
+  "club": {
+   "name": "Ribiška družina Majšperk",
+   "url": "https://www.ribiskekarte.si/rd-majsperk"
+  },
+  "description": "Mešani revir ponuja zanimiv športni ribolov krapovcev in plenilk, upoštevajoč varstvene dobe, skozi celo leto.",
+  "waterType": "river",
+  "water": null,
+  "species": [
+   "amur",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriz",
+   "platnica",
+   "ploscic",
+   "podust",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "bolen",
+   "klen",
+   "krap",
+   "linj",
+   "mrena",
+   "ostriž",
+   "platnica",
+   "ploščič",
+   "podust",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetne vabe",
+   "vabe rastlinskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-majsperk/nakup/1127"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-majsperk/skrabska",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "none",
+  "qualityNotes": [
+   "reka »Skrabska« ni v OSM"
+  ],
+  "geometry": null,
+  "center": [
+   46.34156,
+   15.73627
+  ],
+  "lengthKm": null,
+  "region": "stajerska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:41:24.999Z"
+ }
+]

@@ -11,18 +11,28 @@
     "lureFinder": "Katera vaba?",
     "support": "Podpri",
     "about": "O strani",
-    "language": "Jezik"
+    "language": "Jezik",
+    "sections": "Revirji",
+    "main": "Glavni meni"
   },
   "home": {
-    "heroTitle": "Kje, kaj in kako loviti v Sloveniji",
-    "heroText": "Zemljevid {count} ribolovnih lokacij z ribami, pravili, dostopom in 4-dnevno napovedjo razmer. Za začetnike in izkušene ribiče.",
+    "heroTitle": "Kje danes prijema?",
+    "heroText": "Vsi revirji z dovolilnicami na enem zemljevidu – z ribami, pravili, dostopom in napovedjo za štiri dni.",
     "newHere": "Prvič na vodi? Začni tukaj",
     "spotsTitle": "Lokacije",
     "results": "{count, plural, one {# lokacija} two {# lokaciji} few {# lokacije} other {# lokacij}}",
     "noResults": "Nobena lokacija ne ustreza filtrom.",
     "nearMe": "Blizu mene",
     "nearMeError": "Lokacije ni bilo mogoče določiti.",
-    "kmAway": "{km} km"
+    "kmAway": "{km} km",
+    "listTitle": "Revirji v pogledu",
+    "onlinePermit": "spletna karta",
+    "zoomIn": "in še {count} – približajte zemljevid",
+    "eyebrow": "Terenski priročnik za ribiče · Slovenija",
+    "statSections": "Revirjev",
+    "statClubs": "Ribiških družin",
+    "statSpecies": "Vrst rib",
+    "startTitle": "Prvič ob vodi"
   },
   "filters": {
     "title": "Filtri",
@@ -34,7 +44,9 @@
     "any": "Vse",
     "reset": "Ponastavi",
     "search": "Išči lokacijo…",
-    "depthLayer": "Globine morja (EMODnet)"
+    "depthLayer": "Globine morja (EMODnet)",
+    "club": "Družina",
+    "online": "Spletna dovolilnica"
   },
   "waterType": {
     "river": "Reka",
@@ -103,7 +115,16 @@
     "links": "Povezave",
     "lastUpdated": "Zadnja posodobitev: {date}",
     "reportIssue": "Prijavi napačen podatek",
-    "nearby": "Lokacije v bližini"
+    "nearby": "Lokacije v bližini",
+    "lures": "Vabe",
+    "water": "Voda",
+    "method": "Način",
+    "from": "od {price}",
+    "perDay": "/ dan",
+    "flowing": "Tekoča",
+    "still": "Stoječa",
+    "salmonid": "salmonidna",
+    "coarse": "ciprinidna"
   },
   "conditions": {
     "loading": "Nalagam napoved…",
@@ -181,7 +202,9 @@
       "waning-gibbous": "Pojemajoča luna",
       "last-quarter": "Zadnji krajec",
       "waning-crescent": "Pojemajoči srp"
-    }
+    },
+    "whyScore": "Zakaj {score}?",
+    "heading": "Razmere za štiri dni"
   },
   "species": {
     "title": "Ribe Slovenije",
@@ -199,7 +222,11 @@
     "protected": "Zaščitena / občutljiva vrsta",
     "generalRule": "Varstvene dobe in lovne mere v sladkih vodah določa ribolovni red posameznega revirja.",
     "where": "Kje jo loviti",
-    "waterTemp": "Ugodna temp. vode: {min}–{max} °C"
+    "waterTemp": "Ugodna temp. vode: {min}–{max} °C",
+    "protectedShort": "zaščitena",
+    "waterTempShort": "Temp. vode",
+    "minSizeShort": "Lovna mera",
+    "places": "Revirjev in lokacij"
   },
   "guides": {
     "title": "Vodiči",
@@ -258,5 +285,43 @@
     "seeAll": "Poglej vse",
     "km": "km",
     "offline": "Brez povezave – prikazujemo shranjeno različico."
+  },
+  "footer": {
+    "sources": "Podatki: ribiskekarte.si, OpenStreetMap, ARSO, Open-Meteo"
+  },
+  "legend": {
+    "salmonid": "Salmonidni revir",
+    "coarse": "Ciprinidni revir",
+    "curated": "Izbrana lokacija",
+    "approx": "Revir (približna lega)"
+  },
+  "revir": {
+    "indexTitle": "Vsi ribolovni revirji",
+    "indexLede": "Revirji s spletnimi dovolilnicami, razvrščeni po ribiških družinah.",
+    "empty": "Podatki o revirjih se še nalagajo.",
+    "about": "O revirju",
+    "moreAtSource": "Več na ribiskekarte.si",
+    "speciesSource": "Po podatkih ribiške družine",
+    "allListed": "Vse navedene vrste",
+    "permitOnline": "Dovolilnice za ta revir prodaja {club} prek ribiskekarte.si.",
+    "permitClub": "Dovolilnice prodaja {club}.",
+    "buyAtSource": "Kupi na ribiskekarte.si",
+    "rulesNote": "Povzetek iz ribiskekarte.si · velja ribolovni red na dovolilnici.",
+    "baits": "Dovoljene vabe",
+    "length": "Dolžina",
+    "mapPdf": "Zemljevid revirja (PDF)",
+    "source": "Vir: ribiskekarte.si, OSM · {date}",
+    "quality": {
+      "segment": "Odsek je določen iz opisa meja revirja in rek v OpenStreetMap.",
+      "water": "Prikazana je celotna voda iz OpenStreetMap.",
+      "partial": "Znana je le ena meja revirja – lega je približna.",
+      "gauge": "Lega pri vodomerni postaji – približna.",
+      "place": "Lega po kraju v imenu revirja – približna.",
+      "none": "Lega revirja še ni določena."
+    }
+  },
+  "notFound": {
+    "title": "Tu ne prijema.",
+    "text": "Strani ni bilo mogoče najti."
   }
 }

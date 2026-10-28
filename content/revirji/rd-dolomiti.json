@@ -1,0 +1,1949 @@
+[
+ {
+  "id": "rd-dolomiti/bozna",
+  "clubSlug": "rd-dolomiti",
+  "slug": "bozna",
+  "code": "Božna",
+  "name": "Reka Božna",
+  "subtitle": "",
+  "en": {
+   "name": "Božna",
+   "subtitle": "",
+   "description": "The fish stock is mainly salmonids, namely brown trout and grayling."
+  },
+  "club": {
+   "name": "Ribiška družina Dolomiti",
+   "url": "https://www.ribiskekarte.si/rd-dolomiti"
+  },
+  "description": "Ribji stalež je predvsem salmoniden in to potočna postrv in lipan.",
+  "waterType": "river",
+  "water": "Božna",
+  "species": [
+   "lipan",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1215"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-dolomiti/bozna",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.27211,
+     46.08752
+    ],
+    [
+     14.28635,
+     46.09431
+    ]
+   ]
+  },
+  "center": [
+   46.09092,
+   14.27923
+  ],
+  "lengthKm": 1.3,
+  "region": "gorenjska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:27:08.103Z"
+ },
+ {
+  "id": "rd-dolomiti/gradascica",
+  "clubSlug": "rd-dolomiti",
+  "slug": "gradascica",
+  "code": "Gradaščica 1",
+  "name": "Gradaščica",
+  "subtitle": "",
+  "en": {
+   "name": "Gradaščica",
+   "subtitle": "",
+   "description": "Gradaščica is a water inhabited by cyprinid and salmonid fish populations; among them the huchen occupies a fine share."
+  },
+  "club": {
+   "name": "Ribiška družina Dolomiti",
+   "url": "https://www.ribiskekarte.si/rd-dolomiti"
+  },
+  "description": "Gradaščica je voda v kateri so naseljene ciprinidne in salmonidne ribje populacije med katerimi pa Sulec zavzema lep delež.",
+  "waterType": "river",
+  "water": "Gradaščica",
+  "species": [
+   "klen",
+   "lipan",
+   "platnica",
+   "podust",
+   "sulec",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "platnica",
+   "podust",
+   "sulec",
+   "šarenka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1219"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1215"
+   },
+   {
+    "name": "Sulec",
+    "priceEur": 45,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1347"
+   },
+   {
+    "name": "Sulec - člani",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1346"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-dolomiti/gradascica",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.06259,
+   "lon": 14.349653
+  },
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.31465,
+     46.05994
+    ],
+    [
+     14.31637,
+     46.05915
+    ],
+    [
+     14.3175,
+     46.05799
+    ],
+    [
+     14.31871,
+     46.0578
+    ],
+    [
+     14.32035,
+     46.05789
+    ],
+    [
+     14.32229,
+     46.05729
+    ],
+    [
+     14.32331,
+     46.05765
+    ],
+    [
+     14.32422,
+     46.05713
+    ],
+    [
+     14.3247,
+     46.05614
+    ],
+    [
+     14.32498,
+     46.05586
+    ],
+    [
+     14.32656,
+     46.05575
+    ],
+    [
+     14.32702,
+     46.05619
+    ],
+    [
+     14.33066,
+     46.05676
+    ],
+    [
+     14.33094,
+     46.05721
+    ],
+    [
+     14.33346,
+     46.05841
+    ],
+    [
+     14.33666,
+     46.05931
+    ],
+    [
+     14.33817,
+     46.05998
+    ],
+    [
+     14.33921,
+     46.05988
+    ],
+    [
+     14.34019,
+     46.06001
+    ],
+    [
+     14.34127,
+     46.05994
+    ],
+    [
+     14.34204,
+     46.06009
+    ],
+    [
+     14.34338,
+     46.061
+    ],
+    [
+     14.3438,
+     46.06157
+    ],
+    [
+     14.34492,
+     46.0622
+    ],
+    [
+     14.34726,
+     46.06244
+    ],
+    [
+     14.3487,
+     46.06186
+    ],
+    [
+     14.34912,
+     46.06149
+    ],
+    [
+     14.3496,
+     46.06145
+    ],
+    [
+     14.34994,
+     46.06196
+    ],
+    [
+     14.35073,
+     46.06249
+    ],
+    [
+     14.35091,
+     46.06319
+    ],
+    [
+     14.35196,
+     46.06443
+    ],
+    [
+     14.35207,
+     46.06483
+    ],
+    [
+     14.35172,
+     46.06592
+    ],
+    [
+     14.35181,
+     46.06614
+    ],
+    [
+     14.35257,
+     46.06656
+    ],
+    [
+     14.35391,
+     46.06644
+    ],
+    [
+     14.3541,
+     46.06654
+    ],
+    [
+     14.3538,
+     46.0671
+    ],
+    [
+     14.35382,
+     46.06816
+    ],
+    [
+     14.35408,
+     46.06919
+    ],
+    [
+     14.35485,
+     46.07023
+    ],
+    [
+     14.35497,
+     46.07092
+    ],
+    [
+     14.35489,
+     46.07152
+    ],
+    [
+     14.35562,
+     46.07153
+    ],
+    [
+     14.35702,
+     46.07129
+    ],
+    [
+     14.35735,
+     46.07141
+    ],
+    [
+     14.35826,
+     46.07215
+    ],
+    [
+     14.35876,
+     46.07229
+    ],
+    [
+     14.35996,
+     46.07243
+    ],
+    [
+     14.36097,
+     46.07208
+    ],
+    [
+     14.36188,
+     46.07211
+    ],
+    [
+     14.36337,
+     46.07253
+    ],
+    [
+     14.36358,
+     46.07304
+    ],
+    [
+     14.36495,
+     46.07294
+    ],
+    [
+     14.36548,
+     46.0726
+    ],
+    [
+     14.36638,
+     46.0716
+    ],
+    [
+     14.36757,
+     46.07158
+    ],
+    [
+     14.36798,
+     46.07132
+    ],
+    [
+     14.36898,
+     46.07102
+    ],
+    [
+     14.37035,
+     46.06996
+    ],
+    [
+     14.37116,
+     46.06967
+    ],
+    [
+     14.37196,
+     46.06962
+    ],
+    [
+     14.37366,
+     46.07021
+    ],
+    [
+     14.37445,
+     46.07007
+    ],
+    [
+     14.37532,
+     46.07035
+    ],
+    [
+     14.37701,
+     46.07152
+    ],
+    [
+     14.37778,
+     46.07183
+    ],
+    [
+     14.37869,
+     46.07296
+    ],
+    [
+     14.37923,
+     46.07311
+    ],
+    [
+     14.37994,
+     46.07366
+    ],
+    [
+     14.38046,
+     46.07369
+    ],
+    [
+     14.38158,
+     46.07343
+    ],
+    [
+     14.38224,
+     46.07356
+    ],
+    [
+     14.38288,
+     46.07414
+    ],
+    [
+     14.38294,
+     46.07507
+    ],
+    [
+     14.3831,
+     46.07521
+    ],
+    [
+     14.38354,
+     46.07526
+    ],
+    [
+     14.38464,
+     46.07477
+    ],
+    [
+     14.38502,
+     46.07401
+    ],
+    [
+     14.38553,
+     46.07387
+    ],
+    [
+     14.38621,
+     46.07409
+    ],
+    [
+     14.3865,
+     46.07445
+    ],
+    [
+     14.38705,
+     46.07463
+    ],
+    [
+     14.38779,
+     46.07446
+    ],
+    [
+     14.3891,
+     46.07447
+    ],
+    [
+     14.38998,
+     46.07397
+    ],
+    [
+     14.39025,
+     46.07394
+    ],
+    [
+     14.39122,
+     46.07437
+    ],
+    [
+     14.39156,
+     46.07482
+    ],
+    [
+     14.39179,
+     46.07483
+    ],
+    [
+     14.39341,
+     46.07442
+    ],
+    [
+     14.3945,
+     46.07432
+    ],
+    [
+     14.39711,
+     46.07353
+    ],
+    [
+     14.39857,
+     46.0734
+    ],
+    [
+     14.39909,
+     46.07301
+    ],
+    [
+     14.39959,
+     46.07236
+    ],
+    [
+     14.40071,
+     46.0723
+    ],
+    [
+     14.40141,
+     46.07213
+    ],
+    [
+     14.40203,
+     46.07157
+    ],
+    [
+     14.40232,
+     46.07087
+    ],
+    [
+     14.4019,
+     46.06957
+    ],
+    [
+     14.40212,
+     46.06846
+    ],
+    [
+     14.40262,
+     46.06769
+    ],
+    [
+     14.4031,
+     46.0672
+    ],
+    [
+     14.40375,
+     46.06679
+    ],
+    [
+     14.40599,
+     46.06607
+    ],
+    [
+     14.40675,
+     46.06562
+    ],
+    [
+     14.40699,
+     46.06504
+    ],
+    [
+     14.40687,
+     46.064
+    ],
+    [
+     14.40696,
+     46.06337
+    ],
+    [
+     14.40748,
+     46.06228
+    ],
+    [
+     14.40797,
+     46.06179
+    ],
+    [
+     14.40856,
+     46.06144
+    ],
+    [
+     14.41015,
+     46.06089
+    ],
+    [
+     14.41084,
+     46.05955
+    ],
+    [
+     14.41138,
+     46.05919
+    ],
+    [
+     14.41201,
+     46.05891
+    ],
+    [
+     14.41306,
+     46.05882
+    ],
+    [
+     14.41554,
+     46.05825
+    ],
+    [
+     14.41741,
+     46.058
+    ],
+    [
+     14.4183,
+     46.05806
+    ],
+    [
+     14.41869,
+     46.05785
+    ],
+    [
+     14.42055,
+     46.05592
+    ],
+    [
+     14.42108,
+     46.05566
+    ],
+    [
+     14.42241,
+     46.05549
+    ],
+    [
+     14.42415,
+     46.05557
+    ],
+    [
+     14.42672,
+     46.05515
+    ],
+    [
+     14.42841,
+     46.05509
+    ],
+    [
+     14.42991,
+     46.05462
+    ],
+    [
+     14.43273,
+     46.05294
+    ],
+    [
+     14.4343,
+     46.05284
+    ],
+    [
+     14.43537,
+     46.05174
+    ],
+    [
+     14.43593,
+     46.05137
+    ],
+    [
+     14.43743,
+     46.05133
+    ],
+    [
+     14.43905,
+     46.05041
+    ],
+    [
+     14.44028,
+     46.05007
+    ],
+    [
+     14.44081,
+     46.0494
+    ],
+    [
+     14.44201,
+     46.04891
+    ],
+    [
+     14.4431,
+     46.04823
+    ],
+    [
+     14.44344,
+     46.04774
+    ],
+    [
+     14.44473,
+     46.04709
+    ],
+    [
+     14.44469,
+     46.04631
+    ],
+    [
+     14.44834,
+     46.04533
+    ],
+    [
+     14.44894,
+     46.0458
+    ],
+    [
+     14.44941,
+     46.04591
+    ],
+    [
+     14.45069,
+     46.0456
+    ],
+    [
+     14.45217,
+     46.04504
+    ],
+    [
+     14.4525,
+     46.04481
+    ],
+    [
+     14.45239,
+     46.04392
+    ],
+    [
+     14.45279,
+     46.04336
+    ],
+    [
+     14.45714,
+     46.04149
+    ],
+    [
+     14.4583,
+     46.04124
+    ],
+    [
+     14.45847,
+     46.04087
+    ],
+    [
+     14.45935,
+     46.04023
+    ],
+    [
+     14.45989,
+     46.04017
+    ],
+    [
+     14.46114,
+     46.04045
+    ],
+    [
+     14.4625,
+     46.04053
+    ],
+    [
+     14.46471,
+     46.04148
+    ],
+    [
+     14.46618,
+     46.04185
+    ],
+    [
+     14.46814,
+     46.0417
+    ],
+    [
+     14.46956,
+     46.04191
+    ],
+    [
+     14.47159,
+     46.04146
+    ],
+    [
+     14.47169,
+     46.04097
+    ],
+    [
+     14.4721,
+     46.04048
+    ],
+    [
+     14.47173,
+     46.03973
+    ],
+    [
+     14.47176,
+     46.03947
+    ],
+    [
+     14.47209,
+     46.0392
+    ],
+    [
+     14.47293,
+     46.03907
+    ],
+    [
+     14.47426,
+     46.03929
+    ],
+    [
+     14.47763,
+     46.04037
+    ],
+    [
+     14.47967,
+     46.04068
+    ],
+    [
+     14.48042,
+     46.04104
+    ],
+    [
+     14.48085,
+     46.0415
+    ],
+    [
+     14.48237,
+     46.04135
+    ],
+    [
+     14.48377,
+     46.0416
+    ],
+    [
+     14.48609,
+     46.04166
+    ],
+    [
+     14.49102,
+     46.04119
+    ],
+    [
+     14.49464,
+     46.04182
+    ],
+    [
+     14.49677,
+     46.04335
+    ],
+    [
+     14.49783,
+     46.04368
+    ],
+    [
+     14.49904,
+     46.04338
+    ],
+    [
+     14.50095,
+     46.04373
+    ],
+    [
+     14.50195,
+     46.04339
+    ],
+    [
+     14.50231,
+     46.04338
+    ],
+    [
+     14.50493,
+     46.04358
+    ],
+    [
+     14.50581,
+     46.04408
+    ]
+   ]
+  },
+  "center": [
+   46.06649,
+   14.4047
+  ],
+  "lengthKm": 19.6,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.04534,
+    "lon": 14.45166,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.04325,
+    "lon": 14.5033,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.04014,
+    "lon": 14.4716,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 46.07287,
+    "lon": 14.39958,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:28:29.732Z"
+ },
+ {
+  "id": "rd-dolomiti/horjulka",
+  "clubSlug": "rd-dolomiti",
+  "slug": "horjulka",
+  "code": "Horjulka 2",
+  "name": "Horjulka",
+  "subtitle": "",
+  "en": {
+   "name": "Horjulka",
+   "subtitle": "",
+   "description": "The river has a mixed cyprinid and salmonid fauna, but boasts also with a beautiful pike."
+  },
+  "club": {
+   "name": "Ribiška družina Dolomiti",
+   "url": "https://www.ribiskekarte.si/rd-dolomiti"
+  },
+  "description": "Reka ima mešano ciprinidno in salmonidno favno, vendar pa se lahko pohvali z lepo Ščuko.",
+  "waterType": "river",
+  "water": "Horjulka",
+  "species": [
+   "klen",
+   "lipan",
+   "platnica",
+   "podust",
+   "sulec",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "klen",
+   "lipan",
+   "platnica",
+   "podust",
+   "sulec",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi + roparice",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1219"
+   },
+   {
+    "name": "Salmonidi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1215"
+   },
+   {
+    "name": "Sulec",
+    "priceEur": 45,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1348"
+   },
+   {
+    "name": "Sulec - člani",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1346"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-dolomiti/horjulka",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.44399,
+     46.04636
+    ],
+    [
+     14.44469,
+     46.04631
+    ]
+   ]
+  },
+  "center": [
+   46.04634,
+   14.44434
+  ],
+  "lengthKm": 0.1,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.04569,
+    "lon": 14.44083,
+    "name": null,
+    "distKm": 0.26
+   },
+   {
+    "lat": 46.05088,
+    "lon": 14.44709,
+    "name": null,
+    "distKm": 0.54
+   },
+   {
+    "lat": 46.04534,
+    "lon": 14.45166,
+    "name": null,
+    "distKm": 0.55
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:30:53.730Z"
+ },
+ {
+  "id": "rd-dolomiti/koseski-bajer",
+  "clubSlug": "rd-dolomiti",
+  "slug": "koseski-bajer",
+  "code": "Koseški bajer",
+  "name": "Koseški bajer",
+  "subtitle": "",
+  "en": {
+   "name": "Koseze pond",
+   "subtitle": "",
+   "description": ""
+  },
+  "club": {
+   "name": "Ribiška družina Dolomiti",
+   "url": "https://www.ribiskekarte.si/rd-dolomiti"
+  },
+  "description": "",
+  "waterType": "pond",
+  "water": "Koseški bajer",
+  "species": [
+   "androga",
+   "klen",
+   "krap",
+   "linj",
+   "ostriz",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "androga",
+   "klen",
+   "krap",
+   "linj",
+   "ostriž",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "deževnik",
+   "kostni črv",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti - ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1212"
+   },
+   {
+    "name": "Ujemi in spusti - roparice",
+    "priceEur": 25,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1213"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-dolomiti/koseski-bajer",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Koseški bajer"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.46693,
+      46.06707
+     ],
+     [
+      14.46773,
+      46.06695
+     ],
+     [
+      14.46868,
+      46.06651
+     ],
+     [
+      14.46979,
+      46.06635
+     ],
+     [
+      14.47033,
+      46.06697
+     ],
+     [
+      14.47032,
+      46.06804
+     ],
+     [
+      14.46991,
+      46.06815
+     ],
+     [
+      14.46886,
+      46.0679
+     ],
+     [
+      14.46803,
+      46.06823
+     ],
+     [
+      14.46693,
+      46.06707
+     ]
+    ]
+   ]
+  },
+  "center": [
+   46.06733,
+   14.46899
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.06588,
+    "lon": 14.4746,
+    "name": null,
+    "distKm": 0.35
+   },
+   {
+    "lat": 46.06966,
+    "lon": 14.47435,
+    "name": null,
+    "distKm": 0.36
+   },
+   {
+    "lat": 46.07192,
+    "lon": 14.47029,
+    "name": null,
+    "distKm": 0.42
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.06737,
+    "lon": 14.46926,
+    "name": null,
+    "distKm": 0.07
+   }
+  ],
+  "scrapedAt": "2026-10-28T06:32:08.142Z"
+ },
+ {
+  "id": "rd-dolomiti/mala-voda",
+  "clubSlug": "rd-dolomiti",
+  "slug": "mala-voda",
+  "code": "Mala voda 3",
+  "name": "Mala voda",
+  "subtitle": "",
+  "en": {
+   "name": "Mala voda",
+   "subtitle": "",
+   "description": "The water is inhabited by salmonids, brown trout and grayling."
+  },
+  "club": {
+   "name": "Ribiška družina Dolomiti",
+   "url": "https://www.ribiskekarte.si/rd-dolomiti"
+  },
+  "description": "Vodo naseljujejo salmonidi potočna postrv in lipan.",
+  "waterType": "river",
+  "water": "Mala voda",
+  "species": [
+   "lipan",
+   "sarenka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "šarenka"
+  ],
+  "methods": [
+   "muharjenje"
+  ],
+  "techniques": [
+   "fly"
+  ],
+  "baits": [
+   "umetna muha"
+  ],
+  "flyOnly": true,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Salmonidi",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-dolomiti/nakup/1215"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-dolomiti/mala-voda",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "cel vodotok"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.31465,
+     46.05994
+    ],
+    [
+     14.31361,
+     46.06098
+    ],
+    [
+     14.31237,
+     46.06094
+    ],
+    [
+     14.31112,
+     46.06122
+    ],
+    [
+     14.31012,
+     46.06185
+    ],
+    [
+     14.30967,
+     46.0618
+    ],
+    [
+     14.30946,
+     46.06142
+    ],
+    [
+     14.30816,
+     46.06134
+    ],
+    [
+     14.30779,
+     46.06118
+    ],
+    [
+     14.30778,
+     46.0607
+    ],
+    [
+     14.30759,
+     46.06042
+    ],
+    [
+     14.30743,
+     46.06026
+    ],
+    [
+     14.30673,
+     46.06004
+    ],
+    [
+     14.30653,
+     46.05979
+    ],
+    [
+     14.3066,
+     46.05949
+    ],
+    [
+     14.30618,
+     46.05937
+    ],
+    [
+     14.30604,
+     46.05914
+    ],
+    [
+     14.30525,
+     46.05881
+    ],
+    [
+     14.30442,
+     46.05818
+    ],
+    [
+     14.30418,
+     46.05769
+    ],
+    [
+     14.3034,
+     46.05751
+    ],
+    [
+     14.30271,
+     46.05671
+    ],
+    [
+     14.30273,
+     46.05631
+    ],
+    [
+     14.30295,
+     46.05609
+    ],
+    [
+     14.30292,
+     46.05558
+    ],
+    [
+     14.30337,
+     46.05546
+    ],
+    [
+     14.3038,
+     46.05513
+    ],
+    [
+     14.30405,
+     46.05442
+    ],
+    [
+     14.30352,
+     46.05405
+    ],
+    [
+     14.30329,
+     46.05288
+    ],
+    [
+     14.30308,
+     46.0528
+    ],
+    [
+     14.30235,
+     46.05288
+    ],
+    [
+     14.30219,
+     46.05277
+    ],
+    [
+     14.30214,
+     46.05223
+    ],
+    [
+     14.30173,
+     46.05144
+    ],
+    [
+     14.30172,
+     46.05113
+    ],
+    [
+     14.30212,
+     46.05024
+    ],
+    [
+     14.30211,
+     46.04979
+    ],
+    [
+     14.30231,
+     46.04942
+    ],
+    [
+     14.3024,
+     46.04852
+    ],
+    [
+     14.30187,
+     46.04812
+    ],
+    [
+     14.30149,
+     46.04802
+    ],
+    [
+     14.3004,
+     46.04817
+    ],
+    [
+     14.29979,
+     46.04784
+    ],
+    [
+     14.29843,
+     46.04783
+    ],
+    [
+     14.29799,
+     46.0476
+    ],
+    [
+     14.29659,
+     46.04733
+    ],
+    [
+     14.29651,
+     46.04722
+    ],
+    [
+     14.29695,
+     46.04664
+    ],
+    [
+     14.29697,
+     46.04645
+    ],
+    [
+     14.29629,
+     46.04623
+    ],
+    [
+     14.29567,
+     46.04585
+    ],
+    [
+     14.29554,
+     46.04555
+    ],
+    [
+     14.29556,
+     46.04512
+    ],
+    [
+     14.29505,
+     46.04471
+    ],
+    [
+     14.29272,
+     46.04355
+    ],
+    [
+     14.29244,
+     46.04357
+    ],
+    [
+     14.29205,
+     46.04427
+    ],
+    [
+     14.2907,
+     46.04527
+    ],
+    [
+     14.29005,
+     46.04529
+    ],
+    [
+     14.28855,
+     46.04471
+    ],
+    [
+     14.28827,
+     46.04481
+    ],
+    [
+     14.28824,
+     46.04502
+    ],
+    [
+     14.28807,
+     46.04509
+    ],
+    [
+     14.28696,
+     46.04488
+    ],
+    [
+     14.28651,
+     46.04502
+    ],
+    [
+     14.28564,
+     46.04494
+    ],
+    [
+     14.28489,
+     46.04576
+    ],
+    [
+     14.28491,
+     46.04655
+    ],
+    [
+     14.28482,
+     46.04675
+    ],
+    [
+     14.28453,
+     46.04689
+    ],
+    [
+     14.28371,
+     46.04703
+    ],
+    [
+     14.28344,
+     46.04669
+    ],
+    [
+     14.28236,
+     46.04668
+    ],
+    [
+     14.28187,
+     46.04688
+    ],
+    [
+     14.28132,
+     46.04668
+    ],
+    [
+     14.28063,
+     46.04706
+    ],
+    [
+     14.27937,
+     46.04727
+    ],
+    [
+     14.27842,
+     46.0477
+    ],
+    [
+     14.27732,
+     46.04763
+    ],
+    [
+     14.27642,
+     46.04728
+    ],
+    [
+     14.27568,
+     46.04716
+    ],
+    [
+     14.27522,
+     46.04675
+    ],
+    [
+     14.27347,
+     46.04667
+    ],
+    [
+     14.27228,
+     46.04579
+    ],
+    [
+     14.27076,
+     46.04546
+    ],
+    [
+     14.27054,
+     46.04516
+    ],
+    [
+     14.2696,
+     46.04483
+    ],
+    [
+     14.26781,
+     46.04459
+    ],
+    [
+     14.26732,
+     46.04437
+    ],
+    [
+     14.26536,
+     46.04426
+    ],
+    [
+     14.26516,
+     46.04408
+    ],
+    [
+     14.26532,
+     46.04367
+    ],
+    [
+     14.26502,
+     46.04305
+    ],
+    [
+     14.26299,
+     46.04272
+    ],
+    [
+     14.26263,
+     46.04255
+    ],
+    [
+     14.26247,
+     46.04223
+    ],
+    [
+     14.26201,
+     46.04205
+    ],
+    [
+     14.26055,
+     46.04199
+    ],
+    [
+     14.25947,
+     46.04233
+    ],
+    [
+     14.25742,
+     46.042
+    ],
+    [
+     14.2565,
+     46.04227
+    ],
+    [
+     14.25521,
+     46.04231
+    ],
+    [
+     14.25405,
+     46.04273
+    ],
+    [
+     14.25349,
+     46.04334
+    ],
+    [
+     14.25316,
+     46.04329
+    ],
+    [
+     14.25184,
+     46.04231
+    ],
+    [
+     14.25022,
+     46.04173
+    ],
+    [
+     14.24992,
+     46.04157
+    ],
+    [
+     14.24969,
+     46.04125
+    ],
+    [
+     14.25091,
+     46.03961
+    ],
+    [
+     14.25121,
+     46.0387
+    ],
+    [
+     14.25109,
+     46.03842
+    ],
+    [
+     14.24969,
+     46.03728
+    ],
+    [
+     14.24891,
+     46.03704
+    ],
+    [
+     14.24809,
+     46.03649
+    ],
+    [
+     14.24782,
+     46.03572
+    ],
+    [
+     14.24751,
+     46.03527
+    ],
+    [
+     14.24501,
+     46.03401
+    ],
+    [
+     14.24461,
+     46.03409
+    ],
+    [
+     14.24357,
+     46.03471
+    ],
+    [
+     14.24318,
+     46.03473
+    ],
+    [
+     14.24128,
+     46.03445
+    ],
+    [
+     14.24084,
+     46.03418
+    ],
+    [
+     14.24067,
+     46.03352
+    ],
+    [
+     14.24014,
+     46.03326
+    ],
+    [
+     14.23814,
+     46.03327
+    ],
+    [
+     14.23784,
+     46.03287
+    ],
+    [
+     14.237,
+     46.03239
+    ],
+    [
+     14.23511,
+     46.03247
+    ],
+    [
+     14.23424,
+     46.03266
+    ],
+    [
+     14.23401,
+     46.03298
+    ],
+    [
+     14.23365,
+     46.03308
+    ],
+    [
+     14.23322,
+     46.03299
+    ],
+    [
+     14.23314,
+     46.03266
+    ],
+    [
+     14.23264,
+     46.0327
+    ],
+    [
+     14.23189,
+     46.03292
+    ],
+    [
+     14.23144,
+     46.03289
+    ],
+    [
+     14.23123,
+     46.03301
+    ],
+    [
+     14.23115,
+     46.03326
+    ],
+    [
+     14.2307,
+     46.03349
+    ],
+    [
+     14.22992,
+     46.03363
+    ],
+    [
+     14.22978,
+     46.0338
+    ],
+    [
+     14.22966,
+     46.03458
+    ],
+    [
+     14.2294,
+     46.03487
+    ],
+    [
+     14.22772,
+     46.0354
+    ],
+    [
+     14.22607,
+     46.03614
+    ]
+   ]
+  },
+  "center": [
+   46.04674,
+   14.27508
+  ],
+  "lengthKm": 10.6,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 46.03416,
+    "lon": 14.24492,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.06401,
+    "lon": 14.31219,
+    "name": null,
+    "distKm": 0.29
+   },
+   {
+    "lat": 46.03179,
+    "lon": 14.22421,
+    "name": null,
+    "distKm": 0.48
+   },
+   {
+    "lat": 46.02802,
+    "lon": 14.23534,
+    "name": null,
+    "distKm": 0.49
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:33:10.563Z"
+ }
+]

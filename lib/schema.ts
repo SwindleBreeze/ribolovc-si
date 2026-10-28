@@ -141,7 +141,7 @@ const Pos = z.tuple([z.number(), z.number()]);
 
 /** A fishing section (revir) generated from ribiskekarte.si + OpenStreetMap by scripts/scrape. */
 export const Revir = z.object({
-  id: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+$/),
+  id: z.string().regex(/^[a-z0-9-]+\/[A-Za-z0-9-]+$/),
   clubSlug: z.string(),
   slug: z.string(),
   code: z.string(),
@@ -150,7 +150,7 @@ export const Revir = z.object({
   en: z.object({ name: z.string(), subtitle: z.string(), description: z.string() }).nullable(),
   club: z.object({ name: z.string(), url: z.string() }),
   description: z.string(),
-  waterType: z.enum(['river', 'lake', 'reservoir', 'pond']),
+  waterType: z.enum(['river', 'lake', 'reservoir', 'pond', 'sea']),
   water: z.string().nullable(),
   species: z.array(z.string()),
   speciesRaw: z.array(z.string()),

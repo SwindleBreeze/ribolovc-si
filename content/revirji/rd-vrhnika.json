@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "rd-vrhnika/reka-bistra",
+  "clubSlug": "rd-vrhnika",
+  "slug": "reka-bistra",
+  "code": "Bistra",
+  "name": "Reka Bistra",
+  "subtitle": "od izvira do izliva v reko Ljubljanico",
+  "en": {
+   "name": "The river Bistra",
+   "subtitle": "from the spring to the outflow into the river Ljubljanica",
+   "description": "The rivers Bistra and Ljubija slowly meander through the outskirts of the Ljubljana Marshes up to their outflow into the Ljubljanica. They are typical karst rivers with crystal clear water which is slowly flowing from bend to bend. The Ljubija springs in Verd (Vrhnika), while the Bistra originates in the city next to the famous Carthusian monastery."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Reki Bistra in Ljubija počasi vijugata po obrobju Ljubljanskega barja vse do izlivov v Ljubljanico. Sta tipično kraškega značaja, s kristalno čisto vodo, ki se počasi pretaka od okljuka do okljuka. Ljubija izvira na Verdu (Vrhnika), medtem ko Bistra izvira v kraju Bistra poleg znamenitega kartuzijskega samostana. Kljub kratki strugi veljata med ribiči za prava skrita bisera.",
+  "waterType": "river",
+  "water": "Bistra",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/905"
+   },
+   {
+    "name": "Ribolov ščuke (1.10 - 31.10)",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 01. 10. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/738"
+   },
+   {
+    "name": "Ujemi in spusti (muharjenje)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/721"
+   },
+   {
+    "name": "Ujemi in vzemi (muharjenje, vijačenje)",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/720"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/reka-bistra",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.950074,
+   "lon": 14.344004
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: izvir",
+   "do: sotočje Ljubljanico"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.33232,
+     45.94695
+    ],
+    [
+     14.3391,
+     45.95179
+    ],
+    [
+     14.34346,
+     45.9621
+    ]
+   ]
+  },
+  "center": [
+   45.9537,
+   14.33991
+  ],
+  "lengthKm": 1.9,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.94713,
+    "lon": 14.33226,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:26:44.139Z"
+ },
+ {
+  "id": "rd-vrhnika/reka-ljubija",
+  "clubSlug": "rd-vrhnika",
+  "slug": "reka-ljubija",
+  "code": "Ljubija",
+  "name": "Reka Ljubija",
+  "subtitle": "od izvira do izliva v reko Ljubljanico",
+  "en": {
+   "name": "River Ljubija",
+   "subtitle": "from the spring to the outflow into the river Ljubljanica",
+   "description": "Fly fishing in these rivers is certainly not one of the easier ones; a patient fisherman with some knowledge can be richly rewarded. Due to the configuration of the channel, the fish are in excellent condition to grow to trophy size. The both rivers are dominated by beautiful brown trouts, graylings and rare wild rainbow trouts."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Reki Bistra in Ljubija počasi vijugata po obrobju Ljubljanskega barja vse do izlivov v Ljubljanico. Sta tipično kraškega značaja, s kristalno čisto vodo, ki se počasi pretaka od okljuka do okljuka. Ljubija izvira na Verdu (Vrhnika), medtem ko Bistra izvira v kraju Bistra poleg znamenitega kartuzijskega samostana. Kljub kratki strugi veljata med ribiči za prava skrita bisera.",
+  "waterType": "river",
+  "water": "Ljubija",
+  "species": [
+   "lipan",
+   "potocna-postrv",
+   "sulec",
+   "sarenka",
+   "scuka"
+  ],
+  "speciesRaw": [
+   "lipan",
+   "potočna postrv",
+   "sulec",
+   "šarenka",
+   "ščuka"
+  ],
+  "methods": [
+   "muharjenje",
+   "vijačenje"
+  ],
+  "techniques": [
+   "fly",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/905"
+   },
+   {
+    "name": "Ribolov ščuke (1.10 - 31.10)",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 01. 10. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/738"
+   },
+   {
+    "name": "Ujemi in spusti (muharjenje)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/721"
+   },
+   {
+    "name": "Ujemi in vzemi (muharjenje, vijačenje)",
+    "priceEur": 28,
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/720"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/reka-ljubija",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.9573,
+   "lon": 14.3087
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: izvir",
+   "do: sotočje Ljubljanico"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.30257,
+     45.95333
+    ],
+    [
+     14.3028,
+     45.95393
+    ],
+    [
+     14.3024,
+     45.95422
+    ],
+    [
+     14.30327,
+     45.95445
+    ],
+    [
+     14.30343,
+     45.95474
+    ],
+    [
+     14.30414,
+     45.95518
+    ],
+    [
+     14.30466,
+     45.95532
+    ],
+    [
+     14.30471,
+     45.95579
+    ],
+    [
+     14.30502,
+     45.9562
+    ],
+    [
+     14.30619,
+     45.95585
+    ],
+    [
+     14.30669,
+     45.95608
+    ],
+    [
+     14.30685,
+     45.95653
+    ],
+    [
+     14.3064,
+     45.95697
+    ],
+    [
+     14.30659,
+     45.95734
+    ],
+    [
+     14.30696,
+     45.95745
+    ],
+    [
+     14.30754,
+     45.9573
+    ],
+    [
+     14.30815,
+     45.95684
+    ],
+    [
+     14.30858,
+     45.95698
+    ],
+    [
+     14.30948,
+     45.95824
+    ],
+    [
+     14.30918,
+     45.95852
+    ],
+    [
+     14.30857,
+     45.95853
+    ],
+    [
+     14.3082,
+     45.95867
+    ],
+    [
+     14.30792,
+     45.95895
+    ],
+    [
+     14.30794,
+     45.95918
+    ],
+    [
+     14.30821,
+     45.95946
+    ],
+    [
+     14.30915,
+     45.95979
+    ],
+    [
+     14.30949,
+     45.96018
+    ],
+    [
+     14.30988,
+     45.96004
+    ],
+    [
+     14.30956,
+     45.95949
+    ],
+    [
+     14.30961,
+     45.95927
+    ],
+    [
+     14.31049,
+     45.95914
+    ],
+    [
+     14.31046,
+     45.95897
+    ],
+    [
+     14.31009,
+     45.95865
+    ],
+    [
+     14.31035,
+     45.95848
+    ],
+    [
+     14.31132,
+     45.95866
+    ],
+    [
+     14.31156,
+     45.95883
+    ],
+    [
+     14.3118,
+     45.95945
+    ],
+    [
+     14.31207,
+     45.95957
+    ],
+    [
+     14.31347,
+     45.95944
+    ],
+    [
+     14.31395,
+     45.95954
+    ],
+    [
+     14.31453,
+     45.96005
+    ],
+    [
+     14.31458,
+     45.96033
+    ],
+    [
+     14.31431,
+     45.96058
+    ],
+    [
+     14.31443,
+     45.96069
+    ],
+    [
+     14.31571,
+     45.96021
+    ],
+    [
+     14.31854,
+     45.95955
+    ],
+    [
+     14.31866,
+     45.95964
+    ],
+    [
+     14.31871,
+     45.9603
+    ],
+    [
+     14.31746,
+     45.96087
+    ],
+    [
+     14.31704,
+     45.96199
+    ],
+    [
+     14.31709,
+     45.96237
+    ],
+    [
+     14.3175,
+     45.96252
+    ],
+    [
+     14.31904,
+     45.96241
+    ],
+    [
+     14.31912,
+     45.96219
+    ],
+    [
+     14.31895,
+     45.96171
+    ],
+    [
+     14.31904,
+     45.9615
+    ],
+    [
+     14.32012,
+     45.96109
+    ],
+    [
+     14.32042,
+     45.96114
+    ],
+    [
+     14.32103,
+     45.96176
+    ],
+    [
+     14.32223,
+     45.96205
+    ],
+    [
+     14.32233,
+     45.96232
+    ],
+    [
+     14.32214,
+     45.96282
+    ],
+    [
+     14.32233,
+     45.96345
+    ],
+    [
+     14.3213,
+     45.96348
+    ],
+    [
+     14.32124,
+     45.96361
+    ],
+    [
+     14.32142,
+     45.96421
+    ],
+    [
+     14.32066,
+     45.96431
+    ],
+    [
+     14.32025,
+     45.96453
+    ],
+    [
+     14.32043,
+     45.96476
+    ],
+    [
+     14.32096,
+     45.96502
+    ],
+    [
+     14.32185,
+     45.96504
+    ]
+   ]
+  },
+  "center": [
+   45.95945,
+   14.31354
+  ],
+  "lengthKm": 4.1,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.9576,
+    "lon": 14.307,
+    "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 45.95942,
+    "lon": 14.31444,
+    "name": null,
+    "distKm": 0.04
+   },
+   {
+    "lat": 45.95288,
+    "lon": 14.30288,
+    "name": null,
+    "distKm": 0.06
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:32:48.977Z"
+ },
+ {
+  "id": "rd-vrhnika/ljubljanica-revir-30",
+  "clubSlug": "rd-vrhnika",
+  "slug": "ljubljanica-revir-30",
+  "code": "Revir 30",
+  "name": "Reka Ljubljanica",
+  "subtitle": "od izvirov Ljubljanice do pritoka Pekovega grabna), Podlipščica in Črni graben",
+  "en": {
+   "name": "The river Ljubljanica",
+   "subtitle": "from the Ljubljanica's springs to the tributary Pekov graben",
+   "description": "The slow current in the usual water levels represents great joy for all the fishermen who float fish when they wait for the first class specimen to be caught. Where the waters are deep, the river vegetation is scarse and the fish gather here in larger numbers.The Danube roach with floats, the barbel with ground fishing, roach with pole fishing, maybe even river carp with boilies."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Počasen tok v običajnem vodostaju predstavlja beličarjem užitek v pričakovanju prijema kapitalne ribe. Tam kjer je globina je tudi obvodno rastlinje redko in riba se zadržuje v večjih količinah. Platnica na plovec ali mrena na talni ribolov, rdečeoka na štek, morda celo rečni krap z bojliji. Možnosti je veliko.",
+  "waterType": "river",
+  "water": "Ljubljanica",
+  "species": [
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "som",
+   "sulec",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "som",
+   "sulec",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/905"
+   },
+   {
+    "name": "Ribolov ščuke (1.10. - 31.10.)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 10. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/736"
+   },
+   {
+    "name": "Ujemi in spusti (muharjenje)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/728"
+   },
+   {
+    "name": "Ujemi in vzemi (beličarjenje, talni ribolov)",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/2"
+   },
+   {
+    "name": "Ujemi in vzemi (vijačenje, muharjenje)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/727"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-30",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 45.966535,
+   "lon": 14.304774
+  },
+  "quality": "partial",
+  "qualityNotes": [
+   "samo ena meja: izvir"
+  ],
+  "geometry": {
+   "type": "Point",
+   "coordinates": [
+    14.3013,
+    45.95733
+   ]
+  },
+  "center": [
+   45.95733,
+   14.3013
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.95733,
+    "lon": 14.30274,
+    "name": null,
+    "distKm": 0.11
+   },
+   {
+    "lat": 45.95899,
+    "lon": 14.29715,
+    "name": null,
+    "distKm": 0.37
+   },
+   {
+    "lat": 45.95351,
+    "lon": 14.30382,
+    "name": null,
+    "distKm": 0.47
+   },
+   {
+    "lat": 45.95343,
+    "lon": 14.29842,
+    "name": null,
+    "distKm": 0.49
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:53.813Z"
+ },
+ {
+  "id": "rd-vrhnika/ljubljanica-revir-31",
+  "clubSlug": "rd-vrhnika",
+  "slug": "ljubljanica-revir-31",
+  "code": "Revir 31",
+  "name": "Reka Ljubljanica",
+  "subtitle": "od pritoka Pekovega grabna pri Kaminih / Bevke do mostu čez Ljubljanico v Podpeči), Borovniščica, Zrnica, Podpeški graben",
+  "en": {
+   "name": "The river Ljubljanica",
+   "subtitle": " from the tributary Pekov graben at Kamini / Bevke to the bridge across the Ljubljanica in Podpeč",
+   "description": "The slow current in the usual water levels represents great joy for all the fishermen whofloat fish when they wait for the first class specimen to be caught. Where the waters are deep, the river vegetation is scarse and the fish gather here in larger numbers.The Danube roach with floats, the barbel with ground fishing, roach with pole fishing, maybe even river carp. The number of possibilities is great."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Počasen tok v običajnem vodostaju predstavlja beličarjem užitek med pričakovanjem kapitalnega prijema. Tem kjer je globina je tudi obvodno rastlinje redko in riba se zadržuje v večjih količinah. Platnica na plovec ali mrena na talni ribolov, rdečeoka na štek, morda celo rečni krap. Možnosti je veliko. Kraška lepotica se še razširi in upočasni. Ovinki tvorijo globoke tolmune.",
+  "waterType": "river",
+  "water": "Ljubljanica",
+  "species": [
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "platnica",
+   "ploscic",
+   "podust",
+   "potocna-postrv",
+   "rdeceoka",
+   "rdeceperka",
+   "som",
+   "sulec",
+   "sarenka",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "klen",
+   "krap",
+   "lipan",
+   "mrena",
+   "platnica",
+   "ploščič",
+   "podust",
+   "potočna postrv",
+   "rdečeoka",
+   "rdečeperka",
+   "som",
+   "sulec",
+   "šarenka",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "potezanka",
+   "umetna muha",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 20,
+    "saleWindow": "Nakup od 01. 11. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/905"
+   },
+   {
+    "name": "Ribolov ščuke (1.10. - 31.10.)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 10. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/736"
+   },
+   {
+    "name": "Ujemi in spusti (muharjenje)",
+    "priceEur": 25,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/728"
+   },
+   {
+    "name": "Ujemi in vzemi (beličarjenje, talni ribolov)",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/2"
+   },
+   {
+    "name": "Ujemi in vzemi (vijačenje, muharjenje)",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 04. do 31. 10.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/727"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ljubljanica-revir-31",
+  "mapPdfUrl": null,
+  "gauge": {
+   "lat": 46.055444,
+   "lon": 14.544447
+  },
+  "quality": "segment",
+  "qualityNotes": [
+   "od: kraj Bevke",
+   "do: kraj Podpeč (most)"
+  ],
+  "geometry": {
+   "type": "LineString",
+   "coordinates": [
+    [
+     14.35595,
+     45.96536
+    ],
+    [
+     14.36134,
+     45.9651
+    ],
+    [
+     14.36266,
+     45.96533
+    ],
+    [
+     14.36468,
+     45.96517
+    ],
+    [
+     14.37026,
+     45.96556
+    ],
+    [
+     14.37229,
+     45.96524
+    ],
+    [
+     14.37303,
+     45.96527
+    ],
+    [
+     14.37446,
+     45.96575
+    ],
+    [
+     14.37487,
+     45.9673
+    ],
+    [
+     14.37527,
+     45.96821
+    ],
+    [
+     14.3757,
+     45.96853
+    ],
+    [
+     14.37943,
+     45.96853
+    ],
+    [
+     14.38173,
+     45.96873
+    ],
+    [
+     14.38418,
+     45.96914
+    ],
+    [
+     14.38637,
+     45.96917
+    ],
+    [
+     14.38739,
+     45.96934
+    ],
+    [
+     14.3903,
+     45.97049
+    ],
+    [
+     14.39609,
+     45.97166
+    ]
+   ]
+  },
+  "center": [
+   45.968,
+   14.37518
+  ],
+  "lengthKm": 3.4,
+  "region": "osrednjeslovenska",
+  "parking": [],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:36:56.199Z"
+ },
+ {
+  "id": "rd-vrhnika/ribcev-ribnik-pri-bistri",
+  "clubSlug": "rd-vrhnika",
+  "slug": "ribcev-ribnik-pri-bistri",
+  "code": "Ribčev ribnik pri Bistri",
+  "name": "Ribčev ribnik pri Bistri",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Ribčev ribnik near Bistra",
+   "subtitle": "",
+   "description": "The pond came to life due to the clay excavations. When those stopped, the water flooded the area and that is how the fishermen of Vrhnika got an interesting pond that offers plenty possibilities for fishing and relaxing. At some points it is overgrown with water lillies but the most of the pond is suitable for fishing throughout the year."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Ribnik je nastal zaradi izkopavanja gline. Ko so se izkopi ustavili je voda zalila področje in tako smo vrhniški ribiči dobili zanimiv ribnik, ki ponuja obilico možnosti za ribolov in sprostitev. Ponekod prihaja do zaraščanja z lokvanjem, vendar je večina ribnika lovna skozi vse leto.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "krap",
+   "linj",
+   "ploscic"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "linj",
+   "ploščič"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "beličarske vabe"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ujemi in vzemi (beličarjenje, talni ribolov)",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/8"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ribcev-ribnik-pri-bistri",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.31547,
+      45.9707
+     ],
+     [
+      14.31666,
+      45.97066
+     ],
+     [
+      14.31668,
+      45.97104
+     ],
+     [
+      14.3164,
+      45.97116
+     ],
+     [
+      14.31588,
+      45.97095
+     ],
+     [
+      14.31603,
+      45.97074
+     ],
+     [
+      14.31547,
+      45.9707
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.97078,
+   14.31596
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.97121,
+    "lon": 14.31583,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:00.964Z"
+ },
+ {
+  "id": "rd-vrhnika/ribnik-lokev-logatec",
+  "clubSlug": "rd-vrhnika",
+  "slug": "ribnik-lokev-logatec",
+  "code": "Ribnik Lokev v Logatcu",
+  "name": "Ribnik Lokev v Logatcu",
+  "subtitle": "",
+  "en": {
+   "name": "The pond Lokev in Logatec",
+   "subtitle": "",
+   "description": "This is an ideal pond to take baby steps into the world of fishing. The number of fish, the open terrain and a few obstacles are good start for beginners or more experienced fishermen, that know how to keep the carp in line with a bolognese rod."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Idealen ribnik za začetne korake v svet ribolova. Številčnost rib, odprtost terena in malo ovir predstavlja dober poligon za začetnike ali malo izkušenejše ribiče, ki znajo ukrotiti krapa z bolognese palico.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "klen",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 10,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/726"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ribnik-lokev-logatec",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.31547,
+      45.9707
+     ],
+     [
+      14.31666,
+      45.97066
+     ],
+     [
+      14.31668,
+      45.97104
+     ],
+     [
+      14.3164,
+      45.97116
+     ],
+     [
+      14.31588,
+      45.97095
+     ],
+     [
+      14.31603,
+      45.97074
+     ],
+     [
+      14.31547,
+      45.9707
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.97078,
+   14.31596
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.97121,
+    "lon": 14.31583,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:37:58.592Z"
+ },
+ {
+  "id": "rd-vrhnika/ribniki-opekarna",
+  "clubSlug": "rd-vrhnika",
+  "slug": "ribniki-opekarna",
+  "code": "Ribniki Opekarna",
+  "name": "Ribniki Opekarna",
+  "subtitle": "Divjak",
+  "en": {
+   "name": "The ponds Opekarna",
+   "subtitle": "the Divjak",
+   "description": "The ponds Ribniki were made on the old clay pits in Verd. That is the reason that both bigger ponds are still overgrown with tree remains at the edges; the trees that grew when the clay had been excavating still. The first pond on the left side is meant for the procreation of fish , the rest of them are fishing ponds."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Ribniki so nastali na starih glinokopih v Verdu. Zato sta še posebej oba večja ribnika ob robovih močno zaraščena z ostanki dreves, ki so zrasla v času kopanja gline. Prvi ribnik na levi je namenjen naravni reprodukciji rib, ostali so ribolovni. Za začetnike priporočamo manjša dva na levi strani nasipa, medtem, ko se naj na t.i.",
+  "waterType": "pond",
+  "water": "Divjak",
+  "species": [
+   "amur",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka",
+   "smuc",
+   "som",
+   "scuka",
+   "zelenika"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka",
+   "smuč",
+   "som",
+   "ščuka",
+   "zelenika"
+  ],
+  "methods": [
+   "beličarjenje",
+   "muharjenje",
+   "ribolov iz čolna",
+   "talni ribolov",
+   "vijačenje"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "fly",
+   "bottom",
+   "spin"
+  ],
+  "baits": [
+   "bojli",
+   "koruza",
+   "potezanka",
+   "umetne vabe",
+   "vabe rastlinskega izvora",
+   "vabe živalskega izvora"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": false,
+  "passes": [
+   {
+    "name": "Ciprinidi",
+    "priceEur": 20,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/11"
+   },
+   {
+    "name": "Dan + noč",
+    "priceEur": 30,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/1341"
+   },
+   {
+    "name": "Ujemi in spusti - 3-dnevna",
+    "priceEur": 50,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/903"
+   },
+   {
+    "name": "Vijačenje/muharjenje roparic",
+    "priceEur": 30,
+    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/10"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ribniki-opekarna",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Divjak"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.30779,
+      45.9702
+     ],
+     [
+      14.30875,
+      45.96959
+     ],
+     [
+      14.30869,
+      45.96915
+     ],
+     [
+      14.30942,
+      45.96903
+     ],
+     [
+      14.31046,
+      45.96915
+     ],
+     [
+      14.31159,
+      45.96975
+     ],
+     [
+      14.31203,
+      45.96974
+     ],
+     [
+      14.3117,
+      45.96901
+     ],
+     [
+      14.31179,
+      45.96873
+     ],
+     [
+      14.31296,
+      45.96804
+     ],
+     [
+      14.31323,
+      45.96804
+     ],
+     [
+      14.31347,
+      45.96827
+     ],
+     [
+      14.31441,
+      45.9695
+     ],
+     [
+      14.31382,
+      45.97005
+     ],
+     [
+      14.31275,
+      45.97054
+     ],
+     [
+      14.31241,
+      45.97039
+     ],
+     [
+      14.31213,
+      45.96992
+     ],
+     [
+      14.31197,
+      45.96995
+     ],
+     [
+      14.31207,
+      45.97023
+     ],
+     [
+      14.31193,
+      45.97044
+     ],
+     [
+      14.31151,
+      45.9708
+     ],
+     [
+      14.31107,
+      45.97087
+     ],
+     [
+      14.30998,
+      45.97084
+     ],
+     [
+      14.30803,
+      45.97038
+     ],
+     [
+      14.30779,
+      45.9702
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.96973,
+   14.31072
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.97072,
+    "lon": 14.30704,
+    "name": null,
+    "distKm": 0.08
+   },
+   {
+    "lat": 45.97121,
+    "lon": 14.31583,
+    "name": null,
+    "distKm": 0.2
+   },
+   {
+    "lat": 45.97348,
+    "lon": 14.3031,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:39.390Z"
+ },
+ {
+  "id": "rd-vrhnika/ribniki-sinja-gorica",
+  "clubSlug": "rd-vrhnika",
+  "slug": "ribniki-sinja-gorica",
+  "code": "Ribniki pri Ribiškem domu v Sinji Gorici",
+  "name": "Ribnik pri Ribiškem domu v Sinji Gorici",
+  "subtitle": "",
+  "en": {
+   "name": "The pond at Ribiški dom in Sinja Gorica",
+   "subtitle": "",
+   "description": "The pond was made by Vrhnika's fishermen in the sixties. It is meant for older members and beginners, because the access is easy, it is full of different fish and no great obstacles can be found in water. The fishing lodge of the RD Vrhnika is also in the neighbourhood, where you can drown your thirst or strengthen yourself with good meal at very low prices."
+  },
+  "club": {
+   "name": "Ribiška družina Vrhnika",
+   "url": "https://www.ribiskekarte.si/rd-vrhnika"
+  },
+  "description": "Ribnik je plod udarniških akcij vrhniških ribičev v 60ih letih. Namenjen je starejšim članom in začetnikom, ker je lahek dostop, poln je najrazličnejših rib in brez večjih ovir v vodi. V bližini se nahaja tudi ribiški dom RD Vrhnika, kjer lahko pogasite žejo in se okrepčate s hrano po nizkih cenah.",
+  "waterType": "pond",
+  "water": "Ribnik",
+  "species": [
+   "amur",
+   "krap",
+   "linj",
+   "ploscic",
+   "rdeceoka",
+   "rdeceperka"
+  ],
+  "speciesRaw": [
+   "amur",
+   "krap",
+   "linj",
+   "ploščič",
+   "rdečeoka",
+   "rdečeperka"
+  ],
+  "methods": [
+   "beličarjenje",
+   "talni ribolov"
+  ],
+  "techniques": [
+   "float",
+   "feeder",
+   "bottom"
+  ],
+  "baits": [
+   "beličarske vabe",
+   "bojli"
+  ],
+  "flyOnly": false,
+  "catchAndReleaseOnly": true,
+  "passes": [
+   {
+    "name": "Ujemi in spusti",
+    "priceEur": 15,
+    "saleWindow": null,
+    "buyUrl": "https://www.ribiskekarte.si/rd-vrhnika/nakup/895"
+   }
+  ],
+  "online": true,
+  "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ribniki-sinja-gorica",
+  "mapPdfUrl": null,
+  "gauge": null,
+  "quality": "water",
+  "qualityNotes": [
+   "jezero Ribnik"
+  ],
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.31547,
+      45.9707
+     ],
+     [
+      14.31666,
+      45.97066
+     ],
+     [
+      14.31668,
+      45.97104
+     ],
+     [
+      14.3164,
+      45.97116
+     ],
+     [
+      14.31588,
+      45.97095
+     ],
+     [
+      14.31603,
+      45.97074
+     ],
+     [
+      14.31547,
+      45.9707
+     ]
+    ]
+   ]
+  },
+  "center": [
+   45.97078,
+   14.31596
+  ],
+  "lengthKm": null,
+  "region": "osrednjeslovenska",
+  "parking": [
+   {
+    "lat": 45.97121,
+    "lon": 14.31583,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [],
+  "scrapedAt": "2026-10-28T06:39:46.583Z"
+ }
+]
