@@ -3,15 +3,15 @@
   type: river
   region: dolenjska
   water: Krka
-  coords: [45.8330, 14.9290]
+  coords: [ 45.8330, 14.9290 ]
   description:
     sl: Zgornja Krka z lehnjakovimi pragovi – postrvi, lipani in kleni v čisti, s hranili bogati vodi.
     en: The upper Krka with its tufa barriers – trout, grayling and chub in clear, nutrient-rich water.
   access:
     sl: Parkiranje v Žužemberku pod gradom; dostop ob reki.
     en: Parking in Žužemberk below the castle; access along the river.
-  species: [potocna-postrv, sarenka, lipan, klen, scuka]
-  techniques: [fly, spin]
+  species: [ potocna-postrv, sarenka, lipan, klen, scuka ]
+  techniques: [ fly, spin ]
   permit:
     kind: ribiskekarte
     url: https://www.ribiskekarte.si
@@ -24,36 +24,39 @@
   type: river
   region: dolenjska
   water: Krka
-  coords: [45.8370, 15.2340]
+  coords: [ 45.83804, 15.23026 ]
   description:
     sl: Spodnja Krka pri Otočcu – kleni, mrene, ščuke, smuči in somi; tudi sulec.
     en: The lower Krka at Otočec – chub, barbel, pike, zander and catfish; huchen too.
   access:
     sl: Parkiranje ob gradu Otočec in v vaseh ob reki.
     en: Parking by Otočec castle and in riverside villages.
-  species: [klen, mrena, scuka, smuc, som, sulec, krap]
-  techniques: [spin, feeder, float]
+  species: [ klen, mrena, scuka, smuc, som, sulec, krap ]
+  techniques: [ spin, feeder, float ]
   permit:
     kind: ribiskekarte
     url: https://www.ribiskekarte.si
   beginnerFriendly: true
   difficulty: 2
   lastVerified: 2026-10-14
+  revir: rd-novo-mesto/krka-3-4
+  parking: [ 45.83897, 15.23394 ]
+  approx: false
 
 - slug: kolpa-vinica
   name: { sl: Kolpa (Vinica), en: Kolpa river (Vinica), de: Kupa (Vinica), it: Kupa (Vinica) }
   type: river
   region: dolenjska
   water: Kolpa
-  coords: [45.4600, 15.2490]
+  coords: [ 45.4600, 15.2490 ]
   description:
     sl: Najtoplejša slovenska reka – mrene, kleni, podusti, ščuke in smuči. Mejna reka s Hrvaško.
     en: Slovenia's warmest river – barbel, chub, nase, pike and zander. Border river with Croatia.
   access:
     sl: Dostop pri kampih in kopališčih v Vinici; poleti veliko kopalcev.
     en: Access at campsites and bathing spots in Vinica; busy with swimmers in summer.
-  species: [mrena, klen, podust, scuka, smuc, som]
-  techniques: [feeder, spin, float, fly]
+  species: [ mrena, klen, podust, scuka, smuc, som ]
+  techniques: [ feeder, spin, float, fly ]
   club: { name: Ribiška družina Črnomelj }
   permit:
     kind: ribiskekarte
@@ -71,15 +74,15 @@
   type: river
   region: dolenjska
   water: Kolpa
-  coords: [45.5270, 14.6930]
+  coords: [ 45.5270, 14.6930 ]
   description:
     sl: Zgornja Kolpa v Osilniški dolini – postrvi in lipani v odročni, neokrnjeni naravi.
     en: The upper Kolpa in the Osilnica valley – trout and grayling in remote, unspoilt nature.
   access:
     sl: Ozka cesta skozi dolino; omejena parkirna mesta.
     en: Narrow valley road; limited parking.
-  species: [potocna-postrv, lipan, sarenka]
-  techniques: [fly]
+  species: [ potocna-postrv, lipan, sarenka ]
+  techniques: [ fly ]
   permit:
     kind: ribiskekarte
     url: https://www.ribiskekarte.si
@@ -94,15 +97,15 @@
   type: river
   region: posavje
   water: Sava
-  coords: [45.9030, 15.5940]
+  coords: [ 45.8936, 15.6018 ]
   description:
     sl: Spodnja Sava in akumulacija Brežice – somi, smuči, krapi, boleni in mrene.
     en: The lower Sava and the Brežice reservoir – catfish, zander, carp, asp and barbel.
   access:
     sl: Dostop pri Brežicah in ob nasipih.
     en: Access at Brežice and along the embankments.
-  species: [som, smuc, krap, bolen, mrena, klen]
-  techniques: [bottom, spin, carp, feeder]
+  species: [ som, smuc, krap, bolen, mrena, klen ]
+  techniques: [ bottom, spin, carp, feeder ]
   club: { name: Ribiška družina Brežice }
   permit:
     kind: ribiskekarte
@@ -110,3 +113,6 @@
   beginnerFriendly: true
   difficulty: 2
   lastVerified: 2026-10-14
+  revir: rd-brezice/sava-21
+  parking: [ 45.89241, 15.60115 ]
+  approx: false

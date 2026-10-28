@@ -103,41 +103,74 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/drava-7",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "partial",
+  "quality": "segment",
   "qualityNotes": [
-   "samo ena meja: kraj Melje (jez)"
+   "od: kraj Mariborski otok",
+   "do: kraj Melje (jez)"
   ],
   "geometry": {
-   "type": "Point",
+   "type": "LineString",
    "coordinates": [
-    15.67343,
-    46.56029
+    [
+     15.60986,
+     46.56616
+    ],
+    [
+     15.61507,
+     46.56561
+    ],
+    [
+     15.61722,
+     46.56502
+    ],
+    [
+     15.63229,
+     46.55837
+    ],
+    [
+     15.65053,
+     46.5558
+    ],
+    [
+     15.65508,
+     46.55553
+    ],
+    [
+     15.67327,
+     46.56026
+    ]
    ]
   },
   "center": [
-   46.56029,
-   15.67343
+   46.55719,
+   15.64069
   ],
-  "lengthKm": null,
+  "lengthKm": 5.2,
   "region": "stajerska",
   "parking": [
    {
-    "lat": 46.56097,
-    "lon": 15.67338,
+    "lat": 46.55893,
+    "lon": 15.66813,
     "name": null,
-    "distKm": 0.08
+    "distKm": 0
    },
    {
-    "lat": 46.55968,
-    "lon": 15.66848,
+    "lat": 46.55713,
+    "lon": 15.64099,
     "name": null,
-    "distKm": 0.38
+    "distKm": 0
    },
    {
-    "lat": 46.55739,
-    "lon": 15.67681,
+    "lat": 46.56111,
+    "lon": 15.62669,
     "name": null,
-    "distKm": 0.41
+    "distKm": 0.03
+   },
+   {
+    "lat": 46.55659,
+    "lon": 15.66068,
+    "name": null,
+    "distKm": 0.04
    }
   ],
   "fishingSpots": [],
@@ -720,7 +753,7 @@
   "geometry": null,
   "center": [
    46.50405,
-   15.66623
+   15.64586
   ],
   "lengthKm": null,
   "region": "stajerska",

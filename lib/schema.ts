@@ -78,6 +78,8 @@ export const Spot = z.object({
   season: LText.optional(),
   beginnerFriendly: z.boolean().default(false),
   difficulty: z.union([z.literal(1), z.literal(2), z.literal(3)]),
+  /** Matching fishing section from ribiskekarte.si (club/slug), set by scripts/anchor-spots.ts. */
+  revir: z.string().optional(),
   /** Explicit ARSO station code; otherwise the nearest station on the same water is used. */
   arsoStation: z.string().optional(),
   links: z.array(z.object({ label: z.string(), url: Url })).default([]),
@@ -166,7 +168,7 @@ export const Revir = z.object({
   sourceUrl: z.url(),
   mapPdfUrl: z.string().nullable(),
   gauge: z.object({ lat: z.number(), lon: z.number() }).nullable(),
-  quality: z.enum(['segment', 'partial', 'water', 'gauge', 'place', 'none']),
+  quality: z.enum(['segment', 'partial', 'water', 'manual', 'gauge', 'place', 'none']),
   qualityNotes: z.array(z.string()),
   geometry: z
     .union([

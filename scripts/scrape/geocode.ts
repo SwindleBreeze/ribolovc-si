@@ -7,7 +7,7 @@ import { closestOnLine, distKm, lineLengthKm, midpointAlong, simplify, type LonL
 import type { OsmPoint, OsmRiver, OsmWater } from './osm-extract';
 import { abbreviatedKey, classifyBound, norm, phraseVariants, splitBounds, toponymCandidates, waterName } from './toponyms';
 
-export type Quality = 'segment' | 'partial' | 'water' | 'gauge' | 'place' | 'none';
+export type Quality = 'segment' | 'partial' | 'water' | 'manual' | 'gauge' | 'place' | 'none';
 
 export type Placement = {
   quality: Quality;
@@ -45,6 +45,7 @@ export class Geocoder {
       for (const n of riverNameKeys(r.name)) push(this.riversByName, n, r);
     }
     for (const p of osm.places) {
+      if (p.at[1] < 45.2 || p.at[1] > 47.1 || p.at[0] < 13.1 || p.at[0] > 16.9) continue;
       for (const k of riverNameKeys(p.name)) push(this.placesByName, k, p);
       const abbr = abbreviatedKey(p.name);
       if (abbr !== norm(p.name)) push(this.placesByName, abbr, p);
@@ -136,6 +137,25 @@ export class Geocoder {
       if (r.km < best.km) best = { km: r.km, point: r.point };
     }
     return best;
+  }
+
+  private stemCache = new Map<Cluster, { source: LonLat; mouth: LonLat } | null>();
+
+  /** Main stem of a river: the longest source→mouth path (side channels have their own ends). */
+  private mainStem(c: Cluster): { source: LonLat; mouth: LonLat } | null {
+    if (this.stemCache.has(c)) return this.stemCache.get(c)!;
+    const { sources, mouths } = this.terminals(c);
+    let best: { source: LonLat; mouth: LonLat; km: number } | null = null;
+    for (const s of sources.slice(0, 8)) {
+      for (const m of mouths.slice(0, 8)) {
+        const path = this.pathBetween(c, s, m);
+        const km = path ? lineLengthKm(path) : 0;
+        if (!best || km > best.km) best = { source: s, mouth: m, km };
+      }
+    }
+    const result = best ? { source: best.source, mouth: best.mouth } : null;
+    this.stemCache.set(c, result);
+    return result;
   }
 
   /** Source (no inflow) and mouth (no outflow) of a cluster, using OSM's downstream way direction. */
@@ -270,34 +290,46 @@ export class Geocoder {
   }
 
   /** Resolve one boundary phrase to a point on the river cluster. */
-  private resolveBound(phrase: string, c: Cluster, other: LonLat | null): { point: LonLat; how: string } | null {
+  private resolveBound(phrase: string, c: Cluster, other: LonLat | null, anchor: LonLat | null = null): { point: LonLat; how: string } | null {
     const b = classifyBound(phrase);
     const { sources, mouths } = this.terminals(c);
-    if (b.kind === 'source' && sources.length) {
-      return { point: farthestFrom(sources, other ?? mouths[0] ?? sources[0]), how: 'izvir' };
+    const stem = this.mainStem(c);
+    if (b.kind === 'source' && (stem || sources.length)) {
+      return { point: stem?.source ?? farthestFrom(sources, other ?? mouths[0] ?? sources[0]), how: 'izvir' };
     }
-    if (b.kind === 'mouth' && mouths.length) return { point: farthestFrom(mouths, other ?? sources[0] ?? mouths[0]), how: 'izliv' };
+    if (b.kind === 'mouth' && (stem || mouths.length)) return { point: stem?.mouth ?? farthestFrom(mouths, other ?? sources[0] ?? mouths[0]), how: 'izliv' };
     if (b.kind === 'border') {
-      const terms = [...sources, ...mouths];
-      if (terms.length && other) return { point: farthestFrom(terms, other), how: 'meja' };
+      // The river end nearest to the other boundary (but not that boundary itself): a section
+      // "from Brežice to the border" ends where the Sava leaves Slovenia, not at its source.
+      const terms = [...sources, ...mouths].filter((p) => !other || distKm(p, other) > 0.5);
+      if (terms.length && other) return { point: nearestTo(terms, other), how: 'meja' };
       return null;
     }
     if (b.kind === 'confluence' && b.other) {
-      const others = this.clusters(b.other).filter((o) => o.name !== c.name);
-      let best: { km: number; point: LonLat } | null = null;
+      const longer = new RegExp(`${b.other}\\s+([a-zčšž]+)`, 'u').exec(phrase)?.[1];
+      const otherNames = longer ? [`${b.other} ${longer}`, b.other] : [b.other];
+      const others = otherNames.flatMap((n) => this.clusters(n)).filter((o) => o.name !== c.name);
+      // Several streams share a name ("Črni potok"): prefer the meeting point near the club.
+      let best: { km: number; score: number; point: LonLat } | null = null;
       for (const o of others) {
         for (const v of o.vertices) {
           const d = this.distToCluster(v, c);
-          if (d.km < 0.3 && (!best || d.km < best.km)) best = { km: d.km, point: d.point };
+          if (d.km >= 3) continue;
+          const score = d.km + (anchor ? distKm(anchor, d.point) * 0.08 : 0);
+          if (!best || score < best.score) best = { km: d.km, score, point: d.point };
         }
       }
       if (best) return { point: best.point, how: `sotočje ${b.other}` };
-      if (mouths.length && /izliv/.test(phrase.toLowerCase())) return { point: farthestFrom(mouths, other ?? sources[0] ?? mouths[0]), how: 'izliv' };
+      // "izliv v X" is this river's own mouth; "izliv X" is a tributary's and needs that river.
+      if (/izliv\w*\s+v\s/.test(phrase.toLowerCase()) && (stem || mouths.length)) return { point: stem?.mouth ?? farthestFrom(mouths, other ?? sources[0] ?? mouths[0]), how: 'izliv' };
+      return null;
     }
     // A named place (village, dam, bridge) near the river.
     let best: { score: number; point: LonLat; how: string } | null = null;
+    const own = norm(c.name);
     for (const cand of toponymCandidates(phrase)) {
       for (const variant of phraseVariants(cand)) {
+        if (norm(variant) === own) continue;
         for (const pl of this.lookupPlace(variant)) {
           const d = this.distToCluster(pl.at, c);
           if (d.km > 6) continue;
@@ -310,7 +342,8 @@ export class Geocoder {
               how += ` (${b.structure === 'dam' ? 'jez' : 'most'})`;
             }
           }
-          const score = d.km + placeRank(pl.kind) * 0.2;
+          // Prefer places on the river, then near the club (several villages share a name).
+          const score = d.km + placeRank(pl.kind) * 0.2 + (anchor ? distKm(anchor, pl.at) * 0.08 : 0);
           if (!best || score < best.score) best = { score, point, how };
         }
       }
@@ -377,13 +410,20 @@ export class Geocoder {
     const c = scored[0].c;
     if (anchor && scored[0].d > 40) notes.push(`reka ${scored[0].d.toFixed(0)} km od sedeža družine`);
 
-    let a = from ? this.resolveBound(from, c, null) : null;
-    const b = to ? this.resolveBound(to, c, a?.point ?? null) : null;
-    if (!a && from && b) a = this.resolveBound(from, c, b.point);
+    // A village/confluence boundary far from the club's home area is more likely a namesake.
+    // Judged against the club's home area: a gauge shown on the page can be outside the section.
+    const club = input.anchor ?? input.gauge;
+    const plausible = (r: { point: LonLat; how: string } | null) =>
+      r && (!club || /^(izvir|izliv|meja)/.test(r.how) || distKm(club, r.point) <= MAX_BOUND_FROM_CLUB_KM) ? r : null;
+    let a = from ? plausible(this.resolveBound(from, c, null, club)) : null;
+    const b = to ? plausible(this.resolveBound(to, c, a?.point ?? null, club)) : null;
+    if (!a && from && b) a = plausible(this.resolveBound(from, c, b.point, club));
 
     if (a && b) {
       const path = this.pathBetween(c, a.point, b.point);
-      if (path && path.length > 1) {
+      const tooLong = path && lineLengthKm(path) > MAX_SECTION_KM;
+      if (tooLong) notes.push(`odsek zavrnjen (${Math.round(lineLengthKm(path!))} km)`);
+      if (path && path.length > 1 && !tooLong) {
         const line = simplify(path, 0.00008);
         notes.push(`od: ${a.how}`, `do: ${b.how}`);
         return {
@@ -517,6 +557,13 @@ function riverNameKeys(name: string): string[] {
 
 function placeRank(kind: string): number {
   return ['city', 'town', 'village', 'suburb', 'hamlet', 'neighbourhood', 'locality', 'isolated_dwelling', 'quarter'].indexOf(kind) + 1 || 10;
+}
+
+const MAX_SECTION_KM = 70;
+const MAX_BOUND_FROM_CLUB_KM = 25;
+
+function nearestTo(points: LonLat[], to: LonLat): LonLat {
+  return points.reduce((best, p) => (distKm(p, to) < distKm(best, to) ? p : best), points[0]);
 }
 
 function farthestFrom(points: LonLat[], from: LonLat): LonLat {

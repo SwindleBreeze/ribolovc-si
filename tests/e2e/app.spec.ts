@@ -54,7 +54,8 @@ test('spot page shows the 4-day conditions, rules and directions', async ({ page
 
   const google = page.getByTestId('directions').getByRole('link', { name: 'Google Maps' });
   await expect(google).toHaveAttribute('href', /destination=46\.18\d*,13\.7/);
-  await expect(page.getByTestId('buy-permit')).toHaveAttribute('href', 'https://www.ribiskekarte.si');
+  await expect(page.getByTestId('buy-permit')).toHaveAttribute('href', /^https:\/\/www\.ribiskekarte\.si\/rd-tolmin\//);
+  await expect(page.getByTestId('spot-revir')).toHaveAttribute('href', /\/revirji\/rd-tolmin\//);
 });
 
 test('sea spot shows waves and no-permit info; reserves are marked', async ({ page }) => {

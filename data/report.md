@@ -1,17 +1,18 @@
 # Section database report
 
-Generated 2026-10-28T07:02:46.342Z from 473 sections in 67 clubs (5 Austrian sections skipped).
+Generated 2026-10-28T07:17:06.147Z from 473 sections in 67 clubs (5 Austrian sections skipped).
 
 ## Placement quality
 
 | quality | sections | share |
 |---|---|---|
-| segment | 93 | 20 % |
+| segment | 85 | 18 % |
 | water | 243 | 51 % |
-| partial | 59 | 12 % |
-| gauge | 14 | 3 % |
-| place | 32 | 7 % |
-| none | 32 | 7 % |
+| manual | 0 | 0 % |
+| partial | 57 | 12 % |
+| gauge | 18 | 4 % |
+| place | 35 | 7 % |
+| none | 35 | 7 % |
 
 ## Unknown species names (add to SPECIES_MAP)
 
@@ -19,7 +20,7 @@ Generated 2026-10-28T07:02:46.342Z from 473 sections in 67 clubs (5 Austrian sec
 ## Unknown methods (add to METHOD_MAP)
 
 
-## Needs a manual position (64)
+## Needs a manual position (70)
 
 - [none] rd-soca/akumulacija-kozlink — Akumulacija Kozlink () · jezero ni v OSM
 - [place] rd-sevnica/potok-bistrica-sevnica — Potok Bistrica () · odsek okoli sedeža družine; sidro: središče družine
@@ -46,6 +47,7 @@ Generated 2026-10-28T07:02:46.342Z from 473 sections in 67 clubs (5 Austrian sec
 - [place] rd-ptuj/reka-pesnica — Pesnica () · odsek okoli sedeža družine
 - [place] rd-postojna/pivka — Pivka () · odsek okoli sedeža družine
 - [none] rd-visoko/poljanska-sora-3 — Poljanska Sora (od jezu na Hotavljah do mostu na Logu nad Škofjo Loko) · meje niso razrešene
+- [place] rd-bistrica-domzale/psata2 — Pšata 2 (od pod ribogojnico v Pšati do mlina v Sr. Zalogu in Reka 2) · odsek okoli sedeža družine
 - [place] rd-bistrica-domzale/psata3 — Pšata 3 (od mlina v Srednjem Zalogu do jezu v Mostah) · odsek okoli sedeža družine
 - [place] rd-bistrica-domzale/psata4 — Pšata 4 (od jezu v Mostah do odvodnega kanala v Mengšu) · odsek okoli sedeža družine
 - [place] rd-bistrica-domzale/radomeljskamlinscica — Radomeljska mlinščica (od zajetja v Volčjem potoku do izliva v Račo) · reka »Radomeljska mlinščica« ni v OSM; kraj Rača
@@ -59,6 +61,8 @@ Generated 2026-10-28T07:02:46.342Z from 473 sections in 67 clubs (5 Austrian sec
 - [place] rd-lendava/rokav-benica — Rokav Benica (od izvira do izliva v Muro) · jezero ni v OSM; kraj Mura
 - [place] rd-lendava/rokav-v-kot — Rokav v Kotu (012) · reka »Rokav v Kotu« ni v OSM; kraj Kot / Kót
 - [none] rd-kranj/rupovscica — Reka Rupovščica () · reka »Rupovščica« ni v OSM
+- [place] rd-sevnica/sava-18 — Reka Sava (Od izliva Črnega potoka do izliva Blanščice) · odsek okoli sedeža družine
+- [place] rd-brestanica-krsko/sava-19 — Reka Sava (od desnega brega izliva Blanščice do konca nasipa pod NEK na levem bregu Save) · odsek okoli sedeža družine
 - [place] rd-brezice/sava-tekmovalna-trasa — Sava 20 - akumulacijsko jezero, nekdanja Vrbina () · odsek okoli sedeža družine
 - [place] rd-ptuj/sd1-odvodni-kanal-zlatolicje — Odtočni kanal HE Zlatoličje - SD1 () · reka »Odtočni kanal HE Zlatoličje - SD1« ni v OSM; kraj Zlatoličje
 - [none] rd-majsperk/skrabska — Potok Skrabska () · reka »Skrabska« ni v OSM
@@ -72,6 +76,7 @@ Generated 2026-10-28T07:02:46.342Z from 473 sections in 67 clubs (5 Austrian sec
 - [place] rd-hrastnik/boben — Boben () · jezero ni v OSM; kraj Boben
 - [place] rd-idrija/idrijca-3 — Reka Idrijca (od kopališča v Beli do jezu pri Kavčiču) · odsek okoli sedeža družine
 - [place] rd-ormoz/libanja — Potok Libanja () · odsek okoli sedeža družine
+- [none] rd-ljubno/ljubnica-2 — Reka Ljubnica (od Pažetovega mostu do izliva v Savinjo) · reka 45 km od sedeža družine; meje niso razrešene
 - [none] rd-paka-sostanj/paka-r-1415 — Paka R 14+15 () · jezero ni v OSM
 - [place] rd-ormoz/pesnica — Reka Pesnica () · odsek okoli sedeža družine
 - [none] rd-zagorje/potok-medija — Potok Medija () · reka 75 km od sedeža družine; meje niso razrešene
@@ -79,6 +84,8 @@ Generated 2026-10-28T07:02:46.342Z from 473 sections in 67 clubs (5 Austrian sec
 - [none] rd-litija/reka-3 — Reka 3 () · reka »3« ni v OSM
 - [place] rd-kocevje/reka-kolpa-kocevje — reka Kolpa () · odsek okoli sedeža družine
 - [none] rd-zagorje/reka-sava-zagorje — reka Sava () · reka 55 km od sedeža družine; meje niso razrešene
+- [none] rd-ljubno/savinja-2 — Reka Savinja (od sotočja z Lučnico do Ljubenskega mostu) · meje niso razrešene
+- [none] rd-ljubno/savinja-3 — Reka Savinja (od Ljubenskega mostu do jezu v Grušovljah) · meje niso razrešene
 - [none] rd-paka-sostanj/sentflorjanscica-2 — Šentflorjanščica 2 () · jezero ni v OSM
 - [none] rd-paka-sostanj/sostanjsko-jezero — Šoštanjsko jezero () · jezero ni v OSM
 - [none] rd-paka-sostanj/toplica-2 — Toplica 2 () · jezero ni v OSM

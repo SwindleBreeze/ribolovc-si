@@ -1339,22 +1339,29 @@
   "gauge": null,
   "quality": "partial",
   "qualityNotes": [
-   "samo ena meja: kraj Stopnik"
+   "samo ena meja: kraj Stopnik (most)"
   ],
   "geometry": {
    "type": "Point",
    "coordinates": [
-    13.88476,
-    46.09203
+    13.90038,
+    46.10768
    ]
   },
   "center": [
-   46.09203,
-   13.88476
+   46.10768,
+   13.90038
   ],
   "lengthKm": null,
   "region": "goriska",
-  "parking": [],
+  "parking": [
+   {
+    "lat": 46.10314,
+    "lon": 13.89817,
+    "name": null,
+    "distKm": 0.53
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:44:03.464Z"
  },

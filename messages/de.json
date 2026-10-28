@@ -124,7 +124,8 @@
     "flowing": "Fließend",
     "still": "Stehend",
     "salmonid": "Salmoniden",
-    "coarse": "Weißfische"
+    "coarse": "Weißfische",
+    "officialSection": "Offizielles Revier"
   },
   "conditions": {
     "loading": "Prognose wird geladen…",
@@ -317,7 +318,8 @@
       "partial": "Nur eine Grenze ist bekannt – die Lage ist ungefähr.",
       "gauge": "Lage am Pegel – ungefähr.",
       "place": "Lage nach dem Ort im Reviernamen – ungefähr.",
-      "none": "Das Revier ist noch nicht verortet."
+      "none": "Das Revier ist noch nicht verortet.",
+      "manual": "Die Lage wurde von Hand geprüft."
     }
   },
   "notFound": {

@@ -60,12 +60,30 @@ Cloudflare Pages or any Node host also works: run `npm run build && npm start`.
 
 The **Support** button in the header, the `/podpri` page and the call to action under each spot then link to it. Donation income may be taxable, so check with a Slovenian accountant (FURS) once it becomes regular.
 
+## Fishing sections (ribiskekarte.si + OpenStreetMap)
+
+The 473 fishing sections (*revirji*) are crawled from ribiskekarte.si and placed on the map with OpenStreetMap data:
+
+- **Weekly refresh, never on every build.** `.github/workflows/scrape.yml` runs on Mondays (and on demand from the Actions tab).
+  - It crawls ribiskekarte.si only when the stored crawl on the `data/revirji` branch is more than 7 days old.
+  - Otherwise it reuses that crawl and only re-runs the fast geocoding step.
+  - The crawl identifies itself, waits 1.2 s between requests and respects `robots.txt`.
+- **Local rebuild without crawling.** `npm run data:sync` pulls the stored crawl and OSM layers from the `data/revirji` branch, rebuilds the sections with the current geocoder and copies them to `content/revirji/`. Commit the result to publish it.
+- **Placement quality** is in `data/report.md`, and every section page says how its position was found:
+  - **segment:** the exact stretch, found from the "from X to Y" boundaries.
+  - **water:** the whole lake, or a short river, matched by name.
+  - **partial / gauge / place:** approximate.
+  - **none:** not yet on the map.
+- **Manual fixes.** Sections the geocoder can't place can be given coordinates in `data/overrides.yaml`.
+
+After a sync, `npx tsx scripts/anchor-spots.ts` re-links the hand-written spots in `content/spots/` to their sections and moves their pins and parking to the matched geometry.
+
 ## Adding or fixing a spot
 
 Spots live in `content/spots/<region>.yaml`. Copy an existing entry, then:
 
 - Use only species slugs that exist in `content/species.yaml`.
-- Set `water:` to the river or lake name as ARSO spells it, so the nearest gauging station is found automatically. To force a specific station, set `arsoStation: "<code>"`.
+- Set `water:` to the river or lake name as ARSO/OSM spell it, so the nearest gauging station and section are found.
 - After checking the spot on site, set `approx: false` and update `lastVerified`.
 
 Run `npm run validate:content` before committing. Guides are `content/guides/<slug>/<locale>.md`. Slovenian and English are required; German and Italian fall back to English with a notice.
@@ -78,7 +96,8 @@ Run `npm run validate:content` before committing. Guides are `content/guides/<sl
 | Water level, flow, temperature | [ARSO](https://www.arso.gov.si), `xml/vode/hidro_podatki_zadnji.xml` | The parser follows the feed's documented format, but **it hasn't been tested against the live feed yet** (the build sandbox had no access to arso.gov.si). If the format differs, the panel shows "data unavailable" and the rest of the page keeps working. Verify after the first deploy. |
 | Base map | OpenStreetMap / OpenFreeMap | Attribution is shown on the map. |
 | Sea depth | EMODnet Bathymetry WMS | Check that the layer name `emodnet:mean_multicolour` still renders after deploy. |
-| Fishing sections (revirji) and rules | ZZRS fishery management plans (PDF), fishing-club sites, ribiskekarte.si | No open GIS data exists, so spots are curated by hand. Coordinates are approximate. |
+| Fishing sections (revirji), species, methods, permits | [ribiskekarte.si](https://www.ribiskekarte.si/ribolovni-revirji), crawled weekly at most | Facts plus a short description excerpt; every page links back to the club's permit page. |
+| River/lake geometry, places, parking | [Geofabrik](https://download.geofabrik.de/europe/slovenia.html) OpenStreetMap extract (ODbL) | Used to place sections; official boundaries (ZZRS RIBKAT) would be more precise if ZZRS shares them. |
 | Coastal spots | Public sources; [SeaFishingSlovenia](https://seafishingslovenia.com/skriti-koticki-za-ribolov-na-slovenski-obali/) linked for more spots | Their map isn't copied. Ask the owner for permission or a partnership to import it. |
 | Fishing-activity forecasts like AlgoCatch | — | AlgoCatch has no public API, so it can't be integrated. The free equivalent here is Open-Meteo Marine (waves, sea temperature, sea level) plus EMODnet depth and the explainable score. |
 

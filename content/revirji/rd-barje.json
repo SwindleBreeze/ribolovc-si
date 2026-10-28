@@ -841,7 +841,8 @@
   },
   "quality": "partial",
   "qualityNotes": [
-   "samo ena meja: kraj Podpeč (most)"
+   "samo ena meja: kraj Podpeč (most)",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "Point",
@@ -1240,7 +1241,8 @@
   "quality": "segment",
   "qualityNotes": [
    "od: sotočje Zalo",
-   "do: kraj Lipe"
+   "do: kraj Lipe",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "LineString",
@@ -2587,8 +2589,8 @@
   "gauge": null,
   "quality": "partial",
   "qualityNotes": [
-   "reka 68 km od sedeža družine",
-   "samo ena meja: sotočje Iščico"
+   "samo ena meja: sotočje Iščico",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "Point",

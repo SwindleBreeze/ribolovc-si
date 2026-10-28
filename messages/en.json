@@ -124,7 +124,8 @@
     "flowing": "Flowing",
     "still": "Still",
     "salmonid": "trout & grayling",
-    "coarse": "coarse fish"
+    "coarse": "coarse fish",
+    "officialSection": "Official section"
   },
   "conditions": {
     "loading": "Loading forecast…",
@@ -317,7 +318,8 @@
       "partial": "Only one boundary is known – the position is approximate.",
       "gauge": "Positioned at the gauging station – approximate.",
       "place": "Positioned by the place in the section name – approximate.",
-      "none": "The section has not been placed on the map yet."
+      "none": "The section has not been placed on the map yet.",
+      "manual": "The position has been checked by hand."
     }
   },
   "notFound": {

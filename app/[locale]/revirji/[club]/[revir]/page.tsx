@@ -43,7 +43,7 @@ function formatWindow(window: string, locale: string): string {
   return `${d(m[1], m[2])} – ${d(m[3], m[4])}`;
 }
 
-const QUALITY_ZOOM = { segment: 12, water: 12, partial: 13, gauge: 13, place: 12, none: 9 } as const;
+const QUALITY_ZOOM = { segment: 12, water: 12, manual: 14, partial: 13, gauge: 13, place: 12, none: 9 } as const;
 
 export default async function RevirPage({ params }: { params: Promise<Params> }) {
   const { locale, club, revir } = await params;
@@ -79,7 +79,7 @@ export default async function RevirPage({ params }: { params: Promise<Params> })
   const salmonid = species.filter((s) => s.group === 'salmonid').length >= species.length / 2 && species.length > 0;
   const passes = [...r.passes].sort((a, b) => (a.priceEur ?? 1e9) - (b.priceEur ?? 1e9)).slice(0, 6);
   const target: [number, number] | null = r.parking[0] ? [r.parking[0].lat, r.parking[0].lon] : r.center;
-  const approx = r.quality !== 'segment' && r.quality !== 'water';
+  const approx = r.quality !== 'segment' && r.quality !== 'water' && r.quality !== 'manual';
   const rules = [
     r.flyOnly ? t('spot.flyOnly') : null,
     r.catchAndReleaseOnly ? t('spot.catchAndRelease') : null,

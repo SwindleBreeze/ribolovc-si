@@ -1,0 +1,5 @@
+# Manual positions for fishing sections the geocoder cannot place on the map
+# (see data/report.md, "Needs a manual position"). Key: club/section from the URL.
+# Example:
+#   rd-ptuj/ribnik-rogoznica-1: { lat: 46.4103, lon: 15.8921, note: "Parkirišče ob ribniku" }
+{}

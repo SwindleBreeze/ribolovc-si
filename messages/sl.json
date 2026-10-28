@@ -124,7 +124,8 @@
     "flowing": "Tekoča",
     "still": "Stoječa",
     "salmonid": "salmonidna",
-    "coarse": "ciprinidna"
+    "coarse": "ciprinidna",
+    "officialSection": "Uradni revir"
   },
   "conditions": {
     "loading": "Nalagam napoved…",
@@ -317,7 +318,8 @@
       "partial": "Znana je le ena meja revirja – lega je približna.",
       "gauge": "Lega pri vodomerni postaji – približna.",
       "place": "Lega po kraju v imenu revirja – približna.",
-      "none": "Lega revirja še ni določena."
+      "none": "Lega revirja še ni določena.",
+      "manual": "Lega je ročno preverjena."
     }
   },
   "notFound": {

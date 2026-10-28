@@ -3,16 +3,16 @@
   type: river
   region: goriska
   water: Soča
-  coords: [46.3330, 13.5480]
-  parking: [46.3360, 13.5520]
+  coords: [ 46.32539, 13.5488 ]
+  parking: [ 46.3360, 13.5520 ]
   description:
     sl: Smaragdna Soča v Bovški kotlini – vrhunska muharska voda s soško postrvjo, šarenko in lipanom v divjem alpskem okolju.
     en: The emerald Soča in the Bovec basin – a world-class fly-fishing river with marble trout, rainbow trout and grayling in wild alpine scenery.
   access:
     sl: Parkirišča ob mostovih pri Čezsoči in Kršovcu; pazite na raftarje in kajakaše poleti.
     en: Parking by the bridges at Čezsoča and Kršovec; watch out for rafters and kayakers in summer.
-  species: [soska-postrv, sarenka, lipan, potocna-postrv]
-  techniques: [fly]
+  species: [ soska-postrv, sarenka, lipan, potocna-postrv ]
+  techniques: [ fly ]
   club: { name: Ribiška družina Tolmin }
   permit:
     kind: ribiskekarte
@@ -34,22 +34,24 @@
   links:
     - { label: Visit Kanal – fishing, url: "https://www.visitkanal.si/en/sport-and-recreation/other-activities/fishing/" }
   lastVerified: 2026-10-14
+  revir: zavod-za-ribistvo-slovenije/soca-4
+  approx: false
 
 - slug: soca-kobarid
   name: { sl: Soča (Kobarid), en: Soča river (Kobarid), de: Soča (Kobarid), it: Isonzo (Caporetto) }
   type: river
   region: goriska
   water: Soča
-  coords: [46.2480, 13.5830]
-  parking: [46.2470, 13.5800]
+  coords: [ 46.24823, 13.58612 ]
+  parking: [ 46.24899, 13.58562 ]
   description:
     sl: Odsek pri Napoleonovem mostu in koritih Soče – globoki tolmuni, kjer se skrivajo velike postrvi.
     en: The stretch by the Napoleon Bridge and the Soča gorges – deep pools that hold big trout.
   access:
     sl: Parkirišče ob Napoleonovem mostu; strmi spusti do vode – nujni dobri čevlji.
     en: Parking at the Napoleon Bridge; steep paths to the water – good boots essential.
-  species: [soska-postrv, sarenka, lipan]
-  techniques: [fly]
+  species: [ soska-postrv, sarenka, lipan ]
+  techniques: [ fly ]
   club: { name: Ribiška družina Tolmin }
   permit:
     kind: ribiskekarte
@@ -63,22 +65,24 @@
   beginnerFriendly: false
   difficulty: 3
   lastVerified: 2026-10-14
+  revir: rd-tolmin/soca-5
+  approx: false
 
 - slug: soca-tolmin
   name: { sl: Soča in Tolminka (Tolmin), en: Soča & Tolminka (Tolmin), de: Soča & Tolminka (Tolmin), it: Isonzo e Tolminka (Tolmino) }
   type: river
   region: goriska
   water: Soča
-  coords: [46.1810, 13.7280]
-  parking: [46.1825, 13.7300]
+  coords: [ 46.17879, 13.72392 ]
+  parking: [ 46.1825, 13.7300 ]
   description:
     sl: Sotočje Soče in Tolminke pod Tolminom – klasična lokacija za soško postrv in lipana.
     en: The confluence of the Soča and Tolminka below Tolmin – a classic spot for marble trout and grayling.
   access:
     sl: Parkirišče pri sotočju (kamp Siliko/festivalski prostor); kratek sprehod do vode.
     en: Parking by the confluence (campsite/festival area); short walk to the water.
-  species: [soska-postrv, sarenka, lipan]
-  techniques: [fly]
+  species: [ soska-postrv, sarenka, lipan ]
+  techniques: [ fly ]
   club: { name: Ribiška družina Tolmin }
   permit:
     kind: ribiskekarte
@@ -92,21 +96,23 @@
   beginnerFriendly: false
   difficulty: 2
   lastVerified: 2026-10-14
+  revir: rd-tolmin/soca-5
+  approx: false
 
 - slug: most-na-soci
   name: { sl: Mostarsko jezero (Most na Soči), en: Most na Soči lake, de: Stausee Most na Soči, it: Lago di Santa Lucia }
   type: reservoir
   region: goriska
   water: Soča
-  coords: [46.1530, 13.7420]
+  coords: [ 46.1530, 13.7420 ]
   description:
     sl: Smaragdno akumulacijsko jezero na sotočju Soče in Idrijce, znano po velikih postrveh.
     en: An emerald reservoir at the Soča–Idrijca confluence, known for large trout.
   access:
     sl: Parkirišča v kraju Most na Soči; dostop do obale ob sprehajalni poti.
     en: Parking in Most na Soči village; shore access along the footpath.
-  species: [soska-postrv, sarenka, potocna-postrv]
-  techniques: [fly, spin]
+  species: [ soska-postrv, sarenka, potocna-postrv ]
+  techniques: [ fly, spin ]
   club: { name: Ribiška družina Tolmin }
   permit:
     kind: ribiskekarte
@@ -120,16 +126,16 @@
   type: river
   region: goriska
   water: Soča
-  coords: [46.0860, 13.6380]
-  parking: [46.0850, 13.6370]
+  coords: [ 46.08769, 13.63377 ]
+  parking: [ 46.08619, 13.63216 ]
   description:
     sl: Spodnja Soča pri Kanalu s soško postrvjo, šarenko in lipanom; malo milejši tok kot zgoraj.
     en: The lower Soča at Kanal with marble trout, rainbows and grayling; slightly gentler than upstream.
   access:
     sl: Parkirišča v Kanalu, dostop pod mostom in ob reki.
     en: Parking in Kanal, access under the bridge and along the river.
-  species: [soska-postrv, sarenka, lipan, klen]
-  techniques: [fly]
+  species: [ soska-postrv, sarenka, lipan, klen ]
+  techniques: [ fly ]
   club: { name: Ribiška družina Soča }
   permit:
     kind: ribiskekarte
@@ -141,21 +147,23 @@
   beginnerFriendly: false
   difficulty: 2
   lastVerified: 2026-10-14
+  revir: rd-soca/soca-8
+  approx: false
 
 - slug: idrijca-slap
   name: { sl: Idrijca (Slap ob Idrijci), en: Idrijca river (Slap ob Idrijci), de: Idrijca (Slap ob Idrijci), it: Idrijca (Slap ob Idrijci) }
   type: river
   region: goriska
   water: Idrijca
-  coords: [46.1060, 13.8020]
+  coords: [ 46.11115, 13.8099 ]
   description:
     sl: Spodnja Idrijca – čista reka s tolmuni, soško postrvjo in lipanom. Odlična za nimfanje.
     en: The lower Idrijca – a clear river with pools, marble trout and grayling. Excellent for nymphing.
   access:
     sl: Ob glavni cesti Idrija–Tolmin, več počivališč in dostopov do vode.
     en: Along the Idrija–Tolmin road, several lay-bys and paths to the water.
-  species: [soska-postrv, potocna-postrv, sarenka, lipan]
-  techniques: [fly]
+  species: [ soska-postrv, potocna-postrv, sarenka, lipan ]
+  techniques: [ fly ]
   club: { name: Ribiška družina Tolmin }
   permit:
     kind: ribiskekarte
@@ -166,21 +174,24 @@
   beginnerFriendly: false
   difficulty: 2
   lastVerified: 2026-10-14
+  revir: rd-tolmin/idrijca-5
+  parking: [ 46.1172, 13.80635 ]
+  approx: false
 
 - slug: idrijca-idrija
   name: { sl: Idrijca (Idrija), en: Idrijca river (Idrija), de: Idrijca (Idrija), it: Idrijca (Idria) }
   type: river
   region: goriska
   water: Idrijca
-  coords: [46.0000, 14.0230]
+  coords: [ 46.0000, 14.0230 ]
   description:
     sl: Zgornja Idrijca v okolici Idrije s potočno postrvjo in šarenko.
     en: The upper Idrijca around Idrija with brown and rainbow trout.
   access:
     sl: Parkiranje v Idriji; dostop ob reki proti Divjemu jezeru.
     en: Parking in Idrija; access along the river towards Divje jezero.
-  species: [potocna-postrv, sarenka, soska-postrv]
-  techniques: [fly, spin]
+  species: [ potocna-postrv, sarenka, soska-postrv ]
+  techniques: [ fly, spin ]
   club: { name: Ribiška družina Idrija, url: "https://www.rd-idrija.si" }
   permit:
     kind: ribiskekarte
@@ -196,15 +207,15 @@
   type: river
   region: goriska
   water: Vipava
-  coords: [45.8770, 13.9300]
+  coords: [ 45.8770, 13.9300 ]
   description:
     sl: Kraška reka z izviri v Vipavi; v zgornjem delu postrvi, nižje klen, mrena in ščuka.
     en: A karst river springing in Vipava town; trout in the upper part, chub, barbel and pike further down.
   access:
     sl: Dostop ob cesti Vipava–Ajdovščina in v naseljih.
     en: Access along the Vipava–Ajdovščina road and in villages.
-  species: [potocna-postrv, sarenka, klen, mrena, scuka]
-  techniques: [fly, spin, float]
+  species: [ potocna-postrv, sarenka, klen, mrena, scuka ]
+  techniques: [ fly, spin, float ]
   permit:
     kind: ribiskekarte
     url: https://www.ribiskekarte.si
@@ -217,15 +228,15 @@
   type: reservoir
   region: goriska
   water: Vogršček
-  coords: [45.9070, 13.7130]
+  coords: [ 45.9070, 13.7130 ]
   description:
     sl: Akumulacijsko jezero na robu Vipavske doline s krapi, smuči, ščukami in somi.
     en: A reservoir at the edge of the Vipava valley with carp, zander, pike and wels catfish.
   access:
     sl: Parkirišče ob jezu; lahek dostop do obale.
     en: Parking by the dam; easy shore access.
-  species: [krap, smuc, scuka, som, ploscic]
-  techniques: [carp, spin, feeder]
+  species: [ krap, smuc, scuka, som, ploscic ]
+  techniques: [ carp, spin, feeder ]
   permit:
     kind: ribiskekarte
     url: https://www.ribiskekarte.si

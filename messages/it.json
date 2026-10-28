@@ -124,7 +124,8 @@
     "flowing": "Corrente",
     "still": "Ferma",
     "salmonid": "salmonidi",
-    "coarse": "ciprinidi"
+    "coarse": "ciprinidi",
+    "officialSection": "Tratto ufficiale"
   },
   "conditions": {
     "loading": "Caricamento previsioni…",
@@ -317,7 +318,8 @@
       "partial": "È noto un solo confine – la posizione è approssimativa.",
       "gauge": "Posizione presso l’idrometro – approssimativa.",
       "place": "Posizione in base al luogo nel nome – approssimativa.",
-      "none": "Il tratto non è ancora sulla mappa."
+      "none": "Il tratto non è ancora sulla mappa.",
+      "manual": "La posizione è stata verificata a mano."
     }
   },
   "notFound": {

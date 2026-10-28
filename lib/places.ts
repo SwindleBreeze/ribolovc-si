@@ -55,7 +55,7 @@ function fromRevir(r: Revir, locale: Locale): PlaceSummary | null {
     beginner: r.waterType !== 'river' && !r.flyOnly && r.species.some((s) => ['krap', 'koreselj', 'rdeceoka', 'ploscic', 'linj', 'amur'].includes(s)),
     salmonid: r.species.length > 0 && r.species.filter((s) => sal.has(s)).length >= r.species.length / 2,
     forbidden: false,
-    approx: r.quality !== 'segment' && r.quality !== 'water',
+    approx: r.quality !== 'segment' && r.quality !== 'water' && r.quality !== 'manual',
   };
 }
 

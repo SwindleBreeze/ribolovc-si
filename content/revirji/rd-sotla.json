@@ -92,13 +92,9 @@
   "online": true,
   "sourceUrl": "https://www.ribiskekarte.si/rd-sotla/reka-bistrica",
   "mapPdfUrl": null,
-  "gauge": {
-   "lat": 15.656321,
-   "lon": 46.048581
-  },
+  "gauge": null,
   "quality": "segment",
   "qualityNotes": [
-   "reka 4401 km od sedeža družine",
    "od: izvir",
    "do: sotočje Sotlo"
   ],

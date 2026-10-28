@@ -3,9 +3,9 @@ import { notFound } from 'next/navigation';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { routing, type Locale } from '@/i18n/routing';
-import { getAllSpecies, getGuide, getLures, getSpot, getSpots, type Guide } from '@/lib/content';
+import { getAllSpecies, getGuide, getLures, getRevir, getSpot, getSpots, type Guide } from '@/lib/content';
 import { distanceKm } from '@/lib/geo';
-import { getPlaces } from '@/lib/places';
+import { getPlaces, revirTitle } from '@/lib/places';
 import { site } from '@/lib/site';
 import { loc } from '@/lib/text';
 import { ConditionsPanel } from '@/components/conditions/ConditionsPanel';
@@ -63,6 +63,7 @@ export default async function SpotPage({ params }: { params: Promise<Params> }) 
     spot.rules.notes ? loc(spot.rules.notes, locale) : null,
   ].filter((x): x is string => Boolean(x));
   const issueUrl = `${site.issuesUrl}?title=${encodeURIComponent(`Spot: ${spot.slug}`)}&labels=content`;
+  const revir = spot.revir ? getRevir(spot.revir) : undefined;
 
   return (
     <article>
@@ -116,11 +117,25 @@ export default async function SpotPage({ params }: { params: Promise<Params> }) 
         <aside className="flex min-w-0 flex-[1_1_320px] flex-col gap-7">
           <PermitPanel
             text={t(`spot.permitKind.${spot.permit.kind}`) + (spot.permit.note ? ` ${loc(spot.permit.note, locale)}` : '')}
-            buyUrl={!forbidden ? spot.permit.url : null}
+            buyUrl={!forbidden ? (revir?.sourceUrl ?? spot.permit.url) : null}
             buyLabel={spot.permit.kind === 'none' ? t('spot.moreInfo') : undefined}
             rules={rules}
             note={t('spot.rulesDisclaimer')}
-            extra={spot.club ? <p className="mt-2 text-sm text-[#D8D3C7]">{t('spot.club')}: {spot.club.name}</p> : null}
+            extra={
+              <>
+                {(revir?.club.name ?? spot.club?.name) && (
+                  <p className="mt-2 text-sm text-[#D8D3C7]">
+                    {t('spot.club')}: {revir?.club.name ?? spot.club?.name}
+                  </p>
+                )}
+                {revir && (
+                  <Link href={`/revirji/${revir.id}`} className="mt-3 block text-sm text-[#F3EFE6] underline" data-testid="spot-revir">
+                    {t('spot.officialSection')}: {revirTitle(revir, locale).name}
+                    {revirTitle(revir, locale).sub ? ` (${revirTitle(revir, locale).sub})` : ''}
+                  </Link>
+                )}
+              </>
+            }
           />
           <AccessPanel
             place={place}

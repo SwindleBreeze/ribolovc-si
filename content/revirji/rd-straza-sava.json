@@ -106,7 +106,8 @@
   "quality": "segment",
   "qualityNotes": [
    "od: kraj Črnuče (most)",
-   "do: sotočje Ljubljanice"
+   "do: sotočje Ljubljanice",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "LineString",
@@ -405,142 +406,42 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-straza-sava/sava-9",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "segment",
+  "quality": "partial",
   "qualityNotes": [
-   "od: kraj Tacen (most)",
-   "do: kraj Črnuče (most)"
+   "samo ena meja: kraj Črnuče (most)",
+   "sidro: središče družine"
   ],
   "geometry": {
-   "type": "LineString",
+   "type": "Point",
    "coordinates": [
-    [
-     14.46103,
-     46.11697
-    ],
-    [
-     14.46313,
-     46.11714
-    ],
-    [
-     14.46505,
-     46.11702
-    ],
-    [
-     14.46607,
-     46.11683
-    ],
-    [
-     14.46696,
-     46.11649
-    ],
-    [
-     14.46936,
-     46.11621
-    ],
-    [
-     14.47349,
-     46.11649
-    ],
-    [
-     14.47543,
-     46.11581
-    ],
-    [
-     14.4788,
-     46.11553
-    ],
-    [
-     14.48654,
-     46.11567
-    ],
-    [
-     14.49267,
-     46.11624
-    ],
-    [
-     14.49349,
-     46.11625
-    ],
-    [
-     14.49523,
-     46.11595
-    ],
-    [
-     14.49729,
-     46.11508
-    ],
-    [
-     14.4997,
-     46.11338
-    ],
-    [
-     14.50128,
-     46.11245
-    ],
-    [
-     14.50628,
-     46.11109
-    ],
-    [
-     14.50851,
-     46.11041
-    ],
-    [
-     14.5093,
-     46.11004
-    ],
-    [
-     14.51122,
-     46.10871
-    ],
-    [
-     14.51445,
-     46.10531
-    ],
-    [
-     14.51543,
-     46.10453
-    ],
-    [
-     14.51768,
-     46.10222
-    ],
-    [
-     14.51965,
-     46.09998
-    ]
+    14.51971,
+    46.0999
    ]
   },
   "center": [
-   46.11597,
-   14.49512
+   46.0999,
+   14.51971
   ],
-  "lengthKm": 5.4,
+  "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.10684,
-    "lon": 14.51171,
+    "lat": 46.09894,
+    "lon": 14.51626,
     "name": null,
-    "distKm": 0.08
+    "distKm": 0.29
    },
    {
-    "lat": 46.11821,
-    "lon": 14.46146,
-    "name": "Parkirišče pod Šmarno goro",
-    "distKm": 0.13
+    "lat": 46.099,
+    "lon": 14.52464,
+    "name": null,
+    "distKm": 0.39
    },
    {
-    "lat": 46.1146,
-    "lon": 14.47168,
-    "name": null,
-    "distKm": 0.2
-   },
-   {
-    "lat": 46.10615,
-    "lon": 14.51782,
-    "name": null,
-    "distKm": 0.26
+    "lat": 46.0956,
+    "lon": 14.52047,
+    "name": "Tenis Breskvar",
+    "distKm": 0.48
    }
   ],
   "fishingSpots": [],

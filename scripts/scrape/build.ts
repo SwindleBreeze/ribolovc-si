@@ -9,6 +9,7 @@ import path from 'node:path';
 import type { RawRevir } from './crawl';
 import { closestOnLine, distKm, type LonLat } from './geo';
 import { Geocoder, type Placement } from './geocode';
+import { parse as parseYaml } from 'yaml';
 import { mapMethods, mapSpecies, regionFor, stillKind } from './normalize';
 import type { OsmPoint, OsmRiver, OsmWater } from './osm-extract';
 
@@ -106,7 +107,7 @@ const FOREIGN_CLUBS = new Set([
 const SEA_CLUBS = new Set(['zveza-za-sportni-ribolov-na-morju-slovenije']);
 const SEA_CENTER: LonLat = [13.62, 45.545];
 
-const RANK = { segment: 0, water: 1, partial: 2, gauge: 3, place: 4, none: 5 } as const;
+const RANK = { segment: 0, water: 1, manual: 1, partial: 2, gauge: 3, place: 4, none: 5 } as const;
 
 /** Flowing or still, from the page or, when missing, from the name. */
 function isFlowing(r: RawRevir): boolean {
@@ -115,8 +116,10 @@ function isFlowing(r: RawRevir): boolean {
   return /^(reka|potok|kanal|struga|rokav)\b/i.test(r.name) || /\b(potok|reka)\b/i.test(r.name) || /\b(od|do)\b/.test(r.subtitle);
 }
 
+const inSlovenia = (lat: number, lon: number) => lat > 45.3 && lat < 46.95 && lon > 13.3 && lon < 16.65;
+
 function place(r: RawRevir, anchor: LonLat | null): Placement {
-  const gauge: LonLat | null = r.gauge ? [r.gauge.lon, r.gauge.lat] : null;
+  const gauge: LonLat | null = r.gauge && inSlovenia(r.gauge.lat, r.gauge.lon) ? [r.gauge.lon, r.gauge.lat] : null;
   return isFlowing(r)
     ? geo.placeRiver({ name: r.name, subtitle: r.subtitle, anchor, gauge })
     : geo.placeStill({ name: r.name, subtitle: r.subtitle, anchor });
@@ -153,6 +156,18 @@ for (const r of sections) {
   if (!centre || RANK[before.quality] <= RANK.water) continue;
   const retry = place(r, centre);
   if (RANK[retry.quality] < RANK[before.quality]) placements.set(r.url, { ...retry, notes: [...retry.notes, 'sidro: središče družine'] });
+}
+
+// Manual positions for sections the geocoder cannot place (data/overrides.yaml):
+//   rd-club/section: { lat: 46.1, lon: 14.5, note: "parkirišče ob ribniku" }
+type Override = { lat: number; lon: number; note?: string };
+const overridesFile = path.join(process.cwd(), 'data', 'overrides.yaml');
+const overrides: Record<string, Override> = fs.existsSync(overridesFile) ? (parseYaml(fs.readFileSync(overridesFile, 'utf8')) ?? {}) : {};
+for (const r of sections) {
+  const o = overrides[`${r.clubSlug}/${r.slug}`];
+  if (!o) continue;
+  const at: LonLat = [o.lon, o.lat];
+  placements.set(r.url, { quality: 'manual', geometry: { type: 'Point', coordinates: at }, center: at, lengthKm: null, matchedWater: placements.get(r.url)?.matchedWater ?? null, notes: [o.note ?? 'ročno določena lega'] });
 }
 
 const byClub = new Map<string, unknown[]>();
@@ -204,7 +219,7 @@ for (const r of sections) {
     online: !r.notMember && r.passes.length > 0,
     sourceUrl: r.url,
     mapPdfUrl: r.mapPdfUrl,
-    gauge: r.gauge,
+    gauge: r.gauge && inSlovenia(r.gauge.lat, r.gauge.lon) ? r.gauge : null,
     quality: center ? placement.quality : 'none',
     qualityNotes: placement.notes,
     geometry: roundGeom(placement.geometry),
@@ -226,7 +241,7 @@ for (const [club, list] of byClub) fs.writeFileSync(path.join(dir, `${club}.json
 
 const total = sections.length;
 const pct = (n: number) => `${((n / Math.max(1, total)) * 100).toFixed(0)} %`;
-const order = ['segment', 'water', 'partial', 'gauge', 'place', 'none'];
+const order = ['segment', 'water', 'manual', 'partial', 'gauge', 'place', 'none'];
 const report = [
   `# Section database report`,
   ``,
