@@ -12,7 +12,7 @@ let last = 0;
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
-export async function getText(url: string, { maxAgeHours = 24 * 20 } = {}): Promise<string> {
+export async function getText(url: string, { maxAgeHours = 24 * 7 } = {}): Promise<string> {
   const key = crypto.createHash('sha1').update(url).digest('hex');
   const file = path.join(CACHE_DIR, `${key}.html`);
   if (fs.existsSync(file) && Date.now() - fs.statSync(file).mtimeMs < maxAgeHours * 3600_000) {

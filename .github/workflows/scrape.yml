@@ -1,16 +1,21 @@
-name: Scrape fishing sections
+name: Refresh fishing sections
 
+# The crawl of ribiskekarte.si and the OSM download run at most once a week.
+# Every other run reuses the stored data from the data/revirji branch and only
+# rebuilds (geocoding is local and fast).
 on:
   workflow_dispatch:
     inputs:
-      max_sections:
-        description: Limit the number of sections (for testing)
-        default: ''
+      force_crawl:
+        description: Re-crawl ribiskekarte.si even if the stored data is less than 7 days old
+        type: boolean
+        default: false
+      force_osm:
+        description: Re-download OpenStreetMap data even if it is less than 7 days old
+        type: boolean
+        default: false
   schedule:
-    - cron: '17 3 1 * *' # monthly
-  push:
-    branches: ['claude/**']
-    paths: ['scripts/scrape/**', '.github/workflows/scrape.yml']
+    - cron: '17 3 * * 1' # Mondays 03:17 UTC
 
 permissions:
   contents: write
@@ -19,8 +24,11 @@ concurrency:
   group: scrape
   cancel-in-progress: false
 
+env:
+  MAX_AGE_DAYS: 7
+
 jobs:
-  scrape:
+  refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -31,17 +39,42 @@ jobs:
           cache: npm
       - run: npm ci
 
-      - name: Restore page cache
-        uses: actions/cache@v4
-        with:
-          path: .scrape-cache
-          key: scrape-cache-${{ github.run_id }}
-          restore-keys: scrape-cache-
+      - name: Reuse stored data when fresh
+        id: stored
+        run: |
+          mkdir -p scrape-out
+          crawl=true; osm=true
+          if git fetch -q origin data/revirji; then
+            git archive FETCH_HEAD out | tar -x -C "$RUNNER_TEMP"
+            published=$(git log -1 --format=%cI FETCH_HEAD)
+            # Age from the stamp file, or from when the data branch was last written.
+            fresh() {
+              local dir; dir=$(dirname "$1")
+              [ -d "$dir" ] || return 1
+              local at; at=$(cat "$1" 2>/dev/null || echo "$published")
+              [ $(( $(date +%s) - $(date -d "$at" +%s) )) -lt $(( MAX_AGE_DAYS * 86400 )) ]
+            }
+            if [ "${{ inputs.force_crawl }}" != "true" ] && fresh "$RUNNER_TEMP/out/raw/crawled-at.txt"; then
+              cp -r "$RUNNER_TEMP/out/raw" scrape-out/raw; crawl=false
+              [ -f scrape-out/raw/crawled-at.txt ] || echo "$published" > scrape-out/raw/crawled-at.txt
+            fi
+            if [ "${{ inputs.force_osm }}" != "true" ] && fresh "$RUNNER_TEMP/out/osm/built-at.txt"; then
+              cp -r "$RUNNER_TEMP/out/osm" scrape-out/osm; osm=false
+              [ -f scrape-out/osm/built-at.txt ] || echo "$published" > scrape-out/osm/built-at.txt
+            fi
+          fi
+          echo "crawl=$crawl" >> "$GITHUB_OUTPUT"
+          echo "osm=$osm" >> "$GITHUB_OUTPUT"
+          echo "Crawl needed: $crawl · OSM needed: $osm"
 
       - name: Crawl ribiskekarte.si
-        run: npx tsx scripts/scrape/crawl.ts scrape-out ${{ github.event.inputs.max_sections }}
+        if: steps.stored.outputs.crawl == 'true'
+        run: |
+          npx tsx scripts/scrape/crawl.ts scrape-out
+          date -u +%Y-%m-%dT%H:%M:%SZ > scrape-out/raw/crawled-at.txt
 
       - name: Build OpenStreetMap layers (Geofabrik Slovenia extract)
+        if: steps.stored.outputs.osm == 'true'
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq osmium-tool
           curl -sSfL -A "RibolovcBot/1.0 (+https://github.com/swindlebreeze/ribolovc-si)" \
@@ -53,24 +86,23 @@ jobs:
           osmium export "$RUNNER_TEMP/filtered.osm.pbf" -f geojsonseq -o "$RUNNER_TEMP/filtered.geojsonseq" \
             --add-unique-id=type_id --overwrite
           npx tsx scripts/scrape/osm-extract.ts "$RUNNER_TEMP/filtered.geojsonseq" scrape-out/osm
+          date -u +%Y-%m-%dT%H:%M:%SZ > scrape-out/osm/built-at.txt
 
       - name: Geocode and build section data
-        if: ${{ hashFiles('scripts/scrape/build.ts') != '' }}
         run: npx tsx scripts/scrape/build.ts scrape-out
 
       - name: Publish output to data/revirji branch
         run: |
           git config user.name "ribolovc-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          du -sh scrape-out/* || true
-          mv scrape-out "$RUNNER_TEMP/out"
-          if git fetch origin data/revirji; then
-            git checkout -B data/revirji FETCH_HEAD
+          mv scrape-out "$RUNNER_TEMP/new-out"
+          if git fetch -q origin data/revirji; then
+            git checkout -q -B data/revirji FETCH_HEAD
           else
-            git checkout --orphan data/revirji
+            git checkout -q --orphan data/revirji
             git rm -rf -q .
           fi
-          rm -rf out && cp -r "$RUNNER_TEMP/out" out
+          rm -rf out && cp -r "$RUNNER_TEMP/new-out" out
           git add -f out
-          git commit -q -m "Scrape output (run ${GITHUB_RUN_ID}, ${GITHUB_SHA::7})" || echo "No changes"
-          git push origin data/revirji
+          git commit -q -m "Section data (run ${GITHUB_RUN_ID})" || echo "No changes"
+          git push -q origin data/revirji
