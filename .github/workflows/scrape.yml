@@ -3,9 +3,9 @@ name: Scrape fishing sections
 on:
   workflow_dispatch:
     inputs:
-      mode:
-        description: discovery or full
-        default: full
+      max_sections:
+        description: Limit the number of sections (for testing)
+        default: ''
   schedule:
     - cron: '17 3 1 * *' # monthly
   push:
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -30,15 +30,39 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Discovery
-        run: node scripts/scrape/discover.mjs scrape-out/discovery
-      - name: Full scrape
-        if: ${{ hashFiles('scripts/scrape/run.ts') != '' && github.event.inputs.mode != 'discovery' }}
-        run: npx tsx scripts/scrape/run.ts scrape-out
+
+      - name: Restore page cache
+        uses: actions/cache@v4
+        with:
+          path: .scrape-cache
+          key: scrape-cache-${{ github.run_id }}
+          restore-keys: scrape-cache-
+
+      - name: Crawl ribiskekarte.si
+        run: npx tsx scripts/scrape/crawl.ts scrape-out ${{ github.event.inputs.max_sections }}
+
+      - name: Build OpenStreetMap layers (Geofabrik Slovenia extract)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq osmium-tool
+          curl -sSfL -A "RibolovcBot/1.0 (+https://github.com/swindlebreeze/ribolovc-si)" \
+            -o "$RUNNER_TEMP/slovenia.osm.pbf" https://download.geofabrik.de/europe/slovenia-latest.osm.pbf
+          osmium tags-filter "$RUNNER_TEMP/slovenia.osm.pbf" \
+            w/waterway=river,stream,canal nwr/natural=water nwr/water nwr/landuse=reservoir,basin \
+            nwr/place nwr/waterway=dam,weir nwr/man_made=bridge nwr/amenity=parking nwr/leisure=fishing \
+            -o "$RUNNER_TEMP/filtered.osm.pbf" --overwrite
+          osmium export "$RUNNER_TEMP/filtered.osm.pbf" -f geojsonseq -o "$RUNNER_TEMP/filtered.geojsonseq" \
+            --add-unique-id=type_id --overwrite
+          npx tsx scripts/scrape/osm-extract.ts "$RUNNER_TEMP/filtered.geojsonseq" scrape-out/osm
+
+      - name: Geocode and build section data
+        if: ${{ hashFiles('scripts/scrape/build.ts') != '' }}
+        run: npx tsx scripts/scrape/build.ts scrape-out
+
       - name: Publish output to data/revirji branch
         run: |
           git config user.name "ribolovc-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          du -sh scrape-out/* || true
           mv scrape-out "$RUNNER_TEMP/out"
           if git fetch origin data/revirji; then
             git checkout -B data/revirji FETCH_HEAD
