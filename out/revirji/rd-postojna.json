@@ -55,11 +55,11 @@
   ],
   "geometry": null,
   "center": [
-   45.97078,
-   14.31596
+   45.78652,
+   14.14053
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "notranjska",
   "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:32:00.956Z"
@@ -4069,7 +4069,7 @@
   },
   "description": "Je plod lastnega dela RD. V njem prevladujejo krapi vseh velikosti in teže. RD letno v bajer vloži do 400 kg konzumnega krapa, veliko pa je tudi manjših krapov, ki so plod drsti v prejšnjih letih. V bajerju so prisotne še rdečeperke in rdečeoke.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -4114,59 +4114,45 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-postojna/ribnik-grobisce",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Grobišče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.31547,
-      45.9707
+      14.17217,
+      45.74751
      ],
      [
-      14.31666,
-      45.97066
+      14.17243,
+      45.74727
      ],
      [
-      14.31668,
-      45.97104
+      14.17268,
+      45.74739
      ],
      [
-      14.3164,
-      45.97116
+      14.17242,
+      45.74763
      ],
      [
-      14.31588,
-      45.97095
-     ],
-     [
-      14.31603,
-      45.97074
-     ],
-     [
-      14.31547,
-      45.9707
+      14.17217,
+      45.74751
      ]
     ]
    ]
   },
   "center": [
-   45.97078,
-   14.31596
+   45.74745,
+   14.17241
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 45.97121,
-    "lon": 14.31583,
-    "name": null,
-    "distKm": 0.03
-   }
-  ],
+  "region": "notranjska",
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:37:03.364Z"
  },
@@ -4188,7 +4174,7 @@
   },
   "description": "Ribnik je nastal pri izkopavanju materiala za izdelavo opek, od ribjih vrst prevladuje predvsem linj, amur in krap vseh velikosti in teže. RD letno v bajer vloži kar nekaj konzumnega krapa, veliko pa je tudi manjših krapov in linjev, ki so plod drsti v prejšnjih letih. V bajerju so od ribjih vrst še rdečeperke in rdečeoke.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Ribiška družina Postojna",
   "species": [
    "amur",
    "krap",
@@ -4228,58 +4214,67 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero Ribiška družina Postojna"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.31547,
-      45.9707
+      14.18648,
+      45.75398
      ],
      [
-      14.31666,
-      45.97066
+      14.18671,
+      45.75364
      ],
      [
-      14.31668,
-      45.97104
+      14.18707,
+      45.75363
      ],
      [
-      14.3164,
-      45.97116
+      14.18737,
+      45.75383
      ],
      [
-      14.31588,
-      45.97095
+      14.187,
+      45.75418
      ],
      [
-      14.31603,
-      45.97074
-     ],
-     [
-      14.31547,
-      45.9707
+      14.18648,
+      45.75398
      ]
     ]
    ]
   },
   "center": [
-   45.97078,
-   14.31596
+   45.75388,
+   14.18685
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "notranjska",
   "parking": [
    {
-    "lat": 45.97121,
-    "lon": 14.31583,
+    "lat": 45.75412,
+    "lon": 14.18664,
     "name": null,
+    "distKm": 0.02
+   },
+   {
+    "lat": 45.75153,
+    "lon": 14.19262,
+    "name": null,
+    "distKm": 0.48
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 45.75387,
+    "lon": 14.18686,
+    "name": "Ribiška družina Postojna",
     "distKm": 0.03
    }
   ],
-  "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:29.786Z"
  }
 ]

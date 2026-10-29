@@ -841,7 +841,8 @@
   },
   "quality": "partial",
   "qualityNotes": [
-   "samo ena meja: kraj Podpeč (most)"
+   "samo ena meja: kraj Podpeč (most)",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "Point",
@@ -1240,7 +1241,8 @@
   "quality": "segment",
   "qualityNotes": [
    "od: sotočje Zalo",
-   "do: kraj Lipe"
+   "do: kraj Lipe",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "LineString",
@@ -1918,7 +1920,7 @@
   },
   "description": "Vas zanima, kje loviti? Katere vabe so najbolj uspešne? Kako pristopiti do ribnika? Kliknite tukaj in preberite brezplačen vodič po jezeru Strahomer. Ribnik Strahomer je znano po lepi naravi, miru in zdravih ribah, zato na njem radi lovijo tudi znani državniki in tuji diplomati. Revir je obdan s temnimi gozdovi, v katerih živi rjavi medved. Prav tako kot njegova okolica je bogat tudi ribnik.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Jezero Strahomer",
   "species": [
    "amur",
    "klen",
@@ -1999,55 +2001,67 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero Jezero Strahomer",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      13.85957,
-      45.8854
+      14.48887,
+      45.93617
      ],
      [
-      13.86008,
-      45.88553
+      14.48904,
+      45.93488
      ],
      [
-      13.86005,
-      45.88567
+      14.48953,
+      45.93484
      ],
      [
-      13.85983,
-      45.88568
+      14.48957,
+      45.93468
      ],
      [
-      13.85957,
-      45.8854
+      14.4898,
+      45.93479
+     ],
+     [
+      14.48988,
+      45.93463
+     ],
+     [
+      14.48997,
+      45.93477
+     ],
+     [
+      14.49019,
+      45.93467
+     ],
+     [
+      14.49056,
+      45.93488
+     ],
+     [
+      14.49108,
+      45.93607
+     ],
+     [
+      14.48887,
+      45.93617
      ]
     ]
    ]
   },
   "center": [
-   45.88554,
-   13.85981
+   45.93513,
+   14.48976
   ],
   "lengthKm": null,
-  "region": "goriska",
-  "parking": [
-   {
-    "lat": 45.88679,
-    "lon": 13.86349,
-    "name": null,
-    "distKm": 0.29
-   },
-   {
-    "lat": 45.88281,
-    "lon": 13.86437,
-    "name": null,
-    "distKm": 0.45
-   }
-  ],
+  "region": "osrednjeslovenska",
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:39:05.794Z"
  },
@@ -2587,8 +2601,8 @@
   "gauge": null,
   "quality": "partial",
   "qualityNotes": [
-   "reka 68 km od sedeža družine",
-   "samo ena meja: sotočje Iščico"
+   "samo ena meja: sotočje Iščico",
+   "sidro: središče družine"
   ],
   "geometry": {
    "type": "Point",

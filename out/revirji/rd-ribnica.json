@@ -1225,7 +1225,7 @@
   },
   "description": "Ribnik Glinokop leži za naseljem Nemška vas. Ribiči Ribiške družine Ribnica so ga uredili v eno najbolj privlačnih vodnih površij na naši zemlji, polno belih brez in zanimivega življa. Krasijo ga štirje lokvanji, ki so jih posadili po celotni dolžini ribnika in ti, skupaj z ostalo naravo, tvorijo prvovrsten prostor za miren oddih. V ribniku prevladujejo pretežno krapi in ščuke.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Glinokopi Zalog",
   "species": [],
   "speciesRaw": [],
   "methods": [],
@@ -1240,93 +1240,50 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero Glinokopi Zalog"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.67262,
-      45.93223
+      15.10326,
+      45.79291
      ],
      [
-      14.67353,
-      45.93187
+      15.10351,
+      45.79227
      ],
      [
-      14.67351,
-      45.93169
+      15.10428,
+      45.79236
      ],
      [
-      14.6738,
-      45.93155
+      15.10387,
+      45.79302
      ],
      [
-      14.67391,
-      45.93163
-     ],
-     [
-      14.67372,
-      45.93178
-     ],
-     [
-      14.67414,
-      45.9317
-     ],
-     [
-      14.67436,
-      45.932
-     ],
-     [
-      14.67419,
-      45.93224
-     ],
-     [
-      14.67364,
-      45.93236
-     ],
-     [
-      14.6738,
-      45.93268
-     ],
-     [
-      14.67328,
-      45.93294
-     ],
-     [
-      14.6729,
-      45.93273
-     ],
-     [
-      14.67262,
-      45.93223
+      15.10326,
+      45.79291
      ]
     ]
    ]
   },
   "center": [
-   45.93228,
-   14.67341
+   45.79271,
+   15.10382
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "dolenjska",
   "parking": [
    {
-    "lat": 45.93226,
-    "lon": 14.67229,
+    "lat": 45.7918,
+    "lon": 15.10954,
     "name": null,
-    "distKm": 0.03
+    "distKm": 0.41
    }
   ],
-  "fishingSpots": [
-   {
-    "lat": 45.93224,
-    "lon": 14.67351,
-    "name": "Ribnik Boštanj",
-    "distKm": 0.02
-   }
-  ],
+  "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:37:32.188Z"
  },
  {

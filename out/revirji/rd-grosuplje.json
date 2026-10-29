@@ -90,29 +90,118 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-grosuplje/bicje-s-pritoki",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "partial",
+  "quality": "segment",
   "qualityNotes": [
-   "samo ena meja: izvir"
+   "od: izvir",
+   "do: sotočje Grosupeljščico"
   ],
   "geometry": {
-   "type": "Point",
+   "type": "LineString",
    "coordinates": [
-    14.62274,
-    45.92643
+    [
+     14.62274,
+     45.92643
+    ],
+    [
+     14.62248,
+     45.93196
+    ],
+    [
+     14.62178,
+     45.93311
+    ],
+    [
+     14.62212,
+     45.93436
+    ],
+    [
+     14.62242,
+     45.93456
+    ],
+    [
+     14.62372,
+     45.93494
+    ],
+    [
+     14.6255,
+     45.93485
+    ],
+    [
+     14.62648,
+     45.93534
+    ],
+    [
+     14.6271,
+     45.93596
+    ],
+    [
+     14.62876,
+     45.93854
+    ],
+    [
+     14.62882,
+     45.93922
+    ],
+    [
+     14.62791,
+     45.94285
+    ],
+    [
+     14.62785,
+     45.94363
+    ],
+    [
+     14.62938,
+     45.94835
+    ],
+    [
+     14.62931,
+     45.94858
+    ],
+    [
+     14.62802,
+     45.95013
+    ],
+    [
+     14.64488,
+     45.95613
+    ],
+    [
+     14.64539,
+     45.95529
+    ]
    ]
   },
   "center": [
-   45.92643,
-   14.62274
+   45.94403,
+   14.62798
   ],
-  "lengthKm": null,
+  "lengthKm": 4.6,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 45.92526,
-    "lon": 14.62235,
+    "lat": 45.95637,
+    "lon": 14.64533,
     "name": null,
-    "distKm": 0.13
+    "distKm": 0.04
+   },
+   {
+    "lat": 45.92854,
+    "lon": 14.62352,
+    "name": null,
+    "distKm": 0.07
+   },
+   {
+    "lat": 45.96017,
+    "lon": 14.64606,
+    "name": null,
+    "distKm": 0.46
+   },
+   {
+    "lat": 45.95707,
+    "lon": 14.6517,
+    "name": "P+R Grosuplje",
+    "distKm": 0.53
    }
   ],
   "fishingSpots": [],
@@ -268,8 +357,8 @@
    "type": "LineString",
    "coordinates": [
     [
-     14.69585,
-     45.89661
+     14.69385,
+     45.89719
     ],
     [
      14.70708,
@@ -278,19 +367,12 @@
    ]
   },
   "center": [
-   45.89947,
-   14.70147
+   45.89976,
+   14.70047
   ],
-  "lengthKm": 1.1,
+  "lengthKm": 1.2,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 45.89144,
-    "lon": 14.69657,
-    "name": null,
-    "distKm": 0.58
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:36:00.966Z"
  },

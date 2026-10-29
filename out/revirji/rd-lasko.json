@@ -970,7 +970,7 @@
   },
   "description": "Ribnik Marof se nahaja v Mrzlem polju nad Jurkloštrom v neokrnjeni naravi. Primeren je za ribolov krapovcev in roparic. Ob ribniku je ribiški dom, kjer se lahko okrepčate s hrano in pijačo. Za večje skupine lahko organiziramo prireditve ob predhodni najavi. Ribnik je odprt ob sobotah, nedeljah in praznikih.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -1037,43 +1037,24 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-lasko/ribniki-marof-3",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "kraj Mrzlo Polje"
   ],
   "geometry": {
-   "type": "Polygon",
+   "type": "Point",
    "coordinates": [
-    [
-     [
-      15.35989,
-      46.24264
-     ],
-     [
-      15.36093,
-      46.24247
-     ],
-     [
-      15.36113,
-      46.24325
-     ],
-     [
-      15.36029,
-      46.24347
-     ],
-     [
-      15.35989,
-      46.24264
-     ]
-    ]
+    15.21698,
+    46.08223
    ]
   },
   "center": [
-   46.24297,
-   15.36054
+   46.08223,
+   15.21698
   ],
   "lengthKm": null,
-  "region": "savinjska",
+  "region": "zasavje",
   "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:39:36.992Z"

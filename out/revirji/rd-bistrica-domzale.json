@@ -1043,7 +1043,7 @@
   },
   "description": "Jezero Pristava (ujemi in spusti) je bogato z večjimi krapi in amurji (10 kg in več). Dostop je skozi Mengeš. Na glavnem križišču (pri gasilskem domu) v smeri ceste Trzin - Kamnik, zavijete proti cvetličarni, pošti oz. bivši Melodiji Mengeš. Po cesti se peljete do prvega odcepa, kjer zavijete desno in sledite usmerjevalnim tablam za dostop do izdelovalca harmonik Zupan.",
   "waterType": "lake",
-  "water": null,
+  "water": "Ceguvenški bajer",
   "species": [
    "amur",
    "klen",
@@ -1112,18 +1112,148 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/jezeropristava",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "none",
+  "quality": "place",
   "qualityNotes": [
-   "jezero ni v OSM"
+   "jezero ni v OSM",
+   "ribnik ob kraju Pristava"
   ],
-  "geometry": null,
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.55271,
+      46.16101
+     ],
+     [
+      14.55286,
+      46.16019
+     ],
+     [
+      14.55302,
+      46.15986
+     ],
+     [
+      14.55354,
+      46.15987
+     ],
+     [
+      14.5544,
+      46.15944
+     ],
+     [
+      14.55495,
+      46.15963
+     ],
+     [
+      14.55545,
+      46.15949
+     ],
+     [
+      14.55547,
+      46.15967
+     ],
+     [
+      14.55556,
+      46.15973
+     ],
+     [
+      14.5554,
+      46.15989
+     ],
+     [
+      14.55541,
+      46.16
+     ],
+     [
+      14.55584,
+      46.16011
+     ],
+     [
+      14.55615,
+      46.15995
+     ],
+     [
+      14.55618,
+      46.16023
+     ],
+     [
+      14.55628,
+      46.16034
+     ],
+     [
+      14.55625,
+      46.16044
+     ],
+     [
+      14.55589,
+      46.16076
+     ],
+     [
+      14.55619,
+      46.16116
+     ],
+     [
+      14.55562,
+      46.16131
+     ],
+     [
+      14.55529,
+      46.16129
+     ],
+     [
+      14.55519,
+      46.16112
+     ],
+     [
+      14.55506,
+      46.16115
+     ],
+     [
+      14.55506,
+      46.16131
+     ],
+     [
+      14.55496,
+      46.16137
+     ],
+     [
+      14.55465,
+      46.16117
+     ],
+     [
+      14.55367,
+      46.16111
+     ],
+     [
+      14.5533,
+      46.16131
+     ],
+     [
+      14.55282,
+      46.16116
+     ],
+     [
+      14.55271,
+      46.16101
+     ]
+    ]
+   ]
+  },
   "center": [
-   46.14504,
-   14.60551
+   46.16061,
+   14.55466
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [],
+  "parking": [
+   {
+    "lat": 46.15951,
+    "lon": 14.55385,
+    "name": null,
+    "distKm": 0.04
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:31:27.354Z"
  },
@@ -2304,24 +2434,815 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/psata2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "partial",
+  "quality": "place",
   "qualityNotes": [
-   "samo ena meja: kraj Pšata"
+   "odsek okoli sedeža družine"
   ],
   "geometry": {
-   "type": "Point",
+   "type": "LineString",
    "coordinates": [
-    14.50911,
-    46.25932
+    [
+     14.54495,
+     46.20149
+    ],
+    [
+     14.54488,
+     46.20081
+    ],
+    [
+     14.54395,
+     46.19991
+    ],
+    [
+     14.54408,
+     46.19926
+    ],
+    [
+     14.54456,
+     46.1983
+    ],
+    [
+     14.54505,
+     46.19823
+    ],
+    [
+     14.54519,
+     46.19806
+    ],
+    [
+     14.54481,
+     46.1977
+    ],
+    [
+     14.54489,
+     46.19727
+    ],
+    [
+     14.54448,
+     46.197
+    ],
+    [
+     14.54484,
+     46.1967
+    ],
+    [
+     14.54464,
+     46.19648
+    ],
+    [
+     14.54522,
+     46.19608
+    ],
+    [
+     14.5446,
+     46.19577
+    ],
+    [
+     14.54506,
+     46.19518
+    ],
+    [
+     14.54705,
+     46.19485
+    ],
+    [
+     14.54763,
+     46.19451
+    ],
+    [
+     14.54778,
+     46.19425
+    ],
+    [
+     14.54743,
+     46.19307
+    ],
+    [
+     14.54752,
+     46.19267
+    ],
+    [
+     14.54736,
+     46.19209
+    ],
+    [
+     14.54752,
+     46.1916
+    ],
+    [
+     14.54747,
+     46.19132
+    ],
+    [
+     14.54768,
+     46.19099
+    ],
+    [
+     14.54728,
+     46.19046
+    ],
+    [
+     14.54746,
+     46.18948
+    ],
+    [
+     14.54777,
+     46.18898
+    ],
+    [
+     14.54774,
+     46.18843
+    ],
+    [
+     14.54745,
+     46.18802
+    ],
+    [
+     14.54519,
+     46.18653
+    ],
+    [
+     14.54425,
+     46.18541
+    ],
+    [
+     14.54391,
+     46.18375
+    ],
+    [
+     14.5441,
+     46.18226
+    ],
+    [
+     14.54434,
+     46.18173
+    ],
+    [
+     14.54381,
+     46.18146
+    ],
+    [
+     14.54364,
+     46.18119
+    ],
+    [
+     14.5448,
+     46.18073
+    ],
+    [
+     14.54636,
+     46.18068
+    ],
+    [
+     14.54693,
+     46.18023
+    ],
+    [
+     14.54791,
+     46.18078
+    ],
+    [
+     14.54825,
+     46.18081
+    ],
+    [
+     14.54843,
+     46.18065
+    ],
+    [
+     14.54869,
+     46.17985
+    ],
+    [
+     14.54886,
+     46.17968
+    ],
+    [
+     14.54948,
+     46.17977
+    ],
+    [
+     14.55208,
+     46.1794
+    ],
+    [
+     14.55238,
+     46.17911
+    ],
+    [
+     14.55291,
+     46.1789
+    ],
+    [
+     14.5528,
+     46.17835
+    ],
+    [
+     14.55334,
+     46.17744
+    ],
+    [
+     14.55423,
+     46.17692
+    ],
+    [
+     14.55512,
+     46.17672
+    ],
+    [
+     14.55598,
+     46.17614
+    ],
+    [
+     14.55649,
+     46.17595
+    ],
+    [
+     14.55956,
+     46.17534
+    ],
+    [
+     14.5607,
+     46.175
+    ],
+    [
+     14.56196,
+     46.17437
+    ],
+    [
+     14.56336,
+     46.17339
+    ],
+    [
+     14.56449,
+     46.17282
+    ],
+    [
+     14.56642,
+     46.17219
+    ],
+    [
+     14.56798,
+     46.17193
+    ],
+    [
+     14.57017,
+     46.16548
+    ],
+    [
+     14.57011,
+     46.16517
+    ],
+    [
+     14.5703,
+     46.16458
+    ],
+    [
+     14.57017,
+     46.16446
+    ],
+    [
+     14.56921,
+     46.16447
+    ],
+    [
+     14.5679,
+     46.16427
+    ],
+    [
+     14.56666,
+     46.16385
+    ],
+    [
+     14.56496,
+     46.16156
+    ],
+    [
+     14.56494,
+     46.16105
+    ],
+    [
+     14.56335,
+     46.15995
+    ],
+    [
+     14.56318,
+     46.15932
+    ],
+    [
+     14.56343,
+     46.15808
+    ],
+    [
+     14.56337,
+     46.15781
+    ],
+    [
+     14.5641,
+     46.15574
+    ],
+    [
+     14.5643,
+     46.15551
+    ],
+    [
+     14.56397,
+     46.15462
+    ],
+    [
+     14.56373,
+     46.15436
+    ],
+    [
+     14.56398,
+     46.15388
+    ],
+    [
+     14.56378,
+     46.15348
+    ],
+    [
+     14.5638,
+     46.1531
+    ],
+    [
+     14.56338,
+     46.15249
+    ],
+    [
+     14.56223,
+     46.15193
+    ],
+    [
+     14.56246,
+     46.15127
+    ],
+    [
+     14.56153,
+     46.1506
+    ],
+    [
+     14.56133,
+     46.15015
+    ],
+    [
+     14.56088,
+     46.14985
+    ],
+    [
+     14.56108,
+     46.14951
+    ],
+    [
+     14.56168,
+     46.14903
+    ],
+    [
+     14.56151,
+     46.14806
+    ],
+    [
+     14.56136,
+     46.14791
+    ],
+    [
+     14.56045,
+     46.14787
+    ],
+    [
+     14.56028,
+     46.14771
+    ],
+    [
+     14.5603,
+     46.14737
+    ],
+    [
+     14.56062,
+     46.14708
+    ],
+    [
+     14.56016,
+     46.14651
+    ],
+    [
+     14.56033,
+     46.14632
+    ],
+    [
+     14.56032,
+     46.14613
+    ],
+    [
+     14.56001,
+     46.14569
+    ],
+    [
+     14.55952,
+     46.14555
+    ],
+    [
+     14.55987,
+     46.1451
+    ],
+    [
+     14.56073,
+     46.14463
+    ],
+    [
+     14.56011,
+     46.14392
+    ],
+    [
+     14.56032,
+     46.14323
+    ],
+    [
+     14.55958,
+     46.14279
+    ],
+    [
+     14.55899,
+     46.14187
+    ],
+    [
+     14.55839,
+     46.1415
+    ],
+    [
+     14.55817,
+     46.14111
+    ],
+    [
+     14.55821,
+     46.14058
+    ],
+    [
+     14.55834,
+     46.14048
+    ],
+    [
+     14.55909,
+     46.14057
+    ],
+    [
+     14.55974,
+     46.14007
+    ],
+    [
+     14.56049,
+     46.13902
+    ],
+    [
+     14.56113,
+     46.13748
+    ],
+    [
+     14.56165,
+     46.13691
+    ],
+    [
+     14.56155,
+     46.13571
+    ],
+    [
+     14.5608,
+     46.13471
+    ],
+    [
+     14.56148,
+     46.13274
+    ],
+    [
+     14.56125,
+     46.13135
+    ],
+    [
+     14.56135,
+     46.13084
+    ],
+    [
+     14.56309,
+     46.1294
+    ],
+    [
+     14.56408,
+     46.12815
+    ],
+    [
+     14.56494,
+     46.1262
+    ],
+    [
+     14.56843,
+     46.12075
+    ],
+    [
+     14.56888,
+     46.12033
+    ],
+    [
+     14.57078,
+     46.11951
+    ],
+    [
+     14.57513,
+     46.11712
+    ],
+    [
+     14.57593,
+     46.1168
+    ],
+    [
+     14.58236,
+     46.11517
+    ],
+    [
+     14.58352,
+     46.11464
+    ],
+    [
+     14.58703,
+     46.11184
+    ],
+    [
+     14.58833,
+     46.11127
+    ],
+    [
+     14.59073,
+     46.10967
+    ],
+    [
+     14.59089,
+     46.10948
+    ],
+    [
+     14.59138,
+     46.10766
+    ],
+    [
+     14.59194,
+     46.10738
+    ],
+    [
+     14.59339,
+     46.10705
+    ],
+    [
+     14.59359,
+     46.10686
+    ],
+    [
+     14.59374,
+     46.10622
+    ],
+    [
+     14.59487,
+     46.10569
+    ],
+    [
+     14.59506,
+     46.10513
+    ],
+    [
+     14.59494,
+     46.10483
+    ],
+    [
+     14.59468,
+     46.10461
+    ],
+    [
+     14.59474,
+     46.104
+    ],
+    [
+     14.59484,
+     46.10374
+    ],
+    [
+     14.59522,
+     46.10344
+    ],
+    [
+     14.5947,
+     46.10317
+    ],
+    [
+     14.5947,
+     46.10302
+    ],
+    [
+     14.59595,
+     46.10267
+    ],
+    [
+     14.59655,
+     46.10291
+    ],
+    [
+     14.59676,
+     46.10278
+    ],
+    [
+     14.59703,
+     46.10232
+    ],
+    [
+     14.59757,
+     46.10219
+    ],
+    [
+     14.59777,
+     46.10235
+    ],
+    [
+     14.59759,
+     46.10257
+    ],
+    [
+     14.59763,
+     46.10298
+    ],
+    [
+     14.59838,
+     46.10356
+    ],
+    [
+     14.59891,
+     46.10359
+    ],
+    [
+     14.59966,
+     46.10319
+    ],
+    [
+     14.6,
+     46.10286
+    ],
+    [
+     14.60045,
+     46.10171
+    ],
+    [
+     14.60125,
+     46.10048
+    ],
+    [
+     14.60238,
+     46.09952
+    ],
+    [
+     14.60238,
+     46.09932
+    ],
+    [
+     14.602,
+     46.09892
+    ],
+    [
+     14.60205,
+     46.09867
+    ],
+    [
+     14.60273,
+     46.09832
+    ],
+    [
+     14.60369,
+     46.09859
+    ],
+    [
+     14.60376,
+     46.09838
+    ],
+    [
+     14.60361,
+     46.09806
+    ],
+    [
+     14.6039,
+     46.09767
+    ],
+    [
+     14.60479,
+     46.09768
+    ],
+    [
+     14.60535,
+     46.09784
+    ],
+    [
+     14.6055,
+     46.09802
+    ],
+    [
+     14.60543,
+     46.09847
+    ],
+    [
+     14.60519,
+     46.09884
+    ],
+    [
+     14.60447,
+     46.09869
+    ],
+    [
+     14.60444,
+     46.09891
+    ],
+    [
+     14.60463,
+     46.09901
+    ],
+    [
+     14.60529,
+     46.09916
+    ],
+    [
+     14.60635,
+     46.09894
+    ],
+    [
+     14.60707,
+     46.099
+    ],
+    [
+     14.60736,
+     46.09911
+    ],
+    [
+     14.60742,
+     46.09923
+    ],
+    [
+     14.60725,
+     46.0995
+    ],
+    [
+     14.60734,
+     46.09979
+    ],
+    [
+     14.60751,
+     46.09983
+    ],
+    [
+     14.608,
+     46.09963
+    ],
+    [
+     14.60848,
+     46.0999
+    ],
+    [
+     14.60904,
+     46.09999
+    ],
+    [
+     14.60947,
+     46.09994
+    ],
+    [
+     14.60986,
+     46.09969
+    ]
    ]
   },
   "center": [
-   46.25932,
-   14.50911
+   46.15739,
+   14.59986
   ],
-  "lengthKm": null,
+  "lengthKm": 17.1,
   "region": "osrednjeslovenska",
-  "parking": [],
+  "parking": [
+   {
+    "lat": 46.14843,
+    "lon": 14.56171,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.17693,
+    "lon": 14.55465,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.10735,
+    "lon": 14.59256,
+    "name": null,
+    "distKm": 0.01
+   },
+   {
+    "lat": 46.1017,
+    "lon": 14.60069,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:35:46.580Z"
  },
@@ -4279,13 +5200,13 @@
   "geometry": {
    "type": "Point",
    "coordinates": [
-    14.63566,
-    46.14326
+    14.6352,
+    46.14336
    ]
   },
   "center": [
-   46.14326,
-   14.63566
+   46.14336,
+   14.6352
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
@@ -4977,7 +5898,7 @@
   "quality": "segment",
   "qualityNotes": [
    "od: sotočje Drtijščico",
-   "do: kraj Rača"
+   "do: sotočje Račo"
   ],
   "geometry": {
    "type": "LineString",
@@ -5153,14 +6074,86 @@
     [
      14.65769,
      46.14725
+    ],
+    [
+     14.65727,
+     46.14735
+    ],
+    [
+     14.65529,
+     46.14823
+    ],
+    [
+     14.65357,
+     46.1483
+    ],
+    [
+     14.65223,
+     46.14797
+    ],
+    [
+     14.65115,
+     46.1481
+    ],
+    [
+     14.64993,
+     46.14766
+    ],
+    [
+     14.64925,
+     46.14713
+    ],
+    [
+     14.6483,
+     46.14681
+    ],
+    [
+     14.64592,
+     46.14657
+    ],
+    [
+     14.64495,
+     46.14609
+    ],
+    [
+     14.6434,
+     46.14614
+    ],
+    [
+     14.64246,
+     46.14566
+    ],
+    [
+     14.64119,
+     46.14595
+    ],
+    [
+     14.63901,
+     46.14579
+    ],
+    [
+     14.63776,
+     46.1455
+    ],
+    [
+     14.63613,
+     46.14561
+    ],
+    [
+     14.63392,
+     46.14678
+    ],
+    [
+     14.6328,
+     46.14664
     ]
    ]
   },
   "center": [
-   46.15784,
-   14.68453
+   46.15512,
+   14.67202
   ],
-  "lengthKm": 5.9,
+  "lengthKm": 8,
   "region": "osrednjeslovenska",
   "parking": [
    {
@@ -5182,10 +6175,10 @@
     "distKm": 0.23
    },
    {
-    "lat": 46.1517,
-    "lon": 14.65405,
-    "name": null,
-    "distKm": 0.41
+    "lat": 46.14866,
+    "lon": 14.62889,
+    "name": "Parkirišče pokopališča Dob",
+    "distKm": 0.38
    }
   ],
   "fishingSpots": [],
@@ -5209,7 +6202,7 @@
   },
   "description": "Ribnik Češnjevek 1 je glinokopnega izvora, kjer so prisotni predvsem krapovci. Poleti je zelo priljubljen ribolov soma. Je članski ribnik, torej namenjen ribolovu članov. Dostop iz smeri Cerklje na Gorenjskem proti Velesovem (smer proti Preddvoru). V kraju Češnjevek zavijete desno za avtobusnim postajališčem. Po 1 km poti se pripeljete na ribnik. Ribnika sta dva in si sledita v zaporedju.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "bolen",
@@ -5284,67 +6277,70 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikcesnjevk1",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Češnjevek"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.47182,
+      46.26565
      ],
      [
-      14.471,
-      46.05365
+      14.47244,
+      46.26496
      ],
      [
-      14.47115,
-      46.05388
+      14.47297,
+      46.26488
      ],
      [
-      14.47095,
-      46.05404
+      14.47313,
+      46.26455
      ],
      [
-      14.47109,
-      46.05415
+      14.47409,
+      46.26451
      ],
      [
-      14.47077,
-      46.0543
+      14.47437,
+      46.26597
      ],
      [
-      14.4708,
-      46.05399
+      14.47326,
+      46.26596
      ],
      [
-      14.47055,
-      46.05387
+      14.47221,
+      46.2661
+     ],
+     [
+      14.47216,
+      46.26581
+     ],
+     [
+      14.47182,
+      46.26565
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.2654,
+   14.47283
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "gorenjska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.265,
+    "lon": 14.47897,
     "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
+    "distKm": 0.37
    }
   ],
   "fishingSpots": [],
@@ -5368,7 +6364,7 @@
   },
   "description": "Ribnik Češnjevek 2 je glinokopnega izvora, kjer so prisotni predvsem krapovci. Dostop je iz smeri Cerklje na Gorenjskem proti Velesovem (smer proti Preddvoru). V kraju Češnjevek zavijete desno za avtobusnim postajališčem. Po 1. km poti se pripeljete na ribnik. Ribnika sta dva in si sledita v zaporedju.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -5441,67 +6437,70 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnik-cesnjevek-2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Češnjevek"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.47182,
+      46.26565
      ],
      [
-      14.471,
-      46.05365
+      14.47244,
+      46.26496
      ],
      [
-      14.47115,
-      46.05388
+      14.47297,
+      46.26488
      ],
      [
-      14.47095,
-      46.05404
+      14.47313,
+      46.26455
      ],
      [
-      14.47109,
-      46.05415
+      14.47409,
+      46.26451
      ],
      [
-      14.47077,
-      46.0543
+      14.47437,
+      46.26597
      ],
      [
-      14.4708,
-      46.05399
+      14.47326,
+      46.26596
      ],
      [
-      14.47055,
-      46.05387
+      14.47221,
+      46.2661
+     ],
+     [
+      14.47216,
+      46.26581
+     ],
+     [
+      14.47182,
+      46.26565
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.2654,
+   14.47283
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "gorenjska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.265,
+    "lon": 14.47897,
     "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
+    "distKm": 0.37
    }
   ],
   "fishingSpots": [],
@@ -5682,7 +6681,7 @@
   },
   "description": "Ribnik Florida je bogat predvsem s krapovci in ščukami ter je umirjena lokacija za počitek. Dostop je iz smeri Dob proti Krtini - po stari cesti. Takoj pred nadvozom nad avtocesto LJ-MB se zavije levo. Po urejeni makadamski cesti se po ca. 1 km (drugi odcep levo pred drevesnim nasadom) pripeljete na ribnik.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -5737,69 +6736,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikflorida",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      14.47055,
-      46.05387
-     ],
-     [
-      14.471,
-      46.05365
-     ],
-     [
-      14.47115,
-      46.05388
-     ],
-     [
-      14.47095,
-      46.05404
-     ],
-     [
-      14.47109,
-      46.05415
-     ],
-     [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.05401,
-   14.47088
+   46.16095,
+   14.63765
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 46.05376,
-    "lon": 14.46991,
-    "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:37:27.395Z"
  },
@@ -5821,7 +6769,7 @@
   },
   "description": "Ribnik Križ je bogat predvsem s krapovci in plenilkami. Dostop do ribnika je iz smeri iz Kamnika mimo Podgorja proti Križu pri Komendi. Takoj za koncem naselja Podgorje (pred znamenjem) zavijete desno. Po približno 200 metrih prispete do urejenega parkirišča ob ribniku.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Kriški bajer",
   "species": [
    "amur",
    "koreselj",
@@ -5897,67 +6845,62 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikkriz",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Križ"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.57023,
+      46.20203
      ],
      [
-      14.471,
-      46.05365
+      14.57043,
+      46.20189
      ],
      [
-      14.47115,
-      46.05388
+      14.57092,
+      46.20191
      ],
      [
-      14.47095,
-      46.05404
+      14.57083,
+      46.20229
      ],
      [
-      14.47109,
-      46.05415
+      14.57091,
+      46.20252
      ],
      [
-      14.47077,
-      46.0543
+      14.57084,
+      46.20264
      ],
      [
-      14.4708,
-      46.05399
+      14.57045,
+      46.20262
      ],
      [
-      14.47055,
-      46.05387
+      14.57023,
+      46.20203
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.20222,
+   14.57059
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.20175,
+    "lon": 14.57038,
     "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
+    "distKm": 0.02
    }
   ],
   "fishingSpots": [],
@@ -6145,7 +7088,7 @@
   },
   "description": "Ribnik Moravče 2 je bogat predvsem s krapovci. V centru Moravč pri cerkvi zavijete levo proti Zalogu. Po približno 1,5 km zavijete za mostom čez Drtijščico desno in se peljete po asfaltni poti okrog 800 m. Prispeli boste do ribnikov Moravče, ki si sledijo v zaporedju. Ribolov je s to dovolilnico mogoč tako na drugem in tretjem ribniku v istem dnevu.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -6214,67 +7157,66 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikmoravce2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Moravče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ],
      [
-      14.471,
-      46.05365
+      14.74155,
+      46.14097
      ],
      [
-      14.47115,
-      46.05388
+      14.74222,
+      46.14089
      ],
      [
-      14.47095,
-      46.05404
+      14.74224,
+      46.14097
      ],
      [
-      14.47109,
-      46.05415
+      14.74192,
+      46.14099
      ],
      [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.14104,
+   14.74169
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.13822,
+    "lon": 14.74023,
     "name": null,
-    "distKm": 0.05
+    "distKm": 0.32
    },
    {
-    "lat": 46.04921,
-    "lon": 14.4726,
+    "lat": 46.13943,
+    "lon": 14.74633,
     "name": null,
-    "distKm": 0.51
+    "distKm": 0.36
+   },
+   {
+    "lat": 46.13583,
+    "lon": 14.74483,
+    "name": null,
+    "distKm": 0.6
    }
   ],
   "fishingSpots": [],
@@ -6298,7 +7240,7 @@
   },
   "description": "Ribnik Moravče 3 je bogat s krapovci. V centru Moravč pri cerkvi zavijete levo proti Zalogu. Po približno 1,5 km zavijete za mostom čez Drtijščico desno in se peljete po asfaltni poti okrog 800 m. Prispeli boste do ribnikov Moravče, ki si sledijo v zaporedju. Ribolov je s to dovolilnico mogoč tako na drugem in tretjem ribniku v istem dnevu.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -6367,67 +7309,66 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikmoravce3",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Moravče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ],
      [
-      14.471,
-      46.05365
+      14.74155,
+      46.14097
      ],
      [
-      14.47115,
-      46.05388
+      14.74222,
+      46.14089
      ],
      [
-      14.47095,
-      46.05404
+      14.74224,
+      46.14097
      ],
      [
-      14.47109,
-      46.05415
+      14.74192,
+      46.14099
      ],
      [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.14104,
+   14.74169
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.13822,
+    "lon": 14.74023,
     "name": null,
-    "distKm": 0.05
+    "distKm": 0.32
    },
    {
-    "lat": 46.04921,
-    "lon": 14.4726,
+    "lat": 46.13943,
+    "lon": 14.74633,
     "name": null,
-    "distKm": 0.51
+    "distKm": 0.36
+   },
+   {
+    "lat": 46.13583,
+    "lon": 14.74483,
+    "name": null,
+    "distKm": 0.6
    }
   ],
   "fishingSpots": [],
@@ -6451,7 +7392,7 @@
   },
   "description": "Ribnik Plastenka (Ujemi in spusti) je bogat z večjimi krapi in amurji (10 kg in več). Dostopen je iz smeri Radomlje proti Rovam. Za nasadom platan (ob cesti na desni) se peljete še 100 m proti Rovam. Na levi strani se odpre pogled na ribnik. Ribolov ciprinidov se izvaja z največ dvema ribiškima palicama.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -6510,69 +7451,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikplastenka",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      14.47055,
-      46.05387
-     ],
-     [
-      14.471,
-      46.05365
-     ],
-     [
-      14.47115,
-      46.05388
-     ],
-     [
-      14.47095,
-      46.05404
-     ],
-     [
-      14.47109,
-      46.05415
-     ],
-     [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.05401,
-   14.47088
+   46.16095,
+   14.63765
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 46.05376,
-    "lon": 14.46991,
-    "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:17.810Z"
  },

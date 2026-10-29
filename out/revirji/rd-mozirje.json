@@ -1309,7 +1309,7 @@
   },
   "description": "Ribnik gaj se nahaja v Mozirju, v neposredni bližini mozirskega gaja. Velik je 1 ha. Ob polovici ribnika je urejena trasa, ki omogoča ribolov invalidom, saj je dostopna z invalidski vozičkom. Obala ribnika je opremljena s klopmi, ki omogočajo sproščen ribolov. Ribnik je globok do 3 m, temperatura vode se giblje med 5 do 20 st. C. Poseljujejo ga krapi, amurji in ostale ciprinidne vrste rib.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "krap",
    "smuc",
@@ -1367,40 +1367,14 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-mozirje/ribnik-mozirje",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      15.35989,
-      46.24264
-     ],
-     [
-      15.36093,
-      46.24247
-     ],
-     [
-      15.36113,
-      46.24325
-     ],
-     [
-      15.36029,
-      46.24347
-     ],
-     [
-      15.35989,
-      46.24264
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.24297,
-   15.36054
+   46.3244,
+   14.95522
   ],
   "lengthKm": null,
   "region": "savinjska",

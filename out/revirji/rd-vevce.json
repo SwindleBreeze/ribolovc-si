@@ -1385,7 +1385,7 @@
   },
   "description": "Ribnik pod Debnim Vrhom se nahaja v neposredni bližini Ljubljane in vam omogoča ribolov krapa in amurja vse leto.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "klen",
@@ -1443,69 +1443,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-vevce/ribnik-pod-debnim-vrhom",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      14.47055,
-      46.05387
-     ],
-     [
-      14.471,
-      46.05365
-     ],
-     [
-      14.47115,
-      46.05388
-     ],
-     [
-      14.47095,
-      46.05404
-     ],
-     [
-      14.47109,
-      46.05415
-     ],
-     [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.05401,
-   14.47088
+   46.05576,
+   14.61818
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 46.05376,
-    "lon": 14.46991,
-    "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:20.185Z"
  }

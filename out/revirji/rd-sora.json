@@ -140,7 +140,7 @@
   },
   "description": "Ribnik je verjetno eno tistih vodnih bogastev za katere vedo le ribiči in domačini, ki mu pravijo tudi Gramozno jezero. Ribnik ima peščeno dno, saj leži v jami, kjer so včasih izkopavali pesek. Ribnik ima največjo globino 3 m. Zelo nenavadna značilnost jezera je visoka vsebnost raztopljenega kisika v vodi, zaradi česar je v njem nekoč prebivala potočna postrv.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "krap",
    "rdeceoka",
@@ -188,69 +188,69 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-sora/ribnik-retece",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Gorenja vas - Reteče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.38669,
+      46.16709
      ],
      [
-      14.471,
-      46.05365
+      14.38669,
+      46.16702
      ],
      [
-      14.47115,
-      46.05388
+      14.38702,
+      46.1668
      ],
      [
-      14.47095,
-      46.05404
+      14.38699,
+      46.16648
      ],
      [
-      14.47109,
-      46.05415
+      14.38718,
+      46.16647
      ],
      [
-      14.47077,
-      46.0543
+      14.38769,
+      46.16673
      ],
      [
-      14.4708,
-      46.05399
+      14.38763,
+      46.16719
      ],
      [
-      14.47055,
-      46.05387
+      14.3874,
+      46.16759
+     ],
+     [
+      14.38727,
+      46.16764
+     ],
+     [
+      14.38687,
+      46.16756
+     ],
+     [
+      14.38669,
+      46.16709
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.16701,
+   14.38725
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 46.05376,
-    "lon": 14.46991,
-    "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:48.986Z"
  },

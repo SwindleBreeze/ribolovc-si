@@ -592,7 +592,7 @@
   },
   "description": "Jezerce je umetnega nastanka, nastalo je z zajezitvijo gojitvenega Želinjskega potoka, ki izvira v osrednjem delu nizke planote Udenboršt in se pri Tenetišah, po približno 5 km izliva v Parovnico - Rupovščico. Ribe v jezeru: pred vlaganjem krapov in tudi linjev so v vodi prevladali kleniči in kleni, pa tudi potočnice, rdečooke in perke. V jezeru je tudi nekaj amurjev in ščuk.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "klen",
    "krap",
@@ -647,43 +647,25 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/racnik-ribnik",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "kraj Račnik"
   ],
   "geometry": {
-   "type": "Polygon",
+   "type": "Point",
    "coordinates": [
-    [
-     [
-      14.4221,
-      46.28622
-     ],
-     [
-      14.42231,
-      46.28622
-     ],
-     [
-      14.4221,
-      46.28622
-     ]
-    ]
+    14.72211,
+    46.3921
    ]
   },
   "center": [
-   46.28621,
-   14.4222
+   46.3921,
+   14.72211
   ],
   "lengthKm": null,
-  "region": "gorenjska",
-  "parking": [
-   {
-    "lat": 46.28991,
-    "lon": 14.42156,
-    "name": null,
-    "distKm": 0.41
-   }
-  ],
+  "region": "savinjska",
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:37.000Z"
  },
@@ -705,7 +687,7 @@
   },
   "description": "Stražiški ribnik je sčasoma zaraslo vodno rastlinje, zato je bil ribnik leta 2009 saniran. Na delu jezera je urejena tudi obala, tako da je mogoč dostop tudi ribičem invalidom. RD Kranj v ribnik vlaga velike upe, da bo, čeprav ni velik, v prihodnje nudil veliko užitkov predvsem kraparjem, saj so v njem pogoji za dobro razmnoževanje in rast vrst, kot so krap, linj, ostriži in ostalih ciprinidnih vrst.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "krap"
   ],
@@ -729,41 +711,74 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/straziski-ribnik",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Stražišče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.4221,
-      46.28622
+      14.33851,
+      46.22347
      ],
      [
-      14.42231,
-      46.28622
+      14.33894,
+      46.22305
      ],
      [
-      14.4221,
-      46.28622
+      14.33936,
+      46.22307
+     ],
+     [
+      14.33945,
+      46.22324
+     ],
+     [
+      14.33929,
+      46.22349
+     ],
+     [
+      14.33895,
+      46.22366
+     ],
+     [
+      14.33867,
+      46.22366
+     ],
+     [
+      14.33851,
+      46.22347
      ]
     ]
    ]
   },
   "center": [
-   46.28621,
-   14.4222
+   46.22338,
+   14.33899
   ],
   "lengthKm": null,
   "region": "gorenjska",
   "parking": [
    {
-    "lat": 46.28991,
-    "lon": 14.42156,
+    "lat": 46.22473,
+    "lon": 14.33688,
     "name": null,
-    "distKm": 0.41
+    "distKm": 0.18
+   },
+   {
+    "lat": 46.22106,
+    "lon": 14.33598,
+    "name": null,
+    "distKm": 0.32
+   },
+   {
+    "lat": 46.22272,
+    "lon": 14.34365,
+    "name": null,
+    "distKm": 0.33
    }
   ],
   "fishingSpots": [],
@@ -827,8 +842,8 @@
   ],
   "geometry": null,
   "center": [
-   46.28621,
-   14.42601
+   46.30386,
+   14.42749
   ],
   "lengthKm": null,
   "region": "gorenjska",
@@ -1345,14 +1360,41 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-kranj/zadrzevalnik-srednja-vas",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "none",
+  "quality": "place",
   "qualityNotes": [
-   "jezero ni v OSM"
+   "jezero ni v OSM",
+   "ribnik ob kraju Srednja vas"
   ],
-  "geometry": null,
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.28649,
+      46.29141
+     ],
+     [
+      14.28709,
+      46.29123
+     ],
+     [
+      14.28741,
+      46.29149
+     ],
+     [
+      14.28675,
+      46.29176
+     ],
+     [
+      14.28649,
+      46.29141
+     ]
+    ]
+   ]
+  },
   "center": [
-   46.28621,
-   14.42601
+   46.29143,
+   14.28695
   ],
   "lengthKm": null,
   "region": "gorenjska",

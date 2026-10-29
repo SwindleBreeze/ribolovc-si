@@ -532,7 +532,7 @@
   },
   "description": "Gramoznica je med manjšimi revirji v našem ribiškem okolišu, vendar je bogata z ribjim življem. Naseljujejo jo somi, ščuke in smuči, veliko je krapov, prav tako je bogata z srebrnim koresljem in ploščiči ter rdečeokami.",
   "waterType": "pond",
-  "water": "Gramoznica",
+  "water": "Gramoznica Boreci",
   "species": [
    "koreselj",
    "krap",
@@ -583,91 +583,87 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Gramoznica"
+   "jezero Gramoznica Boreci"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      16.21582,
-      46.55725
+      16.14519,
+      46.5636
      ],
      [
-      16.21642,
-      46.55671
+      16.14701,
+      46.56344
      ],
      [
-      16.21695,
-      46.557
+      16.14744,
+      46.56379
      ],
      [
-      16.2191,
-      46.55654
+      16.14761,
+      46.56422
      ],
      [
-      16.21956,
-      46.55659
+      16.14726,
+      46.56435
      ],
      [
-      16.21969,
-      46.55674
+      16.14625,
+      46.56416
      ],
      [
-      16.21925,
-      46.55712
+      16.14623,
+      46.56385
      ],
      [
-      16.21895,
-      46.55716
+      16.14597,
+      46.56414
      ],
      [
-      16.21882,
-      46.55702
+      16.14549,
+      46.56412
      ],
      [
-      16.21795,
-      46.55721
+      16.14527,
+      46.56397
      ],
      [
-      16.21837,
-      46.55762
-     ],
-     [
-      16.21854,
-      46.5576
-     ],
-     [
-      16.21854,
-      46.55732
-     ],
-     [
-      16.2193,
-      46.55722
-     ],
-     [
-      16.21876,
-      46.55844
-     ],
-     [
-      16.21809,
-      46.55874
-     ],
-     [
-      16.21582,
-      46.55725
+      16.14519,
+      46.5636
      ]
     ]
    ]
   },
   "center": [
-   46.55751,
-   16.21787
+   46.56391,
+   16.14647
   ],
   "lengthKm": null,
   "region": "pomurje",
-  "parking": [],
-  "fishingSpots": [],
+  "parking": [
+   {
+    "lat": 46.56288,
+    "lon": 16.14384,
+    "name": "Gostilna Zorko",
+    "distKm": 0.13
+   },
+   {
+    "lat": 46.56663,
+    "lon": 16.13857,
+    "name": null,
+    "distKm": 0.59
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.56352,
+    "lon": 16.147,
+    "name": null,
+    "distKm": 0.01
+   }
+  ],
   "scrapedAt": "2026-10-28T06:29:00.915Z"
  },
  {
@@ -688,7 +684,7 @@
   },
   "description": "Gramoznica Bunčani je eden naših manjših revirjev, saj je njena površina 4 ha. To je revir, ki ga obiskujejo bolj domačini in bližnji ribiči. Naseljujejo jo krapi, ščuke, kleni, rdečeoke, navadni ostriž, linj, rdečeperke in zelenike.",
   "waterType": "pond",
-  "water": "Gramoznica",
+  "water": null,
   "species": [
    "klen",
    "krap",
@@ -740,88 +736,41 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-buncani",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Gramoznica"
+   "jezero ni v OSM",
+   "ribnik ob kraju Bunčani"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      16.21582,
-      46.55725
+      16.13661,
+      46.59195
      ],
      [
-      16.21642,
-      46.55671
+      16.13681,
+      46.59178
      ],
      [
-      16.21695,
-      46.557
+      16.13696,
+      46.59192
      ],
      [
-      16.2191,
-      46.55654
+      16.13669,
+      46.59202
      ],
      [
-      16.21956,
-      46.55659
-     ],
-     [
-      16.21969,
-      46.55674
-     ],
-     [
-      16.21925,
-      46.55712
-     ],
-     [
-      16.21895,
-      46.55716
-     ],
-     [
-      16.21882,
-      46.55702
-     ],
-     [
-      16.21795,
-      46.55721
-     ],
-     [
-      16.21837,
-      46.55762
-     ],
-     [
-      16.21854,
-      46.5576
-     ],
-     [
-      16.21854,
-      46.55732
-     ],
-     [
-      16.2193,
-      46.55722
-     ],
-     [
-      16.21876,
-      46.55844
-     ],
-     [
-      16.21809,
-      46.55874
-     ],
-     [
-      16.21582,
-      46.55725
+      16.13661,
+      46.59195
      ]
     ]
    ]
   },
   "center": [
-   46.55751,
-   16.21787
+   46.59191,
+   16.13677
   ],
   "lengthKm": null,
   "region": "pomurje",
@@ -847,7 +796,7 @@
   },
   "description": "Gramoznica Krapje je revir, kjer še poteka eksploatacija gramoza, zato jo ribiči ne obiskujejo tako pogosto kot druge revirje v Ljutomerskem ribiškem okolišu. V gramoznici so ščuke, smuči in somi, prav tako je naseljena s krapi, srebrnim koresljem, rdečeoko, ploščičem, navadnim ostrižem, zeleniko.",
   "waterType": "pond",
-  "water": "Gramoznica",
+  "water": "Gramoznica Krapje",
   "species": [
    "amur",
    "koreselj",
@@ -950,90 +899,125 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Gramoznica"
+   "jezero Gramoznica Krapje"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      16.21582,
-      46.55725
+      16.20801,
+      46.56744
      ],
      [
-      16.21642,
-      46.55671
+      16.20818,
+      46.56713
      ],
      [
-      16.21695,
-      46.557
+      16.20851,
+      46.56701
      ],
      [
-      16.2191,
-      46.55654
+      16.20876,
+      46.56611
      ],
      [
-      16.21956,
-      46.55659
+      16.20993,
+      46.56544
      ],
      [
-      16.21969,
-      46.55674
+      16.21121,
+      46.56598
      ],
      [
-      16.21925,
-      46.55712
+      16.21149,
+      46.56585
      ],
      [
-      16.21895,
-      46.55716
+      16.21228,
+      46.56588
      ],
      [
-      16.21882,
-      46.55702
+      16.21353,
+      46.56533
      ],
      [
-      16.21795,
-      46.55721
+      16.21464,
+      46.56583
      ],
      [
-      16.21837,
-      46.55762
+      16.21643,
+      46.56724
      ],
      [
-      16.21854,
-      46.5576
+      16.21644,
+      46.56749
      ],
      [
-      16.21854,
-      46.55732
+      16.21614,
+      46.56798
      ],
      [
-      16.2193,
-      46.55722
+      16.21504,
+      46.56854
      ],
      [
-      16.21876,
-      46.55844
+      16.21282,
+      46.57012
      ],
      [
-      16.21809,
-      46.55874
+      16.21188,
+      46.57038
      ],
      [
-      16.21582,
-      46.55725
+      16.21087,
+      46.57015
+     ],
+     [
+      16.21003,
+      46.5697
+     ],
+     [
+      16.20983,
+      46.56939
+     ],
+     [
+      16.20993,
+      46.56932
+     ],
+     [
+      16.2093,
+      46.5689
+     ],
+     [
+      16.2091,
+      46.56842
+     ],
+     [
+      16.20831,
+      46.56791
+     ],
+     [
+      16.20801,
+      46.56744
      ]
     ]
    ]
   },
   "center": [
-   46.55751,
-   16.21787
+   46.56834,
+   16.21149
   ],
   "lengthKm": null,
   "region": "pomurje",
-  "parking": [],
+  "parking": [
+   {
+    "lat": 46.56293,
+    "lon": 16.20802,
+    "name": null,
+    "distKm": 0.31
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:29:44.139Z"
  },
@@ -1055,7 +1039,7 @@
   },
   "description": "Revir gramoznica Razkrižje je eden manjših v našem ribiškem okolišu. Gramoznico obiskujejo predvsem domači ribiči. Gramoznica je površine 2,00 ha, naseljujejo jo ščuke, krapi, ploščiči, rdečeoke, navadni ostriži in rdečeperke. Gramoznico najdete ob poti od Razkrižja proti Srednji Bistrici (na desni strani ceste).",
   "waterType": "pond",
-  "water": "Gramoznica",
+  "water": null,
   "species": [
    "krap",
    "ostriz",
@@ -1106,92 +1090,78 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ljutomer/gramoznica-razkrizje",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Gramoznica"
+   "jezero ni v OSM",
+   "ribnik ob kraju Razkrižje"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      16.21582,
-      46.55725
+      16.27828,
+      46.52438
      ],
      [
-      16.21642,
-      46.55671
+      16.27843,
+      46.52426
      ],
      [
-      16.21695,
-      46.557
+      16.27951,
+      46.52402
      ],
      [
-      16.2191,
-      46.55654
+      16.28026,
+      46.52391
      ],
      [
-      16.21956,
-      46.55659
+      16.2803,
+      46.52399
      ],
      [
-      16.21969,
-      46.55674
+      16.28016,
+      46.52409
      ],
      [
-      16.21925,
-      46.55712
+      16.27928,
+      46.52424
      ],
      [
-      16.21895,
-      46.55716
+      16.27873,
+      46.52446
      ],
      [
-      16.21882,
-      46.55702
+      16.27846,
+      46.52449
      ],
      [
-      16.21795,
-      46.55721
-     ],
-     [
-      16.21837,
-      46.55762
-     ],
-     [
-      16.21854,
-      46.5576
-     ],
-     [
-      16.21854,
-      46.55732
-     ],
-     [
-      16.2193,
-      46.55722
-     ],
-     [
-      16.21876,
-      46.55844
-     ],
-     [
-      16.21809,
-      46.55874
-     ],
-     [
-      16.21582,
-      46.55725
+      16.27828,
+      46.52438
      ]
     ]
    ]
   },
   "center": [
-   46.55751,
-   16.21787
+   46.5242,
+   16.27918
   ],
   "lengthKm": null,
   "region": "pomurje",
-  "parking": [],
+  "parking": [
+   {
+    "lat": 46.52312,
+    "lon": 16.27827,
+    "name": null,
+    "distKm": 0.13
+   },
+   {
+    "lat": 46.52007,
+    "lon": 16.28395,
+    "name": null,
+    "distKm": 0.51
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:30:22.533Z"
  },
@@ -1340,8 +1310,8 @@
   ],
   "geometry": null,
   "center": [
-   46.55751,
-   16.21787
+   46.56391,
+   16.19715
   ],
   "lengthKm": null,
   "region": "pomurje",

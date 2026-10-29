@@ -909,7 +909,7 @@
   },
   "description": "Ribnik je nastal zaradi izkopavanja gline. Ko so se izkopi ustavili je voda zalila področje in tako smo vrhniški ribiči dobili zanimiv ribnik, ki ponuja obilico možnosti za ribolov in sprostitev. Ponekod prihaja do zaraščanja z lokvanjem, vendar je večina ribnika lovna skozi vse leto.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -948,57 +948,64 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ribcev-ribnik-pri-bistri",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Bistra"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.31547,
-      45.9707
+      14.33447,
+      45.94675
      ],
      [
-      14.31666,
-      45.97066
+      14.33467,
+      45.94626
      ],
      [
-      14.31668,
-      45.97104
+      14.33532,
+      45.94636
      ],
      [
-      14.3164,
-      45.97116
+      14.33543,
+      45.94663
      ],
      [
-      14.31588,
-      45.97095
+      14.33543,
+      45.94676
      ],
      [
-      14.31603,
-      45.97074
+      14.33537,
+      45.94678
      ],
      [
-      14.31547,
-      45.9707
+      14.33447,
+      45.94675
      ]
     ]
    ]
   },
   "center": [
-   45.97078,
-   14.31596
+   45.94652,
+   14.33502
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 45.97121,
-    "lon": 14.31583,
+    "lat": 45.94586,
+    "lon": 14.33311,
     "name": null,
-    "distKm": 0.03
+    "distKm": 0.13
+   },
+   {
+    "lat": 45.94195,
+    "lon": 14.33544,
+    "name": null,
+    "distKm": 0.48
    }
   ],
   "fishingSpots": [],
@@ -1022,7 +1029,7 @@
   },
   "description": "Idealen ribnik za začetne korake v svet ribolova. Številčnost rib, odprtost terena in malo ovir predstavlja dober poligon za začetnike ali malo izkušenejše ribiče, ki znajo ukrotiti krapa z bolognese palico.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Dobška lokev",
   "species": [
    "amur",
    "klen",
@@ -1070,55 +1077,39 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero Dobška lokev"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.31547,
-      45.9707
+      14.35737,
+      45.85191
      ],
      [
-      14.31666,
-      45.97066
+      14.35755,
+      45.85197
      ],
      [
-      14.31668,
-      45.97104
-     ],
-     [
-      14.3164,
-      45.97116
-     ],
-     [
-      14.31588,
-      45.97095
-     ],
-     [
-      14.31603,
-      45.97074
-     ],
-     [
-      14.31547,
-      45.9707
+      14.35737,
+      45.85191
      ]
     ]
    ]
   },
   "center": [
-   45.97078,
-   14.31596
+   45.85194,
+   14.35747
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "notranjska",
   "parking": [
    {
-    "lat": 45.97121,
-    "lon": 14.31583,
+    "lat": 45.85161,
+    "lon": 14.35915,
     "name": null,
-    "distKm": 0.03
+    "distKm": 0.13
    }
   ],
   "fishingSpots": [],
@@ -1423,9 +1414,10 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ribniki-sinja-gorica",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Sinja Gorica"
   ],
   "geometry": {
    "type": "Polygon",
@@ -1440,8 +1432,16 @@
       45.97066
      ],
      [
+      14.31672,
+      45.97073
+     ],
+     [
       14.31668,
       45.97104
+     ],
+     [
+      14.31659,
+      45.97115
      ],
      [
       14.3164,
