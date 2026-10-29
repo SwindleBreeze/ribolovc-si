@@ -276,14 +276,77 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-brezice/gramoznica-borst",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "none",
+  "quality": "place",
   "qualityNotes": [
-   "jezero ni v OSM"
+   "jezero ni v OSM",
+   "ribnik ob kraju Boršt"
   ],
-  "geometry": null,
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      15.54656,
+      45.89444
+     ],
+     [
+      15.54703,
+      45.89396
+     ],
+     [
+      15.5473,
+      45.89395
+     ],
+     [
+      15.54952,
+      45.89465
+     ],
+     [
+      15.54953,
+      45.89477
+     ],
+     [
+      15.5494,
+      45.8948
+     ],
+     [
+      15.54921,
+      45.895
+     ],
+     [
+      15.54962,
+      45.89511
+     ],
+     [
+      15.54962,
+      45.89528
+     ],
+     [
+      15.54926,
+      45.89561
+     ],
+     [
+      15.54935,
+      45.89567
+     ],
+     [
+      15.54918,
+      45.89597
+     ],
+     [
+      15.54657,
+      45.89478
+     ],
+     [
+      15.54656,
+      45.89444
+     ]
+    ]
+   ]
+  },
   "center": [
-   45.88168,
-   15.64052
+   45.89492,
+   15.54855
   ],
   "lengthKm": null,
   "region": "posavje",
@@ -822,8 +885,8 @@
   ],
   "geometry": null,
   "center": [
-   45.88168,
-   15.64052
+   45.86183,
+   15.65541
   ],
   "lengthKm": null,
   "region": "posavje",
@@ -902,8 +965,8 @@
   ],
   "geometry": null,
   "center": [
-   45.88168,
-   15.64052
+   45.86183,
+   15.65541
   ],
   "lengthKm": null,
   "region": "posavje",
@@ -1606,7 +1669,7 @@
   },
   "description": "Ribnik se nahaja blizu gradu Mokrice, ki leži ob medkrajevni cesti od Čateža ob Savi proti Obrežju. Poleg občudovanja lepe narave in okolice pa se lahko ob ribniku sporostite z ribolovom na krape, amurje in klene. Ribolov je zaradi aktivnosti bližnejga golf igrišča čez dan zaprt in je ribolov dovoljen samo od 1. maja do 1. novembra v dopoldanskih urah med 6h in 9h ter proti večeru, med 18h-21h.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "klen",
@@ -1655,49 +1718,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-brezice/ribnik-mokrice",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      15.64016,
-      46.00304
-     ],
-     [
-      15.64081,
-      46.0028
-     ],
-     [
-      15.64016,
-      46.00304
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.0029,
-   15.64052
+   45.86183,
+   15.65541
   ],
   "lengthKm": null,
   "region": "posavje",
-  "parking": [
-   {
-    "lat": 46.00274,
-    "lon": 15.64094,
-    "name": null,
-    "distKm": 0.01
-   },
-   {
-    "lat": 46.00474,
-    "lon": 15.64764,
-    "name": null,
-    "distKm": 0.57
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:05.784Z"
  },
@@ -1719,7 +1751,7 @@
   },
   "description": "Ribniki so dostopni po cesti iz smeri Brezine ali G. Lenarta. V ribnikih je veliko potopljenih dreves med katerimi se skrivajo in drstijo veliki primerki rib. Predvsem gre tu za krape in some. Najdejo pa se tudi ščuke in smuči.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "krap",
    "smuc",
@@ -1762,49 +1794,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-brezice/ribnik-opekarna",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      15.64016,
-      46.00304
-     ],
-     [
-      15.64081,
-      46.0028
-     ],
-     [
-      15.64016,
-      46.00304
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.0029,
-   15.64052
+   45.86183,
+   15.65541
   ],
   "lengthKm": null,
   "region": "posavje",
-  "parking": [
-   {
-    "lat": 46.00274,
-    "lon": 15.64094,
-    "name": null,
-    "distKm": 0.01
-   },
-   {
-    "lat": 46.00474,
-    "lon": 15.64764,
-    "name": null,
-    "distKm": 0.57
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:15.389Z"
  },
@@ -1826,7 +1827,7 @@
   },
   "description": "Ribnik Prilipe se nahaja ob krajevni cesti med Čatežem ob Savi in Obrežjem. V njem plavajo predvsem ciprinidne vrste kot so: krap, amur, klen, zelenika in rdečeperka. Ribnik je odprt le ob vikendih in v času od 1.3 do 1.11.. Ribiči se lahko odločijo za talni ribolov ali ribolov s plovcem, ribnik pa je znan po tem, da je skoraj nemogoče oditi brez ulova.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "androga",
@@ -1892,49 +1893,89 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-brezice/ribnik-prilipe-1",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Prilipe"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.64016,
-      46.00304
+      15.62154,
+      45.87892
      ],
      [
-      15.64081,
-      46.0028
+      15.62272,
+      45.87856
      ],
      [
-      15.64016,
-      46.00304
+      15.62395,
+      45.87841
+     ],
+     [
+      15.62484,
+      45.87848
+     ],
+     [
+      15.62497,
+      45.87861
+     ],
+     [
+      15.62535,
+      45.87858
+     ],
+     [
+      15.62557,
+      45.8787
+     ],
+     [
+      15.62546,
+      45.87882
+     ],
+     [
+      15.62459,
+      45.87891
+     ],
+     [
+      15.62405,
+      45.87912
+     ],
+     [
+      15.62353,
+      45.87968
+     ],
+     [
+      15.62255,
+      45.87986
+     ],
+     [
+      15.62245,
+      45.87983
+     ],
+     [
+      15.62237,
+      45.87959
+     ],
+     [
+      15.62203,
+      45.87943
+     ],
+     [
+      15.62154,
+      45.87892
      ]
     ]
    ]
   },
   "center": [
-   46.0029,
-   15.64052
+   45.87916,
+   15.62349
   ],
   "lengthKm": null,
   "region": "posavje",
-  "parking": [
-   {
-    "lat": 46.00274,
-    "lon": 15.64094,
-    "name": null,
-    "distKm": 0.01
-   },
-   {
-    "lat": 46.00474,
-    "lon": 15.64764,
-    "name": null,
-    "distKm": 0.57
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:34.594Z"
  },

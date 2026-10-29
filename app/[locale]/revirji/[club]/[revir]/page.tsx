@@ -6,6 +6,7 @@ import { routing, type Locale } from '@/i18n/routing';
 import { getAllSpecies, getGuide, getLures, getPhotos, getRevir, getRevirji, type Guide } from '@/lib/content';
 import { getPlaces, revirTitle } from '@/lib/places';
 import { site } from '@/lib/site';
+import { advisorData } from '@/lib/advisor-data';
 import { ConditionsPanel } from '@/components/conditions/ConditionsPanel';
 import { DataStrip, PageHeader, SectionTitle } from '@/components/ui/PageHeader';
 import { AccessPanel, PermitPanel, RigsPanel, SpeciesPlates } from '@/components/place/Panels';
@@ -117,7 +118,7 @@ export default async function RevirPage({ params }: { params: Promise<Params> })
               <SectionTitle id="cond-h" note="Open-Meteo · ARSO">
                 {t('conditions.heading')}
               </SectionTitle>
-              <ConditionsPanel query={`revir=${encodeURIComponent(r.id)}`} type={r.waterType} />
+              <ConditionsPanel query={`revir=${encodeURIComponent(r.id)}`} type={r.waterType} advisor={advisorData(r.species, r.techniques, locale)} />
             </section>
           )}
 

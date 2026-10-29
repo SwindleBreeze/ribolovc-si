@@ -1171,8 +1171,8 @@
    "url": "https://www.ribiskekarte.si/rd-novo-mesto"
   },
   "description": "Od izvira do izliva v Radeščico",
-  "waterType": "lake",
-  "water": null,
+  "waterType": "river",
+  "water": "Obrh",
   "species": [
    "potocna-postrv",
    "sarenka"
@@ -1204,25 +1204,167 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-novo-mesto/obrh-novo-mesto",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "place",
+  "quality": "water",
   "qualityNotes": [
-   "jezero ni v OSM",
-   "kraj Obrh"
+   "cel vodotok"
   ],
   "geometry": {
-   "type": "Point",
+   "type": "LineString",
    "coordinates": [
-    15.03482,
-    45.75062
+    [
+     15.31793,
+     45.6524
+    ],
+    [
+     15.31865,
+     45.65175
+    ],
+    [
+     15.31866,
+     45.65108
+    ],
+    [
+     15.31852,
+     45.65074
+    ],
+    [
+     15.31931,
+     45.64989
+    ],
+    [
+     15.3206,
+     45.6494
+    ],
+    [
+     15.32064,
+     45.64905
+    ],
+    [
+     15.32107,
+     45.64854
+    ],
+    [
+     15.32124,
+     45.64857
+    ],
+    [
+     15.32129,
+     45.64885
+    ],
+    [
+     15.32141,
+     45.6499
+    ],
+    [
+     15.32129,
+     45.65018
+    ],
+    [
+     15.32239,
+     45.65036
+    ],
+    [
+     15.32384,
+     45.65017
+    ],
+    [
+     15.32551,
+     45.64966
+    ],
+    [
+     15.32752,
+     45.64931
+    ],
+    [
+     15.32773,
+     45.64891
+    ],
+    [
+     15.32738,
+     45.64798
+    ],
+    [
+     15.3276,
+     45.64754
+    ],
+    [
+     15.32962,
+     45.64628
+    ],
+    [
+     15.33104,
+     45.64606
+    ],
+    [
+     15.33226,
+     45.64549
+    ],
+    [
+     15.33334,
+     45.64538
+    ],
+    [
+     15.33425,
+     45.64556
+    ],
+    [
+     15.3349,
+     45.64592
+    ],
+    [
+     15.33661,
+     45.64604
+    ],
+    [
+     15.3373,
+     45.64581
+    ],
+    [
+     15.33933,
+     45.64565
+    ],
+    [
+     15.34097,
+     45.64504
+    ],
+    [
+     15.34215,
+     45.64477
+    ]
    ]
   },
   "center": [
-   45.75062,
-   15.03482
+   45.64835,
+   15.32752
   ],
-  "lengthKm": null,
+  "lengthKm": 2.7,
   "region": "dolenjska",
-  "parking": [],
+  "parking": [
+   {
+    "lat": 45.65054,
+    "lon": 15.31646,
+    "name": null,
+    "distKm": 0.16
+   },
+   {
+    "lat": 45.64713,
+    "lon": 15.31913,
+    "name": null,
+    "distKm": 0.22
+   },
+   {
+    "lat": 45.65359,
+    "lon": 15.31351,
+    "name": null,
+    "distKm": 0.37
+   },
+   {
+    "lat": 45.65143,
+    "lon": 15.3364,
+    "name": null,
+    "distKm": 0.6
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:34:46.561Z"
  },
@@ -2547,7 +2689,7 @@
   },
   "description": "Ribnik Blato je v idiličnem okolju dolenjskih gričev, nedaleč od Trebnjega. Ribnik obsega 1,2 ha, v njem pa so različne ciprinidne vrste: največ je krapov, sledijo jim linji, ploščiči in smuči.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "klen",
@@ -2604,101 +2746,74 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-novo-mesto/ribnik-blato",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Blato"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.49518,
-      46.0047
+      15.0066,
+      45.9341
      ],
      [
-      15.49579,
-      46.00431
+      15.00678,
+      45.9339
      ],
      [
-      15.49651,
-      46.00445
+      15.00706,
+      45.93386
      ],
      [
-      15.49682,
-      46.00471
+      15.00838,
+      45.93426
      ],
      [
-      15.497,
-      46.00516
+      15.00885,
+      45.93415
      ],
      [
-      15.4968,
-      46.00549
+      15.00898,
+      45.93438
      ],
      [
-      15.49698,
-      46.00609
+      15.0089,
+      45.9345
      ],
      [
-      15.49686,
-      46.00655
+      15.00795,
+      45.93466
      ],
      [
-      15.49715,
-      46.00715
+      15.00745,
+      45.93446
      ],
      [
-      15.49675,
-      46.00733
+      15.00674,
+      45.93444
      ],
      [
-      15.49633,
-      46.00707
-     ],
-     [
-      15.49612,
-      46.00681
-     ],
-     [
-      15.49618,
-      46.00608
-     ],
-     [
-      15.49592,
-      46.00603
-     ],
-     [
-      15.49602,
-      46.0059
-     ],
-     [
-      15.49576,
-      46.00563
-     ],
-     [
-      15.49582,
-      46.00544
-     ],
-     [
-      15.49518,
-      46.0047
+      15.0066,
+      45.9341
      ]
     ]
    ]
   },
   "center": [
-   46.00584,
-   15.49632
+   45.93427,
+   15.00769
   ],
   "lengthKm": null,
-  "region": "posavje",
+  "region": "dolenjska",
   "parking": [
    {
-    "lat": 46.00494,
-    "lon": 15.4977,
+    "lat": 45.93355,
+    "lon": 15.00587,
     "name": null,
-    "distKm": 0.06
+    "distKm": 0.08
    }
   ],
   "fishingSpots": [],

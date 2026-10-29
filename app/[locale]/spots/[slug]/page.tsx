@@ -6,6 +6,7 @@ import { routing, type Locale } from '@/i18n/routing';
 import { getAllSpecies, getGuide, getLures, getPhotos, getRevir, getSpot, getSpots, type Guide } from '@/lib/content';
 import { getPlaces, revirTitle } from '@/lib/places';
 import { site } from '@/lib/site';
+import { advisorData } from '@/lib/advisor-data';
 import { loc } from '@/lib/text';
 import { ConditionsPanel } from '@/components/conditions/ConditionsPanel';
 import { DataStrip, PageHeader, SectionTitle } from '@/components/ui/PageHeader';
@@ -99,7 +100,7 @@ export default async function SpotPage({ params }: { params: Promise<Params> }) 
               <SectionTitle id="cond-h" note="Open-Meteo · ARSO">
                 {t('conditions.heading')}
               </SectionTitle>
-              <ConditionsPanel query={`spot=${encodeURIComponent(spot.slug)}`} type={spot.type} />
+              <ConditionsPanel query={`spot=${encodeURIComponent(spot.slug)}`} type={spot.type} advisor={forbidden ? undefined : advisorData(spot.species, spot.techniques, locale)} />
             </section>
           )}
           <PhotoGallery photos={getPhotos(`spot:${spot.slug}`)} addUrl={photoUrl} />

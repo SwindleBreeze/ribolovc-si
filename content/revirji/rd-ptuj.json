@@ -2170,7 +2170,7 @@
   },
   "description": "Ribolovni revir Gramoznica Tržec se nahaja v gramozni jami med vasmi Videm, Tržec in Lancova vas. Vodna površina tega revirja je cca 8.5 ha. Gramoznica Tržec je revir, ki je namenjen predvsem za izvajanje ribolova na kapitalno ribo na način ujemi & izpusti. Vsako leto vanj vložimo nekaj manjših krapov, ploščičev in ribjega drobiža ter neprestanoma stremimo k vlaganju kapitalnih rib. Gramoznica Tržec je t.i.",
   "waterType": "pond",
-  "water": "Gramoznica",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -2240,92 +2240,252 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ptuj/gramoznica-trzec",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Gramoznica"
+   "jezero ni v OSM",
+   "ribnik ob kraju Tržec"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      16.21582,
-      46.55725
+      15.87109,
+      46.36941
      ],
      [
-      16.21642,
-      46.55671
+      15.87165,
+      46.36933
      ],
      [
-      16.21695,
-      46.557
+      15.87186,
+      46.3702
      ],
      [
-      16.2191,
-      46.55654
+      15.87195,
+      46.37027
      ],
      [
-      16.21956,
-      46.55659
+      15.87208,
+      46.37018
      ],
      [
-      16.21969,
-      46.55674
+      15.8719,
+      46.36919
      ],
      [
-      16.21925,
-      46.55712
+      15.87282,
+      46.36909
      ],
      [
-      16.21895,
-      46.55716
+      15.87298,
+      46.36932
      ],
      [
-      16.21882,
-      46.55702
+      15.87342,
+      46.36949
      ],
      [
-      16.21795,
-      46.55721
+      15.87353,
+      46.36935
      ],
      [
-      16.21837,
-      46.55762
+      15.87379,
+      46.36923
      ],
      [
-      16.21854,
-      46.5576
+      15.87406,
+      46.36918
      ],
      [
-      16.21854,
-      46.55732
+      15.87443,
+      46.36926
      ],
      [
-      16.2193,
-      46.55722
+      15.87495,
+      46.36965
      ],
      [
-      16.21876,
-      46.55844
+      15.87498,
+      46.36973
      ],
      [
-      16.21809,
-      46.55874
+      15.87486,
+      46.36985
      ],
      [
-      16.21582,
-      46.55725
+      15.8749,
+      46.37023
+     ],
+     [
+      15.87508,
+      46.37036
+     ],
+     [
+      15.87514,
+      46.37083
+     ],
+     [
+      15.87534,
+      46.37101
+     ],
+     [
+      15.87553,
+      46.37094
+     ],
+     [
+      15.87537,
+      46.37033
+     ],
+     [
+      15.87542,
+      46.37021
+     ],
+     [
+      15.87534,
+      46.37012
+     ],
+     [
+      15.87517,
+      46.3694
+     ],
+     [
+      15.8754,
+      46.36941
+     ],
+     [
+      15.87678,
+      46.3698
+     ],
+     [
+      15.87694,
+      46.37054
+     ],
+     [
+      15.87712,
+      46.37053
+     ],
+     [
+      15.87717,
+      46.37044
+     ],
+     [
+      15.87696,
+      46.37001
+     ],
+     [
+      15.87701,
+      46.36984
+     ],
+     [
+      15.87976,
+      46.37019
+     ],
+     [
+      15.88035,
+      46.37029
+     ],
+     [
+      15.88044,
+      46.37037
+     ],
+     [
+      15.87878,
+      46.37052
+     ],
+     [
+      15.87787,
+      46.37079
+     ],
+     [
+      15.87665,
+      46.37101
+     ],
+     [
+      15.87571,
+      46.37134
+     ],
+     [
+      15.87543,
+      46.37161
+     ],
+     [
+      15.87453,
+      46.37217
+     ],
+     [
+      15.87373,
+      46.37324
+     ],
+     [
+      15.87339,
+      46.37391
+     ],
+     [
+      15.87289,
+      46.37402
+     ],
+     [
+      15.87287,
+      46.3724
+     ],
+     [
+      15.87281,
+      46.37213
+     ],
+     [
+      15.87268,
+      46.37205
+     ],
+     [
+      15.87277,
+      46.37199
+     ],
+     [
+      15.87261,
+      46.37192
+     ],
+     [
+      15.87231,
+      46.37148
+     ],
+     [
+      15.87225,
+      46.37126
+     ],
+     [
+      15.87231,
+      46.37121
+     ],
+     [
+      15.87222,
+      46.37122
+     ],
+     [
+      15.87172,
+      46.3705
+     ],
+     [
+      15.87109,
+      46.36941
      ]
     ]
    ]
   },
   "center": [
-   46.55751,
-   16.21787
+   46.37048,
+   15.87512
   ],
   "lengthKm": null,
-  "region": "pomurje",
-  "parking": [],
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.36459,
+    "lon": 15.8693,
+    "name": null,
+    "distKm": 0.55
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:30:36.925Z"
  },
@@ -2833,7 +2993,7 @@
   },
   "description": "Ribnik je v osnovi opuščen glinokop, ki je bil preurejen v ribnik za športni ribolov. Vodna površina ribnika je 2.4 ha. Ribnik je naseljen s krapi, amurji, srebrnimi koreslji in tolstolobiki, ploščiči in ostalimi ribami mirnih voda (rdečeoka, rdečeperka, klen, ščuka, smuč, som). Ribnik se nahaja v neposredni bližini mesta Ptuja ob cesti iz Ptuja proti Radencem.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -2888,42 +3048,74 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ptuj/ribnik-rogoznica-1",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik",
-   "sidro: središče družine"
+   "jezero ni v OSM",
+   "ribnik ob kraju Rogoznica"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      16.13937,
-      46.6823
+      15.89396,
+      46.43125
      ],
      [
-      16.13964,
-      46.68225
+      15.89459,
+      46.4307
      ],
      [
-      16.13937,
-      46.6823
+      15.89497,
+      46.43064
+     ],
+     [
+      15.89507,
+      46.43069
+     ],
+     [
+      15.89555,
+      46.43151
+     ],
+     [
+      15.89569,
+      46.43199
+     ],
+     [
+      15.8947,
+      46.43235
+     ],
+     [
+      15.89396,
+      46.43125
      ]
     ]
    ]
   },
   "center": [
-   46.68228,
-   16.13951
+   46.43148,
+   15.89477
   ],
   "lengthKm": null,
-  "region": "pomurje",
+  "region": "stajerska",
   "parking": [
    {
-    "lat": 46.67854,
-    "lon": 16.13827,
+    "lat": 46.43308,
+    "lon": 15.89452,
     "name": null,
-    "distKm": 0.43
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.42796,
+    "lon": 15.89281,
+    "name": null,
+    "distKm": 0.33
+   },
+   {
+    "lat": 46.42897,
+    "lon": 15.88738,
+    "name": null,
+    "distKm": 0.56
    }
   ],
   "fishingSpots": [],
@@ -2947,7 +3139,7 @@
   },
   "description": "Ribnik Rogoznica 2 je narejen iz opuščenega glinokopa. Kot takšen nima stalnega napajanja z vodo, saj so edini pritok meteorne vode. Zaradi novo urejenih nabrežin v letu 2013 je dostop omogočen tudi ribičem z invalidskimi vozički, saj se se lahko pripeljejo čisto do vode.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -3000,42 +3192,74 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ptuj/ribnik-rogoznica-2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik",
-   "sidro: središče družine"
+   "jezero ni v OSM",
+   "ribnik ob kraju Rogoznica"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      16.13937,
-      46.6823
+      15.89396,
+      46.43125
      ],
      [
-      16.13964,
-      46.68225
+      15.89459,
+      46.4307
      ],
      [
-      16.13937,
-      46.6823
+      15.89497,
+      46.43064
+     ],
+     [
+      15.89507,
+      46.43069
+     ],
+     [
+      15.89555,
+      46.43151
+     ],
+     [
+      15.89569,
+      46.43199
+     ],
+     [
+      15.8947,
+      46.43235
+     ],
+     [
+      15.89396,
+      46.43125
      ]
     ]
    ]
   },
   "center": [
-   46.68228,
-   16.13951
+   46.43148,
+   15.89477
   ],
   "lengthKm": null,
-  "region": "pomurje",
+  "region": "stajerska",
   "parking": [
    {
-    "lat": 46.67854,
-    "lon": 16.13827,
+    "lat": 46.43308,
+    "lon": 15.89452,
     "name": null,
-    "distKm": 0.43
+    "distKm": 0.08
+   },
+   {
+    "lat": 46.42796,
+    "lon": 15.89281,
+    "name": null,
+    "distKm": 0.33
+   },
+   {
+    "lat": 46.42897,
+    "lon": 15.88738,
+    "name": null,
+    "distKm": 0.56
    }
   ],
   "fishingSpots": [],

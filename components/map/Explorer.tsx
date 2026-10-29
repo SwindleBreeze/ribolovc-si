@@ -176,7 +176,12 @@ export function Explorer({
             onBounds={setBounds}
             me={me}
             showDepth={showDepth}
-            labels={{ open: t('home.openPlace'), types: Object.fromEntries(waterTypes.map((w) => [w, t(`waterType.${w}`)])) }}
+            labels={{
+              open: t('home.openPlace'),
+              fish: t('home.fish'),
+              types: Object.fromEntries(waterTypes.map((w) => [w, t(`waterType.${w}`)])),
+              species: Object.fromEntries(speciesName),
+            }}
           />
           <MapLegend />
         </div>

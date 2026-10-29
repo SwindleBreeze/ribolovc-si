@@ -445,6 +445,20 @@ h3,
   line-height: 1.4;
   color: var(--ink-2);
 }
+.place-popup .pop-fish {
+  margin: 8px 0 0;
+  padding-top: 7px;
+  border-top: 1px solid var(--rule-2);
+  font-size: 13px;
+  line-height: 1.4;
+}
+.place-popup .pop-fish span {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
 .place-popup .pop-link {
   display: inline-block;
   margin-top: 10px;

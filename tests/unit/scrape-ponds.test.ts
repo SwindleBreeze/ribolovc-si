@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { Geocoder, isGenericWaterName, withoutGenericPrefix } from '../../scripts/scrape/geocode';
+import { Geocoder, isGenericWaterName, withAdjectiveStems, withoutGenericPrefix } from '../../scripts/scrape/geocode';
 import type { OsmPond } from '../../scripts/scrape/osm-extract';
 
 const square = (lon: number, lat: number, size: number): [number, number][] => [
@@ -24,6 +24,12 @@ describe('still-water placement', () => {
     expect(withoutGenericPrefix(['Gramoznica Tržec'])).toEqual(['Gramoznica Tržec', 'Tržec']);
     expect(withoutGenericPrefix(['Ribnik Bajer Grobišče'])).toEqual(['Ribnik Bajer Grobišče', 'Grobišče']);
     expect(withoutGenericPrefix(['Soča'])).toEqual(['Soča']);
+  });
+
+  it('derives the town from an adjective name', () => {
+    expect(withAdjectiveStems(['Šoštanjsko'])).toEqual(['Šoštanjsko', 'Šoštanj', 'Šoštanje', 'Šoštanja']);
+    expect(withAdjectiveStems(['Velenjsko'])).toContain('Velenje');
+    expect(isGenericWaterName('Lokev')).toBe(true);
   });
 
   it('snaps a pond named after a village to the nearest pond there, not to a lake called "Gramoznica"', () => {

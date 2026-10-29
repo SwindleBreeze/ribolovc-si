@@ -63,7 +63,7 @@ export default function PlacesMap({
   /** Small labelled markers, e.g. "P" for parking. */
   markers?: { lat: number; lon: number; label: string; title: string }[];
   /** Popup texts: the "open" link and water-type names. */
-  labels?: { open: string; types: Record<string, string> };
+  labels?: { open: string; fish: string; types: Record<string, string>; species: Record<string, string> };
 }) {
   const locale = useLocale();
   const container = useRef<HTMLDivElement>(null);
@@ -185,6 +185,10 @@ export default function PlacesMap({
         if (!p) return;
         latest.current.onSelect?.(id);
         const href = `/${latest.current.locale}${p.href}`;
+        // Up to six fish by name; the page lists them all.
+        const names = p.species.map((s) => latest.current.labels?.species?.[s]).filter((n): n is string => Boolean(n));
+        const fish = names.slice(0, 6);
+        const more = names.length - fish.length;
         const kicker = [p.club && p.club !== p.sub ? p.club : null, latest.current.labels?.types?.[p.type]].filter(Boolean).join(' · ');
         new maplibregl.Popup({ offset: 12, maxWidth: '280px', className: 'place-popup' })
           .setLngLat(at)
@@ -192,6 +196,7 @@ export default function PlacesMap({
             `${kicker ? `<p class="pop-kicker">${escapeHtml(kicker)}</p>` : ''}` +
               `<a class="pop-title" href="${href}">${escapeHtml(p.name)}</a>` +
               `${p.sub ? `<p class="pop-sub">${escapeHtml(p.sub)}</p>` : ''}` +
+              `${fish.length ? `<p class="pop-fish"><span>${escapeHtml(latest.current.labels?.fish ?? '')}</span> ${escapeHtml(fish.join(', '))}${more > 0 ? ` +${more}` : ''}</p>` : ''}` +
               `<a class="pop-link" href="${href}">${escapeHtml(latest.current.labels?.open ?? '→')} →</a>`,
           )
           .addTo(map);

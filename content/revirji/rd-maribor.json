@@ -779,7 +779,7 @@
   },
   "description": "Po svoji funkciji je bil ribnik prvotno namenjen namakanju sadovnjakov, ker presega te kapacitete je nastal lep in prijeten ribolovni objekt. Lahka dostopnost in vedno svež zrak mu dajezta še posebni čar. Ribnik je napajan iz pohorskega potoka, bogato naseljen s krapi in ščukami, veliko pa je tudi rdečeok in zelenik.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "americki-somic",
    "koreselj",
@@ -853,44 +853,17 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-maribor/ribnik-hoce-univerza",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik",
-   "sidro: središče družine"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      15.37587,
-      46.26508
-     ],
-     [
-      15.37631,
-      46.26455
-     ],
-     [
-      15.37681,
-      46.26456
-     ],
-     [
-      15.37601,
-      46.26524
-     ],
-     [
-      15.37587,
-      46.26508
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.26481,
-   15.37632
+   46.50405,
+   15.64586
   ],
   "lengthKm": null,
-  "region": "savinjska",
+  "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:37:39.380Z"
@@ -955,18 +928,54 @@
   "quality": "place",
   "qualityNotes": [
    "jezero ni v OSM",
-   "kraj Radvanje"
+   "ribnik ob kraju Radvanje"
   ],
   "geometry": {
-   "type": "Point",
+   "type": "Polygon",
    "coordinates": [
-    15.61548,
-    46.53331
+    [
+     [
+      15.61451,
+      46.53436
+     ],
+     [
+      15.61543,
+      46.53398
+     ],
+     [
+      15.61569,
+      46.53404
+     ],
+     [
+      15.61563,
+      46.53412
+     ],
+     [
+      15.61567,
+      46.53447
+     ],
+     [
+      15.61523,
+      46.53465
+     ],
+     [
+      15.61514,
+      46.53459
+     ],
+     [
+      15.61486,
+      46.53462
+     ],
+     [
+      15.61451,
+      46.53436
+     ]
+    ]
    ]
   },
   "center": [
-   46.53331,
-   15.61548
+   46.53434,
+   15.61518
   ],
   "lengthKm": null,
   "region": "stajerska",
@@ -975,7 +984,13 @@
     "lat": 46.53571,
     "lon": 15.6197,
     "name": null,
-    "distKm": 0.42
+    "distKm": 0.34
+   },
+   {
+    "lat": 46.53815,
+    "lon": 15.61186,
+    "name": null,
+    "distKm": 0.45
    }
   ],
   "fishingSpots": [],

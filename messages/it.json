@@ -33,7 +33,8 @@
     "statClubs": "Società di pesca",
     "statSpecies": "Specie",
     "startTitle": "La prima volta in acqua",
-    "openPlace": "Dettagli e previsioni"
+    "openPlace": "Dettagli e previsioni",
+    "fish": "Pesci"
   },
   "filters": {
     "title": "Filtri",
@@ -339,5 +340,65 @@
     "add": "Aggiungi una foto",
     "alt": "Foto di {author}",
     "credit": "© {author} · CC BY 4.0"
+  },
+  "advice": {
+    "heading": "Cosa usare – {day}",
+    "fish": "Pesce",
+    "when": "Quando",
+    "water": "Acqua",
+    "why": "Perché",
+    "guide": "Guida",
+    "note": "Calcolato da previsioni, idrometro e specie. Valgono sempre le regole sul permesso.",
+    "tempSource": {
+      "gauge": "misurata, ARSO",
+      "sea": "previsione marina",
+      "air": "stima dalla temperatura dell’aria"
+    },
+    "window": {
+      "dawnDusk": "Mattina presto e sera",
+      "dusk": "Dal tardo pomeriggio al crepuscolo",
+      "night": "Crepuscolo e prime ore della notte",
+      "midday": "Verso mezzogiorno, quando l’acqua è più calda",
+      "allDay": "Tutto il giorno"
+    },
+    "bait": {
+      "nymph": "Ninfa con testina in tungsteno",
+      "dryfly": "Mosca secca",
+      "streamer": "Streamer",
+      "lure": "Esca artificiale",
+      "worms": "Lombrichi",
+      "maggots": "Bigattini",
+      "corn": "Mais",
+      "boilies": "Boilies",
+      "bread": "Pane",
+      "cheese": "Formaggio o lombrichi",
+      "deadbait": "Pesce morto (dove consentito)",
+      "seaworm": "Verme di mare",
+      "paste": "Pastella",
+      "pellets": "Pellet",
+      "squidjig": "Totanara"
+    },
+    "tip": {
+      "cold": "L’acqua è fredda – recupero lento vicino al fondo, i pesci sono pigri.",
+      "mild": "L’acqua è temperata – pesci attivi, provate diverse profondità.",
+      "warm": "Acqua calda – attivi al mattino e alla sera, di giorno all’ombra o più in profondità.",
+      "hot": "Acqua molto calda, poco ossigeno – pescate presso gli immissari, all’ombra e al crepuscolo.",
+      "murky": "La pioggia ha intorbidito l’acqua – esche chiare o vibranti, esche odorose, più vicino alla riva.",
+      "clear": "Acqua limpida – colori naturali, filo più sottile, state lontani dal bordo.",
+      "highFlow": "Acqua alta – i pesci stanno nelle zone calme dietro i massi, nelle anse interne e a riva. Più piombo.",
+      "flood": "Piena – pescare è pericoloso e inutile. Aspettate che l’acqua cali.",
+      "lowFlow": "Acqua bassa – pesci nelle buche profonde e nei raschi ossigenati; fate silenzio.",
+      "pressureFalling": "La pressione scende prima di un cambio di tempo – spesso abboccano meglio.",
+      "pressureRising": "La pressione sale in fretta – abboccate più scarse; esche più piccole e montature fini.",
+      "windShore": "Il vento spinge il cibo verso la riva sottovento – pescate lì.",
+      "windStrong": "Vento forte – galleggiante o pasturatore più pesante, affondate il filo, attenzione alla sicurezza.",
+      "brightSun": "Sole pieno – i pesci vanno all’ombra e in profondità; meglio presto e tardi.",
+      "overcast": "Nuvoloso – i pesci restano attivi anche di giorno.",
+      "surf": "Mare mosso – le spigole cacciano nella schiuma sugli scogli; piombo più pesante a fondo.",
+      "calmSea": "Mare calmo – pescate più fine, la sera o di notte.",
+      "huchenSeason": "Il huchen si pesca da ottobre a febbraio – fuori stagione lasciatelo stare.",
+      "squidSeason": "I calamari sono sotto costa soprattutto da ottobre a febbraio.",
+      "methodNotAllowed": "Questa riserva potrebbe non consentire questa tecnica – controllate le regole."
+    }
   }
 }

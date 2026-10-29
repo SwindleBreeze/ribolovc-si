@@ -2456,7 +2456,7 @@
   },
   "description": "od Ormož do -",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [],
   "speciesRaw": [],
   "methods": [],
@@ -2469,43 +2469,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ormoz/ribnik-ob-zagi",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      16.35849,
-      46.55172
-     ],
-     [
-      16.35866,
-      46.55156
-     ],
-     [
-      16.35849,
-      46.55172
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.55164,
-   16.35857
+   46.39366,
+   16.18469
   ],
   "lengthKm": null,
-  "region": "pomurje",
-  "parking": [
-   {
-    "lat": 46.55047,
-    "lon": 16.35789,
-    "name": null,
-    "distKm": 0.13
-   }
-  ],
+  "region": "stajerska",
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:44:46.630Z"
  },
@@ -3063,7 +3038,7 @@
   },
   "description": "od Spodnja polovica akumulacije do -",
   "waterType": "reservoir",
-  "water": null,
+  "water": "Savski ribnik",
   "species": [],
   "speciesRaw": [],
   "methods": [],
@@ -3076,19 +3051,168 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ormoz/zadrzevalnik-savci-z1b",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "none",
+  "quality": "place",
   "qualityNotes": [
-   "jezero ni v OSM"
+   "jezero ni v OSM",
+   "ribnik ob kraju Savci"
   ],
-  "geometry": null,
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      16.03381,
+      46.46825
+     ],
+     [
+      16.03402,
+      46.46822
+     ],
+     [
+      16.03414,
+      46.46833
+     ],
+     [
+      16.03457,
+      46.46833
+     ],
+     [
+      16.0345,
+      46.46852
+     ],
+     [
+      16.03497,
+      46.46853
+     ],
+     [
+      16.03485,
+      46.46828
+     ],
+     [
+      16.03439,
+      46.46798
+     ],
+     [
+      16.03422,
+      46.46775
+     ],
+     [
+      16.03433,
+      46.46769
+     ],
+     [
+      16.03432,
+      46.46746
+     ],
+     [
+      16.03422,
+      46.46731
+     ],
+     [
+      16.0348,
+      46.46698
+     ],
+     [
+      16.0352,
+      46.46645
+     ],
+     [
+      16.0357,
+      46.46607
+     ],
+     [
+      16.03615,
+      46.46603
+     ],
+     [
+      16.03625,
+      46.46586
+     ],
+     [
+      16.03669,
+      46.46564
+     ],
+     [
+      16.03707,
+      46.46552
+     ],
+     [
+      16.03747,
+      46.46563
+     ],
+     [
+      16.03876,
+      46.46518
+     ],
+     [
+      16.03955,
+      46.46509
+     ],
+     [
+      16.0398,
+      46.4652
+     ],
+     [
+      16.04067,
+      46.46588
+     ],
+     [
+      16.04056,
+      46.46624
+     ],
+     [
+      16.04041,
+      46.46639
+     ],
+     [
+      16.0394,
+      46.46717
+     ],
+     [
+      16.03852,
+      46.46783
+     ],
+     [
+      16.03686,
+      46.46878
+     ],
+     [
+      16.03581,
+      46.46904
+     ],
+     [
+      16.03475,
+      46.46874
+     ],
+     [
+      16.03381,
+      46.46825
+     ]
+    ]
+   ]
+  },
   "center": [
-   46.39366,
-   16.18469
+   46.46703,
+   16.03637
   ],
   "lengthKm": null,
   "region": "stajerska",
-  "parking": [],
-  "fishingSpots": [],
+  "parking": [
+   {
+    "lat": 46.46875,
+    "lon": 16.03726,
+    "name": null,
+    "distKm": 0.03
+   }
+  ],
+  "fishingSpots": [
+   {
+    "lat": 46.46868,
+    "lon": 16.03709,
+    "name": "Ribnik Savci",
+    "distKm": 0.02
+   }
+  ],
   "scrapedAt": "2026-10-28T06:45:34.634Z"
  }
 ]

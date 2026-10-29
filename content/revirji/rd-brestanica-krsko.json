@@ -17,7 +17,7 @@
   },
   "description": "Ribniki v Mačkovcih pri Brestanici so jedro zaokroženega zemljišča v lasti RD Brestanica-Krško. Ribiči uživajo v ribolovu na krapa, amurja, tolstolobika, rdečeoko, rdečeperko, linja, babuško in druge vrste rib.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -67,103 +67,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-brestanica-krsko/ribnik-mackovec-2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      15.49518,
-      46.0047
-     ],
-     [
-      15.49579,
-      46.00431
-     ],
-     [
-      15.49651,
-      46.00445
-     ],
-     [
-      15.49682,
-      46.00471
-     ],
-     [
-      15.497,
-      46.00516
-     ],
-     [
-      15.4968,
-      46.00549
-     ],
-     [
-      15.49698,
-      46.00609
-     ],
-     [
-      15.49686,
-      46.00655
-     ],
-     [
-      15.49715,
-      46.00715
-     ],
-     [
-      15.49675,
-      46.00733
-     ],
-     [
-      15.49633,
-      46.00707
-     ],
-     [
-      15.49612,
-      46.00681
-     ],
-     [
-      15.49618,
-      46.00608
-     ],
-     [
-      15.49592,
-      46.00603
-     ],
-     [
-      15.49602,
-      46.0059
-     ],
-     [
-      15.49576,
-      46.00563
-     ],
-     [
-      15.49582,
-      46.00544
-     ],
-     [
-      15.49518,
-      46.0047
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.00584,
-   15.49632
+   45.95764,
+   15.49468
   ],
   "lengthKm": null,
   "region": "posavje",
-  "parking": [
-   {
-    "lat": 46.00494,
-    "lon": 15.4977,
-    "name": null,
-    "distKm": 0.06
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:00.987Z"
  },

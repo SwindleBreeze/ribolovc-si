@@ -1043,7 +1043,7 @@
   },
   "description": "Jezero Pristava (ujemi in spusti) je bogato z večjimi krapi in amurji (10 kg in več). Dostop je skozi Mengeš. Na glavnem križišču (pri gasilskem domu) v smeri ceste Trzin - Kamnik, zavijete proti cvetličarni, pošti oz. bivši Melodiji Mengeš. Po cesti se peljete do prvega odcepa, kjer zavijete desno in sledite usmerjevalnim tablam za dostop do izdelovalca harmonik Zupan.",
   "waterType": "lake",
-  "water": null,
+  "water": "Ceguvenški bajer",
   "species": [
    "amur",
    "klen",
@@ -1112,18 +1112,148 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/jezeropristava",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "none",
+  "quality": "place",
   "qualityNotes": [
-   "jezero ni v OSM"
+   "jezero ni v OSM",
+   "ribnik ob kraju Pristava"
   ],
-  "geometry": null,
+  "geometry": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      14.55271,
+      46.16101
+     ],
+     [
+      14.55286,
+      46.16019
+     ],
+     [
+      14.55302,
+      46.15986
+     ],
+     [
+      14.55354,
+      46.15987
+     ],
+     [
+      14.5544,
+      46.15944
+     ],
+     [
+      14.55495,
+      46.15963
+     ],
+     [
+      14.55545,
+      46.15949
+     ],
+     [
+      14.55547,
+      46.15967
+     ],
+     [
+      14.55556,
+      46.15973
+     ],
+     [
+      14.5554,
+      46.15989
+     ],
+     [
+      14.55541,
+      46.16
+     ],
+     [
+      14.55584,
+      46.16011
+     ],
+     [
+      14.55615,
+      46.15995
+     ],
+     [
+      14.55618,
+      46.16023
+     ],
+     [
+      14.55628,
+      46.16034
+     ],
+     [
+      14.55625,
+      46.16044
+     ],
+     [
+      14.55589,
+      46.16076
+     ],
+     [
+      14.55619,
+      46.16116
+     ],
+     [
+      14.55562,
+      46.16131
+     ],
+     [
+      14.55529,
+      46.16129
+     ],
+     [
+      14.55519,
+      46.16112
+     ],
+     [
+      14.55506,
+      46.16115
+     ],
+     [
+      14.55506,
+      46.16131
+     ],
+     [
+      14.55496,
+      46.16137
+     ],
+     [
+      14.55465,
+      46.16117
+     ],
+     [
+      14.55367,
+      46.16111
+     ],
+     [
+      14.5533,
+      46.16131
+     ],
+     [
+      14.55282,
+      46.16116
+     ],
+     [
+      14.55271,
+      46.16101
+     ]
+    ]
+   ]
+  },
   "center": [
-   46.14504,
-   14.60551
+   46.16061,
+   14.55466
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [],
+  "parking": [
+   {
+    "lat": 46.15951,
+    "lon": 14.55385,
+    "name": null,
+    "distKm": 0.04
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:31:27.354Z"
  },
@@ -6072,7 +6202,7 @@
   },
   "description": "Ribnik Češnjevek 1 je glinokopnega izvora, kjer so prisotni predvsem krapovci. Poleti je zelo priljubljen ribolov soma. Je članski ribnik, torej namenjen ribolovu članov. Dostop iz smeri Cerklje na Gorenjskem proti Velesovem (smer proti Preddvoru). V kraju Češnjevek zavijete desno za avtobusnim postajališčem. Po 1 km poti se pripeljete na ribnik. Ribnika sta dva in si sledita v zaporedju.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "bolen",
@@ -6147,67 +6277,70 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikcesnjevk1",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Češnjevek"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.47182,
+      46.26565
      ],
      [
-      14.471,
-      46.05365
+      14.47244,
+      46.26496
      ],
      [
-      14.47115,
-      46.05388
+      14.47297,
+      46.26488
      ],
      [
-      14.47095,
-      46.05404
+      14.47313,
+      46.26455
      ],
      [
-      14.47109,
-      46.05415
+      14.47409,
+      46.26451
      ],
      [
-      14.47077,
-      46.0543
+      14.47437,
+      46.26597
      ],
      [
-      14.4708,
-      46.05399
+      14.47326,
+      46.26596
      ],
      [
-      14.47055,
-      46.05387
+      14.47221,
+      46.2661
+     ],
+     [
+      14.47216,
+      46.26581
+     ],
+     [
+      14.47182,
+      46.26565
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.2654,
+   14.47283
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "gorenjska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.265,
+    "lon": 14.47897,
     "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
+    "distKm": 0.37
    }
   ],
   "fishingSpots": [],
@@ -6231,7 +6364,7 @@
   },
   "description": "Ribnik Češnjevek 2 je glinokopnega izvora, kjer so prisotni predvsem krapovci. Dostop je iz smeri Cerklje na Gorenjskem proti Velesovem (smer proti Preddvoru). V kraju Češnjevek zavijete desno za avtobusnim postajališčem. Po 1. km poti se pripeljete na ribnik. Ribnika sta dva in si sledita v zaporedju.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -6304,67 +6437,70 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnik-cesnjevek-2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Češnjevek"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.47182,
+      46.26565
      ],
      [
-      14.471,
-      46.05365
+      14.47244,
+      46.26496
      ],
      [
-      14.47115,
-      46.05388
+      14.47297,
+      46.26488
      ],
      [
-      14.47095,
-      46.05404
+      14.47313,
+      46.26455
      ],
      [
-      14.47109,
-      46.05415
+      14.47409,
+      46.26451
      ],
      [
-      14.47077,
-      46.0543
+      14.47437,
+      46.26597
      ],
      [
-      14.4708,
-      46.05399
+      14.47326,
+      46.26596
      ],
      [
-      14.47055,
-      46.05387
+      14.47221,
+      46.2661
+     ],
+     [
+      14.47216,
+      46.26581
+     ],
+     [
+      14.47182,
+      46.26565
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.2654,
+   14.47283
   ],
   "lengthKm": null,
-  "region": "osrednjeslovenska",
+  "region": "gorenjska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.265,
+    "lon": 14.47897,
     "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
+    "distKm": 0.37
    }
   ],
   "fishingSpots": [],
@@ -6545,7 +6681,7 @@
   },
   "description": "Ribnik Florida je bogat predvsem s krapovci in ščukami ter je umirjena lokacija za počitek. Dostop je iz smeri Dob proti Krtini - po stari cesti. Takoj pred nadvozom nad avtocesto LJ-MB se zavije levo. Po urejeni makadamski cesti se po ca. 1 km (drugi odcep levo pred drevesnim nasadom) pripeljete na ribnik.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -6600,69 +6736,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikflorida",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      14.47055,
-      46.05387
-     ],
-     [
-      14.471,
-      46.05365
-     ],
-     [
-      14.47115,
-      46.05388
-     ],
-     [
-      14.47095,
-      46.05404
-     ],
-     [
-      14.47109,
-      46.05415
-     ],
-     [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.05401,
-   14.47088
+   46.16095,
+   14.63765
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 46.05376,
-    "lon": 14.46991,
-    "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:37:27.395Z"
  },
@@ -6684,7 +6769,7 @@
   },
   "description": "Ribnik Križ je bogat predvsem s krapovci in plenilkami. Dostop do ribnika je iz smeri iz Kamnika mimo Podgorja proti Križu pri Komendi. Takoj za koncem naselja Podgorje (pred znamenjem) zavijete desno. Po približno 200 metrih prispete do urejenega parkirišča ob ribniku.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Kriški bajer",
   "species": [
    "amur",
    "koreselj",
@@ -6760,67 +6845,62 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikkriz",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Križ"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.57023,
+      46.20203
      ],
      [
-      14.471,
-      46.05365
+      14.57043,
+      46.20189
      ],
      [
-      14.47115,
-      46.05388
+      14.57092,
+      46.20191
      ],
      [
-      14.47095,
-      46.05404
+      14.57083,
+      46.20229
      ],
      [
-      14.47109,
-      46.05415
+      14.57091,
+      46.20252
      ],
      [
-      14.47077,
-      46.0543
+      14.57084,
+      46.20264
      ],
      [
-      14.4708,
-      46.05399
+      14.57045,
+      46.20262
      ],
      [
-      14.47055,
-      46.05387
+      14.57023,
+      46.20203
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.20222,
+   14.57059
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.20175,
+    "lon": 14.57038,
     "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
+    "distKm": 0.02
    }
   ],
   "fishingSpots": [],
@@ -7008,7 +7088,7 @@
   },
   "description": "Ribnik Moravče 2 je bogat predvsem s krapovci. V centru Moravč pri cerkvi zavijete levo proti Zalogu. Po približno 1,5 km zavijete za mostom čez Drtijščico desno in se peljete po asfaltni poti okrog 800 m. Prispeli boste do ribnikov Moravče, ki si sledijo v zaporedju. Ribolov je s to dovolilnico mogoč tako na drugem in tretjem ribniku v istem dnevu.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -7077,67 +7157,66 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikmoravce2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Moravče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ],
      [
-      14.471,
-      46.05365
+      14.74155,
+      46.14097
      ],
      [
-      14.47115,
-      46.05388
+      14.74222,
+      46.14089
      ],
      [
-      14.47095,
-      46.05404
+      14.74224,
+      46.14097
      ],
      [
-      14.47109,
-      46.05415
+      14.74192,
+      46.14099
      ],
      [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.14104,
+   14.74169
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.13822,
+    "lon": 14.74023,
     "name": null,
-    "distKm": 0.05
+    "distKm": 0.32
    },
    {
-    "lat": 46.04921,
-    "lon": 14.4726,
+    "lat": 46.13943,
+    "lon": 14.74633,
     "name": null,
-    "distKm": 0.51
+    "distKm": 0.36
+   },
+   {
+    "lat": 46.13583,
+    "lon": 14.74483,
+    "name": null,
+    "distKm": 0.6
    }
   ],
   "fishingSpots": [],
@@ -7161,7 +7240,7 @@
   },
   "description": "Ribnik Moravče 3 je bogat s krapovci. V centru Moravč pri cerkvi zavijete levo proti Zalogu. Po približno 1,5 km zavijete za mostom čez Drtijščico desno in se peljete po asfaltni poti okrog 800 m. Prispeli boste do ribnikov Moravče, ki si sledijo v zaporedju. Ribolov je s to dovolilnico mogoč tako na drugem in tretjem ribniku v istem dnevu.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "koreselj",
@@ -7230,67 +7309,66 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikmoravce3",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Moravče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ],
      [
-      14.471,
-      46.05365
+      14.74155,
+      46.14097
      ],
      [
-      14.47115,
-      46.05388
+      14.74222,
+      46.14089
      ],
      [
-      14.47095,
-      46.05404
+      14.74224,
+      46.14097
      ],
      [
-      14.47109,
-      46.05415
+      14.74192,
+      46.14099
      ],
      [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
+      14.74126,
+      46.14119
      ]
     ]
    ]
   },
   "center": [
-   46.05401,
-   14.47088
+   46.14104,
+   14.74169
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.05376,
-    "lon": 14.46991,
+    "lat": 46.13822,
+    "lon": 14.74023,
     "name": null,
-    "distKm": 0.05
+    "distKm": 0.32
    },
    {
-    "lat": 46.04921,
-    "lon": 14.4726,
+    "lat": 46.13943,
+    "lon": 14.74633,
     "name": null,
-    "distKm": 0.51
+    "distKm": 0.36
+   },
+   {
+    "lat": 46.13583,
+    "lon": 14.74483,
+    "name": null,
+    "distKm": 0.6
    }
   ],
   "fishingSpots": [],
@@ -7314,7 +7392,7 @@
   },
   "description": "Ribnik Plastenka (Ujemi in spusti) je bogat z večjimi krapi in amurji (10 kg in več). Dostopen je iz smeri Radomlje proti Rovam. Za nasadom platan (ob cesti na desni) se peljete še 100 m proti Rovam. Na levi strani se odpre pogled na ribnik. Ribolov ciprinidov se izvaja z največ dvema ribiškima palicama.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "krap",
@@ -7373,69 +7451,18 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/ribnikplastenka",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      14.47055,
-      46.05387
-     ],
-     [
-      14.471,
-      46.05365
-     ],
-     [
-      14.47115,
-      46.05388
-     ],
-     [
-      14.47095,
-      46.05404
-     ],
-     [
-      14.47109,
-      46.05415
-     ],
-     [
-      14.47077,
-      46.0543
-     ],
-     [
-      14.4708,
-      46.05399
-     ],
-     [
-      14.47055,
-      46.05387
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.05401,
-   14.47088
+   46.16095,
+   14.63765
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 46.05376,
-    "lon": 14.46991,
-    "name": null,
-    "distKm": 0.05
-   },
-   {
-    "lat": 46.04921,
-    "lon": 14.4726,
-    "name": null,
-    "distKm": 0.51
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:38:17.810Z"
  },

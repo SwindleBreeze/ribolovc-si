@@ -823,7 +823,7 @@
   },
   "description": "Ribnik poseljujejo številne ribje vrste, zanimive za športni ribolov. Dovoljen je le športni ribolov po načelu ujemi in spusti.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "klen",
@@ -885,44 +885,64 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-majsperk/ribnik-stanecka-vas",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Stanecka vas"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.37587,
-      46.26508
+      15.74489,
+      46.34366
      ],
      [
-      15.37631,
-      46.26455
+      15.74503,
+      46.34351
      ],
      [
-      15.37681,
-      46.26456
+      15.74531,
+      46.34348
      ],
      [
-      15.37601,
-      46.26524
+      15.74564,
+      46.34408
      ],
      [
-      15.37587,
-      46.26508
+      15.74616,
+      46.34465
+     ],
+     [
+      15.74602,
+      46.34467
+     ],
+     [
+      15.74551,
+      46.34433
+     ],
+     [
+      15.74489,
+      46.34366
      ]
     ]
    ]
   },
   "center": [
-   46.26481,
-   15.37632
+   46.3439,
+   15.74536
   ],
   "lengthKm": null,
-  "region": "savinjska",
-  "parking": [],
+  "region": "stajerska",
+  "parking": [
+   {
+    "lat": 46.34685,
+    "lon": 15.73881,
+    "name": null,
+    "distKm": 0.59
+   }
+  ],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:39:03.383Z"
  },
@@ -1177,8 +1197,8 @@
   ],
   "geometry": null,
   "center": [
-   46.34156,
-   15.73627
+   46.34642,
+   15.82901
   ],
   "lengthKm": null,
   "region": "stajerska",

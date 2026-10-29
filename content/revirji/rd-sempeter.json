@@ -1628,7 +1628,7 @@
   },
   "description": "Vas zanima kje loviti? Kje pustiti avto? Kakšne vabe so uspešne? Kliknite tukaj in preberite brezplačen vodič po ribnikih Preserje.Manjši ribnik v Preserju je Preserje 1 pod oskrbo RD Šempeter. Ribnik obsega 0,5 ha vodne površine.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Podpeško jezero",
   "species": [
    "sarenka"
   ],
@@ -1659,104 +1659,88 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-preserje-1",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Preserje"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.49518,
-      46.0047
+      14.43133,
+      45.96847
      ],
      [
-      15.49579,
-      46.00431
+      14.43151,
+      45.96808
      ],
      [
-      15.49651,
-      46.00445
+      14.432,
+      45.96785
      ],
      [
-      15.49682,
-      46.00471
+      14.43268,
+      45.96806
      ],
      [
-      15.497,
-      46.00516
+      14.43283,
+      45.96822
      ],
      [
-      15.4968,
-      46.00549
+      14.43289,
+      45.96843
      ],
      [
-      15.49698,
-      46.00609
+      14.43285,
+      45.96866
      ],
      [
-      15.49686,
-      46.00655
+      14.43262,
+      45.96891
      ],
      [
-      15.49715,
-      46.00715
+      14.43204,
+      45.9691
      ],
      [
-      15.49675,
-      46.00733
+      14.43171,
+      45.96902
      ],
      [
-      15.49633,
-      46.00707
+      14.4315,
+      45.96883
      ],
      [
-      15.49612,
-      46.00681
-     ],
-     [
-      15.49618,
-      46.00608
-     ],
-     [
-      15.49592,
-      46.00603
-     ],
-     [
-      15.49602,
-      46.0059
-     ],
-     [
-      15.49576,
-      46.00563
-     ],
-     [
-      15.49582,
-      46.00544
-     ],
-     [
-      15.49518,
-      46.0047
+      14.43133,
+      45.96847
      ]
     ]
    ]
   },
   "center": [
-   46.00584,
-   15.49632
+   45.96846,
+   14.43209
   ],
   "lengthKm": null,
-  "region": "posavje",
+  "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.00494,
-    "lon": 15.4977,
+    "lat": 45.97127,
+    "lon": 14.4341,
     "name": null,
-    "distKm": 0.06
+    "distKm": 0.29
    }
   ],
-  "fishingSpots": [],
+  "fishingSpots": [
+   {
+    "lat": 45.96885,
+    "lon": 14.43186,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
   "scrapedAt": "2026-10-28T06:38:22.594Z"
  },
  {
@@ -1777,7 +1761,7 @@
   },
   "description": "Vas zanima kje loviti? Kje pustiti avto? Katere vabe so uspešne? Kliknite tukaj in preberite brezplačen vodič po ribnikih Preserje.Največji ribnik v Preserju pod okriljem RD Šempeter. Obsega 3 ha vodne površine. Naseljujejo ga ščuka, smuč to so vse ribje vrste na katere lahko vijačimo.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Podpeško jezero",
   "species": [
    "amur",
    "klen",
@@ -1840,104 +1824,88 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-preserje-2",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Preserje"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.49518,
-      46.0047
+      14.43133,
+      45.96847
      ],
      [
-      15.49579,
-      46.00431
+      14.43151,
+      45.96808
      ],
      [
-      15.49651,
-      46.00445
+      14.432,
+      45.96785
      ],
      [
-      15.49682,
-      46.00471
+      14.43268,
+      45.96806
      ],
      [
-      15.497,
-      46.00516
+      14.43283,
+      45.96822
      ],
      [
-      15.4968,
-      46.00549
+      14.43289,
+      45.96843
      ],
      [
-      15.49698,
-      46.00609
+      14.43285,
+      45.96866
      ],
      [
-      15.49686,
-      46.00655
+      14.43262,
+      45.96891
      ],
      [
-      15.49715,
-      46.00715
+      14.43204,
+      45.9691
      ],
      [
-      15.49675,
-      46.00733
+      14.43171,
+      45.96902
      ],
      [
-      15.49633,
-      46.00707
+      14.4315,
+      45.96883
      ],
      [
-      15.49612,
-      46.00681
-     ],
-     [
-      15.49618,
-      46.00608
-     ],
-     [
-      15.49592,
-      46.00603
-     ],
-     [
-      15.49602,
-      46.0059
-     ],
-     [
-      15.49576,
-      46.00563
-     ],
-     [
-      15.49582,
-      46.00544
-     ],
-     [
-      15.49518,
-      46.0047
+      14.43133,
+      45.96847
      ]
     ]
    ]
   },
   "center": [
-   46.00584,
-   15.49632
+   45.96846,
+   14.43209
   ],
   "lengthKm": null,
-  "region": "posavje",
+  "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.00494,
-    "lon": 15.4977,
+    "lat": 45.97127,
+    "lon": 14.4341,
     "name": null,
-    "distKm": 0.06
+    "distKm": 0.29
    }
   ],
-  "fishingSpots": [],
+  "fishingSpots": [
+   {
+    "lat": 45.96885,
+    "lon": 14.43186,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
   "scrapedAt": "2026-10-28T06:38:24.989Z"
  },
  {
@@ -1958,7 +1926,7 @@
   },
   "description": "Vas zanima kje loviti? Kje pustiti avto? Kliknite tukaj in preberite brezplačen vodič po ribnikih Preserje.Ribnik Preserje 4 se nahaja takoj čez most preko struge proti ribiškemu domu, na levi strani. Poleg ribnika stoji ribiški dom RD Šempeter. Možen je ribolov ciprinidov po načelu ''ujemi in spusti''.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Podpeško jezero",
   "species": [
    "klen",
    "krap",
@@ -2001,104 +1969,88 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-preserje-4",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Preserje"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.49518,
-      46.0047
+      14.43133,
+      45.96847
      ],
      [
-      15.49579,
-      46.00431
+      14.43151,
+      45.96808
      ],
      [
-      15.49651,
-      46.00445
+      14.432,
+      45.96785
      ],
      [
-      15.49682,
-      46.00471
+      14.43268,
+      45.96806
      ],
      [
-      15.497,
-      46.00516
+      14.43283,
+      45.96822
      ],
      [
-      15.4968,
-      46.00549
+      14.43289,
+      45.96843
      ],
      [
-      15.49698,
-      46.00609
+      14.43285,
+      45.96866
      ],
      [
-      15.49686,
-      46.00655
+      14.43262,
+      45.96891
      ],
      [
-      15.49715,
-      46.00715
+      14.43204,
+      45.9691
      ],
      [
-      15.49675,
-      46.00733
+      14.43171,
+      45.96902
      ],
      [
-      15.49633,
-      46.00707
+      14.4315,
+      45.96883
      ],
      [
-      15.49612,
-      46.00681
-     ],
-     [
-      15.49618,
-      46.00608
-     ],
-     [
-      15.49592,
-      46.00603
-     ],
-     [
-      15.49602,
-      46.0059
-     ],
-     [
-      15.49576,
-      46.00563
-     ],
-     [
-      15.49582,
-      46.00544
-     ],
-     [
-      15.49518,
-      46.0047
+      14.43133,
+      45.96847
      ]
     ]
    ]
   },
   "center": [
-   46.00584,
-   15.49632
+   45.96846,
+   14.43209
   ],
   "lengthKm": null,
-  "region": "posavje",
+  "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 46.00494,
-    "lon": 15.4977,
+    "lat": 45.97127,
+    "lon": 14.4341,
     "name": null,
-    "distKm": 0.06
+    "distKm": 0.29
    }
   ],
-  "fishingSpots": [],
+  "fishingSpots": [
+   {
+    "lat": 45.96885,
+    "lon": 14.43186,
+    "name": null,
+    "distKm": 0.02
+   }
+  ],
   "scrapedAt": "2026-10-28T06:38:27.387Z"
  },
  {
@@ -2119,7 +2071,7 @@
   },
   "description": "",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "klen",
@@ -2188,103 +2140,77 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-sempeter/ribnik-zalec",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Žalec"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.49518,
-      46.0047
+      15.16668,
+      46.23803
      ],
      [
-      15.49579,
-      46.00431
+      15.16714,
+      46.23787
      ],
      [
-      15.49651,
-      46.00445
+      15.16839,
+      46.23806
      ],
      [
-      15.49682,
-      46.00471
+      15.16881,
+      46.23806
      ],
      [
-      15.497,
-      46.00516
+      15.16896,
+      46.23822
      ],
      [
-      15.4968,
-      46.00549
+      15.16847,
+      46.23835
      ],
      [
-      15.49698,
-      46.00609
+      15.16811,
+      46.23831
      ],
      [
-      15.49686,
-      46.00655
+      15.1678,
+      46.23811
      ],
      [
-      15.49715,
-      46.00715
+      15.16746,
+      46.23818
      ],
      [
-      15.49675,
-      46.00733
+      15.16711,
+      46.23803
      ],
      [
-      15.49633,
-      46.00707
+      15.16695,
+      46.23818
      ],
      [
-      15.49612,
-      46.00681
+      15.16689,
+      46.23805
      ],
      [
-      15.49618,
-      46.00608
-     ],
-     [
-      15.49592,
-      46.00603
-     ],
-     [
-      15.49602,
-      46.0059
-     ],
-     [
-      15.49576,
-      46.00563
-     ],
-     [
-      15.49582,
-      46.00544
-     ],
-     [
-      15.49518,
-      46.0047
+      15.16668,
+      46.23803
      ]
     ]
    ]
   },
   "center": [
-   46.00584,
-   15.49632
+   46.2381,
+   15.16772
   ],
   "lengthKm": null,
-  "region": "posavje",
-  "parking": [
-   {
-    "lat": 46.00494,
-    "lon": 15.4977,
-    "name": null,
-    "distKm": 0.06
-   }
-  ],
+  "region": "savinjska",
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:39:32.188Z"
  },

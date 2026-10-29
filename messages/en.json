@@ -33,7 +33,8 @@
     "statClubs": "Fishing clubs",
     "statSpecies": "Fish species",
     "startTitle": "First time at the water",
-    "openPlace": "Details and forecast"
+    "openPlace": "Details and forecast",
+    "fish": "Fish"
   },
   "filters": {
     "title": "Filters",
@@ -339,5 +340,65 @@
     "add": "Add a photo",
     "alt": "Photo by {author}",
     "credit": "© {author} · CC BY 4.0"
+  },
+  "advice": {
+    "heading": "What to use – {day}",
+    "fish": "Fish",
+    "when": "When",
+    "water": "Water",
+    "why": "Why",
+    "guide": "Guide",
+    "note": "Worked out from the forecast, the gauging station and the fish. The rules on your permit always apply.",
+    "tempSource": {
+      "gauge": "measured, ARSO",
+      "sea": "sea forecast",
+      "air": "estimated from air temperature"
+    },
+    "window": {
+      "dawnDusk": "Early morning and evening",
+      "dusk": "Late afternoon into dusk",
+      "night": "Dusk and the first hours of the night",
+      "midday": "Around midday, when the water is warmest",
+      "allDay": "All day"
+    },
+    "bait": {
+      "nymph": "Tungsten bead nymph",
+      "dryfly": "Dry fly",
+      "streamer": "Streamer",
+      "lure": "Artificial lure",
+      "worms": "Worms",
+      "maggots": "Maggots",
+      "corn": "Sweetcorn",
+      "boilies": "Boilies",
+      "bread": "Bread",
+      "cheese": "Cheese or worms",
+      "deadbait": "Deadbait (where allowed)",
+      "seaworm": "Sea worm",
+      "paste": "Paste bait",
+      "pellets": "Pellets",
+      "squidjig": "Squid jig"
+    },
+    "tip": {
+      "cold": "The water is cold – fish slowly and close to the bottom; fish are sluggish.",
+      "mild": "The water is mild – fish are active; try different depths.",
+      "warm": "Warm water – fish feed in the morning and evening, and sit in shade or deeper by day.",
+      "hot": "Very warm water holds little oxygen – fish inflows, shade and dusk.",
+      "murky": "Rain has coloured the water – bright or vibrating lures, smelly baits, closer to the bank.",
+      "clear": "Clear water – natural colours, finer line, and keep back from the edge.",
+      "highFlow": "High water – fish hold in slack water behind rocks, inside bends and by the bank. Use more weight.",
+      "flood": "Flood flow – fishing is dangerous and pointless. Wait for the water to drop.",
+      "lowFlow": "Low water – fish sit in deeper pools and oxygenated riffles; stay quiet.",
+      "pressureFalling": "Air pressure is falling ahead of a change in the weather – fish often bite better.",
+      "pressureRising": "Pressure is rising fast – bites often slow down; go smaller and finer.",
+      "windShore": "The wind pushes food to the shore it blows onto – fish there.",
+      "windStrong": "Strong wind – heavier float or feeder, sink the line and mind your safety.",
+      "brightSun": "Bright sun – fish move into shade and deeper water; early and late are best.",
+      "overcast": "Overcast – fish stay active through the day.",
+      "surf": "Choppy sea – sea bass hunt in the white water by the rocks; heavier lead on a bottom rig.",
+      "calmSea": "Calm sea – fish finer, in the evening or at night.",
+      "huchenSeason": "Huchen are fished from October to February – leave them alone out of season.",
+      "squidSeason": "Squid come inshore mainly from October to February.",
+      "methodNotAllowed": "This section may not allow this method – check the rules."
+    }
   }
 }

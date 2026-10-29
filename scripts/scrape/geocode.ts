@@ -496,7 +496,7 @@ export class Geocoder {
     if (!near.length && input.anchor) {
       // Adjective forms: "Završnica" ~ "Završniško jezero", "Javorniški Rovt" ~ "Javorniško jezero".
       const stems = [...new Set(names.flatMap((n) => norm(waterName(n)).split(' ')))]
-        .filter((w) => w.length >= 5 && !GENERIC.has(w))
+        .filter((w) => w.length >= 5 && !GENERIC_NAME_WORDS.has(w))
         .map((w) => w.slice(0, Math.max(5, w.length - 3)));
       near = this.osm.waters
         .filter((w) => !isGenericWaterName(w.name))
@@ -521,12 +521,12 @@ export class Geocoder {
 
   /**
    * Last resort: a village named in the title ("Ribnik Rogoznica 1" → Rogoznica). For still
-   * waters, the pond closest to that village is taken when there is one within 1.5 km.
+   * waters, the pond closest to that village is taken when there is one within 2 km.
    */
   private placeFallback(input: { name: string; subtitle: string; anchor: LonLat | null; gauge: LonLat | null }, notes: string[], still = false): Placement {
     const text = `${input.name} ${input.subtitle}`;
     let best: { d: number; p: OsmPoint } | null = null;
-    for (const cand of withoutGenericPrefix(toponymCandidates(text))) {
+    for (const cand of withAdjectiveStems(withoutGenericPrefix(toponymCandidates(text)))) {
       if (isGenericWaterName(cand)) continue;
       for (const v of phraseVariants(cand)) {
         for (const pl of this.placesByName.get(norm(v)) ?? []) {
@@ -537,7 +537,7 @@ export class Geocoder {
       }
     }
     if (best) {
-      const pond = still ? this.pondNear(best.p.at, 1.5) : null;
+      const pond = still ? this.pondNear(best.p.at, 2) : null;
       if (pond) {
         return {
           quality: 'place',
@@ -585,7 +585,7 @@ export class Geocoder {
 
 const GENERIC = new Set(['jezero', 'jezera', 'ribnik', 'ribniki', 'akumulacija', 'akumulacijsko', 'gramoznica', 'mrtvica', 'potok', 'reka', 'kanal', 'struga', 'zadrzevalnik', 'bajer']);
 
-const GENERIC_NAME_WORDS = new Set([...GENERIC, 'kal', 'mali', 'male', 'veliki', 'velika', 'srednji', 'zgornji', 'spodnji', 'stari', 'novi', 'ribogojnica', 'bajerji', 'sljuncara', 'jezerce', 'ribnicek', 'mlaka', 'luza', 'pond', 'lake', 'lago', 'teich', 'see']);
+const GENERIC_NAME_WORDS = new Set([...GENERIC, 'kal', 'mali', 'male', 'veliki', 'velika', 'srednji', 'zgornji', 'spodnji', 'stari', 'novi', 'ribogojnica', 'bajerji', 'sljuncara', 'jezerce', 'ribnicek', 'mlaka', 'luza', 'lokev', 'lokva', 'lokve', 'pond', 'lake', 'lago', 'teich', 'see']);
 
 /** "Ribnik", "Mali ribnik", "Gramoznica 2", "Kal": names that don't identify a water. */
 export function isGenericWaterName(name: string): boolean {
@@ -602,6 +602,17 @@ export function withoutGenericPrefix(cands: string[]): string[] {
     while (i < words.length - 1 && GENERIC_NAME_WORDS.has(norm(words[i]))) i++;
     const rest = words.slice(i).filter((w) => !/^\d+$/.test(w)).join(' ');
     if (i > 0 && rest && !out.includes(rest)) out.push(rest);
+  }
+  return out;
+}
+
+/** Add the town behind an adjective: "Šoštanjsko (jezero)" → Šoštanj, "Velenjsko" → Velenje. */
+export function withAdjectiveStems(cands: string[]): string[] {
+  const out = [...cands];
+  for (const c of cands) {
+    const m = /^(.+?)(?:sk|šk)(?:o|i|a|e|ega)$/u.exec(c);
+    if (!m || m[1].length < 3) continue;
+    for (const v of [m[1], `${m[1]}e`, `${m[1]}a`]) if (!out.includes(v)) out.push(v);
   }
   return out;
 }

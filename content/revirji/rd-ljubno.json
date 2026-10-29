@@ -37,8 +37,8 @@
   ],
   "geometry": null,
   "center": [
-   46.28621,
-   14.4222
+   46.31296,
+   14.24683
   ],
   "lengthKm": null,
   "region": "gorenjska",
@@ -64,7 +64,7 @@
   },
   "description": "od Dom RD do -",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [],
   "speciesRaw": [],
   "methods": [],
@@ -77,41 +77,30 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-ljubno/ribnik-pri-domu-rd",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "kraj Ljubno"
   ],
   "geometry": {
-   "type": "Polygon",
+   "type": "Point",
    "coordinates": [
-    [
-     [
-      14.4221,
-      46.28622
-     ],
-     [
-      14.42231,
-      46.28622
-     ],
-     [
-      14.4221,
-      46.28622
-     ]
-    ]
+    14.24683,
+    46.31296
    ]
   },
   "center": [
-   46.28621,
-   14.4222
+   46.31296,
+   14.24683
   ],
   "lengthKm": null,
   "region": "gorenjska",
   "parking": [
    {
-    "lat": 46.28991,
-    "lon": 14.42156,
+    "lat": 46.31261,
+    "lon": 14.23925,
     "name": null,
-    "distKm": 0.41
+    "distKm": 0.58
    }
   ],
   "fishingSpots": [],
@@ -206,8 +195,8 @@
   ],
   "geometry": null,
   "center": [
-   46.28621,
-   14.4222
+   46.31296,
+   14.24683
   ],
   "lengthKm": null,
   "region": "gorenjska",
@@ -252,8 +241,8 @@
   ],
   "geometry": null,
   "center": [
-   46.28621,
-   14.4222
+   46.31296,
+   14.24683
   ],
   "lengthKm": null,
   "region": "gorenjska",

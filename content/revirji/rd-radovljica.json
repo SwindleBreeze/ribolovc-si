@@ -562,7 +562,7 @@
   },
   "description": "",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Grofov bajer",
   "species": [
    "krap",
    "smuc",
@@ -605,43 +605,85 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-radovljica/ribnik-vosce",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM",
+   "ribnik ob kraju Vošče"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.4221,
-      46.28622
+      14.1452,
+      46.33106
      ],
      [
-      14.42231,
-      46.28622
+      14.1454,
+      46.33087
      ],
      [
-      14.4221,
-      46.28622
+      14.14535,
+      46.33084
+     ],
+     [
+      14.14551,
+      46.3304
+     ],
+     [
+      14.1454,
+      46.3299
+     ],
+     [
+      14.14552,
+      46.32966
+     ],
+     [
+      14.14584,
+      46.32967
+     ],
+     [
+      14.14601,
+      46.32987
+     ],
+     [
+      14.14605,
+      46.33019
+     ],
+     [
+      14.14591,
+      46.33029
+     ],
+     [
+      14.14564,
+      46.33091
+     ],
+     [
+      14.1455,
+      46.33095
+     ],
+     [
+      14.14555,
+      46.33101
+     ],
+     [
+      14.14535,
+      46.33109
+     ],
+     [
+      14.1452,
+      46.33106
      ]
     ]
    ]
   },
   "center": [
-   46.28621,
-   14.4222
+   46.33042,
+   14.14558
   ],
   "lengthKm": null,
   "region": "gorenjska",
-  "parking": [
-   {
-    "lat": 46.28991,
-    "lon": 14.42156,
-    "name": null,
-    "distKm": 0.41
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:39:27.383Z"
  },

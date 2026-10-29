@@ -3913,7 +3913,7 @@
   },
   "description": "V tesni dolini Save leži pri Kresnicah mrtvica Ribče, kjer boste lepo lovili krape, linje, nekatere belice in ščuke.",
   "waterType": "pond",
-  "water": "Mrtvica",
+  "water": "Ribnik Mačkovna",
   "species": [
    "klen",
    "krap",
@@ -3961,51 +3961,64 @@
   "sourceUrl": "https://www.ribiskekarte.si/zavod-za-ribistvo-slovenije/mrtvica-ribce-sava",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Mrtvica"
+   "jezero ni v OSM",
+   "ribnik ob kraju Sava"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      15.67599,
-      46.32514
+      14.87184,
+      46.08224
      ],
      [
-      15.67625,
-      46.32456
+      14.87195,
+      46.08218
      ],
      [
-      15.67678,
-      46.32444
+      14.87237,
+      46.0824
      ],
      [
-      15.67625,
-      46.32468
+      14.87326,
+      46.08288
      ],
      [
-      15.67612,
-      46.32516
+      14.87323,
+      46.08298
      ],
      [
-      15.67773,
-      46.32581
+      14.87301,
+      46.08307
      ],
      [
-      15.67599,
-      46.32514
+      14.87217,
+      46.0829
+     ],
+     [
+      14.87215,
+      46.08282
+     ],
+     [
+      14.87234,
+      46.08262
+     ],
+     [
+      14.87184,
+      46.08224
      ]
     ]
    ]
   },
   "center": [
-   46.32506,
-   15.67655
+   46.08274,
+   14.87252
   ],
   "lengthKm": null,
-  "region": "stajerska",
+  "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:34:12.953Z"

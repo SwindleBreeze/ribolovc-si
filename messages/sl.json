@@ -33,7 +33,8 @@
     "statClubs": "Ribiških družin",
     "statSpecies": "Vrst rib",
     "startTitle": "Prvič ob vodi",
-    "openPlace": "Podrobnosti in napoved"
+    "openPlace": "Podrobnosti in napoved",
+    "fish": "Ribe"
   },
   "filters": {
     "title": "Filtri",
@@ -339,5 +340,65 @@
     "add": "Dodaj fotografijo",
     "alt": "Fotografija: {author}",
     "credit": "© {author} · CC BY 4.0"
+  },
+  "advice": {
+    "heading": "Kaj uporabiti – {day}",
+    "fish": "Riba",
+    "when": "Kdaj",
+    "water": "Voda",
+    "why": "Zakaj",
+    "guide": "Vodič",
+    "note": "Nasvet je izračunan iz napovedi, vodomerne postaje in značilnosti ribe. Vedno veljajo pravila revirja na dovolilnici.",
+    "tempSource": {
+      "gauge": "izmerjeno, ARSO",
+      "sea": "napoved za morje",
+      "air": "ocena iz temperature zraka"
+    },
+    "window": {
+      "dawnDusk": "Zgodaj zjutraj in zvečer",
+      "dusk": "Pred mrakom in v mraku",
+      "night": "Mrak in prve ure noči",
+      "midday": "Okoli poldneva, ko je voda najtoplejša",
+      "allDay": "Ves dan"
+    },
+    "bait": {
+      "nymph": "Nimfa z volframovo glavico",
+      "dryfly": "Suha muha",
+      "streamer": "Streamer",
+      "lure": "Umetna vaba",
+      "worms": "Gliste",
+      "maggots": "Ličinke (črvi)",
+      "corn": "Koruza",
+      "boilies": "Boiliji",
+      "bread": "Kruh",
+      "cheese": "Sir ali gliste",
+      "deadbait": "Mrtva ribica (kjer je dovoljeno)",
+      "seaworm": "Morski črv",
+      "paste": "Testo",
+      "pellets": "Peleti",
+      "squidjig": "Kalamarjera"
+    },
+    "tip": {
+      "cold": "Voda je hladna – vodite počasi in tik ob dnu, ribe so lene.",
+      "mild": "Voda je zmerno topla – ribe so aktivne, preizkusite različne globine.",
+      "warm": "Topla voda – ribe so aktivne zjutraj in zvečer, čez dan v senci in globlje.",
+      "hot": "Zelo topla voda ima malo kisika – lovite ob dotokih, v senci in v mraku.",
+      "murky": "Po dežju je voda motna – svetle ali vibrirajoče vabe, bolj vonjave vabe, bliže bregu.",
+      "clear": "Bistra voda – naravne barve, tanjša vrvica in ne stopajte tik ob vodo.",
+      "highFlow": "Visoka voda – ribe so v mirnejši vodi za skalami, v notranjih zavojih in ob bregu. Uporabite težjo obtežitev.",
+      "flood": "Poplavni pretok – ribolov je nevaren in neuspešen. Počakajte, da voda upade.",
+      "lowFlow": "Nizka voda – ribe so v globljih tolmunih in na brzicah s kisikom; bodite tihi.",
+      "pressureFalling": "Zračni tlak pada pred spremembo vremena – ribe pogosto bolje prijemajo.",
+      "pressureRising": "Tlak hitro narašča – prijem je pogosto slabši; manjše vabe in finejši sistem.",
+      "windShore": "Veter nanaša hrano k bregu, v katerega piha – lovite tam.",
+      "windStrong": "Močan veter – težji plovec ali krmilni koš, potopite vrvico in pazite na varnost.",
+      "brightSun": "Jasno in sončno – ribe se umaknejo v senco in globino; najbolje zgodaj in pozno.",
+      "overcast": "Oblačno – ribe so aktivne tudi čez dan.",
+      "surf": "Valovito morje – brancini lovijo v peni ob skalah; za talni sistem težja utež.",
+      "calmSea": "Mirno morje – lovite bolj fino, zvečer ali ponoči.",
+      "huchenSeason": "Sulca lovimo od oktobra do februarja – zunaj sezone ga ne lovite.",
+      "squidSeason": "Lignji so ob obali predvsem od oktobra do februarja.",
+      "methodNotAllowed": "Ta revir te tehnike morda ne dovoljuje – preverite pravila."
+    }
   }
 }

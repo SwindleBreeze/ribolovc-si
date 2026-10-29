@@ -130,6 +130,16 @@ test('fishing section page shows club data, permits and conditions', async ({ pa
   await expect(page.getByText('Nearby spots')).toHaveCount(0);
 });
 
+test('setup advisor suggests a rig for the chosen fish and day', async ({ page }) => {
+  await page.goto('/en/revirji/rd-tolmin/ucja');
+  const advisor = page.getByTestId('advisor');
+  await expect(advisor).toContainText('What to use – Today');
+  await expect(page.getByTestId('advisor-setup')).not.toBeEmpty();
+  await expect(page.getByTestId('advisor-tips').locator('li').first()).toBeVisible();
+  await page.getByTestId('day-card').nth(2).click();
+  await expect(advisor).not.toContainText('Today');
+});
+
 test('sections index lists clubs and the map can filter by club', async ({ page }) => {
   await page.goto('/sl/revirji');
   await expect(page.getByRole('heading', { name: 'Ribiška družina Tolmin' })).toBeVisible();

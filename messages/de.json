@@ -33,7 +33,8 @@
     "statClubs": "Angelvereine",
     "statSpecies": "Fischarten",
     "startTitle": "Zum ersten Mal am Wasser",
-    "openPlace": "Details und Prognose"
+    "openPlace": "Details und Prognose",
+    "fish": "Fische"
   },
   "filters": {
     "title": "Filter",
@@ -339,5 +340,65 @@
     "add": "Foto hinzufügen",
     "alt": "Foto von {author}",
     "credit": "© {author} · CC BY 4.0"
+  },
+  "advice": {
+    "heading": "Was nehmen – {day}",
+    "fish": "Fisch",
+    "when": "Wann",
+    "water": "Wasser",
+    "why": "Warum",
+    "guide": "Anleitung",
+    "note": "Berechnet aus Vorhersage, Pegel und Fischart. Es gelten immer die Regeln auf Ihrer Lizenz.",
+    "tempSource": {
+      "gauge": "gemessen, ARSO",
+      "sea": "Meeresvorhersage",
+      "air": "geschätzt aus Lufttemperatur"
+    },
+    "window": {
+      "dawnDusk": "Früh morgens und abends",
+      "dusk": "Vom späten Nachmittag bis zur Dämmerung",
+      "night": "Dämmerung und die ersten Nachtstunden",
+      "midday": "Um die Mittagszeit, wenn das Wasser am wärmsten ist",
+      "allDay": "Den ganzen Tag"
+    },
+    "bait": {
+      "nymph": "Goldkopfnymphe",
+      "dryfly": "Trockenfliege",
+      "streamer": "Streamer",
+      "lure": "Kunstköder",
+      "worms": "Würmer",
+      "maggots": "Maden",
+      "corn": "Mais",
+      "boilies": "Boilies",
+      "bread": "Brot",
+      "cheese": "Käse oder Würmer",
+      "deadbait": "Köderfisch (wo erlaubt)",
+      "seaworm": "Seeringelwurm",
+      "paste": "Teig",
+      "pellets": "Pellets",
+      "squidjig": "Tintenfischjig"
+    },
+    "tip": {
+      "cold": "Das Wasser ist kalt – langsam und dicht am Grund führen, die Fische sind träge.",
+      "mild": "Das Wasser ist mild – die Fische sind aktiv, verschiedene Tiefen probieren.",
+      "warm": "Warmes Wasser – morgens und abends aktiv, tagsüber im Schatten oder tiefer.",
+      "hot": "Sehr warmes Wasser ist sauerstoffarm – an Zuläufen, im Schatten und in der Dämmerung fischen.",
+      "murky": "Der Regen hat das Wasser getrübt – helle oder vibrierende Köder, duftende Köder, näher am Ufer.",
+      "clear": "Klares Wasser – natürliche Farben, feinere Schnur, Abstand zum Ufer halten.",
+      "highFlow": "Hochwasser – Fische stehen im ruhigen Wasser hinter Steinen, in Innenkurven und am Ufer. Mehr Gewicht nehmen.",
+      "flood": "Hochwasserabfluss – Fischen ist gefährlich und zwecklos. Warten, bis das Wasser fällt.",
+      "lowFlow": "Niedrigwasser – Fische in tieferen Gumpen und sauerstoffreichen Rauschen; leise sein.",
+      "pressureFalling": "Der Luftdruck fällt vor einem Wetterwechsel – die Fische beißen oft besser.",
+      "pressureRising": "Der Druck steigt schnell – oft schlechtere Bisse; kleiner und feiner fischen.",
+      "windShore": "Der Wind treibt Futter an das Ufer, auf das er bläst – dort fischen.",
+      "windStrong": "Starker Wind – schwerere Pose oder Futterkorb, Schnur versenken, auf Sicherheit achten.",
+      "brightSun": "Strahlende Sonne – Fische ziehen in Schatten und Tiefe; früh und spät ist es am besten.",
+      "overcast": "Bewölkt – die Fische bleiben tagsüber aktiv.",
+      "surf": "Bewegte See – Wolfsbarsche jagen in der Brandung an den Felsen; schwereres Blei am Grundmontage.",
+      "calmSea": "Ruhige See – feiner fischen, abends oder nachts.",
+      "huchenSeason": "Huchen werden von Oktober bis Februar befischt – außerhalb der Saison in Ruhe lassen.",
+      "squidSeason": "Kalmare kommen vor allem von Oktober bis Februar an die Küste.",
+      "methodNotAllowed": "Dieses Revier erlaubt diese Methode eventuell nicht – Regeln prüfen."
+    }
   }
 }

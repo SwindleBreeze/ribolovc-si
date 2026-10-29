@@ -6,6 +6,7 @@ import type { ConditionsDay, ConditionsResponse } from '@/lib/conditions';
 import type { ScoreLabel } from '@/lib/score';
 import type { WaterType } from '@/lib/schema';
 import { PressureChart } from './PressureChart';
+import { SetupAdvisor, type AdvisorData } from './SetupAdvisor';
 
 /** Status always pairs a colour with an icon and a word. */
 const STATUS: Record<ScoreLabel, { cls: string; icon: string }> = {
@@ -28,7 +29,7 @@ const MOON: Record<string, string> = {
 
 type State = { status: 'loading' } | { status: 'error' } | { status: 'ok'; data: ConditionsResponse };
 
-export function ConditionsPanel({ query, type }: { query: string; type: WaterType | 'sea' }) {
+export function ConditionsPanel({ query, type, advisor }: { query: string; type: WaterType | 'sea'; advisor?: AdvisorData }) {
   const t = useTranslations('conditions');
   const locale = useLocale();
   const [state, setState] = useState<State>({ status: 'loading' });
@@ -138,6 +139,10 @@ export function ConditionsPanel({ query, type }: { query: string; type: WaterTyp
       </div>
 
       <PressureChart days={days} locale={locale} />
+
+      {advisor && advisor.species.length > 0 && (
+        <SetupAdvisor data={advisor} days={days} active={active} dayLabel={dayLabel(day, active)} water={water} waterType={type} />
+      )}
 
       <div className="mt-7 grid gap-8 md:grid-cols-2">
         <section aria-labelledby="why-h">

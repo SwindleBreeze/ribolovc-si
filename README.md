@@ -15,6 +15,7 @@ A free, installable web app (PWA) for fishing in Slovenia, built especially for 
   - water level, flow and water temperature from the nearest ARSO gauging station
   - waves and sea temperature for sea spots
   - an explainable **fishing score** that lists every factor
+  - a **setup advisor**: pick a fish and a day and it suggests the technique, rig, lure or bait and the best time, with the reasons. The reasons cover water temperature, rain-coloured water, river flow, pressure trend, wind, sun and the section's allowed methods. The rules are in `lib/advice.ts`.
 - **Species encyclopedia** (freshwater and sea), including the EU minimum sizes for sea fish.
 - **Guides:** first steps, permits and the fishing exam, etiquette and catch-and-release, knots, float/feeder/hair rig/drop-shot, spinning, euro-nymphing, dry fly, huchen, sea bottom rig, eging and sea bass.
 - **"Which lure?" finder:** pick fish, water clarity and season to get lures and rigs.

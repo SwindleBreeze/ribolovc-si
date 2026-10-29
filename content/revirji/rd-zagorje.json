@@ -37,8 +37,8 @@
   ],
   "geometry": null,
   "center": [
-   45.48417,
-   14.0839
+   45.65179,
+   14.23558
   ],
   "lengthKm": null,
   "region": "notranjska",
@@ -83,8 +83,8 @@
   ],
   "geometry": null,
   "center": [
-   45.48417,
-   14.0839
+   45.65179,
+   14.23558
   ],
   "lengthKm": null,
   "region": "notranjska",
@@ -130,8 +130,8 @@
   ],
   "geometry": null,
   "center": [
-   45.48417,
-   14.0839
+   45.65179,
+   14.23558
   ],
   "lengthKm": null,
   "region": "notranjska",
@@ -157,7 +157,7 @@
   },
   "description": "",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Malo Zagorsko jezero",
   "species": [],
   "speciesRaw": [],
   "methods": [],
@@ -172,30 +172,58 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero Malo Zagorsko jezero"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.08382,
-      45.4842
+      14.23441,
+      45.65165
      ],
      [
-      14.08399,
-      45.48412
+      14.23554,
+      45.6507
      ],
      [
-      14.08382,
-      45.4842
+      14.23675,
+      45.65115
+     ],
+     [
+      14.23697,
+      45.65159
+     ],
+     [
+      14.23648,
+      45.65242
+     ],
+     [
+      14.23597,
+      45.65277
+     ],
+     [
+      14.23536,
+      45.65289
+     ],
+     [
+      14.23489,
+      45.65272
+     ],
+     [
+      14.23449,
+      45.65224
+     ],
+     [
+      14.23441,
+      45.65165
      ]
     ]
    ]
   },
   "center": [
-   45.48417,
-   14.0839
+   45.65179,
+   14.23558
   ],
   "lengthKm": null,
   "region": "notranjska",

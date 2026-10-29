@@ -17,7 +17,7 @@
   },
   "description": "Umetno jezero, ki je natalo kot posledica melioracij reke Vipave. Napaja se z vodo iz reke Vipave. Globina vode je do 3m. Ribnik je obkrožen z drevjem ki nudijo prijetno senco, urejeno je tudi parkirišče in piknik klopi. Vodo naseljujejo krapi, linji, štrkavci, grbe, podusti, zelenike, mazenice, sončni ostriži.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": "Dobravska Krnica",
   "species": [
    "mrena",
    "klen",
@@ -66,56 +66,62 @@
   "gauge": null,
   "quality": "water",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero Dobravska Krnica"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      13.85957,
-      45.8854
+      13.8353,
+      45.87097
      ],
      [
-      13.86008,
-      45.88553
+      13.83603,
+      45.87115
      ],
      [
-      13.86005,
-      45.88567
+      13.83659,
+      45.871
      ],
      [
-      13.85983,
-      45.88568
+      13.83642,
+      45.87131
      ],
      [
-      13.85957,
-      45.8854
+      13.83649,
+      45.87176
+     ],
+     [
+      13.83616,
+      45.87185
+     ],
+     [
+      13.83547,
+      45.8715
+     ],
+     [
+      13.8353,
+      45.87097
      ]
     ]
    ]
   },
   "center": [
-   45.88554,
-   13.85981
+   45.87136,
+   13.83604
   ],
   "lengthKm": null,
   "region": "goriska",
-  "parking": [
+  "parking": [],
+  "fishingSpots": [
    {
-    "lat": 45.88679,
-    "lon": 13.86349,
-    "name": null,
-    "distKm": 0.29
-   },
-   {
-    "lat": 45.88281,
-    "lon": 13.86437,
-    "name": null,
-    "distKm": 0.45
+    "lat": 45.87137,
+    "lon": 13.83604,
+    "name": "Dobravska Krnica",
+    "distKm": 0.02
    }
   ],
-  "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:27:29.704Z"
  },
  {

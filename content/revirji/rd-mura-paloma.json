@@ -245,8 +245,8 @@
   ],
   "geometry": null,
   "center": [
-   46.55733,
-   16.38165
+   46.48341,
+   16.53458
   ],
   "lengthKm": null,
   "region": "pomurje",
@@ -614,7 +614,7 @@
   },
   "description": "V ribniku Lenc ribiči najpogosteje ujamejo krape, smuče, ščuke, amurje, ploščiče, rdečooke, zelenike in klene. Okolica je urejena z označeno pešpotjo.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "americki-somic",
    "amur",
@@ -703,32 +703,14 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-mura-paloma/ribnik-lenc",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      16.38156,
-      46.55731
-     ],
-     [
-      16.38178,
-      46.55736
-     ],
-     [
-      16.38156,
-      46.55731
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.55733,
-   16.38165
+   46.48341,
+   16.53458
   ],
   "lengthKm": null,
   "region": "pomurje",
@@ -754,7 +736,7 @@
   },
   "description": "Ribniki se nahajajo v neposredni bližini ribiškega doma ribiške družine Mura Paloma. V ribniku poleg kapitalnih krapov plavajo še ploščiči, rdečooke, zelenike in kleni. V ribnikih je dovoljen ribolov le po načelu »ujemi in spusti« z uporabo trnka brez zalusti in podmetalke. Priporočamo uporabo blazine.",
   "waterType": "pond",
-  "water": "Ribnik",
+  "water": null,
   "species": [
    "amur",
    "klenic",
@@ -799,32 +781,14 @@
    "lat": 46.68151,
    "lon": 16.000253
   },
-  "quality": "water",
+  "quality": "none",
   "qualityNotes": [
-   "jezero Ribnik"
+   "jezero ni v OSM"
   ],
-  "geometry": {
-   "type": "Polygon",
-   "coordinates": [
-    [
-     [
-      16.38156,
-      46.55731
-     ],
-     [
-      16.38178,
-      46.55736
-     ],
-     [
-      16.38156,
-      46.55731
-     ]
-    ]
-   ]
-  },
+  "geometry": null,
   "center": [
-   46.55733,
-   16.38165
+   46.48341,
+   16.53458
   ],
   "lengthKm": null,
   "region": "pomurje",
