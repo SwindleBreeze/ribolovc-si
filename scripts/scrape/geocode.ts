@@ -4,7 +4,7 @@
  * "od X do Y" ends to points on it and cuts the stretch between them.
  */
 import { closestOnLine, distKm, lineLengthKm, midpointAlong, simplify, type LonLat } from './geo';
-import type { OsmPoint, OsmRiver, OsmWater } from './osm-extract';
+import type { OsmPoint, OsmPond, OsmRiver, OsmWater } from './osm-extract';
 import { abbreviatedKey, classifyBound, norm, phraseVariants, splitBounds, toponymCandidates, waterName } from './toponyms';
 
 export type Quality = 'segment' | 'partial' | 'water' | 'manual' | 'gauge' | 'place' | 'none';
@@ -29,6 +29,8 @@ export type OsmLayers = {
   waters: OsmWater[];
   places: OsmPoint[];
   structures: OsmPoint[];
+  /** All still waters, named or not (may be empty for OSM builds made before it existed). */
+  ponds?: OsmPond[];
 };
 
 type Cluster = { name: string; parts: OsmRiver[]; vertices: LonLat[] };
@@ -52,7 +54,7 @@ export class Geocoder {
     }
     // Named dams, weirs, bridges and lakes are also valid boundary landmarks.
     for (const s of osm.structures) if (s.name) push(this.placesByName, norm(s.name), { ...s, kind: 'locality' });
-    for (const w of osm.waters) push(this.placesByName, norm(w.name), { id: w.id, name: w.name, kind: 'locality', at: w.centroid });
+    for (const w of osm.waters) if (!isGenericWaterName(w.name)) push(this.placesByName, norm(w.name), { id: w.id, name: w.name, kind: 'locality', at: w.centroid });
   }
 
   /**
@@ -72,6 +74,12 @@ export class Geocoder {
       if (hits.length) return hits[0].at;
     }
     return null;
+  }
+
+  /** True when OSM has a river or stream by this name ("Bečovnica 2" → Bečovnica). */
+  knowsRiver(name: string): boolean {
+    const n = waterName(name);
+    return n.length > 2 && this.clusters(n).length > 0;
   }
 
   /** River names in OSM whose words share a stem with `name` ("Kanomljica" ~ "Kanomlja"). */
@@ -474,7 +482,10 @@ export class Geocoder {
   placeStill(input: { name: string; subtitle: string; anchor: LonLat | null }): Placement {
     const names = [input.name, waterName(input.name), input.subtitle, waterName(input.subtitle)].filter(Boolean);
     const keys = new Set(names.flatMap((n) => phraseVariants(n)).map(norm).filter((k) => k.length > 2));
+    // OSM has dozens of small lakes literally named "Ribnik" or "Gramoznica"; a name like that
+    // says nothing about which pond a section is.
     const matches = this.osm.waters.filter((w) => {
+      if (isGenericWaterName(w.name)) return false;
       const n = norm(w.name);
       return keys.has(n) || [...keys].some((k) => k.length > 5 && (n.includes(k) || k.includes(n)) && n.length > 4);
     });
@@ -488,6 +499,7 @@ export class Geocoder {
         .filter((w) => w.length >= 5 && !GENERIC.has(w))
         .map((w) => w.slice(0, Math.max(5, w.length - 3)));
       near = this.osm.waters
+        .filter((w) => !isGenericWaterName(w.name))
         .filter((w) => norm(w.name).split(' ').some((word) => stems.some((st) => word.startsWith(st))))
         .map((w) => ({ w, d: distKm(input.anchor!, w.centroid) }))
         .filter((x) => x.d < 20)
@@ -504,14 +516,18 @@ export class Geocoder {
         notes: [`jezero ${w.name}`],
       };
     }
-    return this.placeFallback({ ...input, gauge: null }, ['jezero ni v OSM']);
+    return this.placeFallback({ ...input, gauge: null }, ['jezero ni v OSM'], true);
   }
 
-  /** Last resort: a village named in the title ("Ribnik Rogoznica 1" → Rogoznica). */
-  private placeFallback(input: { name: string; subtitle: string; anchor: LonLat | null; gauge: LonLat | null }, notes: string[]): Placement {
+  /**
+   * Last resort: a village named in the title ("Ribnik Rogoznica 1" → Rogoznica). For still
+   * waters, the pond closest to that village is taken when there is one within 1.5 km.
+   */
+  private placeFallback(input: { name: string; subtitle: string; anchor: LonLat | null; gauge: LonLat | null }, notes: string[], still = false): Placement {
     const text = `${input.name} ${input.subtitle}`;
     let best: { d: number; p: OsmPoint } | null = null;
-    for (const cand of toponymCandidates(text)) {
+    for (const cand of withoutGenericPrefix(toponymCandidates(text))) {
+      if (isGenericWaterName(cand)) continue;
       for (const v of phraseVariants(cand)) {
         for (const pl of this.placesByName.get(norm(v)) ?? []) {
           const d = input.anchor ? distKm(input.anchor, pl.at) : 0;
@@ -521,6 +537,17 @@ export class Geocoder {
       }
     }
     if (best) {
+      const pond = still ? this.pondNear(best.p.at, 1.5) : null;
+      if (pond) {
+        return {
+          quality: 'place',
+          geometry: { type: 'Polygon', coordinates: [pond.ring] },
+          center: pond.centroid,
+          lengthKm: null,
+          matchedWater: pond.name || null,
+          notes: [...notes, `ribnik ob kraju ${best.p.name}`],
+        };
+      }
       return { quality: 'place', geometry: { type: 'Point', coordinates: best.p.at }, center: best.p.at, lengthKm: null, matchedWater: null, notes: [...notes, `kraj ${best.p.name}`] };
     }
     if (input.gauge) {
@@ -528,9 +555,56 @@ export class Geocoder {
     }
     return { quality: 'none', geometry: null, center: null, lengthKm: null, matchedWater: null, notes };
   }
+
+  private pondGrid: Map<string, OsmPond[]> | undefined;
+
+  /** The still water nearest `at` within `maxKm`; larger ponds win small distance ties. */
+  pondNear(at: LonLat, maxKm: number): OsmPond | null {
+    const ponds = this.osm.ponds ?? [];
+    if (!ponds.length) return null;
+    const cell = (p: LonLat) => `${Math.floor(p[0] / 0.02)},${Math.floor(p[1] / 0.02)}`;
+    if (!this.pondGrid) {
+      this.pondGrid = new Map();
+      for (const p of ponds) push(this.pondGrid, cell(p.centroid), p);
+    }
+    const [cx, cy] = cell(at).split(',').map(Number);
+    let best: { score: number; p: OsmPond } | null = null;
+    for (let dx = -2; dx <= 2; dx++) {
+      for (let dy = -2; dy <= 2; dy++) {
+        for (const p of this.pondGrid.get(`${cx + dx},${cy + dy}`) ?? []) {
+          const d = Math.min(distKm(at, p.centroid), closestOnLine(at, p.ring).km);
+          if (d > maxKm) continue;
+          const score = d - 0.5 * Math.sqrt(p.areaKm2);
+          if (!best || score < best.score) best = { score, p };
+        }
+      }
+    }
+    return best?.p ?? null;
+  }
 }
 
 const GENERIC = new Set(['jezero', 'jezera', 'ribnik', 'ribniki', 'akumulacija', 'akumulacijsko', 'gramoznica', 'mrtvica', 'potok', 'reka', 'kanal', 'struga', 'zadrzevalnik', 'bajer']);
+
+const GENERIC_NAME_WORDS = new Set([...GENERIC, 'kal', 'mali', 'male', 'veliki', 'velika', 'srednji', 'zgornji', 'spodnji', 'stari', 'novi', 'ribogojnica', 'bajerji', 'sljuncara', 'jezerce', 'ribnicek', 'mlaka', 'luza', 'pond', 'lake', 'lago', 'teich', 'see']);
+
+/** "Ribnik", "Mali ribnik", "Gramoznica 2", "Kal": names that don't identify a water. */
+export function isGenericWaterName(name: string): boolean {
+  const words = norm(name).split(' ').filter((w) => w && !/^\d+$/.test(w));
+  return words.length === 0 || words.every((w) => GENERIC_NAME_WORDS.has(w));
+}
+
+/** Add each candidate without its leading generic words: "Gramoznica Tržec" → also "Tržec". */
+export function withoutGenericPrefix(cands: string[]): string[] {
+  const out = [...cands];
+  for (const c of cands) {
+    const words = c.split(/\s+/);
+    let i = 0;
+    while (i < words.length - 1 && GENERIC_NAME_WORDS.has(norm(words[i]))) i++;
+    const rest = words.slice(i).filter((w) => !/^\d+$/.test(w)).join(' ');
+    if (i > 0 && rest && !out.includes(rest)) out.push(rest);
+  }
+  return out;
+}
 
 /** Alternative names from a subtitle that is not a boundary description ("Oplotnica", "Sušica/Pirošica"). */
 export function alternateNames(subtitle: string): string[] {

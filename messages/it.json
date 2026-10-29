@@ -326,7 +326,7 @@
       "partial": "È noto un solo confine – la posizione è approssimativa.",
       "gauge": "Posizione presso l’idrometro – approssimativa.",
       "place": "Posizione in base al luogo nel nome – approssimativa.",
-      "none": "Il tratto non è ancora sulla mappa.",
+      "none": "La posizione di questa riserva non è ancora determinata, quindi non è sulla mappa – i confini esatti sono sulla mappa della società.",
       "manual": "La posizione è stata verificata a mano."
     }
   },

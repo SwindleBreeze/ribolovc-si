@@ -1,7 +1,7 @@
 /**
  * Turns an `osmium export -f geojsonseq` dump of the Slovenia OSM extract into small,
- * compact layers the geocoder needs: named rivers, named lakes/reservoirs, places,
- * dams/weirs, bridges, parking and fishing spots.
+ * compact layers the geocoder needs: named rivers, named lakes/reservoirs, all still waters
+ * (ponds, gravel pits – most are unnamed in OSM), places, dams/weirs, bridges, parking and fishing spots.
  * Usage: tsx scripts/scrape/osm-extract.ts <in.geojsonseq> <outDir>
  * OSM data © OpenStreetMap contributors, ODbL.
  */
@@ -21,6 +21,8 @@ type Feature = { id?: string; properties: Record<string, string>; geometry: Geom
 
 export type OsmRiver = { id: string; name: string; kind: string; line: LonLat[] };
 export type OsmWater = { id: string; name: string; kind: string; centroid: LonLat; bbox: [number, number, number, number]; areaKm2: number; ring: LonLat[] };
+/** Any still water polygon, named or not; used to find the pond next to a village named in a title. */
+export type OsmPond = { id: string; name: string; centroid: LonLat; areaKm2: number; ring: LonLat[] };
 export type OsmPoint = { id: string; name: string; kind: string; at: LonLat };
 
 const r5 = (n: number) => Math.round(n * 1e5) / 1e5;
@@ -51,6 +53,16 @@ function ringAreaKm2(ring: LonLat[]): number {
   return Math.abs(a / 2);
 }
 
+// Moving or artificial water that is never a fishing pond.
+const NOT_POND = new Set(['river', 'stream', 'canal', 'ditch', 'wastewater', 'reflecting_pool', 'moat', 'fountain', 'stream_pool', 'rapids']);
+const MIN_POND_KM2 = 0.0005;
+
+function outerRing(g: Geometry): LonLat[] | null {
+  if (g.type === 'Polygon') return g.coordinates[0];
+  if (g.type === 'MultiPolygon') return g.coordinates.reduce((best, poly) => (ringAreaKm2(poly[0]) > ringAreaKm2(best) ? poly[0] : best), g.coordinates[0][0]);
+  return null;
+}
+
 const PLACE_KINDS = new Set(['city', 'town', 'village', 'hamlet', 'suburb', 'locality', 'isolated_dwelling', 'neighbourhood', 'quarter', 'island', 'islet', 'farm', 'square']);
 const NATURAL_LANDMARKS = new Set(['spring', 'sinkhole', 'gorge', 'cave_entrance', 'waterfall', 'rapids']);
 
@@ -58,6 +70,7 @@ async function main() {
   const [input, outDir] = process.argv.slice(2);
   const rivers: OsmRiver[] = [];
   const waters: OsmWater[] = [];
+  const ponds: OsmPond[] = [];
   const places: OsmPoint[] = [];
   const structures: OsmPoint[] = [];
   const parking: OsmPoint[] = [];
@@ -72,6 +85,15 @@ async function main() {
     const g = f.geometry;
     const id = f.id ?? p['@id'] ?? '';
     const name = p.name ?? p['name:sl'] ?? '';
+
+    const still = p.natural === 'water' || p.landuse === 'reservoir' || p.landuse === 'basin';
+    const ring = still && !NOT_POND.has(p.water ?? '') ? outerRing(g) : null;
+    if (ring) {
+      const area = ringAreaKm2(ring);
+      if (area >= MIN_POND_KM2) {
+        ponds.push({ id, name, centroid: centroidOf({ type: 'Polygon', coordinates: [ring] }), areaKm2: Math.round(area * 10000) / 10000, ring: roundLine(simplify(ring, 0.00005)) });
+      }
+    }
 
     if ((p.waterway === 'river' || p.waterway === 'stream' || p.waterway === 'canal') && name) {
       const parts = g.type === 'LineString' ? [g.coordinates] : g.type === 'MultiLineString' ? g.coordinates : [];
@@ -106,12 +128,13 @@ async function main() {
   const write = (n: string, d: unknown) => fs.writeFileSync(path.join(outDir, n), JSON.stringify(d));
   write('rivers.json', rivers);
   write('waters.json', waters);
+  write('ponds.json', ponds);
   write('places.json', places);
   write('structures.json', structures);
   write('parking.json', parking);
   write('fishing.json', fishing);
   console.log(
-    `osm layers: rivers ${rivers.length}, waters ${waters.length}, places ${places.length}, structures ${structures.length}, parking ${parking.length}, fishing ${fishing.length}`,
+    `osm layers: rivers ${rivers.length}, waters ${waters.length}, ponds ${ponds.length}, places ${places.length}, structures ${structures.length}, parking ${parking.length}, fishing ${fishing.length}`,
   );
 }
 

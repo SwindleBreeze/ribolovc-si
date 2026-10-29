@@ -326,7 +326,7 @@
       "partial": "Only one boundary is known – the position is approximate.",
       "gauge": "Positioned at the gauging station – approximate.",
       "place": "Positioned by the place in the section name – approximate.",
-      "none": "The section has not been placed on the map yet.",
+      "none": "This section has not been placed yet, so it is not on the map – see the club’s map for its exact limits.",
       "manual": "The position has been checked by hand."
     }
   },

@@ -326,7 +326,7 @@
       "partial": "Nur eine Grenze ist bekannt – die Lage ist ungefähr.",
       "gauge": "Lage am Pegel – ungefähr.",
       "place": "Lage nach dem Ort im Reviernamen – ungefähr.",
-      "none": "Das Revier ist noch nicht verortet.",
+      "none": "Die Lage dieses Reviers ist noch nicht bestimmt, daher fehlt es auf der Karte – die genauen Grenzen zeigt die Karte des Vereins.",
       "manual": "Die Lage wurde von Hand geprüft."
     }
   },

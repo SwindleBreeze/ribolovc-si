@@ -11,7 +11,7 @@ import { closestOnLine, distKm, type LonLat } from './geo';
 import { Geocoder, type Placement } from './geocode';
 import { parse as parseYaml } from 'yaml';
 import { mapMethods, mapSpecies, regionFor, stillKind } from './normalize';
-import type { OsmPoint, OsmRiver, OsmWater } from './osm-extract';
+import type { OsmPoint, OsmPond, OsmRiver, OsmWater } from './osm-extract';
 
 const out = process.argv[2] ?? 'scrape-out';
 const read = <T>(p: string): T => JSON.parse(fs.readFileSync(path.join(out, p), 'utf8')) as T;
@@ -22,6 +22,8 @@ const osm = {
   waters: read<OsmWater[]>('osm/waters.json'),
   places: read<OsmPoint[]>('osm/places.json'),
   structures: read<OsmPoint[]>('osm/structures.json'),
+  // Added later than the other layers; older stored OSM builds don't have it.
+  ponds: fs.existsSync(path.join(out, 'osm/ponds.json')) ? read<OsmPond[]>('osm/ponds.json') : [],
 };
 const parking = read<OsmPoint[]>('osm/parking.json');
 const fishing = read<OsmPoint[]>('osm/fishing.json');
@@ -113,8 +115,11 @@ const RANK = { segment: 0, water: 1, manual: 1, partial: 2, gauge: 3, place: 4, 
 function isFlowing(r: RawRevir): boolean {
   const t = r.features.waterType ?? r.index?.features.waterType;
   if (t) return t.startsWith('teko');
-  return /^(reka|potok|kanal|struga|rokav)\b/i.test(r.name) || /\b(potok|reka)\b/i.test(r.name) || /\b(od|do)\b/.test(r.subtitle);
+  if (/^(reka|potok|kanal|struga|rokav)\b/i.test(r.name) || /\b(potok|reka)\b/i.test(r.name) || /\b(od|do)\b/.test(r.subtitle)) return true;
+  // "Bečovnica 2", "Velunja 2": no type given, but OSM knows a stream by that name.
+  return !STILL_WORDS.test(r.name) && geo.knowsRiver(r.name);
 }
+const STILL_WORDS = /\b(ribnik\w*|jezer\w*|gramoznic\w*|mrtvic\w*|akumulacij\w*|bajer\w*|kal|zadr\w*)\b/i;
 
 const inSlovenia = (lat: number, lon: number) => lat > 45.3 && lat < 46.95 && lon > 13.3 && lon < 16.65;
 

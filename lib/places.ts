@@ -36,7 +36,9 @@ export function revirTitle(r: Revir, locale: Locale): { name: string; sub: strin
 }
 
 function fromRevir(r: Revir, locale: Locale): PlaceSummary | null {
-  if (!r.center) return null;
+  // Unplaced sections only carry the club's town (for the weather); a pin there would pile
+  // every unplaced water of a club onto one spot, so they stay off the map and list.
+  if (!r.center || r.quality === 'none') return null;
   const sal = salmonidSet();
   const { name, sub } = revirTitle(r, locale);
   return {
