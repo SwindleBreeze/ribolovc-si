@@ -5,7 +5,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { getAllSpecies, getGuideSlugs, getLures, getRevirji, getSpots } from '../lib/content';
+import { getAllSpecies, getGuideSlugs, getLures, getPhotos, getRevirji, getSpots } from '../lib/content';
 
 const problems: string[] = [];
 const fail = (msg: string) => problems.push(msg);
@@ -23,11 +23,13 @@ let spots: ReturnType<typeof getSpots> = [];
 let species: ReturnType<typeof getAllSpecies> = [];
 let lures: ReturnType<typeof getLures> = [];
 let revirji: ReturnType<typeof getRevirji> = [];
+let photos: ReturnType<typeof getPhotos> = [];
 try {
   spots = getSpots();
   species = getAllSpecies();
   lures = getLures();
   revirji = getRevirji();
+  photos = getPhotos();
 } catch (e) {
   console.error((e as Error).message);
   process.exit(1);
@@ -63,6 +65,12 @@ for (const r of revirji) {
   for (const s of r.species) if (!speciesSlugs.has(s)) fail(`revir ${r.id}: unknown species "${s}" (add it to species.yaml)`);
 }
 
+const placeIds = new Set([...spots.map((s) => `spot:${s.slug}`), ...revirji.map((r) => `revir:${r.id}`)]);
+for (const p of photos) {
+  if (!placeIds.has(p.place)) fail(`photo from issue #${p.issue}: unknown place "${p.place}"`);
+  for (const f of [p.src, p.thumb]) if (!fs.existsSync(path.join('public', f))) fail(`photo from issue #${p.issue}: missing file public/${f}`);
+}
+
 // Internal links inside guides: /<locale>/guides/<slug>
 for (const g of guideSlugs) {
   for (const file of fs.readdirSync(path.join('content/guides', g))) {
@@ -78,5 +86,5 @@ if (problems.length) {
   process.exit(1);
 }
 console.log(
-  `Content OK: ${spots.length} spots, ${revirji.length} sections, ${species.length} species, ${lures.length} lures, ${guideSlugs.size} guides.`,
+  `Content OK: ${spots.length} spots, ${revirji.length} sections, ${species.length} species, ${lures.length} lures, ${guideSlugs.size} guides, ${photos.length} photos.`,
 );

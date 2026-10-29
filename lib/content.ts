@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { parse } from 'yaml';
 import { z } from 'zod';
-import { GuideFrontmatter, Lure, Revir, Species, Spot } from './schema';
+import { GuideFrontmatter, Lure, Photo, Revir, Species, Spot } from './schema';
 import type { Locale } from '@/i18n/routing';
 
 const ROOT = path.join(process.cwd(), 'content');
@@ -54,6 +54,17 @@ export function getRevirji(): Revir[] {
 
 export function getRevir(id: string): Revir | undefined {
   return getRevirji().find((r) => r.id === id);
+}
+
+let photosCache: Photo[] | undefined;
+/** Approved visitor photos (content/photos.yaml), newest first. */
+export function getPhotos(place?: string): Photo[] {
+  if (!photosCache) {
+    const file = path.join(ROOT, 'photos.yaml');
+    const data = fs.existsSync(file) ? readYaml(file) : [];
+    photosCache = parseList(Photo, data ?? [], 'photos.yaml').sort((a, b) => b.date.localeCompare(a.date) || b.issue - a.issue);
+  }
+  return place ? photosCache.filter((p) => p.place === place) : photosCache;
 }
 
 let speciesCache: Species[] | undefined;

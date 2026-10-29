@@ -116,7 +116,6 @@
     "links": "Links",
     "lastUpdated": "Zuletzt aktualisiert: {date}",
     "reportIssue": "Fehler melden",
-    "nearby": "Angelplätze in der Nähe",
     "lures": "Köder",
     "water": "Gewässer",
     "method": "Methode",
@@ -334,5 +333,11 @@
   "notFound": {
     "title": "Hier beißt nichts.",
     "text": "Diese Seite wurde nicht gefunden."
+  },
+  "photos": {
+    "title": "Fotos von Besuchern",
+    "add": "Foto hinzufügen",
+    "alt": "Foto von {author}",
+    "credit": "© {author} · CC BY 4.0"
   }
 }

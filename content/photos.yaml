@@ -1,0 +1,4 @@
+# Visitor photos, approved by an admin. Entries are added by .github/workflows/photo-approve.yml
+# when an issue made with the "Photo" form gets the `photo-approved` label.
+# To take a photo down, delete its entry here and its two files under public/photos/.
+[]

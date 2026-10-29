@@ -8,7 +8,7 @@ A free, installable web app (PWA) for fishing in Slovenia, built especially for 
   - recommended rigs and lures
   - permit and rules summary, with a link to buy the permit
   - how to get there: parking, Google/Apple Maps/Waze/OSM links
-  - nearby spots
+  - approved visitor photos
 - **4-day conditions per spot:**
   - weather: temperature, wind/gusts, rain, cloud, pressure with its trend
   - sunrise/sunset and moon phase
@@ -77,6 +77,19 @@ The 473 fishing sections (*revirji*) are crawled from ribiskekarte.si and placed
 - **Manual fixes.** Sections the geocoder can't place can be given coordinates in `data/overrides.yaml`.
 
 After a sync, `npx tsx scripts/anchor-spots.ts` re-links the hand-written spots in `content/spots/` to their sections and moves their pins and parking to the matched geometry.
+
+## Visitor photos (approved by an admin)
+
+Every section and spot page has an **Add a photo** link that opens the GitHub issue form `.github/ISSUE_TEMPLATE/photo.yml`, with the page already filled in. Visitors drag in 1–4 photos, give a name for the credit and confirm they took the photo, agree to CC BY 4.0 and that no recognisable people or number plates are shown. Submitting needs a free GitHub account.
+
+- **Approve:** add the `photo-approved` label to the issue. `.github/workflows/photo-approve.yml` checks that you have write access, then:
+  - downloads the uploads and re-encodes them to WebP (1600 px plus a 640 px thumbnail), which removes all metadata including GPS
+  - writes them to `public/photos/` and adds entries to `content/photos.yaml`
+  - commits to the default branch (which redeploys the site), comments on the issue and closes it
+- **Reject:** close the issue.
+- **Take a photo down:** delete its entry in `content/photos.yaml` and its two files in `public/photos/`.
+
+Create the `photo` and `photo-approved` labels once under Issues → Labels.
 
 ## Adding or fixing a spot
 

@@ -127,6 +127,26 @@ export const Lure = z.object({
 });
 export type Lure = z.infer<typeof Lure>;
 
+/**
+ * A visitor photo, published after an admin approved its GitHub issue
+ * (scripts/photos/import.ts writes these entries and the files under public/photos/).
+ */
+export const Photo = z.object({
+  /** `revir:<club>/<slug>` or `spot:<slug>`, matching PlaceSummary ids. */
+  place: z.string().regex(/^(revir:[a-z0-9-]+\/[A-Za-z0-9-]+|spot:[a-z0-9-]+)$/),
+  /** Paths under public/, e.g. photos/rd-tolmin/soca-3/42-1.webp */
+  src: z.string().regex(/^photos\/[A-Za-z0-9/_-]+\.webp$/),
+  thumb: z.string().regex(/^photos\/[A-Za-z0-9/_-]+\.webp$/),
+  width: z.number().int().positive(),
+  height: z.number().int().positive(),
+  author: z.string().min(1).max(80),
+  caption: z.string().max(200).optional(),
+  date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+  /** The GitHub issue it was submitted and approved in. */
+  issue: z.number().int().positive(),
+});
+export type Photo = z.infer<typeof Photo>;
+
 export const guideCategories = ['beginner', 'rig', 'technique', 'sea'] as const;
 export const GuideFrontmatter = z.object({
   title: z.string(),

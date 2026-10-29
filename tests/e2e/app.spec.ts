@@ -126,6 +126,8 @@ test('fishing section page shows club data, permits and conditions', async ({ pa
   await expect(page.getByTestId('buy-permit')).toHaveAttribute('href', 'https://www.ribiskekarte.si/rd-tolmin/ucja');
   await expect(page.getByTestId('conditions').getByTestId('day-card')).toHaveCount(4);
   await expect(page.getByRole('heading', { name: 'What you can catch' })).toBeVisible();
+  await expect(page.getByTestId('add-photo')).toHaveAttribute('href', /template=photo\.yml.*place=.*rd-tolmin%2Fucja/);
+  await expect(page.getByText('Nearby spots')).toHaveCount(0);
 });
 
 test('sections index lists clubs and the map can filter by club', async ({ page }) => {

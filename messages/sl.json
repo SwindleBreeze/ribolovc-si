@@ -116,7 +116,6 @@
     "links": "Povezave",
     "lastUpdated": "Zadnja posodobitev: {date}",
     "reportIssue": "Prijavi napačen podatek",
-    "nearby": "Lokacije v bližini",
     "lures": "Vabe",
     "water": "Voda",
     "method": "Način",
@@ -334,5 +333,11 @@
   "notFound": {
     "title": "Tu ne prijema.",
     "text": "Strani ni bilo mogoče najti."
+  },
+  "photos": {
+    "title": "Fotografije obiskovalcev",
+    "add": "Dodaj fotografijo",
+    "alt": "Fotografija: {author}",
+    "credit": "© {author} · CC BY 4.0"
   }
 }

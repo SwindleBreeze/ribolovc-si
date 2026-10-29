@@ -3,14 +3,14 @@ import { notFound } from 'next/navigation';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { routing, type Locale } from '@/i18n/routing';
-import { getAllSpecies, getGuide, getLures, getRevir, getSpot, getSpots, type Guide } from '@/lib/content';
-import { distanceKm } from '@/lib/geo';
+import { getAllSpecies, getGuide, getLures, getPhotos, getRevir, getSpot, getSpots, type Guide } from '@/lib/content';
 import { getPlaces, revirTitle } from '@/lib/places';
 import { site } from '@/lib/site';
 import { loc } from '@/lib/text';
 import { ConditionsPanel } from '@/components/conditions/ConditionsPanel';
 import { DataStrip, PageHeader, SectionTitle } from '@/components/ui/PageHeader';
 import { AccessPanel, PermitPanel, RigsPanel, SpeciesPlates } from '@/components/place/Panels';
+import { PhotoGallery, photoFormUrl } from '@/components/place/Photos';
 
 type Params = { locale: Locale; slug: string };
 
@@ -50,11 +50,6 @@ export default async function SpotPage({ params }: { params: Promise<Params> }) 
     (l) => l.species.some((s) => spot.species.includes(s)) && l.techniques.some((x) => spot.techniques.includes(x)),
   );
   const place = getPlaces(locale).find((p) => p.id === `spot:${spot.slug}`)!;
-  const nearby = getPlaces(locale)
-    .filter((p) => p.id !== place.id && !p.forbidden)
-    .map((p) => ({ p, km: distanceKm(spot.coords, p.center) }))
-    .sort((a, b) => a.km - b.km)
-    .slice(0, 5);
 
   const rules = [
     spot.rules.flyOnly ? t('spot.flyOnly') : null,
@@ -63,6 +58,7 @@ export default async function SpotPage({ params }: { params: Promise<Params> }) 
     spot.rules.notes ? loc(spot.rules.notes, locale) : null,
   ].filter((x): x is string => Boolean(x));
   const issueUrl = `${site.issuesUrl}?title=${encodeURIComponent(`Spot: ${spot.slug}`)}&labels=content`;
+  const photoUrl = photoFormUrl(`/sl/spots/${spot.slug}`, spot.name.sl);
   const revir = spot.revir ? getRevir(spot.revir) : undefined;
 
   return (
@@ -106,6 +102,7 @@ export default async function SpotPage({ params }: { params: Promise<Params> }) 
               <ConditionsPanel query={`spot=${encodeURIComponent(spot.slug)}`} type={spot.type} />
             </section>
           )}
+          <PhotoGallery photos={getPhotos(`spot:${spot.slug}`)} addUrl={photoUrl} />
           {!forbidden && species.length > 0 && (
             <section aria-labelledby="fish-h" className="mt-12">
               <SectionTitle id="fish-h">{t('spot.species')}</SectionTitle>
@@ -146,26 +143,14 @@ export default async function SpotPage({ params }: { params: Promise<Params> }) 
             zoom={12}
           />
           {!forbidden && <RigsPanel guides={guides} lures={lures} locale={locale} />}
-          <section aria-labelledby="near-h" className="border-t border-ink pt-3.5">
-            <h2 id="near-h" className="mb-2 text-[22px] font-semibold">
-              {t('spot.nearby')}
-            </h2>
-            <ul>
-              {nearby.map(({ p, km }) => (
-                <li key={p.id} className="flex justify-between gap-3 border-b border-rule-2 py-2">
-                  <Link href={p.href} className="text-ink">
-                    {p.name}
-                    {p.kind === 'revir' && p.sub && <span className="block text-xs text-muted">{p.sub}</span>}
-                  </Link>
-                  <span className="num shrink-0 text-sm text-muted">{Math.round(km)} km</span>
-                </li>
-              ))}
-            </ul>
-          </section>
           <p className="text-[13px] text-muted">
             {t('spot.lastUpdated', { date: spot.lastVerified })} ·{' '}
             <a href={issueUrl} target="_blank" rel="noopener">
               {t('spot.reportIssue')}
+            </a>{' '}
+            ·{' '}
+            <a href={photoUrl} target="_blank" rel="noopener" data-testid="add-photo">
+              {t('photos.add')}
             </a>
           </p>
         </aside>

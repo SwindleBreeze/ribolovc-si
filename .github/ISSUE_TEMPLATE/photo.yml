@@ -1,0 +1,46 @@
+name: Fotografija / Photo
+description: Pošljite fotografijo revirja ali lokacije. Objavimo jo po pregledu. / Send a photo of a section or spot; it is published after review.
+title: 'Fotografija: '
+labels: [photo]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hvala! Fotografijo pregledamo in jo objavimo na strani revirja z vašim imenom. Pred objavo odstranimo vse metapodatke (tudi GPS).
+        Thanks! We review the photo and publish it on the section page with your name. All metadata (including GPS) is removed before publishing.
+  - type: input
+    id: place
+    attributes:
+      label: Revir ali lokacija / Section or spot
+      description: Povezava do strani na ribolovc.si / Link to the page on ribolovc.si
+      placeholder: https://ribolovc.si/sl/revirji/rd-tolmin/soca-3
+    validations:
+      required: true
+  - type: textarea
+    id: photos
+    attributes:
+      label: Fotografije / Photos
+      description: Povlecite 1–4 fotografije v to polje. / Drag 1–4 photos into this field.
+    validations:
+      required: true
+  - type: input
+    id: caption
+    attributes:
+      label: Opis / Caption
+      description: Neobvezno, npr. "Tolmun pod mostom, oktober" / Optional
+  - type: input
+    id: author
+    attributes:
+      label: Avtor / Credit
+      description: Ime, ki ga navedemo ob fotografiji. Prazno = vaše GitHub ime. / Name shown with the photo; empty = your GitHub name.
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Soglasje / Consent
+      options:
+        - label: Fotografijo sem posnel/a sam/a. / I took this photo myself.
+          required: true
+        - label: Dovolim objavo pod licenco CC BY 4.0. / I allow publishing it under CC BY 4.0.
+          required: true
+        - label: Na fotografiji ni prepoznavnih oseb ali registrskih tablic. / No recognisable people or number plates are shown.
+          required: true

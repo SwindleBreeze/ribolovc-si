@@ -116,7 +116,6 @@
     "links": "Link",
     "lastUpdated": "Ultimo aggiornamento: {date}",
     "reportIssue": "Segnala un errore",
-    "nearby": "Spot vicini",
     "lures": "Esche",
     "water": "Acqua",
     "method": "Metodo",
@@ -334,5 +333,11 @@
   "notFound": {
     "title": "Qui non abbocca niente.",
     "text": "Pagina non trovata."
+  },
+  "photos": {
+    "title": "Foto dei visitatori",
+    "add": "Aggiungi una foto",
+    "alt": "Foto di {author}",
+    "credit": "© {author} · CC BY 4.0"
   }
 }

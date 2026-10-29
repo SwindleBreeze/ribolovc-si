@@ -2,15 +2,14 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { ArrowUpRight, FileText } from 'lucide-react';
-import { Link } from '@/i18n/navigation';
 import { routing, type Locale } from '@/i18n/routing';
-import { getAllSpecies, getGuide, getLures, getRevir, getRevirji, type Guide } from '@/lib/content';
-import { distanceKm } from '@/lib/geo';
+import { getAllSpecies, getGuide, getLures, getPhotos, getRevir, getRevirji, type Guide } from '@/lib/content';
 import { getPlaces, revirTitle } from '@/lib/places';
 import { site } from '@/lib/site';
 import { ConditionsPanel } from '@/components/conditions/ConditionsPanel';
 import { DataStrip, PageHeader, SectionTitle } from '@/components/ui/PageHeader';
 import { AccessPanel, PermitPanel, RigsPanel, SpeciesPlates } from '@/components/place/Panels';
+import { PhotoGallery, photoFormUrl } from '@/components/place/Photos';
 
 type Params = { locale: Locale; club: string; revir: string };
 
@@ -63,13 +62,6 @@ export default async function RevirPage({ params }: { params: Promise<Params> })
   const lures = getLures().filter((l) => l.species.some((s) => r.species.includes(s)) && l.techniques.some((x) => r.techniques.includes(x)));
   const places = getPlaces(locale);
   const place = places.find((p) => p.id === `revir:${r.id}`);
-  const nearby = r.center
-    ? places
-        .filter((p) => p.id !== `revir:${r.id}` && !p.forbidden)
-        .map((p) => ({ p, km: distanceKm(r.center!, p.center) }))
-        .sort((a, b) => a.km - b.km)
-        .slice(0, 6)
-    : [];
 
   const { name, sub } = revirTitle(r, locale);
   const description = (locale !== 'sl' && r.en?.description) || r.description;
@@ -86,6 +78,7 @@ export default async function RevirPage({ params }: { params: Promise<Params> })
     r.baits.length ? `${t('revir.baits')}: ${r.baits.join(', ')}` : null,
   ].filter((x): x is string => Boolean(x));
   const issueUrl = `${site.issuesUrl}?title=${encodeURIComponent(`Revir: ${r.id}`)}&labels=content`;
+  const photoUrl = photoFormUrl(`/sl/revirji/${r.id}`, `${r.name}${r.subtitle ? ` (${r.subtitle})` : ''}`);
 
   return (
     <article>
@@ -138,6 +131,8 @@ export default async function RevirPage({ params }: { params: Promise<Params> })
             </section>
           )}
 
+          <PhotoGallery photos={getPhotos(`revir:${r.id}`)} addUrl={photoUrl} />
+
           {species.length > 0 && (
             <section aria-labelledby="fish-h" className="mt-12">
               <SectionTitle id="fish-h" note={t('revir.speciesSource')}>
@@ -183,28 +178,14 @@ export default async function RevirPage({ params }: { params: Promise<Params> })
             </a>
           )}
           <RigsPanel guides={guides} lures={lures} locale={locale} />
-          {nearby.length > 0 && (
-            <section aria-labelledby="near-h" className="border-t border-ink pt-3.5">
-              <h2 id="near-h" className="mb-2 text-[22px] font-semibold">
-                {t('spot.nearby')}
-              </h2>
-              <ul>
-                {nearby.map(({ p, km }) => (
-                  <li key={p.id} className="flex justify-between gap-3 border-b border-rule-2 py-2">
-                    <Link href={p.href} className="text-ink">
-                      {p.name}
-                      {p.kind === 'revir' && p.sub && <span className="block text-xs text-muted">{p.sub}</span>}
-                    </Link>
-                    <span className="num shrink-0 text-sm text-muted">{km < 10 ? km.toFixed(1) : Math.round(km)} km</span>
-                  </li>
-                ))}
-              </ul>
-            </section>
-          )}
           <p className="text-[13px] text-muted">
             {t('revir.source', { date: r.scrapedAt.slice(0, 10) })} ·{' '}
             <a href={issueUrl} target="_blank" rel="noopener">
               {t('spot.reportIssue')}
+            </a>{' '}
+            ·{' '}
+            <a href={photoUrl} target="_blank" rel="noopener" data-testid="add-photo">
+              {t('photos.add')}
             </a>
           </p>
         </aside>

@@ -116,7 +116,6 @@
     "links": "Links",
     "lastUpdated": "Last updated: {date}",
     "reportIssue": "Report wrong information",
-    "nearby": "Nearby spots",
     "lures": "Lures",
     "water": "Water",
     "method": "Method",
@@ -334,5 +333,11 @@
   "notFound": {
     "title": "Nothing biting here.",
     "text": "This page could not be found."
+  },
+  "photos": {
+    "title": "Visitor photos",
+    "add": "Add a photo",
+    "alt": "Photo by {author}",
+    "credit": "© {author} · CC BY 4.0"
   }
 }
