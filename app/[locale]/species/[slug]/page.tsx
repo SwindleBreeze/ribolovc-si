@@ -8,6 +8,8 @@ import { getPlaces } from '@/lib/places';
 import { loc } from '@/lib/text';
 import { DataStrip, PageHeader, SectionTitle } from '@/components/ui/PageHeader';
 import { FishSilhouette } from '@/components/ui/FishSilhouette';
+import { TackleStrip } from '@/components/ui/TackleStrip';
+import { tackleInText } from '@/lib/bait-text';
 import { MonthStrip } from '@/components/ui/MonthStrip';
 
 type Params = { locale: Locale; slug: string };
@@ -40,6 +42,13 @@ export default async function SpeciesPage({ params }: { params: Promise<Params> 
   const places = getPlaces(locale).filter((p) => p.species.includes(s.slug) && !p.forbidden);
   const rigs = s.rigs.map((r) => getGuide(r, locale)).filter((g): g is NonNullable<typeof g> => Boolean(g));
   const lures = getLures().filter((l) => l.species.includes(s.slug));
+
+  const found = tackleInText(s.baits.sl);
+  const lureNames = new Map(getLures().map((l) => [l.slug, loc(l.name, locale)]));
+  const tackle = [
+    ...found.baits.map((b) => ({ kind: 'bait' as const, key: b, label: t(`advice.bait.${b}`) })),
+    ...found.lures.filter((l) => lureNames.has(l)).map((l) => ({ kind: 'lure' as const, key: l, label: lureNames.get(l)! })),
+  ];
 
   return (
     <article>
@@ -81,6 +90,7 @@ export default async function SpeciesPage({ params }: { params: Promise<Params> 
             <div>
               <h2 className="text-xl font-semibold">{t('species.baits')}</h2>
               <p className="mt-1.5 text-ink-2">{loc(s.baits, locale)}</p>
+              <TackleStrip items={tackle} testId="species-tackle" />
             </div>
           </section>
           <section className="mt-8">

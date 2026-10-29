@@ -5,9 +5,17 @@ import { useTranslations } from 'next-intl';
 import { ArrowRight } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
 import { LureIllustration } from '@/components/ui/LureIllustration';
+import { TackleStrip } from '@/components/ui/TackleStrip';
+import type { Bait } from '@/lib/advice';
 import { seasons, type Season } from '@/lib/schema';
 
-export type FinderSpecies = { slug: string; name: string; baits: string; rigs: { slug: string; title: string }[] };
+export type FinderSpecies = {
+  slug: string;
+  name: string;
+  baits: string;
+  naturalBaits: { bait: Bait; label: string }[];
+  rigs: { slug: string; title: string }[];
+};
 export type FinderLure = {
   slug: string;
   name: string;
@@ -117,10 +125,11 @@ export function LureFinder({ species, lures }: { species: FinderSpecies[]; lures
           </ul>
         )}
         {fish && (
-          <div className="mt-8 grid gap-4 border-t-[3px] border-ink bg-raised p-4 sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center">
+          <div className="mt-8 grid gap-4 border-t-[3px] border-ink bg-raised p-4 sm:grid-cols-[minmax(0,1fr)_auto] sm:items-start">
             <div>
               <h3 className="label !text-xs">{t('naturalBaits')}</h3>
               <p className="mt-1 text-[15px]">{fish.baits}</p>
+              <TackleStrip items={fish.naturalBaits.map((b) => ({ kind: 'bait', key: b.bait, label: b.label }))} testId="finder-baits" />
             </div>
             {fish.rigs.length > 0 && (
               <div className="flex flex-wrap gap-2">

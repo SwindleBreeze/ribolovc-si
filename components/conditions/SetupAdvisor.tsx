@@ -8,6 +8,7 @@ import { advise, type SpeciesGroup } from '@/lib/advice';
 import type { ConditionsDay, ConditionsWater } from '@/lib/conditions';
 import type { Technique, WaterType } from '@/lib/schema';
 import { LureIllustration } from '@/components/ui/LureIllustration';
+import { BaitIllustration, hasBaitIllustration } from '@/components/ui/BaitIllustration';
 
 export type AdvisorData = {
   species: { slug: string; name: string; group: SpeciesGroup }[];
@@ -77,9 +78,13 @@ export function SetupAdvisor({
 
       <div className="grid gap-5 p-4 md:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
         <div>
-          {a.lure && (
+          {(a.lure || hasBaitIllustration(a.bait)) && (
             <div className="mb-3 flex h-24 items-center justify-center border border-rule bg-paper px-6">
-              <LureIllustration slug={a.lure} className="h-auto w-full max-w-[200px] text-ink" />
+              {a.lure ? (
+                <LureIllustration slug={a.lure} className="h-auto w-full max-w-[200px] text-ink" />
+              ) : (
+                <BaitIllustration bait={a.bait} className="h-auto w-full max-w-[200px] text-ink" />
+              )}
             </div>
           )}
           <p className="label">{tt(a.technique)}</p>

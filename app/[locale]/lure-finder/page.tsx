@@ -3,6 +3,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { getAllSpecies, getGuide, getLures } from '@/lib/content';
 import { loc } from '@/lib/text';
+import { tackleInText } from '@/lib/bait-text';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { LureFinder, type FinderLure, type FinderSpecies } from '@/components/LureFinder';
 
@@ -16,12 +17,14 @@ export default async function LureFinderPage({ params }: { params: Promise<{ loc
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations('lureFinder');
+  const tb = await getTranslations('advice');
 
   const species: FinderSpecies[] = getAllSpecies()
     .map((s) => ({
       slug: s.slug,
       name: loc(s.name, locale),
       baits: loc(s.baits, locale),
+      naturalBaits: tackleInText(s.baits.sl).baits.map((b) => ({ bait: b, label: tb(`bait.${b}`) })),
       rigs: s.rigs
         .map((r) => getGuide(r, locale))
         .filter((g): g is NonNullable<typeof g> => Boolean(g))

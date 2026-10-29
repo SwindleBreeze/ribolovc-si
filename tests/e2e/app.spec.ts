@@ -99,6 +99,15 @@ test('rig guides show a drawn diagram instead of ASCII art', async ({ page }) =>
   await expect(page.locator('.prose-guide pre')).toHaveCount(0);
 });
 
+test('species pages and the lure finder show drawn baits', async ({ page }) => {
+  await page.goto('/en/species/krap');
+  await expect(page.getByTestId('species-tackle').locator('li')).toHaveCount(4);
+  await expect(page.getByTestId('species-tackle')).toContainText('Boilies');
+  await page.goto('/en/lure-finder');
+  await page.getByTestId('finder-species').selectOption('linj');
+  await expect(page.getByTestId('finder-baits')).toContainText('Worms');
+});
+
 test('lure finder suggests squid jigs for squid', async ({ page }) => {
   await page.goto('/en/lure-finder');
   await page.getByTestId('finder-species').selectOption('lignji');
