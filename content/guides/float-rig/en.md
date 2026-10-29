@@ -7,17 +7,7 @@ order: 10
 species: [rdeceoka, krap, linj, ploscic, klen, cipelj, ostriz]
 ---
 ## The rig
-```
-main line 0.18–0.22 mm
-   │
- [float 1–4 g]  ← fixed with float rubbers or sliding with a stop knot
-   │
- ●●● bulk shot (70 % of the load) ~40 cm above the hook
-   │
-   ● "tell-tale" shot ~10 cm above the hook
-   │
-  🪝 hook size 12–16 (carp 8–10)
-```
+<!-- diagram -->
 
 ## Steps
 1. Thread the float, add the shot and tie on the hook ([clinch knot](/en/guides/knots)).

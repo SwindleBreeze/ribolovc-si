@@ -48,6 +48,7 @@ export default function PlacesMap({
   geoUrl = '/api/revirji-geo',
   cluster = true,
   markers,
+  labels,
 }: {
   places: PlaceSummary[];
   selected: string | null;
@@ -61,14 +62,16 @@ export default function PlacesMap({
   cluster?: boolean;
   /** Small labelled markers, e.g. "P" for parking. */
   markers?: { lat: number; lon: number; label: string; title: string }[];
+  /** Popup texts: the "open" link and water-type names. */
+  labels?: { open: string; types: Record<string, string> };
 }) {
   const locale = useLocale();
   const container = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MLMap | null>(null);
   const meMarker = useRef<maplibregl.Marker | null>(null);
-  const latest = useRef({ places, onSelect, onBounds, locale, showDepth, selected, markers });
+  const latest = useRef({ places, onSelect, onBounds, locale, showDepth, selected, markers, labels });
   useEffect(() => {
-    latest.current = { places, onSelect, onBounds, locale, showDepth, selected, markers };
+    latest.current = { places, onSelect, onBounds, locale, showDepth, selected, markers, labels };
   });
 
   useEffect(() => {
@@ -177,12 +180,19 @@ export default function PlacesMap({
         paint: { 'circle-color': 'transparent', 'circle-radius': 12, 'circle-stroke-width': 3, 'circle-stroke-color': ACCENT },
       });
 
-      const open = (id: string, name: string, href: string, at: maplibregl.LngLatLike) => {
+      const open = (id: string, at: maplibregl.LngLatLike) => {
+        const p = latest.current.places.find((x) => x.id === id);
+        if (!p) return;
         latest.current.onSelect?.(id);
-        new maplibregl.Popup({ offset: 10, maxWidth: '260px' })
+        const href = `/${latest.current.locale}${p.href}`;
+        const kicker = [p.club && p.club !== p.sub ? p.club : null, latest.current.labels?.types?.[p.type]].filter(Boolean).join(' · ');
+        new maplibregl.Popup({ offset: 12, maxWidth: '280px', className: 'place-popup' })
           .setLngLat(at)
           .setHTML(
-            `<a href="/${latest.current.locale}${href}" style="color:#1C2321;font-family:var(--font-display);font-size:16px;font-weight:600;text-decoration:none">${escapeHtml(name)} →</a>`,
+            `${kicker ? `<p class="pop-kicker">${escapeHtml(kicker)}</p>` : ''}` +
+              `<a class="pop-title" href="${href}">${escapeHtml(p.name)}</a>` +
+              `${p.sub ? `<p class="pop-sub">${escapeHtml(p.sub)}</p>` : ''}` +
+              `<a class="pop-link" href="${href}">${escapeHtml(latest.current.labels?.open ?? '→')} →</a>`,
           )
           .addTo(map);
       };
@@ -190,13 +200,11 @@ export default function PlacesMap({
       map.on('click', 'place', (e) => {
         const f = e.features?.[0];
         if (!f) return;
-        const p = f.properties as { id: string; name: string; href: string };
-        open(p.id, p.name, p.href, (f.geometry as GeoJSON.Point).coordinates as [number, number]);
+        open(String(f.properties.id), (f.geometry as GeoJSON.Point).coordinates as [number, number]);
       });
       map.on('click', 'geo-line', (e) => {
         const f = e.features?.[0];
-        const place = latest.current.places.find((p) => p.id === f?.properties?.id);
-        if (place) open(place.id, place.name, place.href, e.lngLat);
+        if (f?.properties?.id) open(String(f.properties.id), e.lngLat);
       });
       map.on('click', 'clusters', async (e) => {
         const f = e.features?.[0];

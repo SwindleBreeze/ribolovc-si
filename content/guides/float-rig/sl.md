@@ -7,17 +7,7 @@ order: 10
 species: [rdeceoka, krap, linj, ploscic, klen, cipelj, ostriz]
 ---
 ## Sestava sistema
-```
-glavna vrvica 0,18–0,22 mm
-   │
- [plovec 1–4 g]  ← fiksiran z gumicama ali drsni s stoperjem
-   │
- ●●● glavne šibrice (70 % obtežitve) ~40 cm nad trnkom
-   │
-   ● "kazalna" šibrica ~10 cm nad trnkom
-   │
-  🪝 trnek vel. 12–16 (krap 8–10)
-```
+<!-- diagram -->
 
 ## Koraki
 1. Nataknite plovec, nato šibrice, na konec privežite trnek (vozel [clinch](/sl/guides/knots)).

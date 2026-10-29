@@ -12,6 +12,8 @@ species: [lignji, sipa]
 - **Kalamarjere (EGI)** vel. 2.0–3.0; nekaj naravnih in nekaj fluorescentnih.
 
 ## Tehnika
+<!-- diagram -->
+
 1. Vrzite in pustite, da vaba **potone** (štejte – ugotovite globino).
 2. Naredite **2–3 ostre sunke** s palico navzgor.
 3. Pustite vabo **drseti navzdol** z napeto vrvico – lignji napadejo med padanjem.

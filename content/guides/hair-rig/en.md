@@ -10,15 +10,7 @@ species: [krap, amur]
 The bait (boilie) isn't on the hook but on a short hair below it. The carp sucks in the bait, the hook flips into its lip and **sets itself** against the lead.
 
 ## The rig
-```
-main line 0.30–0.35 mm
-   │
- lead clip with 70–110 g lead
-   │
- hooklink 15–25 cm (coated braid)
-   │
- hook size 4–8 ─ hair 1–2 cm ─ boilie 15–20 mm
-```
+<!-- diagram -->
 
 ## Steps
 1. Thread the boilie onto the hair with a baiting needle and lock it with a stop.

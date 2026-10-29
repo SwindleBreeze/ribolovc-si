@@ -32,7 +32,8 @@
     "statSections": "Reviere",
     "statClubs": "Angelvereine",
     "statSpecies": "Fischarten",
-    "startTitle": "Zum ersten Mal am Wasser"
+    "startTitle": "Zum ersten Mal am Wasser",
+    "openPlace": "Details und Prognose"
   },
   "filters": {
     "title": "Filter",
@@ -239,7 +240,8 @@
       "sea": "Meer"
     },
     "fallback": "Dieser Ratgeber ist noch nicht übersetzt – angezeigt wird die {lang} Version.",
-    "related": "Fische"
+    "related": "Fische",
+    "onThisPage": "Auf dieser Seite"
   },
   "lureFinder": {
     "title": "Welcher Köder?",
@@ -258,7 +260,14 @@
     "results": "Empfohlene Köder",
     "none": "Kein Kunstköder für diese Kombination – versuchen Sie Naturköder:",
     "naturalBaits": "Naturköder",
-    "readGuide": "Ratgeber lesen"
+    "readGuide": "Ratgeber lesen",
+    "howToUse": "So wird sie geführt",
+    "seasonShort": {
+      "spring": "FRÜ",
+      "summer": "SOM",
+      "autumn": "HER",
+      "winter": "WIN"
+    }
   },
   "support": {
     "title": "Ribolovc.si unterstützen",

@@ -12,6 +12,8 @@ species: [lignji, sipa]
 - **Squid jigs (EGI)** size 2.0–3.0; some natural and some glow colours.
 
 ## Technique
+<!-- diagram -->
+
 1. Cast and let the jig **sink** (count it down to learn the depth).
 2. Give **2–3 sharp upward jerks** of the rod.
 3. Let the jig **glide down** on a tight line – squid attack on the drop.

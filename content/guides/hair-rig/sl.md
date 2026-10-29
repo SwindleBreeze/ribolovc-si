@@ -10,15 +10,7 @@ species: [krap, amur]
 Vaba (boili) ni na trnku, ampak na kratkem lasku pod njim. Krap posrka vabo, trnek pa zdrsne v ustnico in se ob teži svinca **sam zasadi**.
 
 ## Sestava
-```
-glavna vrvica 0,30–0,35 mm
-   │
- varnostni klip s svincem 70–110 g
-   │
- povrvica 15–25 cm (pletena, obložena)
-   │
- trnek vel. 4–8 ─ lasek 1–2 cm ─ boili 15–20 mm
-```
+<!-- diagram -->
 
 ## Koraki
 1. Na lasek z iglo nataknite boili in ga zaklenite s stoperjem.

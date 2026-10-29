@@ -132,69 +132,72 @@ h3,
 }
 }
 
-.eyebrow {
-  font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
+/* Component classes sit in their own layer so Tailwind utilities (md:hidden, text-ink…) can override them. */
+@layer components {
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
 
-.label {
-  font-size: 11px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--muted);
-  font-weight: 500;
-}
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
 
-.num {
-  font-family: var(--font-mono);
-  font-variant-numeric: tabular-nums;
-}
+  .num {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
 
-.field {
-  width: 100%;
-  min-height: 44px;
-  border: 1px solid var(--field);
-  background: var(--raised);
-  color: var(--ink);
-  padding: 0 10px;
-  font: inherit;
-  font-size: 15px;
-  border-radius: 0;
-}
+  .field {
+    width: 100%;
+    min-height: 44px;
+    border: 1px solid var(--field);
+    background: var(--raised);
+    color: var(--ink);
+    padding: 0 10px;
+    font: inherit;
+    font-size: 15px;
+    border-radius: 0;
+  }
 
-.btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  min-height: 44px;
-  padding: 0 16px;
-  font-weight: 500;
-  font-size: 15px;
-  text-decoration: none;
-  border-radius: 0;
-  cursor: pointer;
-}
-.btn-line {
-  border: 1px solid var(--ink);
-  color: var(--ink);
-  background: transparent;
-}
-.btn-line:hover {
-  background: var(--raised);
-  color: var(--ink);
-}
-.btn-cta {
-  background: var(--accent);
-  color: #1c2321;
-  font-weight: 600;
-}
-.btn-cta:hover {
-  color: #1c2321;
-  filter: brightness(1.05);
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    min-height: 44px;
+    padding: 0 16px;
+    font-weight: 500;
+    font-size: 15px;
+    text-decoration: none;
+    border-radius: 0;
+    cursor: pointer;
+  }
+  .btn-line {
+    border: 1px solid var(--ink);
+    color: var(--ink);
+    background: transparent;
+  }
+  .btn-line:hover {
+    background: var(--raised);
+    color: var(--ink);
+  }
+  .btn-cta {
+    background: var(--accent);
+    color: #1c2321;
+    font-weight: 600;
+  }
+  .btn-cta:hover {
+    color: #1c2321;
+    filter: brightness(1.05);
+  }
 }
 
 .contour-bg {
@@ -213,20 +216,59 @@ h3,
   line-height: 1.7;
   color: var(--ink);
 }
-.prose-guide > p:first-of-type::first-letter {
-  font-family: var(--font-display);
-  float: left;
-  font-size: 3.6em;
-  line-height: 0.85;
-  padding: 6px 8px 0 0;
-  color: var(--brand);
+.prose-guide > :first-child {
+  margin-top: 0;
 }
 .prose-guide h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 600;
-  margin: 2.2rem 0 0.6rem;
-  padding-top: 0.6rem;
+  line-height: 1.2;
+  margin: 2.4rem 0 0.8rem;
+  padding-top: 0.7rem;
   border-top: 1px solid var(--ink);
+}
+.prose-guide > h2:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+/* Tips and gear lists sit in a box beside the flow of steps */
+.prose-guide .guide-aside {
+  margin: 2rem 0;
+  padding: 1rem 1.15rem 0.6rem;
+  background: var(--raised);
+  border: 1px solid var(--rule);
+}
+.prose-guide .guide-tips {
+  border-left: 4px solid var(--accent);
+}
+.prose-guide .guide-kit {
+  border-top: 3px solid var(--ink);
+}
+.prose-guide .guide-aside h2 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border: 0;
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.prose-guide .guide-aside > :last-child {
+  margin-bottom: 0.4rem;
+}
+.prose-guide .guide-kit ul > li {
+  margin: 0;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--rule-2);
+}
+.prose-guide .guide-kit ul > li:last-child {
+  border-bottom: 0;
+}
+.prose-guide .guide-kit ul > li::before {
+  top: calc(0.4rem + 0.78em);
 }
 .prose-guide h3 {
   font-size: 1.2rem;
@@ -243,19 +285,61 @@ h3,
   margin: 0.8rem 0;
 }
 .prose-guide ul {
-  list-style: square;
-  padding-left: 1.25rem;
+  padding-left: 0;
 }
-.prose-guide ol {
-  list-style: decimal;
+.prose-guide ul > li {
+  position: relative;
   padding-left: 1.4rem;
+  margin: 0.4rem 0;
 }
-.prose-guide li {
-  margin: 0.25rem 0;
+.prose-guide ul > li::before {
+  content: '';
+  position: absolute;
+  left: 0.15rem;
+  top: 0.78em;
+  width: 0.55rem;
+  height: 2px;
+  background: var(--brand);
 }
-.prose-guide li::marker {
-  color: var(--muted);
+/* Numbered steps: counters in ink discs with a rule joining them */
+.prose-guide ol {
+  counter-reset: step;
+  padding-left: 0;
+  margin: 1.1rem 0;
+}
+.prose-guide ol > li {
+  counter-increment: step;
+  position: relative;
+  padding: 0 0 1rem 2.6rem;
+  margin: 0;
+}
+.prose-guide ol > li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.15em;
+  width: 1.7rem;
+  height: 1.7rem;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--paper);
   font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.7rem;
+  text-align: center;
+}
+.prose-guide ol > li:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  left: calc(0.85rem - 0.5px);
+  top: calc(0.15em + 1.9rem);
+  bottom: 0.2rem;
+  width: 1px;
+  background: var(--rule);
+}
+.prose-guide ol > li:last-child {
+  padding-bottom: 0;
 }
 .prose-guide a {
   color: var(--brand);
@@ -308,14 +392,66 @@ h3,
   border-radius: 0 !important;
   border: 1px solid var(--field);
   box-shadow: none !important;
+  background: var(--raised) !important;
 }
-.maplibregl-popup-content {
-  color: #1c2321;
+.maplibregl-ctrl-group button + button {
+  border-top-color: var(--rule) !important;
+}
+@media (prefers-color-scheme: dark) {
+  .maplibregl-ctrl-group .maplibregl-ctrl-icon {
+    filter: invert(1);
+  }
+}
+.place-popup .maplibregl-popup-content {
+  background: var(--raised);
+  color: var(--ink);
   border-radius: 0 !important;
-  border: 1px solid #1c2321;
-  padding: 10px 12px !important;
+  border: 1px solid var(--ink);
+  padding: 12px 34px 12px 14px !important;
   font-family: var(--font-sans);
-  box-shadow: none !important;
+  box-shadow: 0 6px 20px rgb(0 0 0 / 0.18) !important;
+}
+.place-popup .maplibregl-popup-close-button {
+  width: 32px;
+  height: 32px;
+  font-size: 20px;
+  line-height: 1;
+  color: var(--muted);
+  border-radius: 0;
+}
+.place-popup .maplibregl-popup-close-button:hover {
+  background: var(--paper-2);
+  color: var(--ink);
+}
+.place-popup .pop-kicker {
+  margin: 0 0 4px;
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.place-popup .pop-title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--ink);
+  text-decoration: none;
+}
+.place-popup .pop-sub {
+  margin: 4px 0 0;
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--ink-2);
+}
+.place-popup .pop-link {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--brand);
+  text-decoration: none;
 }
 .maplibregl-popup-tip {
   display: none;

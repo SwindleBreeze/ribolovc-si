@@ -12,6 +12,8 @@ species: [potocna-postrv, sarenka, lipan, soska-postrv]
 - Tippet 0.12–0.16 mm, 1–2 **tungsten bead nymphs** size 12–18 (some sections allow only one fly – check).
 
 ## Technique
+<!-- diagram -->
+
 1. Get **close** (2–5 m) – casts are short.
 2. Lob the nymph upstream, raise the rod and **lead the nymph at current speed** just off the bottom.
 3. Watch the sighter – any hesitation, twitch or stop = **strike**.

@@ -7,13 +7,7 @@ order: 13
 species: [ostriz, smuc, scuka]
 ---
 ## The rig
-```
-braid 0.06–0.10 + fluorocarbon 0.20–0.25 mm
-   │
- drop-shot hook size 2–6 (palomar knot, point up)
-   │  ← 20–50 cm
- weight 5–15 g at the end
-```
+<!-- diagram -->
 Nose-hook a **micro soft bait** of 5–8 cm (worms, minnows).
 
 ## Working it

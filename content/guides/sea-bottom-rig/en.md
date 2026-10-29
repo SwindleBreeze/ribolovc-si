@@ -7,15 +7,7 @@ order: 30
 species: [orada, sarg, ovcica, ugor, morski-list, fratrc, spar]
 ---
 ## The rig ("paternoster")
-```
-main line 0.28–0.35 mm
-   │
- ├── snood 30–50 cm, 0.20–0.25 mm, hook size 4–10
-   │
- ├── (second snood)
-   │
- weight 30–100 g (pyramid on sand, a sacrificial weight near rocks)
-```
+<!-- diagram -->
 
 ## Baits
 Sea worms (the best all-rounder), mussels, shrimp, crabs (gilthead), sardine or squid chunks (conger).

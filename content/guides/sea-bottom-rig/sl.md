@@ -7,15 +7,7 @@ order: 30
 species: [orada, sarg, ovcica, ugor, morski-list, fratrc, spar]
 ---
 ## Sestava ("paternoster")
-```
-glavna vrvica 0,28–0,35 mm
-   │
- ├── povrvica 30–50 cm, 0,20–0,25 mm, trnek vel. 4–10
-   │
- ├── (druga povrvica)
-   │
- utež 30–100 g (piramidna na pesku, "ostanki" ob skalah)
-```
+<!-- diagram -->
 
 ## Vabe
 Morski črvi (najboljši vsestranski), klapavice, kozice, rakci (orada), koščki sardele ali lignja (ugor).

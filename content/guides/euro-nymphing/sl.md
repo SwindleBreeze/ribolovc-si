@@ -12,6 +12,8 @@ species: [potocna-postrv, sarenka, lipan, soska-postrv]
 - Predvrvica 0,12–0,16 mm, 1–2 **nimfi z volframovo glavico** vel. 12–18 (ponekod dovoljena le ena muha – preverite).
 
 ## Tehnika
+<!-- diagram -->
+
 1. Pristopite **blizu** (2–5 m) – zameti so kratki.
 2. Nimfo vrzite navzgor po toku, palico dvignite in **vodite nimfo s hitrostjo toka** tik ob dnu.
 3. Opazujte indikator – vsak zastoj, trzaj ali ustavitev = **zasek**.

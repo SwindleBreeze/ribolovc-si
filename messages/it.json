@@ -32,7 +32,8 @@
     "statSections": "Tratti",
     "statClubs": "Società di pesca",
     "statSpecies": "Specie",
-    "startTitle": "La prima volta in acqua"
+    "startTitle": "La prima volta in acqua",
+    "openPlace": "Dettagli e previsioni"
   },
   "filters": {
     "title": "Filtri",
@@ -239,7 +240,8 @@
       "sea": "Mare"
     },
     "fallback": "Questa guida non è ancora tradotta – mostriamo la versione {lang}.",
-    "related": "Pesci"
+    "related": "Pesci",
+    "onThisPage": "In questa pagina"
   },
   "lureFinder": {
     "title": "Quale esca?",
@@ -258,7 +260,14 @@
     "results": "Esche consigliate",
     "none": "Nessuna esca artificiale per questa combinazione – prova esche naturali:",
     "naturalBaits": "Esche naturali",
-    "readGuide": "Leggi la guida"
+    "readGuide": "Leggi la guida",
+    "howToUse": "Come usarla",
+    "seasonShort": {
+      "spring": "PRI",
+      "summer": "EST",
+      "autumn": "AUT",
+      "winter": "INV"
+    }
   },
   "support": {
     "title": "Sostieni Ribolovc.si",

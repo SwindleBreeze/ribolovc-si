@@ -3,7 +3,7 @@
 import dynamic from 'next/dynamic';
 import { useMemo, useState } from 'react';
 import { useTranslations } from 'next-intl';
-import { LocateFixed, Search } from 'lucide-react';
+import { LocateFixed, Search, SlidersHorizontal } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
 import { techniques, waterTypes } from '@/lib/schema';
 import type { PlaceSummary } from '@/lib/places';
@@ -43,6 +43,8 @@ export function Explorer({
   const [selected, setSelected] = useState<string | null>(null);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const set = <K extends keyof Filters>(k: K, v: Filters[K]) => setF((x) => ({ ...x, [k]: v }));
+
+  const activeCount = [f.q, f.species, f.technique, f.type, f.club].filter(Boolean).length + (f.online ? 1 : 0) + (f.beginner ? 1 : 0);
 
   const speciesName = useMemo(() => new Map(species.map((s) => [s.slug, s.name])), [species]);
 
@@ -84,84 +86,98 @@ export function Explorer({
   return (
     <>
       <section aria-label={t('filters.title')} className="border-b border-rule bg-paper-2">
-        <form
-          className="mx-auto flex max-w-[1360px] flex-wrap items-end gap-2.5 px-4 py-3 md:px-8"
-          onSubmit={(e) => e.preventDefault()}
-        >
-          <label className="flex min-h-11 flex-[1_1_260px] items-center gap-2 border border-field bg-raised px-3">
-            <Search aria-hidden="true" size={18} className="text-muted" />
-            <span className="sr-only">{t('filters.search')}</span>
-            <input
-              type="search"
-              value={f.q}
-              onChange={(e) => set('q', e.target.value)}
-              placeholder={t('filters.search')}
-              className="w-full bg-transparent outline-none"
-            />
-          </label>
-          <button
-            type="button"
-            className="btn btn-line md:hidden"
-            aria-expanded={filtersOpen}
-            aria-controls="more-filters"
-            onClick={() => setFiltersOpen((o) => !o)}
-          >
-            {t('filters.title')}
-          </button>
-          <div id="more-filters" className={`${filtersOpen ? 'flex' : 'hidden'} w-full flex-wrap items-end gap-2.5 md:flex md:w-auto md:flex-1`}>
-          <Select label={t('filters.species')} value={f.species} onChange={(v) => set('species', v)} testId="filter-species">
-            <option value="">{t('filters.any')}</option>
-            {species.map((s) => (
-              <option key={s.slug} value={s.slug}>
-                {s.name}
-              </option>
-            ))}
-          </Select>
-          <Select label={t('filters.technique')} value={f.technique} onChange={(v) => set('technique', v)}>
-            <option value="">{t('filters.any')}</option>
-            {techniques.map((x) => (
-              <option key={x} value={x}>
-                {t(`technique.${x}`)}
-              </option>
-            ))}
-          </Select>
-          <Select label={t('filters.waterType')} value={f.type} onChange={(v) => set('type', v)}>
-            <option value="">{t('filters.any')}</option>
-            {waterTypes.map((x) => (
-              <option key={x} value={x}>
-                {t(`waterType.${x}`)}
-              </option>
-            ))}
-          </Select>
-          {clubs.length > 0 && (
-            <Select label={t('filters.club')} value={f.club} onChange={(v) => set('club', v)} testId="filter-club">
-              <option value="">{t('filters.any')}</option>
-              {clubs.map((c) => (
-                <option key={c} value={c}>
-                  {c}
-                </option>
-              ))}
-            </Select>
-          )}
-          <Check label={t('filters.online')} checked={f.online} onChange={(v) => set('online', v)} />
-          <Check label={t('filters.beginner')} checked={f.beginner} onChange={(v) => set('beginner', v)} />
-          <Check label={t('filters.depthLayer')} checked={showDepth} onChange={setShowDepth} />
-          </div>
-          <div className="ml-auto flex items-center gap-2">
-            <button type="button" className="btn btn-line" onClick={() => setF(EMPTY)}>
-              {t('filters.reset')}
+        <form className="mx-auto max-w-[1360px] px-4 py-3 md:px-8" onSubmit={(e) => e.preventDefault()}>
+          {/* Row 1: search and actions – always one line. */}
+          <div className="flex flex-wrap items-center gap-2">
+            <label className="flex min-h-11 min-w-0 basis-full items-center gap-2 border border-field bg-raised px-3 sm:flex-[1_1_220px]">
+              <Search aria-hidden="true" size={18} className="shrink-0 text-muted" />
+              <span className="sr-only">{t('filters.search')}</span>
+              <input
+                type="search"
+                value={f.q}
+                onChange={(e) => set('q', e.target.value)}
+                placeholder={t('filters.search')}
+                className="w-full min-w-0 bg-transparent outline-none"
+              />
+            </label>
+            <button
+              type="button"
+              className="btn btn-line flex-1 sm:flex-none md:hidden"
+              aria-expanded={filtersOpen}
+              aria-controls="more-filters"
+              onClick={() => setFiltersOpen((o) => !o)}
+            >
+              <SlidersHorizontal aria-hidden="true" size={16} />
+              {t('filters.title')}
+              {activeCount > 0 && <span className="num rounded-full bg-ink px-1.5 text-xs text-paper">{activeCount}</span>}
             </button>
             <button type="button" className="btn btn-line" onClick={locate}>
-              <LocateFixed aria-hidden="true" size={16} /> {t('home.nearMe')}
+              <LocateFixed aria-hidden="true" size={16} /> <span className="hidden sm:inline">{t('home.nearMe')}</span>
             </button>
+            {activeCount > 0 && (
+              <button type="button" className="btn text-sm text-muted underline underline-offset-4 hover:text-ink" onClick={() => setF(EMPTY)}>
+                {t('filters.reset')}
+              </button>
+            )}
           </div>
-          {geoError && <p className="w-full text-sm text-poor">{t('home.nearMeError')}</p>}
+          {geoError && <p className="mt-2 text-sm text-poor">{t('home.nearMeError')}</p>}
+
+          {/* Row 2: filters – a fixed grid on desktop, folded behind the button on phones. */}
+          <div id="more-filters" className={`${filtersOpen ? 'block' : 'hidden'} mt-3 md:block`}>
+            <div className="grid grid-cols-2 gap-x-3 gap-y-2.5 md:grid-cols-4">
+              <Select label={t('filters.species')} value={f.species} onChange={(v) => set('species', v)} testId="filter-species">
+                <option value="">{t('filters.any')}</option>
+                {species.map((s) => (
+                  <option key={s.slug} value={s.slug}>
+                    {s.name}
+                  </option>
+                ))}
+              </Select>
+              <Select label={t('filters.technique')} value={f.technique} onChange={(v) => set('technique', v)}>
+                <option value="">{t('filters.any')}</option>
+                {techniques.map((x) => (
+                  <option key={x} value={x}>
+                    {t(`technique.${x}`)}
+                  </option>
+                ))}
+              </Select>
+              <Select label={t('filters.waterType')} value={f.type} onChange={(v) => set('type', v)}>
+                <option value="">{t('filters.any')}</option>
+                {waterTypes.map((x) => (
+                  <option key={x} value={x}>
+                    {t(`waterType.${x}`)}
+                  </option>
+                ))}
+              </Select>
+              <Select label={t('filters.club')} value={f.club} onChange={(v) => set('club', v)} testId="filter-club">
+                <option value="">{t('filters.any')}</option>
+                {clubs.map((c) => (
+                  <option key={c} value={c}>
+                    {c}
+                  </option>
+                ))}
+              </Select>
+            </div>
+            <div className="mt-1 flex flex-wrap gap-x-5">
+              <Check label={t('filters.online')} checked={f.online} onChange={(v) => set('online', v)} />
+              <Check label={t('filters.beginner')} checked={f.beginner} onChange={(v) => set('beginner', v)} />
+              <Check label={t('filters.depthLayer')} checked={showDepth} onChange={setShowDepth} />
+            </div>
+          </div>
         </form>
       </section>
 
       <section className="mx-auto flex max-w-[1360px] flex-wrap md:px-8">
         <div className="relative h-[58vh] min-h-[380px] min-w-0 flex-[999_1_560px] border-rule md:h-[680px] md:border-x" data-testid="spot-map">
-          <PlacesMap places={filtered} selected={selected} onSelect={setSelected} onBounds={setBounds} me={me} showDepth={showDepth} />
+          <PlacesMap
+            places={filtered}
+            selected={selected}
+            onSelect={setSelected}
+            onBounds={setBounds}
+            me={me}
+            showDepth={showDepth}
+            labels={{ open: t('home.openPlace'), types: Object.fromEntries(waterTypes.map((w) => [w, t(`waterType.${w}`)])) }}
+          />
           <MapLegend />
         </div>
         <aside
@@ -249,10 +265,10 @@ function Select({
   testId?: string;
 }) {
   return (
-    <label className="label flex min-w-[140px] flex-col gap-1">
+    <label className="label flex min-w-0 flex-col gap-1">
       {label}
       <select
-        className="field !min-h-10 normal-case tracking-normal"
+        className="field !min-h-10 truncate normal-case tracking-normal"
         value={value}
         onChange={(e) => onChange(e.target.value)}
         data-testid={testId}

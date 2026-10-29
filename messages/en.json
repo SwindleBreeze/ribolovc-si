@@ -32,7 +32,8 @@
     "statSections": "Sections",
     "statClubs": "Fishing clubs",
     "statSpecies": "Fish species",
-    "startTitle": "First time at the water"
+    "startTitle": "First time at the water",
+    "openPlace": "Details and forecast"
   },
   "filters": {
     "title": "Filters",
@@ -239,7 +240,8 @@
       "sea": "Sea"
     },
     "fallback": "This guide isn't translated into your language yet – showing the {lang} version.",
-    "related": "Fish"
+    "related": "Fish",
+    "onThisPage": "On this page"
   },
   "lureFinder": {
     "title": "Which lure?",
@@ -258,7 +260,14 @@
     "results": "Suggested lures",
     "none": "No lure for this combination – try natural baits:",
     "naturalBaits": "Natural baits",
-    "readGuide": "Read the guide"
+    "readGuide": "Read the guide",
+    "howToUse": "How to fish it",
+    "seasonShort": {
+      "spring": "SPR",
+      "summer": "SUM",
+      "autumn": "AUT",
+      "winter": "WIN"
+    }
   },
   "support": {
     "title": "Support Ribolovc.si",

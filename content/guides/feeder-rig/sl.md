@@ -7,17 +7,7 @@ order: 11
 species: [ploscic, mrena, krap, linj, som]
 ---
 ## Sestava
-```
-glavna vrvica 0,22–0,28 mm (ali pletenica 0,10)
-   │
- drsni/fiksni krmilni koš 20–60 g
-   │
- vrtljivka
-   │
- povrvica 50–100 cm, 0,14–0,18 mm
-   │
- trnek vel. 10–16
-```
+<!-- diagram -->
 Za palico uporabite **feeder palico** (3,3–3,9 m) z mehkimi vršički – vršiček kaže prijem.
 
 ## Koraki

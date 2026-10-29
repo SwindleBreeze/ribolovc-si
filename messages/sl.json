@@ -32,7 +32,8 @@
     "statSections": "Revirjev",
     "statClubs": "Ribiških družin",
     "statSpecies": "Vrst rib",
-    "startTitle": "Prvič ob vodi"
+    "startTitle": "Prvič ob vodi",
+    "openPlace": "Podrobnosti in napoved"
   },
   "filters": {
     "title": "Filtri",
@@ -239,7 +240,8 @@
       "sea": "Morje"
     },
     "fallback": "Ta vodič še ni preveden v vaš jezik – prikazujemo {lang} različico.",
-    "related": "Ribe"
+    "related": "Ribe",
+    "onThisPage": "Na tej strani"
   },
   "lureFinder": {
     "title": "Katera vaba?",
@@ -258,7 +260,14 @@
     "results": "Predlagane vabe",
     "none": "Za to kombinacijo nimamo umetne vabe – poskusi naravne vabe:",
     "naturalBaits": "Naravne vabe",
-    "readGuide": "Preberi vodič"
+    "readGuide": "Preberi vodič",
+    "howToUse": "Kako jo voditi",
+    "seasonShort": {
+      "spring": "POM",
+      "summer": "POL",
+      "autumn": "JES",
+      "winter": "ZIM"
+    }
   },
   "support": {
     "title": "Podpri Ribolovc.si",

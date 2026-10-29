@@ -7,17 +7,7 @@ order: 11
 species: [ploscic, mrena, krap, linj, som]
 ---
 ## The rig
-```
-main line 0.22–0.28 mm (or 0.10 braid)
-   │
- running/fixed feeder 20–60 g
-   │
- swivel
-   │
- hooklength 50–100 cm, 0.14–0.18 mm
-   │
- hook size 10–16
-```
+<!-- diagram -->
 Use a **feeder rod** (3.3–3.9 m) with soft quiver tips – the tip shows the bite.
 
 ## Steps

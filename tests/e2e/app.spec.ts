@@ -92,10 +92,17 @@ test('German guide falls back to English with a notice', async ({ page }) => {
   await expect(page.getByRole('heading', { level: 1 })).toHaveText('Squid fishing (eging)');
 });
 
+test('rig guides show a drawn diagram instead of ASCII art', async ({ page }) => {
+  await page.goto('/en/guides/float-rig');
+  await expect(page.getByTestId('rig-diagram')).toBeVisible();
+  await expect(page.getByTestId('rig-diagram')).toContainText('Tell-tale shot');
+  await expect(page.locator('.prose-guide pre')).toHaveCount(0);
+});
+
 test('lure finder suggests squid jigs for squid', async ({ page }) => {
   await page.goto('/en/lure-finder');
   await page.getByTestId('finder-species').selectOption('lignji');
-  await page.getByRole('combobox').nth(1).selectOption('winter');
+  await page.getByTestId('finder-season').getByRole('button', { name: 'Winter' }).click();
   await expect(page.getByTestId('finder-results')).toContainText('Squid jig');
 });
 
