@@ -16,7 +16,7 @@
     sl: Globoki tolmuni, tokovi za skalami in podmoli v Soči, Idrijci, Tolminki in Bači.
     en: Deep pools, current seams behind boulders and undercut banks in the Soča, Idrijca, Tolminka and Bača.
   baits:
-    sl: Večji streamerji in težke nimfe; na nekaterih odsekih tudi suhe muhe ob večernem izletu žuželk.
+    sl: Večje muhe ribice in težke nimfe; na nekaterih odsekih tudi suhe muhe ob večernem izletu žuželk.
     en: Large streamers and heavy nymphs; dry flies during evening hatches on some stretches.
   bestMonths: [4, 5, 6, 9, 10]
   bestTime:
@@ -43,7 +43,7 @@
     sl: Hladni, s kisikom bogati potoki in reke; zadržuje se za kamni, pod koreninami in v tolmunih.
     en: Cold, oxygen-rich streams and rivers; holds behind stones, under roots and in pools.
   baits:
-    sl: Nimfe, suhe muhe, majhni streamerji; kjer je dovoljeno vrtenje, majhne vrtilke in voblerji.
+    sl: Nimfe, suhe muhe, majhne muhe ribice; kjer je dovoljeno vrtenje, majhne vrtilke in voblerji.
     en: Nymphs, dry flies, small streamers; where spinning is allowed, small spinners and minnow lures.
   bestMonths: [4, 5, 6, 9]
   bestTime:
@@ -65,7 +65,7 @@
     sl: Reke s srednjim tokom, jezera in ribniki za športni ribolov.
     en: Rivers with moderate current, lakes and put-and-take ponds.
   baits:
-    sl: Nimfe, streamerji, vrtilke, žličke; v ribnikih tudi umetne paste (kjer dovoljeno).
+    sl: Nimfe, muhe ribice, vrtilke, žličke; v ribnikih tudi umetne paste (kjer dovoljeno).
     en: Nymphs, streamers, spinners, small spoons; trout dough in ponds where allowed.
   bestMonths: [3, 4, 5, 6, 9, 10]
   bestTime:
@@ -87,7 +87,7 @@
     sl: Daljši enakomerni tokovi s prodnatim dnom v večjih rekah (Sava, Soča, Krka, Unica, Savinja).
     en: Long even runs over gravel in larger rivers (Sava, Soča, Krka, Unica, Savinja).
   baits:
-    sl: Majhne nimfe (vel. 14–18), suhe muhe in emergerji.
+    sl: Majhne nimfe (vel. 14–18), suhe muhe in muhe v izletu.
     en: Small nymphs (size 14–18), dry flies and emergers.
   bestMonths: [6, 7, 8, 9, 10, 11]
   bestTime:
@@ -113,7 +113,7 @@
     sl: Globoki tolmuni in počasnejši tokovi velikih rek, pogosto ob skalah ali podrtih drevesih.
     en: Deep pools and slower runs of large rivers, often near rocks or sunken trees.
   baits:
-    sl: Veliki voblerji, gumijaste vabe, "zopf" (pletenica), veliki streamerji (večinoma nad 10 cm).
+    sl: Veliki voblerji, gumijaste ribice, pletenice, velike muhe ribice (večinoma nad 10 cm).
     en: Large plugs, soft swimbaits, braided "zopf" lures, big streamers (usually over 10 cm).
   bestMonths: [10, 11, 12, 1, 2]
   bestTime:
@@ -140,7 +140,7 @@
     sl: Globoka, hladna jezerska voda; poleti v globini, spomladi in jeseni bliže obali.
     en: Deep, cold lake water; deep in summer, closer to shore in spring and autumn.
   baits:
-    sl: Majhne žličke, voblerji, nimfe in streamerji.
+    sl: Majhne žličke, voblerji, nimfe in muhe ribice.
     en: Small spoons, minnow lures, nymphs and streamers.
   bestMonths: [5, 6, 9, 10]
   bestTime:
@@ -185,7 +185,7 @@
     sl: Rob trstičja, lokvanji, potopljena drevesa in mirnejši deli rek ter jezer.
     en: Reed edges, lily pads, sunken trees and the calmer parts of rivers and lakes.
   baits:
-    sl: Žlice, vrtilke, voblerji, gumijaste vabe (shad), živa ali mrtva riba (kjer dovoljeno).
+    sl: Žlice, vrtilke, voblerji, gumijaste ribice, živa ali mrtva riba (kjer dovoljeno).
     en: Spoons, spinners, plugs, soft shads; live or dead fish bait where allowed.
   bestMonths: [5, 9, 10, 11]
   bestTime:
@@ -207,7 +207,7 @@
     sl: Trdo dno, kamnometi, robovi globin v akumulacijah in počasnih rekah (Drava, Sava, Mura, jezera).
     en: Hard bottoms, rip-rap, drop-offs in reservoirs and slow rivers (Drava, Sava, Mura, lakes).
   baits:
-    sl: Gumijaste vabe na jig glavi, drop-shot, ozki voblerji, ribica na dnu.
+    sl: Gumijaste ribice na obteženi glavici, sistem s spodnjo utežjo, ozki voblerji, ribica na dnu.
     en: Soft baits on jig heads, drop-shot, slim plugs, dead fish on the bottom.
   bestMonths: [6, 9, 10, 11]
   bestTime:
@@ -229,7 +229,7 @@
     sl: Pomoli, potopljene ovire, rob trstičja, jezera in počasne reke.
     en: Jetties, sunken structure, reed edges, lakes and slow rivers.
   baits:
-    sl: Črvi, majhne vrtilke, mikro gumice, drop-shot.
+    sl: Črvi, majhne vrtilke, majhne gumijaste vabe, sistem s spodnjo utežjo.
     en: Worms, small spinners, micro soft baits, drop-shot.
   bestMonths: [5, 6, 7, 8, 9, 10]
   bestTime:
@@ -251,7 +251,7 @@
     sl: Globoke luknje, podrta drevesa in mirni deli velikih rek ter akumulacij (Drava, Sava, Mura, Ptujsko jezero).
     en: Deep holes, fallen trees and calm stretches of large rivers and reservoirs (Drava, Sava, Mura, Lake Ptuj).
   baits:
-    sl: Snopi rosnic, pelete za soma, kosi ribe, velike gumijaste vabe; klonk tehnika s čolna.
+    sl: Snopi rosnic, pelete za soma, kosi ribe, velike gumijaste vabe; s čolna tudi lov s klonkom.
     en: Bunches of dew worms, catfish pellets, fish pieces, large soft baits; clonking from a boat.
   bestMonths: [5, 6, 7, 8, 9]
   bestTime:
@@ -312,7 +312,7 @@
   water: fresh
   group: cyprinid
   description:
-    sl: Najbolj priljubljena riba za šaranarski ribolov. Močan, previden in lahko presega 20 kg.
+    sl: Najbolj priljubljena riba za krapolov. Močan, previden in lahko presega 20 kg.
     en: The favourite target of carp anglers. Powerful, cautious and can exceed 20 kg.
   habitat:
     sl: Jezera, ribniki, akumulacije in počasne reke; ob trstičju, lokvanjih in robovih.
@@ -384,7 +384,7 @@
     sl: Globlji mirni deli jezer, akumulacij in počasnih rek.
     en: Deeper calm water in lakes, reservoirs and slow rivers.
   baits:
-    sl: Ličinke, črvi, koruza na feederju z vabilno mešanico.
+    sl: Ličinke, črvi, koruza s krmilnim košem in vabilno mešanico.
     en: Maggots, worms, corn on a feeder with groundbait.
   bestMonths: [5, 6, 7, 8, 9]
   bestTime:
@@ -428,7 +428,7 @@
     sl: Prodnato dno in hitri tokovi Kolpe, Krke, Save, Savinje in Drave.
     en: Gravel beds and fast runs of the Kolpa, Krka, Sava, Savinja and Drava.
   baits:
-    sl: Ličinke, črvi, sir, pelete na feederju.
+    sl: Ličinke, črvi, sir, pelete s krmilnim košem.
     en: Maggots, worms, cheese, pellets on a feeder.
   bestMonths: [6, 7, 8, 9]
   bestTime:
@@ -472,7 +472,7 @@
     sl: Jezera, mrtvice in počasne reke.
     en: Lakes, backwaters and slow rivers.
   baits:
-    sl: Ličinke, kruh, pinkiji.
+    sl: Ličinke, kruh, drobne ličinke.
     en: Maggots, bread, pinkies.
   bestMonths: [4, 5, 6, 9, 10]
   bestTime:
@@ -713,7 +713,7 @@
     sl: Peščeno dno, plaže.
     en: Sandy bottoms, beaches.
   baits:
-    sl: Morski črvi na talnem sistemu (surfcasting).
+    sl: Morski črvi na talnem sistemu, z dolgimi zameti s plaže.
     en: Sea worms on a bottom rig (surfcasting).
   bestMonths: [5, 6, 7, 8, 9]
   bestTime:
@@ -848,13 +848,13 @@
   water: sea
   group: cephalopod
   description:
-    sl: Zimski klasik slovenske obale. Lovijo se ponoči z luči osvetljenih pomolov na vabe kalamarjere (eging).
+    sl: Zimski klasik slovenske obale. Lovijo se ponoči z luči osvetljenih pomolov na vabe kalamarjere.
     en: A winter classic on the Slovenian coast. Caught at night from lit piers with squid jigs (eging).
   habitat:
     sl: Osvetljeni pomoli in obale ob mraku in ponoči.
     en: Lit piers and shorelines at dusk and night.
   baits:
-    sl: Kalamarjere (EGI) vel. 2.0–3.0 v naravnih ali fluorescentnih barvah.
+    sl: Kalamarjere vel. 2.0–3.0 v naravnih ali fluorescentnih barvah.
     en: Squid jigs (EGI) size 2.0–3.0 in natural or glow colours.
   bestMonths: [10, 11, 12, 1, 2]
   bestTime:
@@ -893,7 +893,7 @@
   water: fresh
   group: cyprinid
   description:
-    sl: Ploščiču podobna, a manjša jatna riba z rdečkastimi parnimi plavutmi. Pogost ulov na feederju.
+    sl: Ploščiču podobna, a manjša jatna riba z rdečkastimi parnimi plavutmi. Pogost ulov s krmilnim košem.
     en: Like a common bream but smaller, with reddish paired fins. A frequent feeder catch.
   habitat:
     sl: Počasne nižinske reke, mrtvice in jezera.
@@ -921,7 +921,7 @@
     sl: Hitrejši globoki deli Save, Savinje, Krke, Kolpe in Mure.
     en: Faster, deeper stretches of the Sava, Savinja, Krka, Kolpa and Mura.
   baits:
-    sl: Ličinke, črvi, kruh; feeder ali plovec v toku.
+    sl: Ličinke, črvi, kruh; krmilni koš ali plovec v toku.
     en: Maggots, worms, bread; feeder or trotted float.
   bestMonths: [5, 6, 9, 10]
   bestTime:
@@ -947,7 +947,7 @@
     sl: Večje nižinske reke (Drava, Mura, Sava) in akumulacije.
     en: Large lowland rivers (Drava, Mura, Sava) and reservoirs.
   baits:
-    sl: Ličinke, črvi na feederju.
+    sl: Ličinke, črvi s krmilnim košem.
     en: Maggots and worms on the feeder.
   bestMonths: [4, 5, 9, 10]
   bestTime:
@@ -1061,7 +1061,7 @@
     sl: Soča in pritoki.
     en: The Soča and its tributaries.
   baits:
-    sl: Nimfe, streamerji, suhe muhe.
+    sl: Nimfe, muhe ribice, suhe muhe.
     en: Nymphs, streamers, dry flies.
   bestMonths: [4, 5, 6, 9, 10]
   bestTime:
@@ -1150,7 +1150,7 @@
     sl: Globoka hladna jezera in akumulacije.
     en: Deep, cold lakes and reservoirs.
   baits:
-    sl: Žlice, voblerji, streamerji.
+    sl: Žlice, voblerji, muhe ribice.
     en: Spoons, minnow plugs, streamers.
   bestMonths: [4, 5, 10, 11]
   bestTime:

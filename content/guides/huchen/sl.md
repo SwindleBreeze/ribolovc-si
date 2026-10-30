@@ -7,20 +7,20 @@ order: 23
 species: [sulec]
 ---
 ## Pravila
-- Lov le v **zimski sezoni** (običajno 1. oktober – 14. februar) in samo v revirjih, kjer je dovoljen.
+- Lov le v **zimski sezoni** (običajno od 1. oktobra do 14. februarja) in samo v revirjih, kjer je dovoljen.
 - Pogosto velja **posebna dovolilnica**, en trnek, vabe nad 10 cm, majhna letna kvota ali obvezen izpust.
 
 ## Oprema
-- Močna spinning palica 2,7–3,0 m, 30–80 g; mlinček 4000.
+- Močna palica za vrtenje 2,7–3,0 m, 30–80 g; mlinček velikosti 4000.
 - Pletenica 0,18–0,25 mm + fluorokarbon 0,50–0,60 mm.
-- Velika podmetalka ali ribo izpustite v plitvini – **ne vlecite je na suho**.
+- Velika podmetalka – ali pa ribo izpustite v plitvini; **ne vlecite je na suho**.
 
 ## Vabe
-Zopf (pletenica) 15–25 cm na jig glavi, veliki voblerji, gumijaste vabe, veliki streamerji.
+Pletenica iz usnjenih ali gumijastih trakov (15–25 cm) na obteženi glavici, veliki voblerji, gumijaste ribice, velike muhe ribice.
 
 ## Kdaj in kje
 - Mrzli dnevi, **sneženje**, padajoč tlak, rahlo motna voda.
-- Globoki tolmuni, robovi tokov, kjer je voda počasnejša; zgodaj zjutraj in pozno popoldne.
+- Globoki tolmuni in robovi tokov, kjer je voda počasnejša; zgodaj zjutraj in pozno popoldne.
 - Vztrajnost – sulec je "riba tisočerih zametov".
 
 ## Etika

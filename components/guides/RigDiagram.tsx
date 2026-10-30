@@ -102,7 +102,7 @@ const DIAGRAMS: Record<string, Diagram> = {
       sl: [
         { title: 'Glavna vrvica', spec: '0,18–0,22 mm' },
         { title: 'Konica plovca nad vodo', spec: 'le 3–5 mm – tako vidite nežen prijem' },
-        { title: 'Plovec (waggler)', spec: '1–4 g, pritrjen spodaj ali drsni s stoperjem' },
+        { title: 'Plovec, pritrjen spodaj', spec: '1–4 g; lahko tudi drsni, z zaporko na vrvici' },
         { title: 'Glavne šibrice', spec: '≈ 70 % obtežitve, 40 cm nad trnkom' },
         { title: 'Kazalna šibrica', spec: '10 cm nad trnkom' },
         { title: 'Trnek z vabo', spec: 'vel. 12–16 (krap 8–10), 5–10 cm nad dnom' },
@@ -120,7 +120,7 @@ const DIAGRAMS: Record<string, Diagram> = {
 
   'feeder-rig': {
     viewBox: '0 0 420 300',
-    label: { sl: 'Feeder sistem', en: 'Feeder rig' },
+    label: { sl: 'Sistem s krmilnim košem', en: 'Feeder rig' },
     markers: [
       [70, 52],
       [205, 236],
@@ -175,7 +175,7 @@ const DIAGRAMS: Record<string, Diagram> = {
 
   'hair-rig': {
     viewBox: '0 0 420 300',
-    label: { sl: 'Krapolov: hair rig z boilijem', en: 'Carp hair rig with a boilie' },
+    label: { sl: 'Krapolov: sistem z laskom in boilijem', en: 'Carp hair rig with a boilie' },
     markers: [
       [60, 168],
       [150, 214],
@@ -207,11 +207,11 @@ const DIAGRAMS: Record<string, Diagram> = {
     ),
     legend: {
       sl: [
-        { title: 'Svinec na varnostnem klipu', spec: '70–110 g; ob zatiku se sname' },
+        { title: 'Svinec na varnostni sponki', spec: '70–110 g; ob zatiku se sname' },
         { title: 'Povrvica', spec: '15–25 cm obložene pletenice' },
         { title: 'Trnek', spec: 'vel. 4–8, konica navzven' },
         { title: 'Lasek', spec: '1–2 cm od krivine trnka' },
-        { title: 'Boili s stoperjem', spec: '15–20 mm' },
+        { title: 'Boili z zaporko', spec: '15–20 mm' },
       ],
       en: [
         { title: 'Lead on a safety clip', spec: '70–110 g; drops off if snagged' },
@@ -225,7 +225,7 @@ const DIAGRAMS: Record<string, Diagram> = {
 
   'drop-shot': {
     viewBox: '0 0 300 380',
-    label: { sl: 'Drop-shot sistem', en: 'Drop-shot rig' },
+    label: { sl: 'Sistem s spodnjo utežjo', en: 'Drop-shot rig' },
     markers: [
       [150, 60],
       [150, 196],
@@ -255,8 +255,8 @@ const DIAGRAMS: Record<string, Diagram> = {
     legend: {
       sl: [
         { title: 'Pletenica + fluorokarbon', spec: '0,06–0,10 mm + 0,20–0,25 mm' },
-        { title: 'Trnek z vozlom palomar', spec: 'vel. 2–6, konica navzgor' },
-        { title: 'Mikro gumica', spec: '5–8 cm, nataknjena skozi gobček' },
+        { title: 'Trnek na vozlu z dvojno zanko', spec: 'vel. 2–6, konica navzgor' },
+        { title: 'Majhna gumijasta vaba', spec: '5–8 cm, nataknjena skozi gobček' },
         { title: 'Utež na koncu', spec: '5–15 g – ostane na dnu, vaba pleše nad njo' },
       ],
       en: [
@@ -270,7 +270,7 @@ const DIAGRAMS: Record<string, Diagram> = {
 
   'sea-bottom-rig': {
     viewBox: '0 0 320 420',
-    label: { sl: 'Talni sistem (paternoster)', en: 'Bottom rig (paternoster)' },
+    label: { sl: 'Talni sistem s stranskimi povrvicami', en: 'Bottom rig (paternoster)' },
     markers: [
       [180, 60],
       [270, 168],
@@ -340,8 +340,8 @@ const DIAGRAMS: Record<string, Diagram> = {
     ),
     legend: {
       sl: [
-        { title: 'Palica 10–11 čevljev', spec: 'vrh visoko, vrvica napeta' },
-        { title: 'Indikator', spec: 'barvni del vrvice nad vodo – vsak zastoj je zasek' },
+        { title: 'Palica 3,0–3,4 m', spec: 'vrh visoko, vrvica napeta' },
+        { title: 'Indikator', spec: 'obarvan del vrvice nad vodo – vsak zastoj pomeni zasek' },
         { title: 'Predvrvica', spec: '0,12–0,16 mm, zameti 2–5 m' },
         { title: 'Nimfa z volframovo glavico', spec: 'vel. 12–18, tik nad dnom, s hitrostjo toka' },
       ],

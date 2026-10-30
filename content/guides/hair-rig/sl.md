@@ -1,23 +1,23 @@
 ---
-title: Krapolov – "hair rig" z boilijem
-summary: Klasični šaranarski sistem z vabo na lasku za samozasekovanje krapov.
+title: Krapolov – sistem z laskom in boilijem
+summary: Klasični krapolovski sistem z vabo na lasku, ob katerem se krap zasadi sam.
 category: rig
 techniques: [carp]
 order: 12
 species: [krap, amur]
 ---
-## Zakaj "lasek"?
-Vaba (boili) ni na trnku, ampak na kratkem lasku pod njim. Krap posrka vabo, trnek pa zdrsne v ustnico in se ob teži svinca **sam zasadi**.
+## Zakaj lasek?
+Vaba (boili) ni na trnku, ampak na kratkem lasku pod njim. Krap posrka vabo, trnek mu zdrsne v ustnico in se ob teži svinca **sam zasadi**.
 
 ## Sestava
 <!-- diagram -->
 
 ## Koraki
-1. Na lasek z iglo nataknite boili in ga zaklenite s stoperjem.
-2. Lokacijo **založite** s peleti, koruzo in drobljenimi boiliji (ali s PVA vrečko).
-3. Palico postavite na stojalo, z **elektronskim signalizatorjem**, napnite vrvico.
-4. Ko signalizator zapiska v kosu ("run") – dvignite palico, krap je že zasajen.
+1. Boili z iglo nataknite na lasek in ga zaklenite z zaporko.
+2. Mesto **založite** s peleti, koruzo in zdrobljenimi boiliji (ali z vrečko, ki se v vodi raztopi).
+3. Palico postavite na stojalo z **elektronskim signalizatorjem** in napnite vrvico.
+4. Ko signalizator neprekinjeno zapiska, dvignite palico – krap je že zasajen.
 
 ## Nujno
-- **Podložka (unhooking mat)** in velika podmetalka – krapa nikoli ne polagajte na tla.
-- Na nočni ribolov le, kjer revir to dovoljuje.
+- **Podloga za ribo** in velika podmetalka – krapa nikoli ne polagajte na tla.
+- Nočni ribolov le, kjer revir to dovoljuje.

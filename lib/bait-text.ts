@@ -16,19 +16,20 @@ const BAITS: [Bait, RegExp][] = [
   ['bread', /kruh|drobtin/i],
   ['cheese', /(?<!\p{L})sir(?!\p{L})/iu],
   ['paste', /(?<!\p{L})(test[oa]|past[ea])(?!\p{L})/iu],
-  ['deadbait', /ribic|mrtva riba|kos\w* rib|koščk\w* rib|sardel/i],
+  // "muhe ribice" are streamer flies and "gumijaste ribice" soft lures, not deadbait.
+  ['deadbait', /(?<!(?:muh|gumijast)\p{L}* )ribic|mrtva riba|kos\p{L}* rib|koščk\p{L}* rib|sardel/iu],
   ['nymph', /nimf/i],
-  ['dryfly', /suh\w* muh|emerger|kobilic/i],
-  ['streamer', /streamer/i],
+  ['dryfly', /suh\p{L}* muh|muh\p{L}* v izletu|kobilic/iu],
+  ['streamer', /muh\p{L}* ribic/iu],
 ];
 
 const LURES: [string, RegExp][] = [
   ['vrtilka', /vrtilk/i],
-  ['zlica', /žli[cč]/i],
+  ['zlica', /žli[cč]/iu],
   ['wobler', /vobler/i],
   ['shad', /gumijast|\bshad\b|gumic/i],
-  ['drop-shot', /drop-shot/i],
-  ['povrsinska', /površinsk/i],
+  ['drop-shot', /spodnj\p{L}* utež/iu],
+  ['povrsinska', /površinsk/iu],
   ['zopf', /zopf|pletenic/i],
   ['kalamarjera', /kalamarjer/i],
 ];

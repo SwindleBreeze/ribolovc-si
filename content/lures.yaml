@@ -6,7 +6,7 @@
     sl: Kovinski list, ki se vrti okoli osi in oddaja vibracije. Najpreprostejša vaba za začetnike.
     en: A metal blade spinning around a shaft, sending out vibration. The easiest lure for beginners.
   tips:
-    sl: Velikost 1–3 za postrvi in ostriže, 3–5 za ščuke. V motni vodi zlata ali fluo barva, v bistri srebrna.
+    sl: Velikost 1–3 za postrvi in ostriže, 3–5 za ščuke. V motni vodi zlata ali svetleča barva, v bistri srebrna.
     en: Size 1–3 for trout and perch, 3–5 for pike. Gold or fluoro in coloured water, silver in clear water.
   species: [potocna-postrv, sarenka, ostriz, scuka, klen, zlatovcica, potocna-zlatovcica]
   clarity: [clear, murky]
@@ -15,7 +15,7 @@
   guide: spinning
 
 - slug: zlica
-  name: { sl: Žlica (blinker), en: Casting spoon, de: Blinker, it: Ondulante }
+  name: { sl: Žlica, en: Casting spoon, de: Blinker, it: Ondulante }
   description:
     sl: Ukrivljena kovinska ploščica, ki se ziblje. Daleč leti in posnema ranjeno ribico.
     en: A curved metal plate that wobbles. Casts far and imitates an injured baitfish.
@@ -34,7 +34,7 @@
     sl: Plastična ali lesena imitacija ribice z ustnico, ki določa globino plavanja.
     en: A plastic or wooden fish imitation with a lip that sets the running depth.
   tips:
-    sl: Plitvo plavajoči za ščuke ob rastlinju, globoko potapljajoči za smuče in kleni v toku. Suspending ob hladni vodi.
+    sl: Plitvo plavajoči za ščuke ob rastlinju, globoko potapljajoči za smuče in kleni v toku. V hladni vodi izberite vobler, ki v vodi lebdi.
     en: Shallow runners for pike near weed, deep divers for zander and chub in current. Suspending models in cold water.
   species: [scuka, smuc, klen, bolen, sulec, potocna-postrv, brancin, som]
   clarity: [clear, murky]
@@ -43,12 +43,12 @@
   guide: spinning
 
 - slug: shad
-  name: { sl: Gumijasta vaba (shad), en: Soft shad on jig head, de: Gummifisch, it: Shad in gomma }
+  name: { sl: Gumijasta ribica, en: Soft shad on jig head, de: Gummifisch, it: Shad in gomma }
   description:
-    sl: Mehka gumijasta ribica na jig glavi – vodimo jo v poskokih po dnu.
+    sl: Mehka gumijasta ribica na obteženi glavici – vodimo jo v poskokih po dnu.
     en: A soft rubber fish on a jig head – hopped along the bottom.
   tips:
-    sl: Za smuča 7–10 cm, jig glava 7–20 g glede na tok in globino. V motni vodi svetle barve.
+    sl: Za smuča 7–10 cm, glavica 7–20 g glede na tok in globino. V motni vodi svetle barve.
     en: 7–10 cm for zander, 7–20 g jig head depending on current and depth. Bright colours in coloured water.
   species: [smuc, scuka, ostriz, som, sulec, brancin]
   clarity: [clear, murky]
@@ -57,9 +57,9 @@
   guide: spinning
 
 - slug: drop-shot
-  name: { sl: Drop-shot, en: Drop-shot rig, de: Drop-Shot, it: Drop shot }
+  name: { sl: Sistem s spodnjo utežjo, en: Drop-shot rig, de: Drop-Shot, it: Drop shot }
   description:
-    sl: Utež na koncu, trnek z mikro gumico nad njo – vaba "lebdi" nad dnom.
+    sl: Utež na koncu, trnek z majhno gumijasto vabo nad njo – vaba lebdi nad dnom.
     en: Weight at the end, a hook with a micro soft bait above it – the bait hovers off the bottom.
   tips:
     sl: Odlično za previdne ostriže in smuče ob pomolih in kamnometih. Rahlo tresenje, ne vlečenje.
@@ -73,7 +73,7 @@
 - slug: povrsinska
   name: { sl: Površinska vaba, en: Topwater lure, de: Oberflächenköder, it: Esca di superficie }
   description:
-    sl: Popper ali stickbait, ki ob vodenju čofota po površini in izzove eksplozivne napade.
+    sl: Vaba, ki ob vodenju drsi ali čofota po gladini in izzove eksplozivne napade.
     en: A popper or stickbait that splashes across the surface and triggers explosive strikes.
   tips:
     sl: Mirni topli večeri; za brancina zgodaj zjutraj ob rahlem valovanju.
@@ -113,7 +113,7 @@
   guide: dry-fly
 
 - slug: streamer
-  name: { sl: Streamer, en: Streamer, de: Streamer, it: Streamer }
+  name: { sl: Muha ribica, en: Streamer, de: Streamer, it: Streamer }
   description:
     sl: Večja muha, ki posnema ribico – za velike roparske postrvi in sulca.
     en: A larger fly imitating a baitfish – for big predatory trout and huchen.
@@ -127,12 +127,12 @@
   guide: euro-nymphing
 
 - slug: zopf
-  name: { sl: Zopf (pletenica), en: Zopf (braided huchen lure), de: Huchenzopf, it: Zopf }
+  name: { sl: Pletenica, en: Zopf (braided huchen lure), de: Huchenzopf, it: Zopf }
   description:
     sl: Tradicionalna pletena vaba iz usnja ali plastike za sulca, vodena počasi ob dnu.
     en: A traditional braided lure of leather or plastic for huchen, fished slowly near the bottom.
   tips:
-    sl: Dolžina 15–25 cm; jig glava, ki drži vabo tik nad dnom v počasnem toku.
+    sl: Dolžina 15–25 cm; obtežena glavica drži vabo tik nad dnom v počasnem toku.
     en: 15–25 cm long; a jig head that keeps it just off the bottom in slow current.
   species: [sulec]
   clarity: [clear, murky]
@@ -141,12 +141,12 @@
   guide: huchen
 
 - slug: kalamarjera
-  name: { sl: Kalamarjera (EGI), en: Squid jig (EGI), de: Tintenfischköder (EGI), it: Totanara (EGI) }
+  name: { sl: Kalamarjera, en: Squid jig (EGI), de: Tintenfischköder (EGI), it: Totanara (EGI) }
   description:
     sl: Vaba v obliki kozice s krono trnkov za lov lignjev in sip.
     en: A shrimp-shaped lure with a crown of spikes for squid and cuttlefish.
   tips:
-    sl: Velikost 2.0–3.0; ponoči fluorescentne, ob mesečini naravne barve. Po zametu pustite, da potone, nato dva sunka.
+    sl: Velikost 2.0–3.0; ponoči svetleče, ob mesečini naravne barve. Po zametu pustite, da potone, nato dva sunka.
     en: Size 2.0–3.0; glow colours at night, natural colours under moonlight. Let it sink, then two sharp jerks.
   species: [lignji, sipa]
   clarity: [clear, murky]
@@ -155,7 +155,7 @@
   guide: eging
 
 - slug: metal-jig
-  name: { sl: Kovinski jig, en: Metal jig, de: Metal-Jig, it: Metal jig }
+  name: { sl: Kovinska vaba, en: Metal jig, de: Metal-Jig, it: Metal jig }
   description:
     sl: Težka kovinska vaba za daljne zamete z obale.
     en: A heavy metal lure for long casts from the shore.

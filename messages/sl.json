@@ -61,11 +61,11 @@
     "fly": "Muharjenje",
     "spin": "Vrtenje",
     "float": "Plovec",
-    "feeder": "Feeder",
+    "feeder": "Krmilni koš",
     "carp": "Krapolov",
     "bottom": "Talni ribolov",
     "sea-shore": "Morje z obale",
-    "eging": "Lignji (eging)"
+    "eging": "Lov lignjev"
   },
   "region": {
     "gorenjska": "Gorenjska",
@@ -364,7 +364,7 @@
     "bait": {
       "nymph": "Nimfa z volframovo glavico",
       "dryfly": "Suha muha",
-      "streamer": "Streamer",
+      "streamer": "Muha ribica",
       "lure": "Umetna vaba",
       "worms": "Gliste",
       "maggots": "Ličinke (črvi)",
