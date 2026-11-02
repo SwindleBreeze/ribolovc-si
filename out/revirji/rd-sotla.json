@@ -2125,18 +2125,46 @@
   "quality": "place",
   "qualityNotes": [
    "jezero ni v OSM",
-   "kraj Trebče"
+   "ribnik ob kraju Trebče"
   ],
   "geometry": {
-   "type": "Point",
+   "type": "Polygon",
    "coordinates": [
-    15.63266,
-    46.0476
+    [
+     [
+      15.61375,
+      46.03895
+     ],
+     [
+      15.61388,
+      46.0389
+     ],
+     [
+      15.61477,
+      46.03898
+     ],
+     [
+      15.61537,
+      46.03889
+     ],
+     [
+      15.61462,
+      46.03921
+     ],
+     [
+      15.6143,
+      46.03921
+     ],
+     [
+      15.61375,
+      46.03895
+     ]
+    ]
    ]
   },
   "center": [
-   46.0476,
-   15.63266
+   46.03901,
+   15.61458
   ],
   "lengthKm": null,
   "region": "posavje",

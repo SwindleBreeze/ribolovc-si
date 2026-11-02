@@ -1,18 +1,18 @@
 # Section database report
 
-Generated 2026-10-29T07:54:19.144Z from 473 sections in 67 clubs (5 Austrian sections skipped).
+Generated 2026-11-02T11:25:21.732Z from 473 sections in 67 clubs (5 Austrian sections skipped).
 
 ## Placement quality
 
 | quality | sections | share |
 |---|---|---|
 | segment | 84 | 18 % |
-| water | 162 | 34 % |
+| water | 161 | 34 % |
 | manual | 0 | 0 % |
 | partial | 57 | 12 % |
 | gauge | 19 | 4 % |
-| place | 99 | 21 % |
-| none | 52 | 11 % |
+| place | 101 | 21 % |
+| none | 51 | 11 % |
 
 ## Unknown species names (add to SPECIES_MAP)
 
@@ -20,7 +20,7 @@ Generated 2026-10-29T07:54:19.144Z from 473 sections in 67 clubs (5 Austrian sec
 ## Unknown methods (add to METHOD_MAP)
 
 
-## Needs a manual position (151)
+## Needs a manual position (152)
 
 - [none] rd-soca/akumulacija-kozlink — Akumulacija Kozlink () · jezero ni v OSM
 - [place] rd-sevnica/potok-bistrica-sevnica — Potok Bistrica () · odsek okoli sedeža družine; sidro: središče družine
@@ -69,7 +69,7 @@ Generated 2026-10-29T07:54:19.144Z from 473 sections in 67 clubs (5 Austrian sec
 - [none] rd-mura-paloma/mrtvica-hoken — Mrtvica Hoken () · jezero ni v OSM
 - [place] rd-lendava/mrtvica-nasip-petisovci — Mrtvica nasip Petišovci () · jezero ni v OSM; ribnik ob kraju Petišovci / Petesháza
 - [none] rd-lendava/mrtvica-podkev — Mrtvica Podkev () · jezero ni v OSM
-- [place] zavod-za-ribistvo-slovenije/mrtvica-ribce-sava — Mrtvica Ribče - Sava (od Ribč do Save) · jezero ni v OSM; kraj Sava
+- [place] zavod-za-ribistvo-slovenije/mrtvica-ribce-sava — Mrtvica Ribče - Sava (od Ribč do Save) · jezero ni v OSM; ribnik ob kraju Sava
 - [none] rd-lendava/mrtvica-szent-kiraly — Mrtvica Szent Kiraly 2 () · jezero ni v OSM
 - [none] rd-brezice/mrtvica-topla-struga — Mrtvica Topla struga () · jezero ni v OSM
 - [place] rd-radgona/murski-crnci — Gramoznica Murski Črnci (091) · jezero ni v OSM; ribnik ob kraju Murski Črnci
@@ -102,6 +102,7 @@ Generated 2026-10-29T07:54:19.144Z from 473 sections in 67 clubs (5 Austrian sec
 - [place] rd-sevnica/ribnik-krmelj-r-12 — Ribnik Krmelj () · jezero ni v OSM; ribnik ob kraju Krmelj
 - [none] rd-mura-paloma/ribnik-lenc — Ribnik Lenc () · jezero ni v OSM
 - [place] rd-sevnica/ribnik-loke-r-10 — Ribnik Loke () · jezero ni v OSM; kraj Loke
+- [place] rd-vrhnika/ribnik-lokev-logatec — Ribnik Lokev v Logatcu () · jezero ni v OSM; ribnik ob kraju Logatec
 - [none] rd-brestanica-krsko/ribnik-mackovec-2 — Ribnik Mačkovec (Brestanica) · jezero ni v OSM
 - [place] rd-sevnica/ribnik-mirna — Ribnik Mirna () · jezero ni v OSM; ribnik ob kraju Mirna
 - [none] rd-brezice/ribnik-mokrice — Ribnik Mokrice () · jezero ni v OSM
@@ -111,9 +112,9 @@ Generated 2026-10-29T07:54:19.144Z from 473 sections in 67 clubs (5 Austrian sec
 - [none] rd-brezice/ribnik-opekarna — Ribniki Opekarna () · jezero ni v OSM
 - [none] rd-bistrica-domzale/ribnikplastenka — Ribnik Plastenka () · jezero ni v OSM
 - [none] rd-vevce/ribnik-pod-debnim-vrhom — Ribnik pod Debnim Vrhom () · jezero ni v OSM
-- [place] rd-sempeter/ribnik-preserje-1 — Ribnik Preserje 1 () · jezero ni v OSM; kraj Preserje
-- [place] rd-sempeter/ribnik-preserje-2 — Ribnik Preserje 2 () · jezero ni v OSM; kraj Preserje
-- [place] rd-sempeter/ribnik-preserje-4 — Ribnik Preserje 4 () · jezero ni v OSM; kraj Preserje
+- [place] rd-sempeter/ribnik-preserje-1 — Ribnik Preserje 1 () · jezero ni v OSM; ribnik ob kraju Preserje
+- [place] rd-sempeter/ribnik-preserje-2 — Ribnik Preserje 2 () · jezero ni v OSM; ribnik ob kraju Preserje
+- [place] rd-sempeter/ribnik-preserje-4 — Ribnik Preserje 4 () · jezero ni v OSM; ribnik ob kraju Preserje
 - [place] rd-brezice/ribnik-prilipe-1 — Ribnik Prilipe () · jezero ni v OSM; ribnik ob kraju Prilipe
 - [place] rd-kranj/racnik-ribnik — Ribnik Račnik () · jezero ni v OSM; kraj Račnik
 - [place] rd-maribor/ribnik-radvanje-sv — Radvanje () · jezero ni v OSM; ribnik ob kraju Radvanje
@@ -125,11 +126,11 @@ Generated 2026-10-29T07:54:19.144Z from 473 sections in 67 clubs (5 Austrian sec
 - [place] rd-majsperk/ribnik-stanecka-vas — Ribnik Stanečka vas () · jezero ni v OSM; ribnik ob kraju Stanecka vas
 - [place] rd-kranj/straziski-ribnik — Ribnik Stražišče () · jezero ni v OSM; ribnik ob kraju Stražišče
 - [place] rd-sotla/ribnik-smarje-pri-jelsah-1 — Ribnik Šmarje pri Jelšah () · jezero ni v OSM; kraj Jelše
-- [place] rd-sotla/ribnik-trepce — Ribnik Trebče () · jezero ni v OSM; kraj Trebče
+- [place] rd-sotla/ribnik-trepce — Ribnik Trebče () · jezero ni v OSM; ribnik ob kraju Trebče
 - [none] rd-crnomelj/ribnik-veliki-nerajc — Ribnik Nerajec () · jezero ni v OSM
 - [place] rd-sotla/ribnik-vonarje — Ribnik Vonarje () · jezero ni v OSM; ribnik ob kraju Vonarje
 - [place] rd-radovljica/ribnik-vosce — Ribnik Vošče () · jezero ni v OSM; ribnik ob kraju Vošče
-- [place] rd-sempeter/ribnik-zalec — Ribnik Žalec () · jezero ni v OSM; kraj Žalec
+- [place] rd-sempeter/ribnik-zalec — Ribnik Žalec () · jezero ni v OSM; ribnik ob kraju Žalec
 - [place] rd-lasko/ribniki-marof-3 — Ribnik Marof (Mrzlo polje) · jezero ni v OSM; kraj Mrzlo Polje
 - [place] rd-sevnica/ribniki-prelesje-r-14 — Ribniki Prelesje () · jezero ni v OSM; ribnik ob kraju Prelesje
 - [place] rd-vrhnika/ribniki-sinja-gorica — Ribnik pri Ribiškem domu v Sinji Gorici () · jezero ni v OSM; ribnik ob kraju Sinja Gorica
@@ -170,6 +171,6 @@ Generated 2026-10-29T07:54:19.144Z from 473 sections in 67 clubs (5 Austrian sec
 - [none] rd-ljubno/savinja-2 — Reka Savinja (od sotočja z Lučnico do Ljubenskega mostu) · meje niso razrešene
 - [none] rd-ljubno/savinja-3 — Reka Savinja (od Ljubenskega mostu do jezu v Grušovljah) · meje niso razrešene
 - [none] rd-paka-sostanj/sentflorjanscica-2 — Šentflorjanščica 2 () · jezero ni v OSM
-- [none] rd-paka-sostanj/sostanjsko-jezero — Šoštanjsko jezero () · jezero ni v OSM
+- [place] rd-paka-sostanj/sostanjsko-jezero — Šoštanjsko jezero () · jezero ni v OSM; ribnik ob kraju Šoštanj
 - [place] rd-ormoz/trnava — Potok Trnava () · odsek okoli sedeža družine
 - [place] rd-ormoz/zadrzevalnik-savci-z1b — Zadrževalnik Savci () · jezero ni v OSM; ribnik ob kraju Savci

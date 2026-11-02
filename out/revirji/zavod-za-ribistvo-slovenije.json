@@ -3913,7 +3913,7 @@
   },
   "description": "V tesni dolini Save leži pri Kresnicah mrtvica Ribče, kjer boste lepo lovili krape, linje, nekatere belice in ščuke.",
   "waterType": "pond",
-  "water": null,
+  "water": "Ribnik Mačkovna",
   "species": [
    "klen",
    "krap",
@@ -3964,29 +3964,62 @@
   "quality": "place",
   "qualityNotes": [
    "jezero ni v OSM",
-   "kraj Sava"
+   "ribnik ob kraju Sava"
   ],
   "geometry": {
-   "type": "Point",
+   "type": "Polygon",
    "coordinates": [
-    14.8919,
-    46.08861
+    [
+     [
+      14.87184,
+      46.08224
+     ],
+     [
+      14.87195,
+      46.08218
+     ],
+     [
+      14.87237,
+      46.0824
+     ],
+     [
+      14.87326,
+      46.08288
+     ],
+     [
+      14.87323,
+      46.08298
+     ],
+     [
+      14.87301,
+      46.08307
+     ],
+     [
+      14.87217,
+      46.0829
+     ],
+     [
+      14.87215,
+      46.08282
+     ],
+     [
+      14.87234,
+      46.08262
+     ],
+     [
+      14.87184,
+      46.08224
+     ]
+    ]
    ]
   },
   "center": [
-   46.08861,
-   14.8919
+   46.08274,
+   14.87252
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
-  "parking": [
-   {
-    "lat": 46.08895,
-    "lon": 14.89225,
-    "name": null,
-    "distKm": 0.05
-   }
-  ],
+  "parking": [],
   "fishingSpots": [],
   "scrapedAt": "2026-10-28T06:34:12.953Z"
  },

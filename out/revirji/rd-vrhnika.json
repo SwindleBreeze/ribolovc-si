@@ -1029,7 +1029,7 @@
   },
   "description": "Idealen ribnik za začetne korake v svet ribolova. Številčnost rib, odprtost terena in malo ovir predstavlja dober poligon za začetnike ali malo izkušenejše ribiče, ki znajo ukrotiti krapa z bolognese palico.",
   "waterType": "pond",
-  "water": "Dobška lokev",
+  "water": "Lokva",
   "species": [
    "amur",
    "klen",
@@ -1075,41 +1075,82 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-vrhnika/ribnik-lokev-logatec",
   "mapPdfUrl": null,
   "gauge": null,
-  "quality": "water",
+  "quality": "place",
   "qualityNotes": [
-   "jezero Dobška lokev"
+   "jezero ni v OSM",
+   "ribnik ob kraju Logatec"
   ],
   "geometry": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      14.35737,
-      45.85191
+      14.21181,
+      45.91469
      ],
      [
-      14.35755,
-      45.85197
+      14.21193,
+      45.91443
      ],
      [
-      14.35737,
-      45.85191
+      14.21266,
+      45.91387
+     ],
+     [
+      14.21283,
+      45.91387
+     ],
+     [
+      14.21294,
+      45.91404
+     ],
+     [
+      14.21276,
+      45.91411
+     ],
+     [
+      14.21233,
+      45.91465
+     ],
+     [
+      14.21203,
+      45.91479
+     ],
+     [
+      14.21183,
+      45.91479
+     ],
+     [
+      14.21181,
+      45.91469
      ]
     ]
    ]
   },
   "center": [
-   45.85194,
-   14.35747
+   45.91432,
+   14.21241
   ],
   "lengthKm": null,
-  "region": "notranjska",
+  "region": "osrednjeslovenska",
   "parking": [
    {
-    "lat": 45.85161,
-    "lon": 14.35915,
+    "lat": 45.91666,
+    "lon": 14.21807,
     "name": null,
-    "distKm": 0.13
+    "distKm": 0.49
+   },
+   {
+    "lat": 45.91208,
+    "lon": 14.20585,
+    "name": null,
+    "distKm": 0.54
+   },
+   {
+    "lat": 45.9112,
+    "lon": 14.21911,
+    "name": null,
+    "distKm": 0.57
    }
   ],
   "fishingSpots": [],
