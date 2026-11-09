@@ -144,7 +144,7 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:17.791Z"
+  "scrapedAt": "2026-11-09T11:54:21.854Z"
  },
  {
   "id": "rd-novo-mesto/krka-3-4",
@@ -1152,7 +1152,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:20.184Z"
+  "scrapedAt": "2026-11-09T11:54:24.252Z"
  },
  {
   "id": "rd-novo-mesto/obrh-novo-mesto",
@@ -1366,7 +1366,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:46.561Z"
+  "scrapedAt": "2026-11-09T11:56:50.624Z"
  },
  {
   "id": "rd-novo-mesto/radescica",
@@ -1611,7 +1611,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:03.401Z"
+  "scrapedAt": "2026-11-09T11:58:07.476Z"
  },
  {
   "id": "rd-novo-mesto/radulja-2",
@@ -2669,7 +2669,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:17.771Z"
+  "scrapedAt": "2026-11-09T11:58:21.834Z"
  },
  {
   "id": "rd-novo-mesto/ribnik-blato",
@@ -2817,7 +2817,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:08.177Z"
+  "scrapedAt": "2026-11-09T11:59:12.254Z"
  },
  {
   "id": "rd-novo-mesto/potok-susica",
@@ -3349,7 +3349,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:08.202Z"
+  "scrapedAt": "2026-11-09T12:04:12.293Z"
  },
  {
   "id": "rd-novo-mesto/temenica-3",
@@ -3844,7 +3844,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:27.400Z"
+  "scrapedAt": "2026-11-09T12:04:31.493Z"
  },
  {
   "id": "rd-novo-mesto/temenica-4",
@@ -4339,7 +4339,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:29.800Z"
+  "scrapedAt": "2026-11-09T12:04:33.894Z"
  },
  {
   "id": "rd-novo-mesto/temenica-5-b",
@@ -4824,7 +4824,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:32.208Z"
+  "scrapedAt": "2026-11-09T12:04:36.290Z"
  },
  {
   "id": "rd-novo-mesto/tezka-voda-c",
@@ -5479,7 +5479,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:37.000Z"
+  "scrapedAt": "2026-11-09T12:04:41.086Z"
  },
  {
   "id": "rd-novo-mesto/tezka-voda",
@@ -6094,7 +6094,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:39.395Z"
+  "scrapedAt": "2026-11-09T12:04:43.489Z"
  },
  {
   "id": "rd-novo-mesto/toplica",
@@ -6209,6 +6209,6 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:44.203Z"
+  "scrapedAt": "2026-11-09T12:04:48.292Z"
  }
 ]

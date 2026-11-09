@@ -293,7 +293,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:26:24.928Z"
+  "scrapedAt": "2026-11-09T11:48:28.763Z"
  },
  {
   "id": "rd-ljutomer/gramoznica-babinci",
@@ -512,7 +512,7 @@
     "distKm": 0.04
    }
   ],
-  "scrapedAt": "2026-10-28T06:28:48.944Z"
+  "scrapedAt": "2026-11-09T11:50:52.805Z"
  },
  {
   "id": "rd-ljutomer/gramoznica-boreci",
@@ -664,7 +664,7 @@
     "distKm": 0.01
    }
   ],
-  "scrapedAt": "2026-10-28T06:29:00.915Z"
+  "scrapedAt": "2026-11-09T11:51:04.752Z"
  },
  {
   "id": "rd-ljutomer/gramoznica-buncani",
@@ -776,7 +776,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:08.126Z"
+  "scrapedAt": "2026-11-09T11:51:11.951Z"
  },
  {
   "id": "rd-ljutomer/gramoznica-krapje",
@@ -1019,7 +1019,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:44.139Z"
+  "scrapedAt": "2026-11-09T11:51:47.965Z"
  },
  {
   "id": "rd-ljutomer/gramoznica-razkrizje",
@@ -1163,7 +1163,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:22.533Z"
+  "scrapedAt": "2026-11-09T11:52:26.361Z"
  },
  {
   "id": "rd-ljutomer/gramoznica-mota",
@@ -1317,7 +1317,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:41.735Z"
+  "scrapedAt": "2026-11-09T11:52:45.589Z"
  },
  {
   "id": "rd-ljutomer/mura-s-pritoki-in-mrtvicami",
@@ -1716,7 +1716,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:27.358Z"
+  "scrapedAt": "2026-11-09T11:56:31.427Z"
  },
  {
   "id": "rd-ljutomer/scavnica-3",
@@ -1808,6 +1808,6 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:12.994Z"
+  "scrapedAt": "2026-11-09T12:04:17.085Z"
  }
 ]

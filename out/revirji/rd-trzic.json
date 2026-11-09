@@ -70,7 +70,7 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:53.811Z"
+  "scrapedAt": "2026-11-09T12:06:57.920Z"
  },
  {
   "id": "rd-trzic/sava-5",
@@ -132,7 +132,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:58.645Z"
+  "scrapedAt": "2026-11-09T12:07:02.752Z"
  },
  {
   "id": "rd-trzic/trziska-bistrica-3",
@@ -894,6 +894,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:45:29.852Z"
+  "scrapedAt": "2026-11-09T12:07:33.949Z"
  }
 ]

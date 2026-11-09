@@ -76,7 +76,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:44.234Z"
+  "scrapedAt": "2026-11-09T12:05:48.334Z"
  },
  {
   "id": "rd-ormoz/drava-ormosko-jezero",
@@ -229,7 +229,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:51.435Z"
+  "scrapedAt": "2026-11-09T12:05:55.527Z"
  },
  {
   "id": "rd-ormoz/drava-11",
@@ -281,7 +281,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:53.834Z"
+  "scrapedAt": "2026-11-09T12:05:57.938Z"
  },
  {
   "id": "rd-ormoz/drava-12",
@@ -333,7 +333,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:56.236Z"
+  "scrapedAt": "2026-11-09T12:06:00.322Z"
  },
  {
   "id": "rd-ormoz/drava-kanal-k-1a",
@@ -1345,7 +1345,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:58.631Z"
+  "scrapedAt": "2026-11-09T12:06:02.730Z"
  },
  {
   "id": "rd-ormoz/lesnica",
@@ -1868,7 +1868,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:10.640Z"
+  "scrapedAt": "2026-11-09T12:06:14.727Z"
  },
  {
   "id": "rd-ormoz/libanja",
@@ -1969,7 +1969,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:13.027Z"
+  "scrapedAt": "2026-11-09T12:06:17.130Z"
  },
  {
   "id": "rd-ormoz/pavlovski-pusenski-potok",
@@ -2282,7 +2282,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:20.235Z"
+  "scrapedAt": "2026-11-09T12:06:24.323Z"
  },
  {
   "id": "rd-ormoz/pesnica",
@@ -2436,7 +2436,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:22.629Z"
+  "scrapedAt": "2026-11-09T12:06:26.729Z"
  },
  {
   "id": "rd-ormoz/ribnik-ob-zagi",
@@ -2482,7 +2482,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:46.630Z"
+  "scrapedAt": "2026-11-09T12:06:50.729Z"
  },
  {
   "id": "rd-ormoz/sejanca",
@@ -2791,7 +2791,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:45:17.836Z"
+  "scrapedAt": "2026-11-09T12:07:21.933Z"
  },
  {
   "id": "rd-ormoz/trnava",
@@ -3018,7 +3018,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:45:27.432Z"
+  "scrapedAt": "2026-11-09T12:07:31.543Z"
  },
  {
   "id": "rd-ormoz/zadrzevalnik-savci-z1b",
@@ -3213,6 +3213,6 @@
     "distKm": 0.02
    }
   ],
-  "scrapedAt": "2026-10-28T06:45:34.634Z"
+  "scrapedAt": "2026-11-09T12:07:38.733Z"
  }
 ]

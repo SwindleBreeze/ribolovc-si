@@ -41,7 +41,7 @@
    {
     "name": "Salmonidi (ujemi in spusti)",
     "priceEur": 40,
-    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
     "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/79"
    }
   ],
@@ -68,7 +68,7 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:22.583Z"
+  "scrapedAt": "2026-11-09T11:58:26.650Z"
  },
  {
   "id": "rd-ribnica/reka-bistrica-ribnica",
@@ -120,7 +120,7 @@
    {
     "name": "Salmonidi - ciprinidi (ujemi in odnesi)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
     "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/77"
    }
   ],
@@ -1022,7 +1022,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:29.803Z"
+  "scrapedAt": "2026-11-09T11:58:33.859Z"
  },
  {
   "id": "rd-ribnica/reka-rasica-ribnica",
@@ -1076,7 +1076,7 @@
    {
     "name": "Salmonidi - ciprinidi (ujemi in odnesi)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "saleWindow": "Nakup od 01. 04. do 30. 09.",
     "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/80"
    }
   ],
@@ -1113,7 +1113,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:49.009Z"
+  "scrapedAt": "2026-11-09T11:58:53.073Z"
  },
  {
   "id": "rd-ribnica/reka-ribnica-ribnica",
@@ -1175,7 +1175,7 @@
    {
     "name": "Ujemi in spusti",
     "priceEur": 50,
-    "saleWindow": "Nakup od 31. 07. do 31. 07.",
+    "saleWindow": "Nakup od 01. 04. do 31. 01.",
     "buyUrl": "https://www.ribiskekarte.si/rd-ribnica/nakup/837"
    }
   ],
@@ -1205,7 +1205,7 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:51.411Z"
+  "scrapedAt": "2026-11-09T11:58:55.454Z"
  },
  {
   "id": "rd-ribnica/ribnik-glinokop",
@@ -1284,7 +1284,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:32.188Z"
+  "scrapedAt": "2026-11-09T11:59:36.248Z"
  },
  {
   "id": "rd-ribnica/ribnik-prigorica",
@@ -1399,7 +1399,7 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:32.183Z"
+  "scrapedAt": "2026-11-09T12:00:36.242Z"
  },
  {
   "id": "rd-ribnica/ribnik-smrekovec",
@@ -1509,6 +1509,6 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:00.983Z"
+  "scrapedAt": "2026-11-09T12:01:05.060Z"
  }
 ]

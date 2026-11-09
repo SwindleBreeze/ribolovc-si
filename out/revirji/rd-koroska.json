@@ -453,7 +453,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:41.744Z"
+  "scrapedAt": "2026-11-09T11:49:45.587Z"
  },
  {
   "id": "rd-koroska/meza-1-2",
@@ -1401,7 +1401,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:20.250Z"
+  "scrapedAt": "2026-11-09T11:55:24.212Z"
  },
  {
   "id": "rd-koroska/meza-3",
@@ -1801,7 +1801,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:22.549Z"
+  "scrapedAt": "2026-11-09T11:55:26.627Z"
  },
  {
   "id": "rd-koroska/meza-4",
@@ -1866,7 +1866,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:24.947Z"
+  "scrapedAt": "2026-11-09T11:55:29.018Z"
  },
  {
   "id": "rd-koroska/meza-5",
@@ -1931,7 +1931,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:27.351Z"
+  "scrapedAt": "2026-11-09T11:55:31.422Z"
  },
  {
   "id": "rd-koroska/meza-6",
@@ -2015,7 +2015,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:29.749Z"
+  "scrapedAt": "2026-11-09T11:55:33.813Z"
  },
  {
   "id": "rd-koroska/mislinja-1-2",
@@ -3120,7 +3120,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:41.817Z"
+  "scrapedAt": "2026-11-09T11:55:45.868Z"
  },
  {
   "id": "rd-koroska/mislinja-3",
@@ -3222,7 +3222,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:44.179Z"
+  "scrapedAt": "2026-11-09T11:55:48.255Z"
  },
  {
   "id": "rd-koroska/mislinja-4",
@@ -3311,7 +3311,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:46.580Z"
+  "scrapedAt": "2026-11-09T11:55:50.633Z"
  },
  {
   "id": "rd-koroska/ribnik-brdinje",
@@ -3442,7 +3442,7 @@
   "region": "koroska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:12.970Z"
+  "scrapedAt": "2026-11-09T11:59:17.048Z"
  },
  {
   "id": "rd-koroska/reka-suhodolnica",
@@ -4274,6 +4274,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:03.415Z"
+  "scrapedAt": "2026-11-09T12:04:07.514Z"
  }
 ]

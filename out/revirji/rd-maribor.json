@@ -174,7 +174,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:56.097Z"
+  "scrapedAt": "2026-11-09T11:49:59.938Z"
  },
  {
   "id": "rd-maribor/drava-8",
@@ -306,7 +306,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:58.494Z"
+  "scrapedAt": "2026-11-09T11:50:02.345Z"
  },
  {
   "id": "rd-maribor/gramoznica-duplek",
@@ -379,19 +379,19 @@
    {
     "name": "Ujemi in spusti - dnevna",
     "priceEur": 25,
-    "saleWindow": null,
+    "saleWindow": "Nakup od 16. 03. do 31. 10.",
     "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/868"
    },
    {
     "name": "Ujemi in vzemi - dnevna",
     "priceEur": 15,
-    "saleWindow": null,
+    "saleWindow": "Nakup od 16. 03. do 31. 10.",
     "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/120"
    },
    {
     "name": "Ujemi in vzemi (roparice)",
     "priceEur": 25,
-    "saleWindow": "Nakup od 02. 05. do 15. 11.",
+    "saleWindow": "Nakup od 02. 05. do 31. 10.",
     "buyUrl": "https://www.ribiskekarte.si/rd-maribor/nakup/124"
    }
   ],
@@ -549,7 +549,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:22.525Z"
+  "scrapedAt": "2026-11-09T11:51:26.357Z"
  },
  {
   "id": "rd-maribor/ribnik-betnava",
@@ -676,7 +676,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:05.773Z"
+  "scrapedAt": "2026-11-09T11:59:09.835Z"
  },
  {
   "id": "rd-maribor/ribnik-hoce-gramoznica-stavbargradis",
@@ -759,7 +759,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:36.982Z"
+  "scrapedAt": "2026-11-09T11:59:41.052Z"
  },
  {
   "id": "rd-maribor/ribnik-hoce-univerza",
@@ -866,7 +866,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:39.380Z"
+  "scrapedAt": "2026-11-09T11:59:43.459Z"
  },
  {
   "id": "rd-maribor/ribnik-radvanje-sv",
@@ -994,7 +994,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:39.385Z"
+  "scrapedAt": "2026-11-09T12:00:43.453Z"
  },
  {
   "id": "rd-maribor/ribnik-razvanje-transom",
@@ -1129,7 +1129,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:44.188Z"
+  "scrapedAt": "2026-11-09T12:00:48.261Z"
  },
  {
   "id": "rd-maribor/ribniki-slivnica-2",
@@ -1285,6 +1285,6 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:48.989Z"
+  "scrapedAt": "2026-11-09T12:01:53.073Z"
  }
 ]

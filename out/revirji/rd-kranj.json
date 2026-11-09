@@ -166,7 +166,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:12.947Z"
+  "scrapedAt": "2026-11-09T11:53:16.776Z"
  },
  {
   "id": "rd-kranj/kokra",
@@ -421,7 +421,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:51.386Z"
+  "scrapedAt": "2026-11-09T11:53:55.464Z"
  },
  {
   "id": "rd-kranj/plansarsko-jezero",
@@ -572,7 +572,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:17.760Z"
+  "scrapedAt": "2026-11-09T11:57:21.841Z"
  },
  {
   "id": "rd-kranj/racnik-ribnik",
@@ -667,7 +667,7 @@
   "region": "savinjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:37.000Z"
+  "scrapedAt": "2026-11-09T12:00:41.060Z"
  },
  {
   "id": "rd-kranj/straziski-ribnik",
@@ -782,7 +782,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:08.188Z"
+  "scrapedAt": "2026-11-09T12:01:12.271Z"
  },
  {
   "id": "rd-kranj/rupovscica",
@@ -849,7 +849,7 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:40:08.205Z"
+  "scrapedAt": "2026-11-09T12:02:12.279Z"
  },
  {
   "id": "rd-kranj/sava-6",
@@ -1000,7 +1000,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:40:34.606Z"
+  "scrapedAt": "2026-11-09T12:02:38.712Z"
  },
  {
   "id": "rd-kranj/sava-7",
@@ -1293,7 +1293,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:40:37.009Z"
+  "scrapedAt": "2026-11-09T12:02:41.092Z"
  },
  {
   "id": "rd-kranj/zadrzevalnik-srednja-vas",
@@ -1400,6 +1400,6 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:29.818Z"
+  "scrapedAt": "2026-11-09T12:05:33.960Z"
  }
 ]

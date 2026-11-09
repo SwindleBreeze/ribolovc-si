@@ -39,9 +39,12 @@
    "spin"
   ],
   "baits": [
+   "cof",
    "potezanka",
+   "silikonska vaba",
    "umetna muha",
-   "umetne vabe"
+   "umetne vabe",
+   "vobler"
   ],
   "flyOnly": false,
   "catchAndReleaseOnly": false,
@@ -84,7 +87,7 @@
    },
    {
     "name": "Ribolov sulca (člani RD Mozirje)",
-    "priceEur": 10,
+    "priceEur": 6.67,
     "saleWindow": "Nakup od 01. 11. do 14. 02.",
     "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/1237"
    },
@@ -1282,14 +1285,14 @@
     "distKm": 0.33
    },
    {
-    "lat": 46.29722,
-    "lon": 14.93698,
+    "lat": 46.32509,
+    "lon": 14.95258,
     "name": null,
-    "distKm": 0.46
+    "distKm": 0.42
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:15.324Z"
+  "scrapedAt": "2026-11-09T11:50:19.184Z"
  },
  {
   "id": "rd-mozirje/ribnik-mozirje",
@@ -1380,7 +1383,7 @@
   "region": "savinjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:29.781Z"
+  "scrapedAt": "2026-11-09T11:59:33.844Z"
  },
  {
   "id": "rd-mozirje/savinja-45",
@@ -1429,10 +1432,13 @@
    "spin"
   ],
   "baits": [
+   "cof",
    "potezanka",
+   "silikonska vaba",
    "umetna muha",
    "umetne vabe",
-   "vabe rastlinskega izvora"
+   "vabe rastlinskega izvora",
+   "vobler"
   ],
   "flyOnly": false,
   "catchAndReleaseOnly": false,
@@ -1475,7 +1481,7 @@
    },
    {
     "name": "Ribolov sulca (člani RD Mozirje)",
-    "priceEur": 10,
+    "priceEur": 6.67,
     "saleWindow": "Nakup od 01. 11. do 14. 02.",
     "buyUrl": "https://www.ribiskekarte.si/rd-mozirje/nakup/1237"
    },
@@ -1976,6 +1982,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:03.434Z"
+  "scrapedAt": "2026-11-09T12:03:07.515Z"
  }
 ]

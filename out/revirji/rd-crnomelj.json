@@ -599,7 +599,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:27.305Z"
+  "scrapedAt": "2026-11-09T11:49:31.137Z"
  },
  {
   "id": "rd-crnomelj/kolpa-3-a",
@@ -1429,7 +1429,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:56.146Z"
+  "scrapedAt": "2026-11-09T11:54:00.221Z"
  },
  {
   "id": "rd-crnomelj/kolpa-3-b",
@@ -1916,7 +1916,7 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:58.589Z"
+  "scrapedAt": "2026-11-09T11:54:02.616Z"
  },
  {
   "id": "rd-crnomelj/lahinja",
@@ -3192,7 +3192,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:27.355Z"
+  "scrapedAt": "2026-11-09T11:54:31.405Z"
  },
  {
   "id": "rd-crnomelj/ribnik-hrast-1",
@@ -3298,7 +3298,7 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:41.780Z"
+  "scrapedAt": "2026-11-09T11:59:45.852Z"
  },
  {
   "id": "rd-crnomelj/ribnik-veliki-nerajc",
@@ -3404,6 +3404,6 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:20.188Z"
+  "scrapedAt": "2026-11-09T12:01:24.273Z"
  }
 ]

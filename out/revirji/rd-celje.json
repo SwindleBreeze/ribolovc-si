@@ -734,7 +734,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:58.549Z"
+  "scrapedAt": "2026-11-09T11:53:02.403Z"
  },
  {
   "id": "rd-celje/hudinja-3",
@@ -814,7 +814,7 @@
   "region": "savinjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:00.952Z"
+  "scrapedAt": "2026-11-09T11:53:04.803Z"
  },
  {
   "id": "rd-celje/hudinja-4",
@@ -1316,7 +1316,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:03.371Z"
+  "scrapedAt": "2026-11-09T11:53:07.227Z"
  },
  {
   "id": "rd-celje/savinja-8",
@@ -1599,7 +1599,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:05.820Z"
+  "scrapedAt": "2026-11-09T12:03:09.916Z"
  },
  {
   "id": "rd-celje/smartinsko-jezero",
@@ -2280,7 +2280,7 @@
     "distKm": 0.04
    }
   ],
-  "scrapedAt": "2026-10-28T06:42:20.211Z"
+  "scrapedAt": "2026-11-09T12:04:24.309Z"
  },
  {
   "id": "rd-celje/tesnica-2",
@@ -2652,6 +2652,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:42:34.597Z"
+  "scrapedAt": "2026-11-09T12:04:38.683Z"
  }
 ]

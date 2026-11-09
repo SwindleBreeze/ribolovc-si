@@ -94,7 +94,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:12.992Z"
+  "scrapedAt": "2026-11-09T12:01:17.073Z"
  },
  {
   "id": "rd-medvode/reka-sava-verje-tacen",
@@ -174,8 +174,14 @@
    {
     "name": "Ribolov sulca",
     "priceEur": 15,
-    "saleWindow": "Nakup od 01. 01. do 31. 12.",
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
     "buyUrl": "https://www.ribiskekarte.si/rd-medvode/nakup/1513"
+   },
+   {
+    "name": "Ribolov sulca - C&R",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-medvode/nakup/1518"
    },
    {
     "name": "Vijačenje, muharjenje",
@@ -239,7 +245,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:40:39.447Z"
+  "scrapedAt": "2026-11-09T12:02:43.513Z"
  },
  {
   "id": "rd-medvode/reka-sora-goricane-izliv-v-savo",
@@ -268,6 +274,7 @@
    "platnica",
    "podust",
    "potocna-postrv",
+   "sulec",
    "sarenka",
    "zelenika"
   ],
@@ -279,6 +286,7 @@
    "platnica",
    "podust",
    "potočna postrv",
+   "sulec",
    "šarenka",
    "zelenika"
   ],
@@ -296,11 +304,14 @@
    "spin"
   ],
   "baits": [
+   "blestivka",
    "kruh",
    "potezanka",
    "sir",
    "umetna muha",
-   "vabe rastlinskega izvora"
+   "umetni piškur",
+   "vabe rastlinskega izvora",
+   "vobler"
   ],
   "flyOnly": false,
   "catchAndReleaseOnly": false,
@@ -310,6 +321,18 @@
     "priceEur": 15,
     "saleWindow": "Nakup od 28. 09. do 25. 09.",
     "buyUrl": "https://www.ribiskekarte.si/rd-medvode/nakup/343"
+   },
+   {
+    "name": "Ribolov sulca",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-medvode/nakup/1519"
+   },
+   {
+    "name": "Ribolov sulca - C&R",
+    "priceEur": 15,
+    "saleWindow": "Nakup od 01. 10. do 14. 02.",
+    "buyUrl": "https://www.ribiskekarte.si/rd-medvode/nakup/1520"
    },
    {
     "name": "Vijačenje, muharjenje",
@@ -407,6 +430,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:51.414Z"
+  "scrapedAt": "2026-11-09T12:03:55.524Z"
  }
 ]

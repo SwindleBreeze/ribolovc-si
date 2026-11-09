@@ -78,7 +78,7 @@
   "region": "goriska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:26:27.298Z"
+  "scrapedAt": "2026-11-09T11:48:31.125Z"
  },
  {
   "id": "rd-soca/reka-idrija",
@@ -406,7 +406,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:32.172Z"
+  "scrapedAt": "2026-11-09T11:58:36.226Z"
  },
  {
   "id": "rd-soca/soca-8",
@@ -1348,6 +1348,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:34.623Z"
+  "scrapedAt": "2026-11-09T12:03:38.717Z"
  }
 ]

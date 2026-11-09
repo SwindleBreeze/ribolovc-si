@@ -68,7 +68,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:05.844Z"
+  "scrapedAt": "2026-11-09T12:06:09.938Z"
  },
  {
   "id": "rd-litija/reka-3",
@@ -114,7 +114,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:29.837Z"
+  "scrapedAt": "2026-11-09T12:06:33.935Z"
  },
  {
   "id": "rd-litija/ribnik-mackovna",
@@ -198,7 +198,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:44.234Z"
+  "scrapedAt": "2026-11-09T12:06:48.336Z"
  },
  {
   "id": "rd-litija/sava-12",
@@ -705,6 +705,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:45:01.037Z"
+  "scrapedAt": "2026-11-09T12:07:05.146Z"
  }
 ]

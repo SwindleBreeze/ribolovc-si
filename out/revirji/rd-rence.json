@@ -140,7 +140,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:26:36.903Z"
+  "scrapedAt": "2026-11-09T11:48:40.726Z"
  },
  {
   "id": "rd-rence/vipava-3-a",
@@ -220,7 +220,7 @@
   "region": "goriska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:05.830Z"
+  "scrapedAt": "2026-11-09T12:05:09.925Z"
  },
  {
   "id": "rd-rence/vipava-4",
@@ -664,7 +664,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:08.227Z"
+  "scrapedAt": "2026-11-09T12:05:12.325Z"
  },
  {
   "id": "rd-rence/vipava-5",
@@ -1907,7 +1907,7 @@
     "distKm": 0.06
    }
   ],
-  "scrapedAt": "2026-10-28T06:43:10.631Z"
+  "scrapedAt": "2026-11-09T12:05:14.727Z"
  },
  {
   "id": "rd-rence/vogrscek-1-akumulacija",
@@ -2582,7 +2582,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:22.618Z"
+  "scrapedAt": "2026-11-09T12:05:26.720Z"
  },
  {
   "id": "rd-rence/vogrscek-2-akumulacija",
@@ -3267,7 +3267,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:25.020Z"
+  "scrapedAt": "2026-11-09T12:05:29.106Z"
  },
  {
   "id": "rd-rence/vogrscek-3-akumulacija",
@@ -3911,6 +3911,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:27.413Z"
+  "scrapedAt": "2026-11-09T12:05:31.500Z"
  }
 ]

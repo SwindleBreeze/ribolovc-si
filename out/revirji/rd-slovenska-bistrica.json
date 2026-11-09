@@ -67,7 +67,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:26:56.108Z"
+  "scrapedAt": "2026-11-09T11:48:59.931Z"
  },
  {
   "id": "rd-slovenska-bistrica/crno-jezero",
@@ -176,7 +176,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:22.505Z"
+  "scrapedAt": "2026-11-09T11:49:26.341Z"
  },
  {
   "id": "rd-slovenska-bistrica/dravinja-1-a",
@@ -265,7 +265,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:05.691Z"
+  "scrapedAt": "2026-11-09T11:50:09.536Z"
  },
  {
   "id": "rd-slovenska-bistrica/dravinja-2-b",
@@ -987,12 +987,12 @@
      46.30527
     ],
     [
-     15.62363,
-     46.30559
+     15.62382,
+     46.30567
     ],
     [
-     15.62394,
-     46.30577
+     15.62395,
+     46.30588
     ],
     [
      15.62373,
@@ -1087,40 +1087,36 @@
      46.30699
     ],
     [
-     15.63686,
-     46.30737
+     15.63687,
+     46.30733
     ],
     [
-     15.63698,
-     46.30754
+     15.63701,
+     46.30762
     ],
     [
      15.63674,
      46.30797
     ],
     [
-     15.63725,
-     46.30826
+     15.63703,
+     46.30823
     ],
     [
-     15.63759,
-     46.30814
+     15.63766,
+     46.30816
     ],
     [
-     15.63783,
-     46.30768
+     15.63785,
+     46.3077
     ],
     [
-     15.63813,
-     46.30758
+     15.63827,
+     46.3076
     ],
     [
-     15.63837,
-     46.30763
-    ],
-    [
-     15.63831,
-     46.30786
+     15.63844,
+     46.30769
     ],
     [
      15.63852,
@@ -1191,8 +1187,12 @@
      46.30936
     ],
     [
-     15.64736,
-     46.30999
+     15.64735,
+     46.30956
+    ],
+    [
+     15.64741,
+     46.30998
     ],
     [
      15.64809,
@@ -1203,8 +1203,8 @@
      46.31097
     ],
     [
-     15.64919,
-     46.31182
+     15.64921,
+     46.31175
     ],
     [
      15.64921,
@@ -1301,8 +1301,8 @@
    ]
   },
   "center": [
-   46.30801,
-   15.59018
+   46.30802,
+   15.59017
   ],
   "lengthKm": 18.5,
   "region": "savinjska",
@@ -1333,7 +1333,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:08.123Z"
+  "scrapedAt": "2026-11-09T11:50:11.967Z"
  },
  {
   "id": "rd-slovenska-bistrica/loznica-a",
@@ -1502,7 +1502,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:00.971Z"
+  "scrapedAt": "2026-11-09T11:55:05.041Z"
  },
  {
   "id": "rd-slovenska-bistrica/loznica-b",
@@ -1912,7 +1912,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:03.350Z"
+  "scrapedAt": "2026-11-09T11:55:07.420Z"
  },
  {
   "id": "rd-slovenska-bistrica/oplotnica-2-a",
@@ -3501,7 +3501,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:53.758Z"
+  "scrapedAt": "2026-11-09T11:56:57.832Z"
  },
  {
   "id": "rd-slovenska-bistrica/oplotnica-3-b",
@@ -5092,7 +5092,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:56.153Z"
+  "scrapedAt": "2026-11-09T11:57:00.234Z"
  },
  {
   "id": "rd-slovenska-bistrica/oplotnica-4-c",
@@ -6683,7 +6683,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:58.579Z"
+  "scrapedAt": "2026-11-09T11:57:02.638Z"
  },
  {
   "id": "rd-slovenska-bistrica/polskava-1-a",
@@ -7511,7 +7511,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:34.561Z"
+  "scrapedAt": "2026-11-09T11:57:38.629Z"
  },
  {
   "id": "rd-slovenska-bistrica/ribnik-jernejcek-k",
@@ -7676,7 +7676,7 @@
   "region": "savinjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:44.184Z"
+  "scrapedAt": "2026-11-09T11:59:48.258Z"
  },
  {
   "id": "rd-slovenska-bistrica/ribnik-videz-3-k",
@@ -7813,7 +7813,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:22.592Z"
+  "scrapedAt": "2026-11-09T12:01:26.681Z"
  },
  {
   "id": "rd-slovenska-bistrica/ribniki-pragersko",
@@ -8107,6 +8107,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:41.803Z"
+  "scrapedAt": "2026-11-09T12:01:45.900Z"
  }
 ]

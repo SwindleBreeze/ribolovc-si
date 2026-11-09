@@ -542,7 +542,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:44.176Z"
+  "scrapedAt": "2026-11-09T11:54:48.238Z"
  },
  {
   "id": "rd-radovljica/ribnik-vosce",
@@ -685,7 +685,7 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:27.383Z"
+  "scrapedAt": "2026-11-09T12:01:31.473Z"
  },
  {
   "id": "rd-radovljica/sava-4",
@@ -946,7 +946,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:40:32.236Z"
+  "scrapedAt": "2026-11-09T12:02:36.325Z"
  },
  {
   "id": "rd-radovljica/sava-a",
@@ -1075,6 +1075,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:40:44.239Z"
+  "scrapedAt": "2026-11-09T12:02:48.318Z"
  }
 ]

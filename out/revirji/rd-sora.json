@@ -120,7 +120,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:29.790Z"
+  "scrapedAt": "2026-11-09T11:57:33.866Z"
  },
  {
   "id": "rd-sora/ribnik-retece",
@@ -252,7 +252,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:48.986Z"
+  "scrapedAt": "2026-11-09T12:00:53.060Z"
  },
  {
   "id": "rd-sora/selska-sora-4",
@@ -408,7 +408,7 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:22.630Z"
+  "scrapedAt": "2026-11-09T12:03:26.710Z"
  },
  {
   "id": "rd-sora/sora-1",
@@ -513,6 +513,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:49.018Z"
+  "scrapedAt": "2026-11-09T12:03:53.139Z"
  }
 ]

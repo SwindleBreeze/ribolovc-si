@@ -117,7 +117,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:26:44.139Z"
+  "scrapedAt": "2026-11-09T11:48:47.965Z"
  },
  {
   "id": "rd-vrhnika/reka-ljubija",
@@ -521,7 +521,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:48.977Z"
+  "scrapedAt": "2026-11-09T11:54:53.043Z"
  },
  {
   "id": "rd-vrhnika/ljubljanica-revir-30",
@@ -682,7 +682,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:53.813Z"
+  "scrapedAt": "2026-11-09T11:58:57.866Z"
  },
  {
   "id": "rd-vrhnika/ljubljanica-revir-31",
@@ -889,7 +889,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:56.199Z"
+  "scrapedAt": "2026-11-09T11:59:00.275Z"
  },
  {
   "id": "rd-vrhnika/ribcev-ribnik-pri-bistri",
@@ -1009,7 +1009,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:00.964Z"
+  "scrapedAt": "2026-11-09T11:59:05.035Z"
  },
  {
   "id": "rd-vrhnika/ribnik-lokev-logatec",
@@ -1154,7 +1154,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:58.592Z"
+  "scrapedAt": "2026-11-09T12:00:02.657Z"
  },
  {
   "id": "rd-vrhnika/ribniki-opekarna",
@@ -1388,10 +1388,16 @@
     "lon": 14.3031,
     "name": null,
     "distKm": 0.51
+   },
+   {
+    "lat": 45.97044,
+    "lon": 14.30008,
+    "name": null,
+    "distKm": 0.6
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:39.390Z"
+  "scrapedAt": "2026-11-09T12:01:43.482Z"
  },
  {
   "id": "rd-vrhnika/ribniki-sinja-gorica",
@@ -1518,6 +1524,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:46.583Z"
+  "scrapedAt": "2026-11-09T12:01:50.672Z"
  }
 ]

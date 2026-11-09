@@ -369,7 +369,7 @@
   "region": "notranjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:17.732Z"
+  "scrapedAt": "2026-11-09T11:53:21.571Z"
  },
  {
   "id": "rd-ilirska-bistrica/jezero-mola",
@@ -1342,7 +1342,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:20.143Z"
+  "scrapedAt": "2026-11-09T11:53:24.211Z"
  },
  {
   "id": "rd-ilirska-bistrica/reka-reka-od-zabic-do-skocjanske-jame",
@@ -2186,6 +2186,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:58.588Z"
+  "scrapedAt": "2026-11-09T11:59:02.665Z"
  }
 ]

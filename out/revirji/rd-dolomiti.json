@@ -74,7 +74,7 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:08.103Z"
+  "scrapedAt": "2026-11-09T11:49:11.933Z"
  },
  {
   "id": "rd-dolomiti/gradascica",
@@ -955,7 +955,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:29.732Z"
+  "scrapedAt": "2026-11-09T11:50:33.566Z"
  },
  {
   "id": "rd-dolomiti/horjulka",
@@ -1090,7 +1090,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:53.730Z"
+  "scrapedAt": "2026-11-09T11:52:57.574Z"
  },
  {
   "id": "rd-dolomiti/koseski-bajer",
@@ -1262,7 +1262,7 @@
     "distKm": 0.07
    }
   ],
-  "scrapedAt": "2026-10-28T06:32:08.142Z"
+  "scrapedAt": "2026-11-09T11:54:12.205Z"
  },
  {
   "id": "rd-dolomiti/mala-voda",
@@ -1944,6 +1944,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:10.563Z"
+  "scrapedAt": "2026-11-09T11:55:14.608Z"
  }
 ]

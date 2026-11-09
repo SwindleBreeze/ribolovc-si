@@ -108,7 +108,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:34.524Z"
+  "scrapedAt": "2026-11-09T11:49:38.351Z"
  },
  {
   "id": "rd-bistrica-domzale/drtijscica2",
@@ -502,7 +502,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:17.708Z"
+  "scrapedAt": "2026-11-09T11:50:21.554Z"
  },
  {
   "id": "rd-bistrica-domzale/drtijscica3",
@@ -600,7 +600,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:20.108Z"
+  "scrapedAt": "2026-11-09T11:50:23.951Z"
  },
  {
   "id": "rd-bistrica-domzale/gradisko-jezero",
@@ -939,7 +939,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:44.133Z"
+  "scrapedAt": "2026-11-09T11:50:47.962Z"
  },
  {
   "id": "rd-bistrica-domzale/homskamlinscica",
@@ -1023,7 +1023,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:51.348Z"
+  "scrapedAt": "2026-11-09T11:52:55.185Z"
  },
  {
   "id": "rd-bistrica-domzale/jezeropristava",
@@ -1255,7 +1255,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:27.354Z"
+  "scrapedAt": "2026-11-09T11:53:31.421Z"
  },
  {
   "id": "rd-bistrica-domzale/kamniskabistrica2",
@@ -1333,7 +1333,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:36.963Z"
+  "scrapedAt": "2026-11-09T11:53:41.018Z"
  },
  {
   "id": "rd-bistrica-domzale/kamniskabistrica3",
@@ -1755,7 +1755,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:39.491Z"
+  "scrapedAt": "2026-11-09T11:53:43.510Z"
  },
  {
   "id": "rd-bistrica-domzale/kamniskabistrica4",
@@ -1845,10 +1845,7 @@
   "online": true,
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/kamniskabistrica4",
   "mapPdfUrl": null,
-  "gauge": {
-   "lat": 46.224416,
-   "lon": 14.613335
-  },
+  "gauge": null,
   "quality": "segment",
   "qualityNotes": [
    "od: kraj Homec (jez)",
@@ -2276,7 +2273,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:41.809Z"
+  "scrapedAt": "2026-11-09T11:53:45.879Z"
  },
  {
   "id": "rd-bistrica-domzale/nevljica26a",
@@ -2377,7 +2374,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:44.202Z"
+  "scrapedAt": "2026-11-09T11:56:48.257Z"
  },
  {
   "id": "rd-bistrica-domzale/psata2",
@@ -3244,7 +3241,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:46.580Z"
+  "scrapedAt": "2026-11-09T11:57:50.640Z"
  },
  {
   "id": "rd-bistrica-domzale/psata3",
@@ -4130,7 +4127,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:49.027Z"
+  "scrapedAt": "2026-11-09T11:57:53.041Z"
  },
  {
   "id": "rd-bistrica-domzale/psata4",
@@ -5004,7 +5001,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:51.396Z"
+  "scrapedAt": "2026-11-09T11:57:55.494Z"
  },
  {
   "id": "rd-bistrica-domzale/psata5",
@@ -5109,7 +5106,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:53.783Z"
+  "scrapedAt": "2026-11-09T11:57:57.846Z"
  },
  {
   "id": "rd-bistrica-domzale/raca3",
@@ -5201,18 +5198,18 @@
    "type": "Point",
    "coordinates": [
     14.6352,
-    46.14336
+    46.14335
    ]
   },
   "center": [
-   46.14336,
+   46.14335,
    14.6352
   ],
   "lengthKm": null,
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:56.218Z"
+  "scrapedAt": "2026-11-09T11:58:00.275Z"
  },
  {
   "id": "rd-bistrica-domzale/raca4",
@@ -5288,8 +5285,8 @@
   "sourceUrl": "https://www.ribiskekarte.si/rd-bistrica-domzale/raca4",
   "mapPdfUrl": null,
   "gauge": {
-   "lat": 46.144323,
-   "lon": 14.621565
+   "lat": 46.142067,
+   "lon": 14.609245
   },
   "quality": "segment",
   "qualityNotes": [
@@ -5300,8 +5297,8 @@
    "type": "LineString",
    "coordinates": [
     [
-     14.63805,
-     46.14278
+     14.63368,
+     46.14365
     ],
     [
      14.62805,
@@ -5362,10 +5359,10 @@
    ]
   },
   "center": [
-   46.14504,
-   14.62143
+   46.14451,
+   14.61942
   ],
-  "lengthKm": 2.9,
+  "lengthKm": 2.5,
   "region": "osrednjeslovenska",
   "parking": [
    {
@@ -5394,7 +5391,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:35:58.627Z"
+  "scrapedAt": "2026-11-09T11:58:02.708Z"
  },
  {
   "id": "rd-bistrica-domzale/radomeljskamlinscica",
@@ -5471,7 +5468,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:08.180Z"
+  "scrapedAt": "2026-11-09T11:58:12.255Z"
  },
  {
   "id": "rd-bistrica-domzale/radomlja2",
@@ -5815,7 +5812,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:10.594Z"
+  "scrapedAt": "2026-11-09T11:58:14.661Z"
  },
  {
   "id": "rd-bistrica-domzale/radomlja3",
@@ -6092,8 +6089,12 @@
      46.14797
     ],
     [
-     14.65115,
-     46.1481
+     14.651,
+     46.14808
+    ],
+    [
+     14.65068,
+     46.14786
     ],
     [
      14.64993,
@@ -6132,28 +6133,24 @@
      46.14579
     ],
     [
-     14.63776,
-     46.1455
+     14.63807,
+     46.14552
     ],
     [
-     14.63613,
-     46.14561
+     14.63659,
+     46.14551
     ],
     [
-     14.63392,
-     46.14678
-    ],
-    [
-     14.6328,
-     46.14664
+     14.63543,
+     46.14591
     ]
    ]
   },
   "center": [
-   46.15512,
-   14.67202
+   46.15584,
+   14.67312
   ],
-  "lengthKm": 8,
+  "lengthKm": 7.8,
   "region": "osrednjeslovenska",
   "parking": [
    {
@@ -6175,14 +6172,14 @@
     "distKm": 0.23
    },
    {
-    "lat": 46.14866,
-    "lon": 14.62889,
-    "name": "Parkirišče pokopališča Dob",
+    "lat": 46.15169,
+    "lon": 14.65404,
+    "name": null,
     "distKm": 0.38
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:12.988Z"
+  "scrapedAt": "2026-11-09T11:58:17.049Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikcesnjevk1",
@@ -6344,7 +6341,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:17.786Z"
+  "scrapedAt": "2026-11-09T11:59:21.869Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnik-cesnjevek-2",
@@ -6504,7 +6501,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:20.200Z"
+  "scrapedAt": "2026-11-09T11:59:24.260Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikcrnelo12",
@@ -6661,7 +6658,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:22.636Z"
+  "scrapedAt": "2026-11-09T11:59:26.663Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikflorida",
@@ -6749,7 +6746,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:27.395Z"
+  "scrapedAt": "2026-11-09T11:59:31.464Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikkriz",
@@ -6904,7 +6901,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:46.606Z"
+  "scrapedAt": "2026-11-09T11:59:50.667Z"
  },
  {
   "id": "rd-bistrica-domzale/ribniklahovce",
@@ -7068,7 +7065,7 @@
     "distKm": 0.01
    }
   ],
-  "scrapedAt": "2026-10-28T06:37:51.404Z"
+  "scrapedAt": "2026-11-09T11:59:55.474Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikmoravce2",
@@ -7220,7 +7217,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:08.220Z"
+  "scrapedAt": "2026-11-09T12:00:12.271Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikmoravce3",
@@ -7372,7 +7369,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:10.614Z"
+  "scrapedAt": "2026-11-09T12:00:14.668Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikplastenka",
@@ -7464,7 +7461,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:17.810Z"
+  "scrapedAt": "2026-11-09T12:00:21.878Z"
  },
  {
   "id": "rd-bistrica-domzale/ribnikzelodnik",
@@ -7590,6 +7587,6 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:34.601Z"
+  "scrapedAt": "2026-11-09T12:01:38.698Z"
  }
 ]

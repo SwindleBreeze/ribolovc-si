@@ -102,7 +102,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:46.567Z"
+  "scrapedAt": "2026-11-09T11:50:50.360Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-bakovci-stara",
@@ -175,13 +175,13 @@
    {
     "name": "Ujemi in vzemi",
     "priceEur": 15,
-    "saleWindow": null,
+    "saleWindow": "Nakup od 01. 03. do 05. 11.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/983"
    },
    {
     "name": "Ujemi in vzemi (roparice)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "saleWindow": "Nakup od 01. 05. do 05. 11.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1167"
    }
   ],
@@ -259,7 +259,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:51.325Z"
+  "scrapedAt": "2026-11-09T11:50:55.162Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-bakovci-igrisce",
@@ -334,13 +334,13 @@
    {
     "name": "Ujemi in vzemi",
     "priceEur": 15,
-    "saleWindow": "Nakup od 01. 03. do 15. 12.",
+    "saleWindow": "Nakup od 01. 03. do 05. 11.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/676"
    },
    {
     "name": "Ujemi in vzemi (roparice)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "saleWindow": "Nakup od 01. 05. do 05. 11.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1168"
    }
   ],
@@ -417,7 +417,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:53.727Z"
+  "scrapedAt": "2026-11-09T11:50:57.564Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-beltinci",
@@ -547,7 +547,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:58.521Z"
+  "scrapedAt": "2026-11-09T11:51:02.375Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-cp-msobota",
@@ -659,7 +659,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:10.529Z"
+  "scrapedAt": "2026-11-09T11:51:14.370Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-doklezovje-katika",
@@ -732,13 +732,13 @@
    {
     "name": "Ujemi in vzemi",
     "priceEur": 15,
-    "saleWindow": null,
+    "saleWindow": "Nakup od 07. 12. do 05. 11.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/981"
    },
    {
     "name": "Ujemi in vzemi (roparice)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 01. 05. do 31. 01.",
+    "saleWindow": "Nakup od 07. 12. do 05. 11.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1171"
    }
   ],
@@ -759,7 +759,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:17.728Z"
+  "scrapedAt": "2026-11-09T11:51:21.561Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-doklezovje-taskan",
@@ -906,7 +906,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:20.127Z"
+  "scrapedAt": "2026-11-09T11:51:23.963Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-filovci",
@@ -1029,7 +1029,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:24.927Z"
+  "scrapedAt": "2026-11-09T11:51:28.762Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-gancani",
@@ -1162,7 +1162,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:29.726Z"
+  "scrapedAt": "2026-11-09T11:51:33.565Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-ivanci",
@@ -1403,7 +1403,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:39.349Z"
+  "scrapedAt": "2026-11-09T11:51:43.179Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-krog",
@@ -1775,7 +1775,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:46.547Z"
+  "scrapedAt": "2026-11-09T11:51:50.376Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-kupsinci",
@@ -1908,7 +1908,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:48.929Z"
+  "scrapedAt": "2026-11-09T11:51:52.805Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-lipa",
@@ -2064,7 +2064,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:53.730Z"
+  "scrapedAt": "2026-11-09T11:51:57.569Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-lipovci",
@@ -2282,7 +2282,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:29:56.130Z"
+  "scrapedAt": "2026-11-09T11:51:59.990Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-melinci",
@@ -2358,13 +2358,13 @@
    {
     "name": "Ujemi in vzemi",
     "priceEur": 15,
-    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "saleWindow": "Nakup od 01. 01. do 29. 10.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1207"
    },
    {
     "name": "Ujemi in vzemi (roparice)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "saleWindow": "Nakup od 01. 01. do 29. 10.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1208"
    }
   ],
@@ -2427,7 +2427,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:03.329Z"
+  "scrapedAt": "2026-11-09T11:52:07.175Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-renkovci",
@@ -2570,7 +2570,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:24.932Z"
+  "scrapedAt": "2026-11-09T11:52:28.772Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-satahovci",
@@ -2643,13 +2643,13 @@
    {
     "name": "Ujemi in vzemi",
     "priceEur": 15,
-    "saleWindow": "Nakup od 01. 09. do 09. 08.",
+    "saleWindow": "Nakup od 01. 01. do 09. 08.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/650"
    },
    {
     "name": "Ujemi in vzemi (roparice)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 01. 09. do 09. 08.",
+    "saleWindow": "Nakup od 01. 01. do 09. 08.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1178"
    }
   ],
@@ -2889,7 +2889,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:27.337Z"
+  "scrapedAt": "2026-11-09T11:52:31.175Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-sobosko-jezero",
@@ -3262,7 +3262,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:29.740Z"
+  "scrapedAt": "2026-11-09T11:52:33.595Z"
  },
  {
   "id": "rd-murska-sobota/gramoznica-tesanovci",
@@ -3418,7 +3418,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:32.134Z"
+  "scrapedAt": "2026-11-09T11:52:35.976Z"
  },
  {
   "id": "rd-murska-sobota/hodos",
@@ -3595,7 +3595,7 @@
   "region": "pomurje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:48.956Z"
+  "scrapedAt": "2026-11-09T11:52:52.776Z"
  },
  {
   "id": "rd-murska-sobota/ledava-2",
@@ -3670,13 +3670,13 @@
    {
     "name": "Ujemi in vzemi",
     "priceEur": 15,
-    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "saleWindow": "Nakup od 01. 01. do 08. 08.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/686"
    },
    {
     "name": "Ujemi in vzemi (roparice)",
     "priceEur": 20,
-    "saleWindow": "Nakup od 01. 09. do 08. 08.",
+    "saleWindow": "Nakup od 01. 01. do 08. 08.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/1180"
    }
   ],
@@ -3848,7 +3848,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:32.191Z"
+  "scrapedAt": "2026-11-09T11:54:36.233Z"
  },
  {
   "id": "rd-murska-sobota/ledavsko-jezero-15",
@@ -3959,7 +3959,7 @@
    {
     "name": "Ujemi in spusti - 7-dnevna",
     "priceEur": 80,
-    "saleWindow": "Nakup od 02. 12. do 01. 08.",
+    "saleWindow": "Nakup od 01. 01. do 01. 08.",
     "buyUrl": "https://www.ribiskekarte.si/rd-murska-sobota/nakup/910"
    },
    {
@@ -4432,7 +4432,7 @@
     "distKm": 0.09
    }
   ],
-  "scrapedAt": "2026-10-28T06:32:34.573Z"
+  "scrapedAt": "2026-11-09T11:54:38.633Z"
  },
  {
   "id": "rd-murska-sobota/mura-levi-breg",
@@ -4833,6 +4833,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:29.799Z"
+  "scrapedAt": "2026-11-09T11:56:33.862Z"
  }
 ]

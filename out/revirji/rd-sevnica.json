@@ -244,7 +244,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:26:51.308Z"
+  "scrapedAt": "2026-11-09T11:48:55.131Z"
  },
  {
   "id": "rd-sevnica/hinja",
@@ -699,7 +699,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:30:46.575Z"
+  "scrapedAt": "2026-11-09T11:52:50.375Z"
  },
  {
   "id": "rd-sevnica/mirna-izliv",
@@ -850,7 +850,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:32.160Z"
+  "scrapedAt": "2026-11-09T11:55:36.223Z"
  },
  {
   "id": "rd-sevnica/mirna-r-2",
@@ -939,7 +939,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:34.594Z"
+  "scrapedAt": "2026-11-09T11:55:38.655Z"
  },
  {
   "id": "rd-sevnica/mirna-r-3",
@@ -1349,7 +1349,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:36.980Z"
+  "scrapedAt": "2026-11-09T11:55:41.041Z"
  },
  {
   "id": "rd-sevnica/mirna-r-8",
@@ -2061,7 +2061,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:39.387Z"
+  "scrapedAt": "2026-11-09T11:55:43.440Z"
  },
  {
   "id": "rd-sevnica/ribnik-bruna-vas",
@@ -2181,7 +2181,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:15.375Z"
+  "scrapedAt": "2026-11-09T11:59:19.450Z"
  },
  {
   "id": "rd-sevnica/ribnik-gustav-krmelj",
@@ -2253,7 +2253,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:34.585Z"
+  "scrapedAt": "2026-11-09T11:59:38.654Z"
  },
  {
   "id": "rd-sevnica/ribnik-krmelj-r-12",
@@ -2390,7 +2390,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:48.981Z"
+  "scrapedAt": "2026-11-09T11:59:53.061Z"
  },
  {
   "id": "rd-sevnica/ribnik-loke-r-10",
@@ -2479,7 +2479,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:56.196Z"
+  "scrapedAt": "2026-11-09T12:00:00.258Z"
  },
  {
   "id": "rd-sevnica/ribnik-mirna",
@@ -2603,7 +2603,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:03.387Z"
+  "scrapedAt": "2026-11-09T12:00:07.464Z"
  },
  {
   "id": "rd-sevnica/ribnik-sevnica-r-11",
@@ -2743,7 +2743,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:58.599Z"
+  "scrapedAt": "2026-11-09T12:01:02.670Z"
  },
  {
   "id": "rd-sevnica/ribnik-strit",
@@ -2878,7 +2878,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:15.393Z"
+  "scrapedAt": "2026-11-09T12:01:19.478Z"
  },
  {
   "id": "rd-sevnica/ribniki-prelesje-r-14",
@@ -2995,7 +2995,7 @@
   "region": "dolenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:44.186Z"
+  "scrapedAt": "2026-11-09T12:01:48.282Z"
  },
  {
   "id": "rd-sevnica/sava-18",
@@ -3371,6 +3371,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:40:20.197Z"
+  "scrapedAt": "2026-11-09T12:02:24.277Z"
  }
 ]

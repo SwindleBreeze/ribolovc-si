@@ -803,7 +803,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:28:10.517Z"
+  "scrapedAt": "2026-11-09T11:50:14.375Z"
  },
  {
   "id": "rd-majsperk/ribnik-stanecka-vas",
@@ -944,7 +944,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:03.383Z"
+  "scrapedAt": "2026-11-09T12:01:07.458Z"
  },
  {
   "id": "rd-majsperk/ribnik-zg-pristava",
@@ -1103,7 +1103,7 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:29.780Z"
+  "scrapedAt": "2026-11-09T12:01:33.908Z"
  },
  {
   "id": "rd-majsperk/skrabska",
@@ -1204,6 +1204,6 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:24.999Z"
+  "scrapedAt": "2026-11-09T12:03:29.077Z"
  }
 ]

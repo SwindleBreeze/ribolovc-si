@@ -816,7 +816,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:05.729Z"
+  "scrapedAt": "2026-11-09T11:49:09.554Z"
  },
  {
   "id": "rd-sempeter/braslovsko-jezero",
@@ -986,7 +986,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:27:10.510Z"
+  "scrapedAt": "2026-11-09T11:49:14.325Z"
  },
  {
   "id": "rd-sempeter/loznica",
@@ -1266,7 +1266,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:05.746Z"
+  "scrapedAt": "2026-11-09T11:55:09.820Z"
  },
  {
   "id": "rd-sempeter/motnisnica-27",
@@ -1608,7 +1608,7 @@
   "region": "zasavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:53.759Z"
+  "scrapedAt": "2026-11-09T11:55:57.816Z"
  },
  {
   "id": "rd-sempeter/ribnik-preserje-1",
@@ -1741,7 +1741,7 @@
     "distKm": 0.02
    }
   ],
-  "scrapedAt": "2026-10-28T06:38:22.594Z"
+  "scrapedAt": "2026-11-09T12:00:26.649Z"
  },
  {
   "id": "rd-sempeter/ribnik-preserje-2",
@@ -1906,7 +1906,7 @@
     "distKm": 0.02
    }
   ],
-  "scrapedAt": "2026-10-28T06:38:24.989Z"
+  "scrapedAt": "2026-11-09T12:00:29.048Z"
  },
  {
   "id": "rd-sempeter/ribnik-preserje-4",
@@ -2051,7 +2051,7 @@
     "distKm": 0.02
    }
   ],
-  "scrapedAt": "2026-10-28T06:38:27.387Z"
+  "scrapedAt": "2026-11-09T12:00:31.450Z"
  },
  {
   "id": "rd-sempeter/ribnik-zalec",
@@ -2212,7 +2212,7 @@
   "region": "savinjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:32.188Z"
+  "scrapedAt": "2026-11-09T12:01:36.285Z"
  },
  {
   "id": "rd-sempeter/savinja-6",
@@ -2333,7 +2333,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:10.625Z"
+  "scrapedAt": "2026-11-09T12:03:14.707Z"
  },
  {
   "id": "rd-sempeter/savinja-7",
@@ -2521,6 +2521,6 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:13.001Z"
+  "scrapedAt": "2026-11-09T12:03:17.085Z"
  }
 ]

@@ -44,7 +44,7 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:15.435Z"
+  "scrapedAt": "2026-11-09T12:06:19.525Z"
  },
  {
   "id": "rd-ljubno/ribnik-pri-domu-rd",
@@ -104,7 +104,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:44:49.019Z"
+  "scrapedAt": "2026-11-09T12:06:53.125Z"
  },
  {
   "id": "rd-ljubno/savinja-1",
@@ -156,7 +156,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:45:10.635Z"
+  "scrapedAt": "2026-11-09T12:07:14.724Z"
  },
  {
   "id": "rd-ljubno/savinja-2",
@@ -202,7 +202,7 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:45:13.029Z"
+  "scrapedAt": "2026-11-09T12:07:17.128Z"
  },
  {
   "id": "rd-ljubno/savinja-3",
@@ -248,6 +248,6 @@
   "region": "gorenjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:45:15.432Z"
+  "scrapedAt": "2026-11-09T12:07:19.574Z"
  }
 ]

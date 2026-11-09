@@ -544,14 +544,14 @@
     "distKm": 0.3
    },
    {
-    "lat": 45.9634,
-    "lon": 14.53152,
+    "lat": 46.02698,
+    "lon": 14.50332,
     "name": null,
-    "distKm": 0.5
+    "distKm": 0.54
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:31:10.572Z"
+  "scrapedAt": "2026-11-09T11:53:14.397Z"
  },
  {
   "id": "rd-barje/krimsko-podpesko-jezero",
@@ -714,7 +714,7 @@
     "distKm": 0.02
    }
   ],
-  "scrapedAt": "2026-10-28T06:32:12.946Z"
+  "scrapedAt": "2026-11-09T11:54:17.015Z"
  },
  {
   "id": "rd-barje/reka-Ljubljanica-barje",
@@ -859,7 +859,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:51.366Z"
+  "scrapedAt": "2026-11-09T11:54:55.439Z"
  },
  {
   "id": "rd-barje/kanal-mali-graben-barje",
@@ -1181,7 +1181,7 @@
     "distKm": 0.14
    }
   ],
-  "scrapedAt": "2026-10-28T06:33:15.371Z"
+  "scrapedAt": "2026-11-09T11:55:19.443Z"
  },
  {
   "id": "rd-barje/reka-iska-barje",
@@ -1746,7 +1746,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:36:34.602Z"
+  "scrapedAt": "2026-11-09T11:58:38.661Z"
  },
  {
   "id": "rd-barje/ribnik-rakitna",
@@ -1900,7 +1900,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:41.783Z"
+  "scrapedAt": "2026-11-09T12:00:45.851Z"
  },
  {
   "id": "rd-barje/ribnik-strahomer",
@@ -2063,7 +2063,7 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:05.794Z"
+  "scrapedAt": "2026-11-09T12:01:09.864Z"
  },
  {
   "id": "rd-barje/kanal-skofeljski-graben-barje",
@@ -2530,7 +2530,7 @@
     "distKm": 0.14
    }
   ],
-  "scrapedAt": "2026-10-28T06:42:17.788Z"
+  "scrapedAt": "2026-11-09T12:04:21.893Z"
  },
  {
   "id": "rd-barje/potok-zelimeljscica-barje",
@@ -2619,6 +2619,6 @@
   "region": "osrednjeslovenska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:43:32.215Z"
+  "scrapedAt": "2026-11-09T12:05:36.319Z"
  }
 ]

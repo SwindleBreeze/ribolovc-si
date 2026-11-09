@@ -62,7 +62,7 @@
   "region": "notranjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:32:00.956Z"
+  "scrapedAt": "2026-11-09T11:54:05.009Z"
  },
  {
   "id": "rd-postojna/nanoscica-1",
@@ -1532,7 +1532,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:36.976Z"
+  "scrapedAt": "2026-11-09T11:56:41.056Z"
  },
  {
   "id": "rd-postojna/nanoscica-2",
@@ -3000,7 +3000,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:34:39.399Z"
+  "scrapedAt": "2026-11-09T11:56:43.445Z"
  },
  {
   "id": "rd-postojna/pivka",
@@ -4049,7 +4049,7 @@
     "distKm": 0.12
    }
   ],
-  "scrapedAt": "2026-10-28T06:35:15.367Z"
+  "scrapedAt": "2026-11-09T11:57:19.474Z"
  },
  {
   "id": "rd-postojna/ribnik-grobisce",
@@ -4154,7 +4154,7 @@
   "region": "notranjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:37:03.364Z"
+  "scrapedAt": "2026-11-09T11:59:07.441Z"
  },
  {
   "id": "rd-postojna/ribnik-pri-ribiskem-domu",
@@ -4275,6 +4275,6 @@
     "distKm": 0.03
    }
   ],
-  "scrapedAt": "2026-10-28T06:38:29.786Z"
+  "scrapedAt": "2026-11-09T12:00:33.843Z"
  }
 ]

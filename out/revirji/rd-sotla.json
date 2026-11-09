@@ -1596,7 +1596,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:26:46.529Z"
+  "scrapedAt": "2026-11-09T11:48:50.360Z"
  },
  {
   "id": "rd-sotla/mestinjscica-2",
@@ -1709,7 +1709,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:17.775Z"
+  "scrapedAt": "2026-11-09T11:55:21.838Z"
  },
  {
   "id": "rd-sotla/mrtvica-atomske-toplice",
@@ -1806,7 +1806,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:33:56.156Z"
+  "scrapedAt": "2026-11-09T11:56:00.212Z"
  },
  {
   "id": "rd-sotla/ribnikrogaska-slatina-1",
@@ -1925,7 +1925,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:38:51.389Z"
+  "scrapedAt": "2026-11-09T12:00:55.459Z"
  },
  {
   "id": "rd-sotla/ribnik-smarje-pri-jelsah-1",
@@ -2038,7 +2038,7 @@
    }
   ],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:10.592Z"
+  "scrapedAt": "2026-11-09T12:01:14.677Z"
  },
  {
   "id": "rd-sotla/ribnik-trepce",
@@ -2170,7 +2170,7 @@
   "region": "posavje",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:17.786Z"
+  "scrapedAt": "2026-11-09T12:01:21.867Z"
  },
  {
   "id": "rd-sotla/ribnik-vonarje",
@@ -2310,7 +2310,7 @@
   "region": "savinjska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:39:24.983Z"
+  "scrapedAt": "2026-11-09T12:01:29.083Z"
  },
  {
   "id": "rd-sotla/sotla-1",
@@ -2413,6 +2413,6 @@
   "region": "stajerska",
   "parking": [],
   "fishingSpots": [],
-  "scrapedAt": "2026-10-28T06:41:53.799Z"
+  "scrapedAt": "2026-11-09T12:03:57.891Z"
  }
 ]
